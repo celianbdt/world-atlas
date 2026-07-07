@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "ds-aligot-aubrac",
+    "category": "dish",
+    "name": {
+      "fr": "Aligot de l'Aubrac",
+      "en": "Aubrac Aligot"
+    },
+    "region": "Laguiole, Aubrac",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      44.6847,
+      2.8469
+    ],
+    "description": {
+      "fr": "Purée de pommes de terre battue longuement avec de la tome fraîche de l'Aubrac, du beurre, de la crème et de l'ail jusqu'à filer en ruban élastique. Servi jadis aux pèlerins de Compostelle par les moines de l'Aubrac, il reste le plat des burons et des fêtes de village de l'Aveyron.",
+      "en": "Mashed potatoes beaten at length with fresh Aubrac tome cheese, butter, cream and garlic until it stretches into elastic ribbons. Once served to Compostela pilgrims by Aubrac monks, it remains the dish of mountain burons and Aveyron village feasts."
+    },
+    "tags": [
+      "Comfort food",
+      "Traditional",
+      "Communal"
+    ]
+  },
+  {
+    "id": "ds-quenelle-lyon",
+    "category": "dish",
+    "name": {
+      "fr": "Quenelle de brochet de Lyon",
+      "en": "Lyon Pike Quenelle"
+    },
+    "region": "Lyon, Auvergne-Rhône-Alpes",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.764,
+      4.8357
+    ],
+    "description": {
+      "fr": "Mousseline aérienne de chair de brochet et de panade pochée puis gratinée, nappée d'une sauce Nantua aux écrevisses. Pilier des bouchons lyonnais du XIXe siècle, elle incarne le mariage des rivières de la Dombes et du savoir-faire des mères lyonnaises.",
+      "en": "Airy dumpling of pike flesh and panade, poached then baked, draped in crayfish Nantua sauce. Pillar of 19th-century Lyon bouchons, it embodies the marriage of Dombes river fish and the skill of the mères lyonnaises."
+    },
+    "tags": [
+      "Seafood",
+      "Comfort food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-flammekueche-alsace",
+    "category": "dish",
+    "name": {
+      "fr": "Flammekueche d'Alsace",
+      "en": "Alsatian Flammekueche"
+    },
+    "region": "Kochersberg, Alsace",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.6614,
+      7.6039
+    ],
+    "description": {
+      "fr": "Très fine abaisse de pâte à pain garnie de crème et fromage blanc, oignons émincés et lardons fumés, saisie quelques minutes au four à bois. Les paysans du Kochersberg l'enfournaient pour tester la chaleur du four les jours de cuisson du pain.",
+      "en": "Paper-thin bread dough topped with cream and fromage blanc, sliced onions and smoked bacon, flash-baked in a wood-fired oven. Kochersberg farmers used it to test oven heat on bread-baking days."
+    },
+    "tags": [
+      "Tart",
+      "Traditional",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-kouign-amann-douarnenez",
+    "category": "dish",
+    "name": {
+      "fr": "Kouign-amann de Douarnenez",
+      "en": "Douarnenez Kouign-amann"
+    },
+    "region": "Douarnenez, Bretagne",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.0921,
+      -4.3283
+    ],
+    "description": {
+      "fr": "Gâteau feuilleté de pâte à pain pliée avec d'épaisses couches de beurre demi-sel et de sucre qui caramélisent à la cuisson. Inventé vers 1860 à Douarnenez par le boulanger Yves-René Scordia, son nom breton signifie littéralement « gâteau au beurre ».",
+      "en": "Laminated cake of bread dough folded with thick layers of salted butter and sugar that caramelize in the oven. Invented around 1860 in Douarnenez by baker Yves-René Scordia, its Breton name literally means \"butter cake\"."
+    },
+    "tags": [
+      "Pastry",
+      "Sweet",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-piperade-espelette",
+    "category": "dish",
+    "name": {
+      "fr": "Piperade basque",
+      "en": "Basque Piperade"
+    },
+    "region": "Espelette, Pays basque",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.3387,
+      -1.4472
+    ],
+    "description": {
+      "fr": "Compotée de poivrons verts, tomates et oignons relevée au piment d'Espelette, dans laquelle on brouille des œufs et que l'on couronne de jambon de Bayonne poêlé. Plat paysan du Labourd, il porte les couleurs rouge, verte et blanche du drapeau basque.",
+      "en": "Slow-cooked green peppers, tomatoes and onions spiked with Espelette pepper, finished with scrambled eggs and topped with pan-fried Bayonne ham. A Labourd farmhouse dish wearing the red, green and white of the Basque flag."
+    },
+    "tags": [
+      "Breakfast",
+      "Traditional",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-tartiflette-savoie",
+    "category": "dish",
+    "name": {
+      "fr": "Tartiflette de Savoie",
+      "en": "Savoyard Tartiflette"
+    },
+    "region": "La Clusaz, Haute-Savoie",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.9046,
+      6.4239
+    ],
+    "description": {
+      "fr": "Gratin de pommes de terre, lardons, oignons et vin blanc coiffé d'un reblochon fermier fondu croûte vers le haut. Popularisée dans les années 1980 par le syndicat du reblochon en s'inspirant de la péla traditionnelle, elle règne sur les tables des stations alpines.",
+      "en": "Gratin of potatoes, bacon, onions and white wine crowned with a melted farmhouse Reblochon, rind up. Popularized in the 1980s by the Reblochon syndicate from the traditional péla, it rules the tables of Alpine ski resorts."
+    },
+    "tags": [
+      "Gratin",
+      "Comfort food",
+      "Hearty"
+    ]
+  },
+  {
+    "id": "ds-salade-nicoise",
+    "category": "dish",
+    "name": {
+      "fr": "Salade niçoise",
+      "en": "Niçoise Salad"
+    },
+    "region": "Nice, Côte d'Azur",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.7102,
+      7.262
+    ],
+    "description": {
+      "fr": "Assiette de tomates, œufs durs, anchois ou thon, petites olives de Nice, févettes et céleri, assaisonnée d'huile d'olive. Les puristes niçois, gardiens de la « capelina d'or », bannissent pommes de terre, riz et haricots verts de la recette authentique.",
+      "en": "Plate of tomatoes, hard-boiled eggs, anchovies or tuna, small Nice olives, baby broad beans and celery dressed with olive oil. Niçois purists, keepers of the \"capelina d'or\", ban potatoes, rice and green beans from the authentic recipe."
+    },
+    "tags": [
+      "Salad",
+      "Refreshing",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-garbure-bearn",
+    "category": "dish",
+    "name": {
+      "fr": "Garbure béarnaise",
+      "en": "Béarnese Garbure"
+    },
+    "region": "Pau, Béarn",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.2951,
+      -0.3708
+    ],
+    "description": {
+      "fr": "Soupe épaisse de chou, haricots tarbais, pommes de terre et légumes du potager enrichie de confit de canard et de jambon de pays. Plat quotidien des fermes béarnaises où la cuillère devait, dit-on, tenir debout dans la marmite.",
+      "en": "Thick soup of cabbage, Tarbais beans, potatoes and garden vegetables enriched with duck confit and country ham. Daily dish of Béarn farms where, it's said, the spoon had to stand upright in the pot."
+    },
+    "tags": [
+      "Soup",
+      "Hearty",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-cochinillo-segovia",
+    "category": "dish",
+    "name": {
+      "fr": "Cochinillo asado de Ségovie",
+      "en": "Segovia Roast Suckling Pig"
+    },
+    "region": "Ségovie, Castille-et-León",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      40.9429,
+      -4.1088
+    ],
+    "description": {
+      "fr": "Cochon de lait de trois semaines rôti entier au four à bois dans un plat en terre, arrosé de saindoux jusqu'à obtenir une peau dorée et croustillante. Dans les mesones historiques de Ségovie, on le découpe rituellement avec le bord d'une assiette pour prouver sa tendreté.",
+      "en": "Three-week-old suckling pig roasted whole in a wood oven in an earthenware dish, basted with lard until the skin turns golden and crackling. In Segovia's historic mesones it is ritually carved with the edge of a plate to prove its tenderness."
+    },
+    "tags": [
+      "Roast",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-bacalhau-bras-lisboa",
+    "category": "dish",
+    "name": {
+      "fr": "Bacalhau à Brás de Lisbonne",
+      "en": "Lisbon Bacalhau à Brás"
+    },
+    "region": "Lisbonne, Bairro Alto",
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal"
+    },
+    "countryCode": "PT",
+    "coordinates": [
+      38.7223,
+      -9.1393
+    ],
+    "description": {
+      "fr": "Morue effilochée sautée avec oignons fondants et pommes paille, liée aux œufs brouillés et parsemée d'olives noires et de persil. Créée par un tavernier du Bairro Alto nommé Brás, c'est l'une des mille façons portugaises d'apprêter le bacalhau.",
+      "en": "Shredded salt cod sautéed with soft onions and matchstick potatoes, bound with scrambled eggs and scattered with black olives and parsley. Created by a Bairro Alto tavern keeper named Brás, it's one of Portugal's fabled thousand ways with bacalhau."
+    },
+    "tags": [
+      "Seafood",
+      "Comfort food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-cacio-pepe-roma",
+    "category": "dish",
+    "name": {
+      "fr": "Cacio e pepe de Rome",
+      "en": "Roman Cacio e Pepe"
+    },
+    "region": "Rome, Latium",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      41.9028,
+      12.4964
+    ],
+    "description": {
+      "fr": "Tonnarelli enrobés d'une crème minimaliste de pecorino romano et poivre noir concassé, émulsionnée à l'eau de cuisson amidonnée — ni beurre ni crème. Héritage des bergers transhumants du Latium qui emportaient fromage sec, poivre et pâtes dans leurs besaces.",
+      "en": "Tonnarelli coated in a minimalist cream of pecorino romano and crushed black pepper, emulsified with starchy pasta water — no butter, no cream. Legacy of Lazio's transhumant shepherds who carried dry cheese, pepper and pasta in their satchels."
+    },
+    "tags": [
+      "Pasta",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-pesto-genova",
+    "category": "dish",
+    "name": {
+      "fr": "Pesto alla genovese",
+      "en": "Genoese Pesto"
+    },
+    "region": "Gênes, Ligurie",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      44.4056,
+      8.9463
+    ],
+    "description": {
+      "fr": "Sauce crue de basilic de Prà pilé au mortier de marbre avec pignons, ail, parmesan, pecorino et huile d'olive de la Riviera ligure. Codifiée au XIXe siècle, elle nappe traditionnellement trofie ou trenette avec pommes de terre et haricots verts.",
+      "en": "Raw sauce of Prà basil pounded in a marble mortar with pine nuts, garlic, Parmesan, pecorino and Ligurian Riviera olive oil. Codified in the 19th century, it traditionally coats trofie or trenette with potatoes and green beans."
+    },
+    "tags": [
+      "Pasta",
+      "Vegetarian",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-ossobuco-milano",
+    "category": "dish",
+    "name": {
+      "fr": "Ossobuco alla milanese",
+      "en": "Ossobuco Milanese"
+    },
+    "region": "Milan, Lombardie",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      45.4642,
+      9.19
+    ],
+    "description": {
+      "fr": "Épaisses tranches de jarret de veau braisées au vin blanc et bouillon, parfumées en fin de cuisson d'une gremolata citron-ail-persil. Son nom dialectal « oss bus » (os troué) désigne la moelle fondante que l'on déguste à la petite cuillère.",
+      "en": "Thick veal shank slices braised in white wine and broth, finished with a lemon-garlic-parsley gremolata. Its dialect name \"oss bus\" (holed bone) refers to the melting marrow scooped out with a small spoon."
+    },
+    "tags": [
+      "Stew",
+      "Comfort food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-tiramisu-treviso",
+    "category": "dish",
+    "name": {
+      "fr": "Tiramisu de Trévise",
+      "en": "Treviso Tiramisu"
+    },
+    "region": "Trévise, Vénétie",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      45.6669,
+      12.243
+    ],
+    "description": {
+      "fr": "Couches de biscuits savoiardi imbibés d'espresso alternées avec une crème de mascarpone aux œufs, le tout poudré de cacao amer. Créé dans les années 1960-70 au restaurant Le Beccherie de Trévise, son nom signifie « tire-moi vers le haut ».",
+      "en": "Layers of espresso-soaked savoiardi biscuits alternating with an egg-mascarpone cream, dusted with bitter cocoa. Created in the 1960s-70s at Le Beccherie restaurant in Treviso, its name means \"pick me up\"."
+    },
+    "tags": [
+      "Sweet",
+      "Iconic",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-schnitzel-vienna",
+    "category": "dish",
+    "name": {
+      "fr": "Escalope viennoise",
+      "en": "Wiener Schnitzel"
+    },
+    "region": "Vienne",
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria"
+    },
+    "countryCode": "AT",
+    "coordinates": [
+      48.2082,
+      16.3738
+    ],
+    "description": {
+      "fr": "Fine escalope de veau martelée, panée à la chapelure fraîche et frite au beurre clarifié jusqu'à ce que la panure se soulève en vagues dorées. Protégée par la loi autrichienne, elle se sert avec salade de pommes de terre et quartier de citron.",
+      "en": "Thin hammered veal cutlet breaded in fresh crumbs and fried in clarified butter until the coating puffs into golden waves. Protected by Austrian law, it is served with potato salad and a lemon wedge."
+    },
+    "tags": [
+      "Fried",
+      "Iconic",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-brezel-munich",
+    "category": "dish",
+    "name": {
+      "fr": "Bretzel bavarois",
+      "en": "Bavarian Pretzel"
+    },
+    "region": "Munich, Bavière",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany"
+    },
+    "countryCode": "DE",
+    "coordinates": [
+      48.1351,
+      11.582
+    ],
+    "description": {
+      "fr": "Pain noué emblématique trempé dans une solution de soude avant cuisson, qui lui donne sa croûte brun acajou brillante, parsemé de gros sel. Compagnon obligé de la Weisswurst et de la bière dans les biergärten munichois depuis le Moyen Âge.",
+      "en": "Iconic knotted bread dipped in lye before baking, giving it a glossy mahogany crust, sprinkled with coarse salt. Mandatory companion to Weisswurst and beer in Munich's biergärten since the Middle Ages."
+    },
+    "tags": [
+      "Snack",
+      "Street food",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-smorrebrod-copenhagen",
+    "category": "dish",
+    "name": {
+      "fr": "Smørrebrød de Copenhague",
+      "en": "Copenhagen Smørrebrød"
+    },
+    "region": "Copenhague, Sjælland",
+    "country": {
+      "fr": "Danemark",
+      "en": "Denmark"
+    },
+    "countryCode": "DK",
+    "coordinates": [
+      55.6761,
+      12.5683
+    ],
+    "description": {
+      "fr": "Tranche de pain de seigle beurrée artistiquement garnie : hareng mariné, crevettes-œuf-mayonnaise, leverpostej ou rosbif aux oignons frits. Codifié au XIXe siècle dans les restaurants de Copenhague, il se mange au couteau et à la fourchette dans un ordre précis.",
+      "en": "Buttered rye bread slice artfully topped with marinated herring, shrimp-egg-mayo, leverpostej or roast beef with crispy onions. Codified in 19th-century Copenhagen restaurants, it is eaten with knife and fork in a precise order."
+    },
+    "tags": [
+      "Sandwich",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-gravlax-stockholm",
+    "category": "dish",
+    "name": {
+      "fr": "Gravlax de Suède",
+      "en": "Swedish Gravlax"
+    },
+    "region": "Stockholm, Svealand",
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden"
+    },
+    "countryCode": "SE",
+    "coordinates": [
+      59.3293,
+      18.0686
+    ],
+    "description": {
+      "fr": "Filet de saumon cru maturé plusieurs jours sous un mélange de sel, sucre et aneth, tranché finement et servi avec la sauce moutarde-aneth hovmästarsås. Son nom rappelle l'époque médiévale où les pêcheurs enterraient (« grav ») le poisson pour le fermenter.",
+      "en": "Raw salmon fillet cured for days under salt, sugar and dill, thinly sliced and served with hovmästarsås mustard-dill sauce. Its name recalls medieval fishermen who buried (\"grav\") the fish to ferment it."
+    },
+    "tags": [
+      "Seafood",
+      "Traditional",
+      "Refreshing"
+    ]
+  },
+  {
+    "id": "ds-raclette-valais",
+    "category": "dish",
+    "name": {
+      "fr": "Raclette du Valais",
+      "en": "Valais Raclette"
+    },
+    "region": "Sion, Valais",
+    "country": {
+      "fr": "Suisse",
+      "en": "Switzerland"
+    },
+    "countryCode": "CH",
+    "coordinates": [
+      46.2331,
+      7.3606
+    ],
+    "description": {
+      "fr": "Demi-meule de fromage AOP fondue face à la braise puis raclée directement sur l'assiette, accompagnée de pommes de terre en robe des champs, cornichons et petits oignons au vinaigre. Attestée dès le Moyen Âge chez les bergers valaisans sous le nom de « fromage rôti ».",
+      "en": "Half-wheel of AOP cheese melted before embers and scraped straight onto the plate, with jacket potatoes, gherkins and vinegared pearl onions. Documented since the Middle Ages among Valais shepherds as \"roasted cheese\"."
+    },
+    "tags": [
+      "Communal",
+      "Comfort food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-moules-frites-brussels",
+    "category": "dish",
+    "name": {
+      "fr": "Moules-frites de Bruxelles",
+      "en": "Brussels Moules-frites"
+    },
+    "region": "Bruxelles",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium"
+    },
+    "countryCode": "BE",
+    "coordinates": [
+      50.8503,
+      4.3517
+    ],
+    "description": {
+      "fr": "Casserole émaillée de moules de Zélande à la marinière — vin blanc, céleri, oignons — servie avec des frites belges cuites en deux bains de graisse de bœuf. Plat national popularisé dès 1893 par la friture Chez Léon près de la Grand-Place.",
+      "en": "Enameled pot of Zeeland mussels marinière-style — white wine, celery, onions — served with Belgian fries double-cooked in beef fat. National dish popularized from 1893 by Chez Léon near the Grand-Place."
+    },
+    "tags": [
+      "Seafood",
+      "Iconic",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-haggis-edinburgh",
+    "category": "dish",
+    "name": {
+      "fr": "Haggis d'Édimbourg",
+      "en": "Edinburgh Haggis"
+    },
+    "region": "Édimbourg, Écosse",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      55.9533,
+      -3.1883
+    ],
+    "description": {
+      "fr": "Panse de brebis farcie d'un hachis d'abats d'agneau, flocons d'avoine, suif et épices, longuement bouillie et servie avec purées de navets et pommes de terre. Célébré chaque 25 janvier lors de la Burns Night, où on le poignarde en récitant l'ode du poète Robert Burns.",
+      "en": "Sheep's stomach stuffed with minced lamb offal, oats, suet and spices, long-boiled and served with mashed neeps and tatties. Celebrated every January 25th at Burns Night, when it is stabbed while reciting Robert Burns' ode."
+    },
+    "tags": [
+      "Traditional",
+      "Hearty",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-colcannon-dublin",
+    "category": "dish",
+    "name": {
+      "fr": "Colcannon d'Irlande",
+      "en": "Irish Colcannon"
+    },
+    "region": "Dublin, Leinster",
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland"
+    },
+    "countryCode": "IE",
+    "coordinates": [
+      53.3498,
+      -6.2603
+    ],
+    "description": {
+      "fr": "Purée de pommes de terre montée au beurre et au lait chaud, mêlée de chou frisé ou de kale et d'oignons verts. Plat rituel d'Halloween en Irlande : on y cachait pièce, bague ou dé à coudre pour prédire l'avenir des convives.",
+      "en": "Mashed potatoes whipped with butter and warm milk, folded with cabbage or kale and spring onions. Ireland's ritual Halloween dish: a coin, ring or thimble was hidden inside to foretell diners' futures."
+    },
+    "tags": [
+      "Comfort food",
+      "Vegetarian",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-pastitsio-athens",
+    "category": "dish",
+    "name": {
+      "fr": "Pastitsio de Grèce",
+      "en": "Greek Pastitsio"
+    },
+    "region": "Athènes, Attique",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      37.9838,
+      23.7275
+    ],
+    "description": {
+      "fr": "Gratin étagé de grosses pâtes tubulaires, ragoût de bœuf parfumé à la cannelle et béchamel épaisse au kefalotyri, doré au four. Hellénisé dans les années 1920 par le chef Tselementes à partir du pasticcio italien, c'est le plat des déjeuners dominicaux grecs.",
+      "en": "Layered bake of thick tubular pasta, cinnamon-scented beef ragù and dense kefalotyri béchamel, oven-gilded. Hellenized in the 1920s by chef Tselementes from Italian pasticcio, it is the dish of Greek Sunday lunches."
+    },
+    "tags": [
+      "Pasta",
+      "Gratin",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-borek-istanbul",
+    "category": "dish",
+    "name": {
+      "fr": "Börek d'Istanbul",
+      "en": "Istanbul Börek"
+    },
+    "region": "Istanbul, Marmara",
+    "country": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    "countryCode": "TR",
+    "coordinates": [
+      41.0082,
+      28.9784
+    ],
+    "description": {
+      "fr": "Feuilles de yufka superposées et beurrées, farcies de fromage beyaz peynir, d'épinards ou de viande hachée, cuites au four ou bouillies pour le su böreği. Héritage des cuisines ottomanes, il se déguste au petit-déjeuner dans les börekçi stambouliotes avec un verre de thé.",
+      "en": "Layered buttered yufka sheets filled with beyaz peynir cheese, spinach or minced meat, baked or boiled for su böreği. An Ottoman kitchen legacy, eaten at breakfast in Istanbul börekçi shops with a glass of tea."
+    },
+    "tags": [
+      "Pastry",
+      "Street food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-cevapi-sarajevo",
+    "category": "dish",
+    "name": {
+      "fr": "Ćevapi de Sarajevo",
+      "en": "Sarajevo Ćevapi"
+    },
+    "region": "Sarajevo, Bosnie-Herzégovine",
+    "country": {
+      "fr": "Bosnie-Herzégovine",
+      "en": "Bosnia and Herzegovina"
+    },
+    "countryCode": "BA",
+    "coordinates": [
+      43.8563,
+      18.4131
+    ],
+    "description": {
+      "fr": "Petits rouleaux de bœuf haché grillés au charbon, servis par cinq ou dix dans un pain somun moelleux avec oignons crus et kajmak crémeux. Héritage ottoman devenu institution de la Baščaršija, le vieux bazar de Sarajevo.",
+      "en": "Small charcoal-grilled minced beef rolls served by fives or tens in soft somun bread with raw onions and creamy kajmak. An Ottoman legacy turned institution of Baščaršija, Sarajevo's old bazaar."
+    },
+    "tags": [
+      "Grilled",
+      "Street food",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-soba-nagano",
+    "category": "dish",
+    "name": {
+      "fr": "Soba de Nagano",
+      "en": "Nagano Soba"
+    },
+    "region": "Nagano, Shinshu",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      36.6513,
+      138.181
+    ],
+    "description": {
+      "fr": "Nouilles de sarrasin coupées à la main, servies froides sur claie de bambou (zaru) avec sauce tsuyu ou chaudes en bouillon dashi. Le climat frais et les sols volcaniques de Shinshu produisent le sarrasin le plus réputé du Japon depuis l'époque d'Edo.",
+      "en": "Hand-cut buckwheat noodles served cold on a bamboo tray (zaru) with tsuyu dipping sauce or hot in dashi broth. Shinshu's cool climate and volcanic soils have produced Japan's most prized buckwheat since the Edo period."
+    },
+    "tags": [
+      "Noodles",
+      "Traditional",
+      "Refreshing"
+    ]
+  },
+  {
+    "id": "ds-kaiseki-kyoto",
+    "category": "dish",
+    "name": {
+      "fr": "Kaiseki de Kyoto",
+      "en": "Kyoto Kaiseki"
+    },
+    "region": "Kyoto, Kansai",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.0116,
+      135.7681
+    ],
+    "description": {
+      "fr": "Succession codifiée de petits plats saisonniers — sashimi, plat mijoté, grillade, riz — où vaisselle, saison et geste comptent autant que le goût. Né de la cérémonie du thé et raffiné dans les ryotei de Kyoto, c'est le sommet de la haute cuisine japonaise.",
+      "en": "Codified procession of small seasonal courses — sashimi, simmered dish, grilled course, rice — where tableware, season and gesture matter as much as taste. Born of the tea ceremony and refined in Kyoto's ryotei, it is the pinnacle of Japanese haute cuisine."
+    },
+    "tags": [
+      "Traditional",
+      "Iconic",
+      "Seasonal"
+    ]
+  },
+  {
+    "id": "ds-gyoza-utsunomiya",
+    "category": "dish",
+    "name": {
+      "fr": "Gyoza d'Utsunomiya",
+      "en": "Utsunomiya Gyoza"
+    },
+    "region": "Utsunomiya, Tochigi",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      36.5551,
+      139.8828
+    ],
+    "description": {
+      "fr": "Raviolis en croissant farcis de porc, chou et ciboule, saisis à la poêle puis cuits vapeur pour un dessous croustillant et un dessus moelleux. Rapportés de Mandchourie par les soldats après 1945, ils ont fait d'Utsunomiya la capitale japonaise autoproclamée du gyoza.",
+      "en": "Crescent dumplings of pork, cabbage and scallion, pan-seared then steamed for a crisp bottom and tender top. Brought back from Manchuria by soldiers after 1945, they made Utsunomiya Japan's self-proclaimed gyoza capital."
+    },
+    "tags": [
+      "Dumpling",
+      "Street food",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-samgyetang-seoul",
+    "category": "dish",
+    "name": {
+      "fr": "Samgyetang de Séoul",
+      "en": "Seoul Samgyetang"
+    },
+    "region": "Séoul",
+    "country": {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+    },
+    "countryCode": "KR",
+    "coordinates": [
+      37.5665,
+      126.978
+    ],
+    "description": {
+      "fr": "Jeune poulet entier farci de riz gluant, ginseng, jujubes et ail, mijoté en bouillon laiteux servi bouillonnant en bol de pierre. Les Coréens le mangent aux trois jours les plus chauds de l'été (sambok) pour combattre la chaleur par la chaleur.",
+      "en": "Whole young chicken stuffed with glutinous rice, ginseng, jujubes and garlic, simmered into a milky broth served bubbling in a stone bowl. Koreans eat it on the three hottest days of summer (sambok) to fight heat with heat."
+    },
+    "tags": [
+      "Soup",
+      "Traditional",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-char-siu-hongkong",
+    "category": "dish",
+    "name": {
+      "fr": "Char siu de Hong Kong",
+      "en": "Hong Kong Char Siu"
+    },
+    "region": "Hong Kong",
+    "country": {
+      "fr": "Hong Kong",
+      "en": "Hong Kong"
+    },
+    "countryCode": "HK",
+    "coordinates": [
+      22.3193,
+      114.1694
+    ],
+    "description": {
+      "fr": "Échine de porc marinée au miel, sauce hoisin, poudre de cinq-épices et levure rouge, rôtie à la broche jusqu'à caraméliser en laque rouge brillante. Suspendu en vitrine des siu mei, il se sert tranché sur riz nature avec un filet de sauce sucrée.",
+      "en": "Pork collar marinated in honey, hoisin, five-spice and red yeast, spit-roasted until caramelized into a glossy red lacquer. Hung in siu mei shop windows, it is served sliced over plain rice with a drizzle of sweet sauce."
+    },
+    "tags": [
+      "Roast",
+      "Street food",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-chilli-crab-singapore",
+    "category": "dish",
+    "name": {
+      "fr": "Chilli crab de Singapour",
+      "en": "Singapore Chilli Crab"
+    },
+    "region": "Singapour, East Coast",
+    "country": {
+      "fr": "Singapour",
+      "en": "Singapore"
+    },
+    "countryCode": "SG",
+    "coordinates": [
+      1.3016,
+      103.9056
+    ],
+    "description": {
+      "fr": "Crabe de palétuviers sauté dans une sauce tomate-piment épaissie à l'œuf, à la fois sucrée, piquante et umami, que l'on sauce avec des petits pains mantou frits. Créé dans les années 1950 par Cher Yam Tian sur un stand de bord de mer, c'est le plat national officieux de Singapour.",
+      "en": "Mud crab wok-tossed in an egg-thickened tomato-chilli sauce, at once sweet, spicy and savory, mopped up with fried mantou buns. Created in the 1950s by Cher Yam Tian at a seaside stall, it is Singapore's unofficial national dish."
+    },
+    "tags": [
+      "Seafood",
+      "Spicy",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-hainanese-chicken-rice-singapore",
+    "category": "dish",
+    "name": {
+      "fr": "Riz au poulet hainanais de Singapour",
+      "en": "Singapore Hainanese Chicken Rice"
+    },
+    "region": "Singapour, Chinatown",
+    "country": {
+      "fr": "Singapour",
+      "en": "Singapore"
+    },
+    "countryCode": "SG",
+    "coordinates": [
+      1.2838,
+      103.8433
+    ],
+    "description": {
+      "fr": "Poulet poché à la perfection puis raffermi dans l'eau glacée, servi sur un riz cuit dans son bouillon gras au gingembre, avec sauces piment-calamansi et gingembre pilé. Apporté par les immigrés de Hainan, il est devenu l'étendard des hawker centres singapouriens.",
+      "en": "Chicken poached to silky perfection then firmed in an ice bath, served over rice cooked in its gingery fat-rich broth, with chilli-calamansi and pounded ginger sauces. Brought by Hainanese immigrants, it became the flagship of Singapore's hawker centres."
+    },
+    "tags": [
+      "Rice",
+      "Street food",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-rendang-padang",
+    "category": "dish",
+    "name": {
+      "fr": "Rendang de Padang",
+      "en": "Padang Rendang"
+    },
+    "region": "Padang, Sumatra occidental",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -0.9471,
+      100.4172
+    ],
+    "description": {
+      "fr": "Bœuf mijoté des heures dans du lait de coco et une pâte d'épices (galanga, citronnelle, curcuma, piments) jusqu'à évaporation complète en une viande sombre et confite. Plat cérémoniel des Minangkabau, sa cuisson sèche le conservait pendant les longs voyages.",
+      "en": "Beef simmered for hours in coconut milk and a spice paste (galangal, lemongrass, turmeric, chillies) until fully reduced into dark, candied meat. Ceremonial dish of the Minangkabau, its dry cooking preserved it for long journeys."
+    },
+    "tags": [
+      "Spicy",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-babi-guling-bali",
+    "category": "dish",
+    "name": {
+      "fr": "Babi guling de Bali",
+      "en": "Balinese Babi Guling"
+    },
+    "region": "Ubud, Bali",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -8.5069,
+      115.2625
+    ],
+    "description": {
+      "fr": "Cochon de lait frotté du mélange d'épices basa gede (curcuma, galanga, piment, crevette fermentée) et rôti à la broche jusqu'à une peau laquée craquante. Autrefois réservé aux cérémonies hindoues balinaises, il se déguste aujourd'hui dans les warung spécialisés.",
+      "en": "Suckling pig rubbed with basa gede spice paste (turmeric, galangal, chilli, fermented shrimp) and spit-roasted to crackling lacquered skin. Once reserved for Balinese Hindu ceremonies, it is now enjoyed at dedicated warungs."
+    },
+    "tags": [
+      "Roast",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-khao-soi-chiangmai",
+    "category": "dish",
+    "name": {
+      "fr": "Khao soi de Chiang Mai",
+      "en": "Chiang Mai Khao Soi"
+    },
+    "region": "Chiang Mai, Lanna",
+    "country": {
+      "fr": "Thaïlande",
+      "en": "Thailand"
+    },
+    "countryCode": "TH",
+    "coordinates": [
+      18.7883,
+      98.9853
+    ],
+    "description": {
+      "fr": "Nouilles aux œufs dans un curry de coco doré au curcuma avec cuisse de poulet, couronnées de nouilles frites croustillantes, échalotes, moutarde chinoise saumurée et citron vert. Héritage des caravanes musulmanes yunnanaises sur la route de la Birmanie.",
+      "en": "Egg noodles in a turmeric-golden coconut curry with chicken leg, crowned with crispy fried noodles, shallots, brined mustard greens and lime. Legacy of Yunnanese Muslim caravans on the Burma trade route."
+    },
+    "tags": [
+      "Noodles",
+      "Curry",
+      "Street food"
+    ]
+  },
+  {
+    "id": "ds-bun-cha-hanoi",
+    "category": "dish",
+    "name": {
+      "fr": "Bún chả de Hanoï",
+      "en": "Hanoi Bún Chả"
+    },
+    "region": "Hanoï, Vieux quartier",
+    "country": {
+      "fr": "Viêt Nam",
+      "en": "Vietnam"
+    },
+    "countryCode": "VN",
+    "coordinates": [
+      21.0338,
+      105.85
+    ],
+    "description": {
+      "fr": "Boulettes et poitrine de porc grillées au charbon, plongées dans un bol de nuoc mam aigre-doux avec papaye verte, servies avec vermicelles de riz froids et montagne d'herbes. Déjeuner rituel des Hanoïens, rendu mondialement célèbre par le repas Obama-Bourdain en 2016.",
+      "en": "Charcoal-grilled pork patties and belly slices swimming in a sweet-sour nuoc mam bowl with green papaya, served with cold rice vermicelli and a mountain of herbs. Hanoi's ritual lunch, made world-famous by the 2016 Obama-Bourdain meal."
+    },
+    "tags": [
+      "Grilled",
+      "Street food",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-cao-lau-hoian",
+    "category": "dish",
+    "name": {
+      "fr": "Cao lầu de Hoi An",
+      "en": "Hoi An Cao Lầu"
+    },
+    "region": "Hoi An, Quang Nam",
+    "country": {
+      "fr": "Viêt Nam",
+      "en": "Vietnam"
+    },
+    "countryCode": "VN",
+    "coordinates": [
+      15.8801,
+      108.338
+    ],
+    "description": {
+      "fr": "Nouilles épaisses et fermes teintées à la cendre de bois, garnies de porc laqué char siu, couennes frites, herbes et un fond de bouillon à peine. La légende exige l'eau du puits cham Ba Le et la lessive des arbres des îles Cham — introuvable hors de Hoi An.",
+      "en": "Thick, chewy noodles tinted with wood-ash lye, topped with lacquered pork, crispy cracklings, herbs and barely a ladle of broth. Legend demands water from the Cham Ba Le well and ash from Cham Islands trees — impossible to find outside Hoi An."
+    },
+    "tags": [
+      "Noodles",
+      "Street food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-vada-pav-mumbai",
+    "category": "dish",
+    "name": {
+      "fr": "Vada pav de Mumbai",
+      "en": "Mumbai Vada Pav"
+    },
+    "region": "Mumbai, Maharashtra",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      19.076,
+      72.8777
+    ],
+    "description": {
+      "fr": "Beignet de pomme de terre épicé au curcuma et à l'ail, frit en pâte de pois chiche et glissé dans un petit pain pav avec chutneys de tamarin, d'ail et piments verts frits. Créé en 1966 près de la gare de Dadar pour nourrir les ouvriers du textile, c'est le « burger » de Mumbai.",
+      "en": "Turmeric-and-garlic spiced potato fritter fried in chickpea batter and tucked into a soft pav bun with tamarind and garlic chutneys and fried green chillies. Created in 1966 near Dadar station to feed textile workers, it is Mumbai's \"burger\"."
+    },
+    "tags": [
+      "Street food",
+      "Vegetarian",
+      "Fried"
+    ]
+  },
+  {
+    "id": "ds-meen-curry-kerala",
+    "category": "dish",
+    "name": {
+      "fr": "Curry de poisson du Kerala",
+      "en": "Kerala Fish Curry"
+    },
+    "region": "Kochi, Kerala",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      9.9312,
+      76.2673
+    ],
+    "description": {
+      "fr": "Poisson mijoté dans un curry de coco au curcuma et piment, acidulé au kodampuli, le tamarin fumé de Malabar, avec feuilles de curry crépitées à l'huile de coco. Cuit dans un pot en terre meen chatti, il se bonifie une nuit et se mange avec du riz rouge matta.",
+      "en": "Fish simmered in a turmeric-chilli coconut curry soured with kodampuli, Malabar's smoked tamarind, with curry leaves crackled in coconut oil. Cooked in a meen chatti clay pot, it improves overnight and is eaten with red matta rice."
+    },
+    "tags": [
+      "Curry",
+      "Seafood",
+      "Spicy"
+    ]
+  },
+  {
+    "id": "ds-rogan-josh-srinagar",
+    "category": "dish",
+    "name": {
+      "fr": "Rogan josh du Cachemire",
+      "en": "Kashmiri Rogan Josh"
+    },
+    "region": "Srinagar, Cachemire",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      34.0837,
+      74.7973
+    ],
+    "description": {
+      "fr": "Épaule d'agneau braisée dans une sauce écarlate au piment doux du Cachemire, fenouil, gingembre sec et fleur de cockscomb, montée au yaourt. Pièce maîtresse du wazwan, le banquet cérémoniel cachemiri hérité des cuisiniers persans des Moghols.",
+      "en": "Lamb shoulder braised in a scarlet sauce of mild Kashmiri chilli, fennel, dry ginger and cockscomb flower, enriched with yogurt. Centerpiece of the wazwan, Kashmir's ceremonial banquet inherited from the Mughals' Persian cooks."
+    },
+    "tags": [
+      "Curry",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-kottu-roti-colombo",
+    "category": "dish",
+    "name": {
+      "fr": "Kottu roti de Colombo",
+      "en": "Colombo Kottu Roti"
+    },
+    "region": "Colombo, Province de l'Ouest",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      6.9271,
+      79.8612
+    ],
+    "description": {
+      "fr": "Galette godamba roti hachée sur plaque brûlante avec légumes, œuf, poulet et sauce curry, au rythme métallique des deux lames du cuisinier. Né dans les échoppes tamoules de la côte est, ce vacarme nocturne est devenu la bande-son des rues de Colombo.",
+      "en": "Godamba roti flatbread chopped on a searing griddle with vegetables, egg, chicken and curry sauce, to the metallic beat of the cook's twin blades. Born in Tamil eateries of the east coast, its nightly clatter became the soundtrack of Colombo streets."
+    },
+    "tags": [
+      "Street food",
+      "Spicy",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-khachapuri-adjara",
+    "category": "dish",
+    "name": {
+      "fr": "Khatchapouri adjarien",
+      "en": "Adjarian Khachapuri"
+    },
+    "region": "Batoumi, Adjarie",
+    "country": {
+      "fr": "Géorgie",
+      "en": "Georgia"
+    },
+    "countryCode": "GE",
+    "coordinates": [
+      41.6168,
+      41.6367
+    ],
+    "description": {
+      "fr": "Pain en forme de barque gorgé de fromages sulguni et imérétien fondus, coiffé à la sortie du four d'un jaune d'œuf et d'un morceau de beurre à mélanger sur place. Sa forme évoque les bateaux des pêcheurs de la mer Noire, l'œuf figurant le soleil.",
+      "en": "Boat-shaped bread brimming with molten sulguni and Imeretian cheeses, topped straight from the oven with an egg yolk and a knob of butter to stir in. Its shape evokes Black Sea fishing boats, the egg standing for the sun."
+    },
+    "tags": [
+      "Comfort food",
+      "Iconic",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-lanzhou-lamian",
+    "category": "dish",
+    "name": {
+      "fr": "Nouilles de bœuf de Lanzhou",
+      "en": "Lanzhou Beef Noodles"
+    },
+    "region": "Lanzhou, Gansu",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      36.0611,
+      103.8343
+    ],
+    "description": {
+      "fr": "Nouilles lamian étirées à la main sous les yeux du client, servies dans un bouillon de bœuf limpide selon la règle « un clair, deux blanc, trois rouge, quatre vert, cinq jaune » : bouillon, radis, huile de piment, coriandre, nouilles dorées. Institution halal des Hui de Lanzhou depuis 1915.",
+      "en": "Lamian noodles hand-pulled before the customer's eyes, served in crystal-clear beef broth by the rule \"one clear, two white, three red, four green, five yellow\": broth, radish, chilli oil, cilantro, golden noodles. A halal institution of Lanzhou's Hui people since 1915."
+    },
+    "tags": [
+      "Noodles",
+      "Street food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-roujiamo-xian",
+    "category": "dish",
+    "name": {
+      "fr": "Roujiamo de Xi'an",
+      "en": "Xi'an Roujiamo"
+    },
+    "region": "Xi'an, Shaanxi",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      34.3416,
+      108.9398
+    ],
+    "description": {
+      "fr": "Pain plat baiji mo cuit au four d'argile, fendu et bourré de poitrine de porc braisée vingt heures dans un bouillon maître aux épices. Surnommé le « hamburger chinois », il nourrit les rues de Xi'an depuis la dynastie Qin, au départ de la route de la soie.",
+      "en": "Baiji mo flatbread baked in a clay oven, split and stuffed with pork belly braised twenty hours in a spiced master stock. Nicknamed the \"Chinese hamburger\", it has fed Xi'an's streets since the Qin dynasty, at the head of the Silk Road."
+    },
+    "tags": [
+      "Street food",
+      "Sandwich",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-falafel-damascus",
+    "category": "dish",
+    "name": {
+      "fr": "Falafel de Damas",
+      "en": "Damascus Falafel"
+    },
+    "region": "Damas",
+    "country": {
+      "fr": "Syrie",
+      "en": "Syria"
+    },
+    "countryCode": "SY",
+    "coordinates": [
+      33.5138,
+      36.2765
+    ],
+    "description": {
+      "fr": "Boulettes de pois chiches trempés puis broyés avec coriandre, cumin et ail, frites jusqu'à croûte brun sombre et cœur vert herbacé, roulées en pain plat avec tahini et navets roses. Vendu à toute heure dans les échoppes de la vieille ville de Damas.",
+      "en": "Patties of soaked ground chickpeas with cilantro, cumin and garlic, fried to a dark crust with an herby green core, rolled in flatbread with tahini and pink turnips. Sold at all hours in the shops of Damascus' old city."
+    },
+    "tags": [
+      "Street food",
+      "Vegetarian",
+      "Fried"
+    ]
+  },
+  {
+    "id": "ds-fesenjan-gilan",
+    "category": "dish",
+    "name": {
+      "fr": "Fesenjan du Gilan",
+      "en": "Gilan Fesenjan"
+    },
+    "region": "Racht, Gilan",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      37.2808,
+      49.5832
+    ],
+    "description": {
+      "fr": "Ragoût soyeux de canard ou poulet mijoté dans une sauce sombre de noix longuement torréfiées et moulues, acidulée à la mélasse de grenade. Né dans la province caspienne du Gilan, il trône sur les tables iraniennes lors des noces et de la nuit de Yalda.",
+      "en": "Silky stew of duck or chicken simmered in a dark sauce of slow-toasted ground walnuts soured with pomegranate molasses. Born in the Caspian province of Gilan, it graces Iranian tables at weddings and on Yalda night."
+    },
+    "tags": [
+      "Stew",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-lahpet-thoke-mandalay",
+    "category": "dish",
+    "name": {
+      "fr": "Lahpet thoke de Mandalay",
+      "en": "Mandalay Lahpet Thoke"
+    },
+    "region": "Mandalay",
+    "country": {
+      "fr": "Myanmar (Birmanie)",
+      "en": "Myanmar (Burma)"
+    },
+    "countryCode": "MM",
+    "coordinates": [
+      21.9588,
+      96.0891
+    ],
+    "description": {
+      "fr": "Salade de feuilles de thé fermentées mêlées à des fèves croquantes, arachides, ail frit, sésame, tomates et piment, arrosée d'huile d'ail. Unique au monde par sa consommation du thé comme aliment, elle scelle traditionnellement les réconciliations birmanes.",
+      "en": "Salad of fermented tea leaves tossed with crunchy beans, peanuts, fried garlic, sesame, tomatoes and chilli, dressed with garlic oil. Unique worldwide for eating tea as food, it traditionally seals Burmese reconciliations."
+    },
+    "tags": [
+      "Salad",
+      "Traditional",
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "ds-dal-bhat-pokhara",
+    "category": "dish",
+    "name": {
+      "fr": "Dal bhat de Pokhara",
+      "en": "Pokhara Dal Bhat"
+    },
+    "region": "Pokhara, Gandaki",
+    "country": {
+      "fr": "Népal",
+      "en": "Nepal"
+    },
+    "countryCode": "NP",
+    "coordinates": [
+      28.2096,
+      83.9856
+    ],
+    "description": {
+      "fr": "Plateau national népalais : soupe de lentilles, riz à volonté, curry de légumes tarkari, épinards sautés, achards et parfois viande, resservi jusqu'à satiété. Carburant des sherpas et des trekkeurs de l'Annapurna — « Dal bhat power, 24 hour » dit l'adage.",
+      "en": "Nepal's national platter: lentil soup, unlimited rice, tarkari vegetable curry, sautéed greens, achar relishes and sometimes meat, refilled until full. Fuel of sherpas and Annapurna trekkers — \"Dal bhat power, 24 hour\" as the saying goes."
+    },
+    "tags": [
+      "Rice",
+      "Vegetarian",
+      "Communal"
+    ]
+  },
+  {
+    "id": "ds-beshbarmak-almaty",
+    "category": "dish",
+    "name": {
+      "fr": "Beshbarmak d'Almaty",
+      "en": "Almaty Beshbarmak"
+    },
+    "region": "Almaty",
+    "country": {
+      "fr": "Kazakhstan",
+      "en": "Kazakhstan"
+    },
+    "countryCode": "KZ",
+    "coordinates": [
+      43.222,
+      76.8512
+    ],
+    "description": {
+      "fr": "Larges losanges de pâte bouillie recouverts de viande de cheval ou de mouton effilochée et d'oignons fondus dans le bouillon gras sorpa. Son nom signifie « cinq doigts » car les nomades kazakhs le mangent à la main autour du plat commun, honneur aux invités.",
+      "en": "Wide boiled pasta diamonds blanketed with shredded horse meat or mutton and onions melted in rich sorpa broth. Its name means \"five fingers\" as Kazakh nomads eat it by hand around a shared platter, guests served first."
+    },
+    "tags": [
+      "Communal",
+      "Traditional",
+      "Hearty"
+    ]
+  },
+  {
+    "id": "ds-adobo-manila",
+    "category": "dish",
+    "name": {
+      "fr": "Adobo de Manille",
+      "en": "Manila Adobo"
+    },
+    "region": "Manille, Luçon",
+    "country": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "countryCode": "PH",
+    "coordinates": [
+      14.5995,
+      120.9842
+    ],
+    "description": {
+      "fr": "Poulet ou porc braisé dans un mélange de vinaigre de canne, sauce soja, ail, laurier et poivre noir, réduit en laque acidulée. Technique de conservation précoloniale baptisée par les Espagnols, chaque famille philippine défend jalousement sa version.",
+      "en": "Chicken or pork braised in cane vinegar, soy sauce, garlic, bay leaves and black pepper, reduced to a tangy glaze. A precolonial preservation technique later named by the Spanish, every Filipino family fiercely defends its own version."
+    },
+    "tags": [
+      "Stew",
+      "Comfort food",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-lobster-roll-maine",
+    "category": "dish",
+    "name": {
+      "fr": "Lobster roll du Maine",
+      "en": "Maine Lobster Roll"
+    },
+    "region": "Portland, Maine",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      43.6591,
+      -70.2568
+    ],
+    "description": {
+      "fr": "Chair de homard fraîchement décortiquée, à peine liée de mayonnaise, servie froide dans un pain brioché grillé au beurre fendu sur le dessus. Né dans les shacks côtiers de Nouvelle-Angleterre dans les années 1920, il célèbre le homard des eaux glacées du Maine.",
+      "en": "Freshly picked lobster meat barely bound with mayonnaise, served cold in a butter-toasted split-top bun. Born in 1920s New England coastal shacks, it celebrates lobster from Maine's icy waters."
+    },
+    "tags": [
+      "Seafood",
+      "Sandwich",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-hot-chicken-nashville",
+    "category": "dish",
+    "name": {
+      "fr": "Hot chicken de Nashville",
+      "en": "Nashville Hot Chicken"
+    },
+    "region": "Nashville, Tennessee",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      36.1627,
+      -86.7816
+    ],
+    "description": {
+      "fr": "Poulet frit badigeonné d'une pâte incandescente de piment de Cayenne et graisse de friture, servi sur pain de mie avec des rondelles de cornichon. Né chez Prince's dans les années 1930 d'une vengeance amoureuse : la recette punitive devint une gloire du Tennessee.",
+      "en": "Fried chicken brushed with an incendiary paste of cayenne and frying fat, served on white bread with cucumber dill chips. Born at Prince's in the 1930s from a lover's revenge: the punitive recipe became a Tennessee glory."
+    },
+    "tags": [
+      "Fried",
+      "Spicy",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-buffalo-wings-buffalo",
+    "category": "dish",
+    "name": {
+      "fr": "Buffalo wings de Buffalo",
+      "en": "Buffalo Wings"
+    },
+    "region": "Buffalo, État de New York",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      42.8864,
+      -78.8784
+    ],
+    "description": {
+      "fr": "Ailes de poulet frites sans panure puis enrobées d'une sauce au beurre et piment vinaigré, servies avec céleri et sauce au bleu. Improvisées en 1964 par Teressa Bellissimo à l'Anchor Bar de Buffalo, elles règnent sur les soirées de football américain.",
+      "en": "Unbreaded fried chicken wings tossed in a butter and vinegared-chilli sauce, served with celery and blue cheese dip. Improvised in 1964 by Teressa Bellissimo at Buffalo's Anchor Bar, they rule American football nights."
+    },
+    "tags": [
+      "Fried",
+      "Spicy",
+      "Snack"
+    ]
+  },
+  {
+    "id": "ds-tourtiere-saguenay",
+    "category": "dish",
+    "name": {
+      "fr": "Tourtière du Saguenay",
+      "en": "Saguenay Tourtière"
+    },
+    "region": "Saguenay, Québec",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      48.426,
+      -71.0685
+    ],
+    "description": {
+      "fr": "Profonde tourte de gibier et porc en cubes mêlés de pommes de terre, cuite six heures à couvert dans son bouillon sous une pâte dorée. Contrairement au pâté à la viande du reste du Québec, celle du Saguenay-Lac-Saint-Jean est massive et trône au réveillon de Noël.",
+      "en": "Deep-dish pie of cubed game and pork mixed with potatoes, slow-baked six hours in its own broth under golden pastry. Unlike the meat pie of the rest of Quebec, the Saguenay-Lac-Saint-Jean version is massive and crowns Christmas réveillon."
+    },
+    "tags": [
+      "Tart",
+      "Hearty",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-chiles-nogada-puebla",
+    "category": "dish",
+    "name": {
+      "fr": "Chiles en nogada de Puebla",
+      "en": "Puebla Chiles en Nogada"
+    },
+    "region": "Puebla, Mexique central",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      19.0414,
+      -98.2063
+    ],
+    "description": {
+      "fr": "Piment poblano farci d'un picadillo de viande et fruits, nappé d'une sauce froide de noix fraîches et parsemé de grains de grenade et persil — vert, blanc, rouge comme le drapeau. Créé par les religieuses de Puebla en 1821 pour fêter l'indépendance mexicaine.",
+      "en": "Poblano chile stuffed with meat-and-fruit picadillo, draped in a cold fresh-walnut sauce and scattered with pomegranate seeds and parsley — green, white, red like the flag. Created by Puebla nuns in 1821 to celebrate Mexican independence."
+    },
+    "tags": [
+      "Traditional",
+      "Iconic",
+      "Seasonal"
+    ]
+  },
+  {
+    "id": "ds-birria-guadalajara",
+    "category": "dish",
+    "name": {
+      "fr": "Birria de Guadalajara",
+      "en": "Guadalajara Birria"
+    },
+    "region": "Guadalajara, Jalisco",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      20.6597,
+      -103.3496
+    ],
+    "description": {
+      "fr": "Chèvre marinée à l'adobo de piments guajillo et vinaigre, cuite à l'étouffée jusqu'à s'effilocher, servie dans son consommé rouge avec oignon, coriandre et tortillas. Plat des fêtes de Jalisco devenu star mondiale sous forme de quesabirria tacos.",
+      "en": "Goat marinated in guajillo chile and vinegar adobo, pit-steamed until falling apart, served in its red consommé with onion, cilantro and tortillas. Jalisco's celebration dish turned global star as quesabirria tacos."
+    },
+    "tags": [
+      "Stew",
+      "Spicy",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-pozole-guerrero",
+    "category": "dish",
+    "name": {
+      "fr": "Pozole du Guerrero",
+      "en": "Guerrero Pozole"
+    },
+    "region": "Chilpancingo, Guerrero",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      17.5514,
+      -99.5006
+    ],
+    "description": {
+      "fr": "Soupe précolombienne de gros grains de maïs cacahuazintle éclatés en fleur, mijotés avec du porc, servie verte au Guerrero avec tomatilles et graines de courge broyées. Chaque jeudi, l'État entier célèbre le « jueves pozolero » autour de radis, origan et tostadas.",
+      "en": "Pre-Columbian soup of large cacahuazintle corn kernels burst into flowers, simmered with pork, served green in Guerrero with tomatillos and ground pumpkin seeds. Every Thursday the whole state celebrates \"jueves pozolero\" with radishes, oregano and tostadas."
+    },
+    "tags": [
+      "Soup",
+      "Traditional",
+      "Communal"
+    ]
+  },
+  {
+    "id": "ds-pupusa-san-salvador",
+    "category": "dish",
+    "name": {
+      "fr": "Pupusa du Salvador",
+      "en": "Salvadoran Pupusa"
+    },
+    "region": "San Salvador",
+    "country": {
+      "fr": "Salvador",
+      "en": "El Salvador"
+    },
+    "countryCode": "SV",
+    "coordinates": [
+      13.6929,
+      -89.2182
+    ],
+    "description": {
+      "fr": "Épaisse galette de maïs façonnée à la main autour d'une farce de fromage, chicharrón ou haricots, cuite sur comal et servie avec curtido de chou fermenté et sauce tomate légère. Héritage pipil, elle a sa fête nationale chaque deuxième dimanche de novembre.",
+      "en": "Thick corn cake hand-shaped around a filling of cheese, chicharrón or beans, griddled on a comal and served with fermented cabbage curtido and light tomato sauce. A Pipil heritage with its own national day every second Sunday of November."
+    },
+    "tags": [
+      "Street food",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-gallo-pinto-san-jose",
+    "category": "dish",
+    "name": {
+      "fr": "Gallo pinto du Costa Rica",
+      "en": "Costa Rican Gallo Pinto"
+    },
+    "region": "San José, Vallée centrale",
+    "country": {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+    },
+    "countryCode": "CR",
+    "coordinates": [
+      9.9281,
+      -84.0907
+    ],
+    "description": {
+      "fr": "Riz et haricots noirs de la veille sautés ensemble avec oignon, poivron, coriandre et sauce Lizano, jusqu'à moucheter le riz — d'où le nom « coq tacheté ». Petit-déjeuner national tico, servi avec œufs, plantain frit et café de la Vallée centrale.",
+      "en": "Day-old rice and black beans fried together with onion, pepper, cilantro and Lizano sauce until the rice is speckled — hence the name \"spotted rooster\". Costa Rica's national breakfast, served with eggs, fried plantain and Central Valley coffee."
+    },
+    "tags": [
+      "Breakfast",
+      "Rice",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-ropa-vieja-havana",
+    "category": "dish",
+    "name": {
+      "fr": "Ropa vieja de La Havane",
+      "en": "Havana Ropa Vieja"
+    },
+    "region": "La Havane",
+    "country": {
+      "fr": "Cuba",
+      "en": "Cuba"
+    },
+    "countryCode": "CU",
+    "coordinates": [
+      23.1136,
+      -82.3666
+    ],
+    "description": {
+      "fr": "Bœuf de flanchet bouilli puis effiloché, mijoté dans un sofrito de tomates, poivrons, oignons et vin sec, servi avec riz blanc, haricots noirs et plantains. Son nom, « vieux habits », vient des lambeaux de viande ; la recette a voyagé des Canaries jusqu'à Cuba.",
+      "en": "Flank steak boiled then shredded, simmered in a sofrito of tomatoes, peppers, onions and dry wine, served with white rice, black beans and plantains. Its name, \"old clothes\", comes from the ragged strands of meat; the recipe sailed from the Canary Islands to Cuba."
+    },
+    "tags": [
+      "Stew",
+      "Comfort food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-mofongo-san-juan",
+    "category": "dish",
+    "name": {
+      "fr": "Mofongo de San Juan",
+      "en": "San Juan Mofongo"
+    },
+    "region": "San Juan, Porto Rico",
+    "country": {
+      "fr": "Porto Rico",
+      "en": "Puerto Rico"
+    },
+    "countryCode": "PR",
+    "coordinates": [
+      18.4655,
+      -66.1057
+    ],
+    "description": {
+      "fr": "Plantains verts frits pilés au mortier avec ail, huile d'olive et chicharrón croustillant, façonnés en dôme et garnis de crevettes en sauce criolla ou de viande. Héritier du fufu africain apporté par les esclaves, c'est l'âme de la cuisine portoricaine.",
+      "en": "Fried green plantains mashed in a mortar with garlic, olive oil and crispy chicharrón, shaped into a dome and topped with shrimp in criolla sauce or meat. Heir to African fufu brought by enslaved people, it is the soul of Puerto Rican cooking."
+    },
+    "tags": [
+      "Comfort food",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-griot-port-au-prince",
+    "category": "dish",
+    "name": {
+      "fr": "Griot de Port-au-Prince",
+      "en": "Port-au-Prince Griot"
+    },
+    "region": "Port-au-Prince, Ouest",
+    "country": {
+      "fr": "Haïti",
+      "en": "Haiti"
+    },
+    "countryCode": "HT",
+    "coordinates": [
+      18.5944,
+      -72.3074
+    ],
+    "description": {
+      "fr": "Cubes d'épaule de porc marinés dans l'epis haïtien (agrumes amers, ail, piment habanero), braisés puis frits jusqu'à caraméliser. Servi avec riz aux haricots rouges, bananes pesées et pikliz de chou vinaigré, c'est le plat des fêtes haïtiennes.",
+      "en": "Pork shoulder cubes marinated in Haitian epis (bitter citrus, garlic, habanero), braised then fried until caramelized. Served with red bean rice, fried plantains and vinegary pikliz slaw, it is the dish of Haitian celebrations."
+    },
+    "tags": [
+      "Fried",
+      "Spicy",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-doubles-port-of-spain",
+    "category": "dish",
+    "name": {
+      "fr": "Doubles de Port-d'Espagne",
+      "en": "Port of Spain Doubles"
+    },
+    "region": "Port-d'Espagne, Trinité",
+    "country": {
+      "fr": "Trinité-et-Tobago",
+      "en": "Trinidad and Tobago"
+    },
+    "countryCode": "TT",
+    "coordinates": [
+      10.6549,
+      -61.5019
+    ],
+    "description": {
+      "fr": "Deux petits pains frits bara au curcuma recouverts d'un curry de pois chiches channa, arrosés de chutney de tamarin, de mangue verte et de sauce piment scotch bonnet. Créé dans les années 1930 par des descendants d'engagés indiens, c'est le petit-déjeuner de rue trinidadien.",
+      "en": "Two turmeric-tinted fried bara breads topped with channa chickpea curry, doused with tamarind and green mango chutneys and scotch bonnet pepper sauce. Created in the 1930s by descendants of Indian indentured workers, it is Trinidad's street breakfast."
+    },
+    "tags": [
+      "Street food",
+      "Vegetarian",
+      "Spicy"
+    ]
+  },
+  {
+    "id": "ds-bandeja-paisa-medellin",
+    "category": "dish",
+    "name": {
+      "fr": "Bandeja paisa de Medellín",
+      "en": "Medellín Bandeja Paisa"
+    },
+    "region": "Medellín, Antioquia",
+    "country": {
+      "fr": "Colombie",
+      "en": "Colombia"
+    },
+    "countryCode": "CO",
+    "coordinates": [
+      6.2476,
+      -75.5658
+    ],
+    "description": {
+      "fr": "Plateau pantagruélique réunissant haricots rouges, riz, viande hachée, chicharrón, chorizo, morcilla, œuf au plat, plantain mûr, avocat et arepa. Repas des paysans caféiculteurs d'Antioquia devenu emblème de la région paisa et de son appétit légendaire.",
+      "en": "Gargantuan platter of red beans, rice, ground beef, chicharrón, chorizo, morcilla, fried egg, ripe plantain, avocado and arepa. Meal of Antioquia's coffee farmers turned emblem of the paisa region and its legendary appetite."
+    },
+    "tags": [
+      "Hearty",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-pastel-choclo-santiago",
+    "category": "dish",
+    "name": {
+      "fr": "Pastel de choclo du Chili",
+      "en": "Chilean Pastel de Choclo"
+    },
+    "region": "Santiago, Vallée centrale",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -33.4489,
+      -70.6693
+    ],
+    "description": {
+      "fr": "Gratin de purée de maïs frais au basilic recouvrant un pino de bœuf haché aux oignons, poulet, œuf dur, olives et raisins secs, doré au sucre dans un plat en terre. Plat d'été des campagnes chiliennes, servi brûlant dans sa greda de Pomaire.",
+      "en": "Fresh corn purée with basil baked over a pino of minced beef and onions, chicken, hard-boiled egg, olives and raisins, sugar-glazed in an earthenware dish. Summer dish of the Chilean countryside, served scalding in its Pomaire greda."
+    },
+    "tags": [
+      "Gratin",
+      "Comfort food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-chivito-montevideo",
+    "category": "dish",
+    "name": {
+      "fr": "Chivito de Montevideo",
+      "en": "Montevideo Chivito"
+    },
+    "region": "Montevideo",
+    "country": {
+      "fr": "Uruguay",
+      "en": "Uruguay"
+    },
+    "countryCode": "UY",
+    "coordinates": [
+      -34.9011,
+      -56.1645
+    ],
+    "description": {
+      "fr": "Sandwich monumental de fine tranche de bœuf churrasco, jambon, bacon, mozzarella fondue, œuf, tomate, olives et mayonnaise, servi avec des frites. Inventé en 1944 à Punta del Este quand une cliente réclama du chevreau (chivito) et que le chef improvisa avec du bœuf.",
+      "en": "Monumental sandwich of thin churrasco beef, ham, bacon, melted mozzarella, egg, tomato, olives and mayo, served with fries. Invented in 1944 in Punta del Este when a customer asked for goat kid (chivito) and the chef improvised with beef."
+    },
+    "tags": [
+      "Sandwich",
+      "Hearty",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-pao-de-queijo-minas",
+    "category": "dish",
+    "name": {
+      "fr": "Pão de queijo du Minas Gerais",
+      "en": "Minas Gerais Pão de Queijo"
+    },
+    "region": "Belo Horizonte, Minas Gerais",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -19.9167,
+      -43.9345
+    ],
+    "description": {
+      "fr": "Petites boules moelleuses et étirables de tapioca (polvilho) au fromage minas ou canastra à demi affiné, dorées au four et naturellement sans gluten. Nées au XVIIIe siècle dans les fazendas esclavagistes du Minas, elles accompagnent le café de l'après-midi brésilien.",
+      "en": "Small chewy, stretchy tapioca (polvilho) balls with half-cured Minas or Canastra cheese, oven-gilded and naturally gluten-free. Born in 18th-century Minas fazendas, they accompany Brazil's afternoon coffee ritual."
+    },
+    "tags": [
+      "Snack",
+      "Traditional",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": "ds-lomo-saltado-lima",
+    "category": "dish",
+    "name": {
+      "fr": "Lomo saltado de Lima",
+      "en": "Lima Lomo Saltado"
+    },
+    "region": "Lima",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -12.0464,
+      -77.0428
+    ],
+    "description": {
+      "fr": "Lanières de bœuf saisies au wok à feu vif avec oignons rouges, tomates, piment ají amarillo et sauce soja, servies avec frites et riz. Chef-d'œuvre de la cuisine chifa, fusion sino-péruvienne née des immigrés cantonais de Lima au XIXe siècle.",
+      "en": "Beef strips flash-seared in a wok with red onions, tomatoes, ají amarillo and soy sauce, served with fries and rice. Masterpiece of chifa cooking, the Chinese-Peruvian fusion born of Lima's 19th-century Cantonese immigrants."
+    },
+    "tags": [
+      "Comfort food",
+      "Iconic",
+      "Fusion"
+    ]
+  },
+  {
+    "id": "ds-bunny-chow-durban",
+    "category": "dish",
+    "name": {
+      "fr": "Bunny chow de Durban",
+      "en": "Durban Bunny Chow"
+    },
+    "region": "Durban, KwaZulu-Natal",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -29.8587,
+      31.0218
+    ],
+    "description": {
+      "fr": "Demi-pain de mie évidé et rempli d'un curry brûlant de mouton, poulet ou haricots, la mie servant de couvercle à saucer. Inventé par la communauté indienne de Durban sous l'apartheid pour emporter le curry sans vaisselle, il se mange à la main.",
+      "en": "Hollowed half-loaf of white bread filled with fiery mutton, chicken or bean curry, the scooped-out crumb serving as a dipping lid. Invented by Durban's Indian community under apartheid to carry curry without dishes, it is eaten by hand."
+    },
+    "tags": [
+      "Street food",
+      "Curry",
+      "Spicy"
+    ]
+  },
+  {
+    "id": "ds-mafe-bamako",
+    "category": "dish",
+    "name": {
+      "fr": "Mafé de Bamako",
+      "en": "Bamako Mafé"
+    },
+    "region": "Bamako",
+    "country": {
+      "fr": "Mali",
+      "en": "Mali"
+    },
+    "countryCode": "ML",
+    "coordinates": [
+      12.6392,
+      -8.0029
+    ],
+    "description": {
+      "fr": "Ragoût de bœuf ou mouton mijoté dans une sauce onctueuse à la pâte d'arachide et à la tomate, avec carottes, chou et manioc, servi sur du riz blanc. Plat emblématique des Mandingues, il s'est diffusé du Mali à toute l'Afrique de l'Ouest.",
+      "en": "Beef or mutton stew simmered in a velvety peanut-paste and tomato sauce with carrots, cabbage and cassava, served over white rice. Emblematic Mandinka dish that spread from Mali across all of West Africa."
+    },
+    "tags": [
+      "Stew",
+      "Comfort food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-yassa-casamance",
+    "category": "dish",
+    "name": {
+      "fr": "Poulet yassa de Casamance",
+      "en": "Casamance Chicken Yassa"
+    },
+    "region": "Ziguinchor, Casamance",
+    "country": {
+      "fr": "Sénégal",
+      "en": "Senegal"
+    },
+    "countryCode": "SN",
+    "coordinates": [
+      12.5665,
+      -16.2733
+    ],
+    "description": {
+      "fr": "Poulet mariné au citron vert, moutarde et montagne d'oignons, grillé puis mijoté dans sa marinade jusqu'à ce que les oignons confisent en sauce acidulée. Né en Casamance chez les Diolas, il est devenu l'un des plats les plus aimés d'Afrique de l'Ouest.",
+      "en": "Chicken marinated in lime, mustard and a mountain of onions, grilled then simmered in its marinade until the onions melt into a tangy sauce. Born among the Diola of Casamance, it became one of West Africa's best-loved dishes."
+    },
+    "tags": [
+      "Grilled",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-brik-tunis",
+    "category": "dish",
+    "name": {
+      "fr": "Brik à l'œuf de Tunis",
+      "en": "Tunis Brik"
+    },
+    "region": "Tunis",
+    "country": {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+    },
+    "countryCode": "TN",
+    "coordinates": [
+      36.8065,
+      10.1815
+    ],
+    "description": {
+      "fr": "Fine feuille de malsouka pliée en triangle autour d'un œuf coulant, de thon, câpres et persil, frite en quelques secondes jusqu'à devenir craquante. Rituel incontournable des soirs de ramadan tunisiens — l'art consiste à la manger sans percer le jaune.",
+      "en": "Thin malsouka pastry folded into a triangle around a runny egg, tuna, capers and parsley, fried in seconds until shatteringly crisp. Essential ritual of Tunisian Ramadan evenings — the art is eating it without bursting the yolk."
+    },
+    "tags": [
+      "Fried",
+      "Street food",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-zigni-asmara",
+    "category": "dish",
+    "name": {
+      "fr": "Zigni d'Asmara",
+      "en": "Asmara Zigni"
+    },
+    "region": "Asmara",
+    "country": {
+      "fr": "Érythrée",
+      "en": "Eritrea"
+    },
+    "countryCode": "ER",
+    "coordinates": [
+      15.3229,
+      38.9251
+    ],
+    "description": {
+      "fr": "Ragoût de bœuf longuement mijoté dans une sauce rouge sombre au berbéré et au beurre épicé tesmi, servi sur la galette fermentée injera qui sert d'assiette et de couvert. Plat de fête érythréen, il se partage à la main autour d'un plateau commun.",
+      "en": "Beef stewed at length in a dark red berbere sauce with spiced tesmi butter, served on fermented injera flatbread that acts as both plate and cutlery. Eritrean celebration dish shared by hand around a common platter."
+    },
+    "tags": [
+      "Stew",
+      "Spicy",
+      "Communal"
+    ]
+  },
+  {
+    "id": "ds-nyembwe-libreville",
+    "category": "dish",
+    "name": {
+      "fr": "Poulet nyembwe de Libreville",
+      "en": "Libreville Nyembwe Chicken"
+    },
+    "region": "Libreville, Estuaire",
+    "country": {
+      "fr": "Gabon",
+      "en": "Gabon"
+    },
+    "countryCode": "GA",
+    "coordinates": [
+      0.4162,
+      9.4673
+    ],
+    "description": {
+      "fr": "Poulet fumé ou rôti mijoté dans une sauce épaisse de noix de palme fraîchement pressées (nyembwe), relevée d'odika ou de piment. Plat national gabonais des grandes occasions, servi avec bâtons de manioc ou banane plantain.",
+      "en": "Smoked or roasted chicken simmered in a thick sauce of freshly pressed palm nuts (nyembwe), sharpened with odika or chilli. Gabon's national dish for special occasions, served with cassava sticks or plantain."
+    },
+    "tags": [
+      "Stew",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-ful-medames-cairo",
+    "category": "dish",
+    "name": {
+      "fr": "Ful medames du Caire",
+      "en": "Cairo Ful Medames"
+    },
+    "region": "Le Caire",
+    "country": {
+      "fr": "Égypte",
+      "en": "Egypt"
+    },
+    "countryCode": "EG",
+    "coordinates": [
+      30.0444,
+      31.2357
+    ],
+    "description": {
+      "fr": "Fèves brunes cuites toute la nuit dans la marmite bombée qidra, écrasées avec huile d'olive, cumin, citron et piment, garnies d'œuf ou de tahini. Petit-déjeuner des Égyptiens depuis l'époque pharaonique, vendu à l'aube par les charrettes du Caire.",
+      "en": "Brown fava beans cooked overnight in the pot-bellied qidra, mashed with olive oil, cumin, lemon and chilli, topped with egg or tahini. Egyptians' breakfast since pharaonic times, sold at dawn from Cairo's street carts."
+    },
+    "tags": [
+      "Breakfast",
+      "Vegetarian",
+      "Street food"
+    ]
+  },
+  {
+    "id": "ds-piri-piri-maputo",
+    "category": "dish",
+    "name": {
+      "fr": "Poulet piri-piri de Maputo",
+      "en": "Maputo Piri-Piri Chicken"
+    },
+    "region": "Maputo",
+    "country": {
+      "fr": "Mozambique",
+      "en": "Mozambique"
+    },
+    "countryCode": "MZ",
+    "coordinates": [
+      -25.9692,
+      32.5732
+    ],
+    "description": {
+      "fr": "Poulet aplati en crapaudine, mariné au piment piri-piri, citron, ail et paprika, grillé au charbon en le badigeonnant sans relâche. Fusion afro-portugaise née sur la côte mozambicaine, où le piment ramené des Amériques a rencontré la braise africaine.",
+      "en": "Spatchcocked chicken marinated in piri-piri chilli, lemon, garlic and paprika, charcoal-grilled with relentless basting. Afro-Portuguese fusion born on the Mozambican coast, where chillies from the Americas met the African grill."
+    },
+    "tags": [
+      "Grilled",
+      "Spicy",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-pavlova-wellington",
+    "category": "dish",
+    "name": {
+      "fr": "Pavlova de Nouvelle-Zélande",
+      "en": "New Zealand Pavlova"
+    },
+    "region": "Wellington",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -41.2866,
+      174.7756
+    ],
+    "description": {
+      "fr": "Grande meringue à la croûte craquante et au cœur de guimauve, couverte de crème fouettée, kiwis, fruits de la passion et fraises. Créée dans les années 1920 en l'honneur de la ballerine Anna Pavlova, sa paternité alimente une querelle éternelle avec l'Australie.",
+      "en": "Large meringue with a crisp shell and marshmallow heart, covered in whipped cream, kiwifruit, passion fruit and strawberries. Created in the 1920s in honor of ballerina Anna Pavlova, its origin fuels an eternal feud with Australia."
+    },
+    "tags": [
+      "Sweet",
+      "Iconic",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-lamington-brisbane",
+    "category": "dish",
+    "name": {
+      "fr": "Lamington de Brisbane",
+      "en": "Brisbane Lamington"
+    },
+    "region": "Brisbane, Queensland",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -27.4698,
+      153.0251
+    ],
+    "description": {
+      "fr": "Cube de génoise trempé dans un glaçage au chocolat puis roulé dans la noix de coco râpée, parfois fourré de crème ou de confiture. Baptisé d'après Lord Lamington, gouverneur du Queensland vers 1900, il est la star des ventes de charité australiennes.",
+      "en": "Sponge cake cube dipped in chocolate icing and rolled in desiccated coconut, sometimes filled with cream or jam. Named after Lord Lamington, Queensland's governor around 1900, it stars at Australian charity bake sales."
+    },
+    "tags": [
+      "Sweet",
+      "Snack",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ds-kalua-pig-hawaii",
+    "category": "dish",
+    "name": {
+      "fr": "Kalua pig d'Hawaï",
+      "en": "Hawaiian Kalua Pig"
+    },
+    "region": "Hilo, île d'Hawaï",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      19.7297,
+      -155.09
+    ],
+    "description": {
+      "fr": "Cochon entier frotté au sel de mer, enveloppé de feuilles de bananier et de ti, cuit des heures dans l'imu, four enterré chauffé aux pierres volcaniques. Pièce centrale des luau hawaïens, sa chair fumée s'effiloche et se sert avec du poi de taro.",
+      "en": "Whole pig rubbed with sea salt, wrapped in banana and ti leaves and cooked for hours in an imu, an underground oven heated with volcanic stones. Centerpiece of Hawaiian luau feasts, its smoky flesh shreds apart and is served with taro poi."
+    },
+    "tags": [
+      "Roast",
+      "Communal",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ds-lap-lap-port-vila",
+    "category": "dish",
+    "name": {
+      "fr": "Lap lap de Port-Vila",
+      "en": "Port Vila Lap Lap"
+    },
+    "region": "Port-Vila, Éfaté",
+    "country": {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+    },
+    "countryCode": "VU",
+    "coordinates": [
+      -17.7333,
+      168.3273
+    ],
+    "description": {
+      "fr": "Pudding salé de racines râpées — igname, taro ou manioc — arrosé de lait de coco, garni de poulet ou de porc, enveloppé de feuilles d'héliconia et cuit sur pierres chaudes. Plat national du Vanuatu, préparé pour les cérémonies coutumières et les marchés de Port-Vila.",
+      "en": "Savory pudding of grated roots — yam, taro or cassava — doused in coconut milk, topped with chicken or pork, wrapped in heliconia leaves and cooked on hot stones. Vanuatu's national dish, made for customary ceremonies and Port Vila markets."
+    },
+    "tags": [
+      "Traditional",
+      "Communal",
+      "Iconic"
+    ]
+  }
+]

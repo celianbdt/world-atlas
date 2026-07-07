@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "ig-truffe-perigord",
+    "category": "ingredient",
+    "name": {
+      "fr": "Truffe noire du Périgord",
+      "en": "Périgord black truffle"
+    },
+    "region": "Périgord, Nouvelle-Aquitaine",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.1833,
+      0.7167
+    ],
+    "description": {
+      "fr": "Tuber melanosporum, le diamant noir de la cuisine française. Se récolte de décembre à mars avec un chien truffier, sous chênes verts et noisetiers du terroir calcaire.",
+      "en": "Tuber melanosporum, the black diamond of French cuisine. Harvested December to March with truffle dogs under holm oaks and hazelnuts on limestone soil."
+    },
+    "tags": [
+      "Rare",
+      "Terroir",
+      "Delicacy"
+    ]
+  },
+  {
+    "id": "ig-vanille-madagascar",
+    "category": "ingredient",
+    "name": {
+      "fr": "Vanille Bourbon de Madagascar",
+      "en": "Madagascar Bourbon vanilla"
+    },
+    "region": "SAVA, côte nord-est",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -14.9167,
+      50.2833
+    ],
+    "description": {
+      "fr": "80 % de la production mondiale de vanille. Orchidée Vanilla planifolia pollinisée à la main, gousses affinées 9 mois pour un arôme rond et boisé.",
+      "en": "80% of the world's vanilla output. Hand-pollinated Vanilla planifolia orchid, pods cured for 9 months to develop a rich, woody aroma."
+    },
+    "tags": [
+      "Spice",
+      "Rare",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-safran-cachemire",
+    "category": "ingredient",
+    "name": {
+      "fr": "Safran du Cachemire",
+      "en": "Kashmir saffron"
+    },
+    "region": "Pampore, vallée du Cachemire",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      33.95,
+      74.9167
+    ],
+    "description": {
+      "fr": "Considéré comme le meilleur safran au monde, aux stigmates rouge foncé et arôme puissant. Récolté à la main sur les plateaux karewa à l'automne.",
+      "en": "Widely considered the world's finest saffron, with deep red stigmas and powerful aroma. Hand-picked on the karewa plateaus in autumn."
+    },
+    "tags": [
+      "Spice",
+      "Rare",
+      "Premium"
+    ]
+  },
+  {
+    "id": "ig-cafe-yirgacheffe",
+    "category": "ingredient",
+    "name": {
+      "fr": "Café Yirgacheffe",
+      "en": "Yirgacheffe coffee"
+    },
+    "region": "Yirgacheffe, Sidamo",
+    "country": {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      6.1611,
+      38.2069
+    ],
+    "description": {
+      "fr": "Berceau du café Arabica, à 1 800 m d'altitude. Profil floral (jasmin, bergamote), notes d'agrumes et acidité vive : la référence des cafés de spécialité.",
+      "en": "Cradle of Arabica coffee, at 1,800 m elevation. Floral profile (jasmine, bergamot), citrus notes and lively acidity — the benchmark for specialty coffee."
+    },
+    "tags": [
+      "Coffee",
+      "Origin",
+      "Specialty"
+    ]
+  },
+  {
+    "id": "ig-mangue-alphonso",
+    "category": "ingredient",
+    "name": {
+      "fr": "Mangue Alphonso",
+      "en": "Alphonso mango"
+    },
+    "region": "Ratnagiri, Konkan",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      16.9944,
+      73.3
+    ],
+    "description": {
+      "fr": "La reine des mangues, cultivée sur le littoral du Maharashtra depuis le XVe siècle. Chair orange safran, quasi sans fibres, parfum intense de mai à juin.",
+      "en": "The queen of mangoes, grown on the Maharashtra coast since the 15th century. Saffron-orange flesh, virtually fibreless, intensely fragrant in May–June."
+    },
+    "tags": [
+      "Fruit",
+      "GI",
+      "Seasonal"
+    ]
+  },
+  {
+    "id": "ig-wagyu-kobe",
+    "category": "ingredient",
+    "name": {
+      "fr": "Bœuf de Kobe",
+      "en": "Kobe beef"
+    },
+    "region": "Hyōgo, Kansai",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.6913,
+      135.183
+    ],
+    "description": {
+      "fr": "Wagyu Tajima nourri sur les collines de Hyōgo, sélection ultra-stricte : moins de 3 000 bêtes certifiées par an. Persillage marbré fondant, saveur beurrée.",
+      "en": "Tajima wagyu raised in the hills of Hyōgo under extreme selection: fewer than 3,000 certified head per year. Marbled fat, melting texture, buttery flavor."
+    },
+    "tags": [
+      "Meat",
+      "Premium",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-jamon-jabugo",
+    "category": "ingredient",
+    "name": {
+      "fr": "Jamón ibérico de Jabugo",
+      "en": "Jabugo Iberian ham"
+    },
+    "region": "Sierra de Aracena, Andalousie",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      37.925,
+      -6.7233
+    ],
+    "description": {
+      "fr": "Porcs noirs ibériques élevés en dehesa, engraissés aux glands (bellota). Séchage 36 mois dans les caves des sierras : gras noisetté qui fond en bouche.",
+      "en": "Black Iberian pigs raised in the dehesa, fattened on acorns (bellota). Aged 36 months in mountain cellars: nutty fat that melts on the tongue."
+    },
+    "tags": [
+      "Meat",
+      "DOP",
+      "Cured"
+    ]
+  },
+  {
+    "id": "ig-huile-kalamata",
+    "category": "ingredient",
+    "name": {
+      "fr": "Huile d'olive de Kalamata",
+      "en": "Kalamata olive oil"
+    },
+    "region": "Messénie, Péloponnèse",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      37.0389,
+      22.1142
+    ],
+    "description": {
+      "fr": "Olive Koroneiki de la région de Kalamata, pressée à froid dans les 24 h. Vert intense, notes d'herbe fraîche et de poivre, faible acidité (< 0,3 %).",
+      "en": "Koroneiki olives from the Kalamata region, cold-pressed within 24 hours. Intense green, notes of fresh grass and pepper, low acidity (< 0.3%)."
+    },
+    "tags": [
+      "Oil",
+      "PDO",
+      "Mediterranean"
+    ]
+  },
+  {
+    "id": "ig-poivre-kampot",
+    "category": "ingredient",
+    "name": {
+      "fr": "Poivre de Kampot",
+      "en": "Kampot pepper"
+    },
+    "region": "Kampot, côte sud",
+    "country": {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+    },
+    "countryCode": "KH",
+    "coordinates": [
+      10.6104,
+      104.181
+    ],
+    "description": {
+      "fr": "Poivre cultivé sur la côte cambodgienne depuis le XIIIe siècle. Piquant frais, notes florales et d'agrumes, IGP protégée depuis 2010.",
+      "en": "Pepper grown on the Cambodian coast since the 13th century. Fresh pungency, floral and citrus notes, PGI-protected since 2010."
+    },
+    "tags": [
+      "Spice",
+      "PGI",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-cacao-chuao",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cacao de Chuao",
+      "en": "Chuao cacao"
+    },
+    "region": "Aragua, côte caraïbe",
+    "country": {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+    },
+    "countryCode": "VE",
+    "coordinates": [
+      10.5167,
+      -67.6
+    ],
+    "description": {
+      "fr": "Cacao criollo cultivé dans un village isolé accessible en bateau. Notes de fruits rouges, prune et miel, considéré comme le meilleur cacao au monde.",
+      "en": "Criollo cacao grown in a village reachable only by boat. Red fruit, plum and honey notes — widely regarded as the world's finest cacao."
+    },
+    "tags": [
+      "Cacao",
+      "Rare",
+      "Origin"
+    ]
+  },
+  {
+    "id": "ig-parmigiano-reggiano",
+    "category": "ingredient",
+    "name": {
+      "fr": "Parmigiano Reggiano",
+      "en": "Parmigiano Reggiano"
+    },
+    "region": "Émilie-Romagne, Parme",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      44.8015,
+      10.3279
+    ],
+    "description": {
+      "fr": "Fromage AOP à pâte pressée cuite, affiné 24 à 36 mois. Vaches nourries à l'herbe fraîche et fourrage local, 550 L de lait par meule.",
+      "en": "PDO hard cheese pressed and cooked, aged 24 to 36 months. Cows fed on fresh grass and local forage; 550 L of milk per wheel."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Aged"
+    ]
+  },
+  {
+    "id": "ig-roquefort-combalou",
+    "category": "ingredient",
+    "name": {
+      "fr": "Roquefort du Combalou",
+      "en": "Roquefort from Combalou"
+    },
+    "region": "Roquefort-sur-Soulzon, Aveyron",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.9803,
+      2.9836
+    ],
+    "description": {
+      "fr": "Ce bleu de brebis affine exclusivement dans les caves naturelles du Combalou, ventilées par les fleurines. Première AOC française (1925), c'est le roi des fromages persillés.",
+      "en": "This sheep's milk blue ripens exclusively in the natural Combalou caves, ventilated by fleurines. France's first AOC (1925), it's the king of blue cheeses."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Blue"
+    ]
+  },
+  {
+    "id": "ig-matcha-uji",
+    "category": "ingredient",
+    "name": {
+      "fr": "Matcha d'Uji",
+      "en": "Uji matcha"
+    },
+    "region": "Uji, Kyoto",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.8844,
+      135.7997
+    ],
+    "description": {
+      "fr": "Uji cultive le thé depuis le XIIe siècle. Ses matchas d'ombrage broyés à la meule de pierre offrent une couleur jade éclatante et une umami profonde, référence de la cérémonie du thé.",
+      "en": "Uji has cultivated tea since the 12th century. Its shade-grown matchas, stone-milled, deliver a vivid jade color and profound umami, the benchmark of the tea ceremony."
+    },
+    "tags": [
+      "Tea",
+      "Traditional",
+      "Ceremonial"
+    ]
+  },
+  {
+    "id": "ig-sel-guerande",
+    "category": "ingredient",
+    "name": {
+      "fr": "Sel de Guérande",
+      "en": "Guérande salt"
+    },
+    "region": "Guérande, Loire-Atlantique",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      47.3286,
+      -2.4292
+    ],
+    "description": {
+      "fr": "Récolté à la main dans les marais salants depuis le IXe siècle. La fleur de sel, fine et croquante, cristallise sous le soleil et le vent d'ouest.",
+      "en": "Hand-harvested from salt marshes since the 9th century. The delicate crunchy fleur de sel crystallizes under sun and westerly winds."
+    },
+    "tags": [
+      "Salt",
+      "PGI",
+      "Artisanal"
+    ]
+  },
+  {
+    "id": "ig-huitres-cancale",
+    "category": "ingredient",
+    "name": {
+      "fr": "Huîtres de Cancale",
+      "en": "Cancale oysters"
+    },
+    "region": "Cancale, baie du Mont-Saint-Michel",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.6767,
+      -1.8531
+    ],
+    "description": {
+      "fr": "Les marées de la baie du Mont-Saint-Michel, parmi les plus fortes d'Europe, oxygènent en permanence les parcs et donnent aux huîtres plates une chair fine et iodée.",
+      "en": "Mont-Saint-Michel bay hosts some of Europe's strongest tides, constantly oxygenating the beds and giving the flat oysters delicate briny flesh."
+    },
+    "tags": [
+      "Seafood",
+      "Terroir",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-dattes-medjool-bam",
+    "category": "ingredient",
+    "name": {
+      "fr": "Dattes Medjool de Bam",
+      "en": "Bam Medjool dates"
+    },
+    "region": "Bam, province de Kerman",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      29.106,
+      58.357
+    ],
+    "description": {
+      "fr": "Les palmeraies de Bam, oasis millénaire du désert iranien, produisent des Medjool charnues et caramélisées grâce aux amplitudes thermiques extrêmes.",
+      "en": "Bam's palm groves, an ancient oasis in the Iranian desert, yield plump caramelized Medjool dates thanks to extreme temperature swings."
+    },
+    "tags": [
+      "Fruit",
+      "Oasis",
+      "Dried"
+    ]
+  },
+  {
+    "id": "ig-pistaches-bronte",
+    "category": "ingredient",
+    "name": {
+      "fr": "Pistaches de Bronte",
+      "en": "Bronte pistachios"
+    },
+    "region": "Bronte, Sicile",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      37.7889,
+      14.8319
+    ],
+    "description": {
+      "fr": "Cultivées sur les coulées de lave de l'Etna, ces pistaches vert émeraude AOP développent des arômes intenses et sucrés. Récoltées à la main tous les deux ans.",
+      "en": "Grown on Mount Etna's lava flows, these emerald PDO pistachios develop intense sweet aromas. Hand-harvested only every two years."
+    },
+    "tags": [
+      "Nut",
+      "PDO",
+      "Volcanic"
+    ]
+  },
+  {
+    "id": "ig-riz-arborio",
+    "category": "ingredient",
+    "name": {
+      "fr": "Riz Arborio de Vercelli",
+      "en": "Vercelli Arborio rice"
+    },
+    "region": "Vercelli, Piémont",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      45.32,
+      8.4183
+    ],
+    "description": {
+      "fr": "Les rizières inondées du Piémont, alimentées par les eaux alpines, produisent le meilleur Arborio. Grain court, riche en amidon, base incontournable du risotto italien.",
+      "en": "Piedmont's flooded paddies, fed by Alpine waters, produce the finest Arborio. Short-grained and starch-rich, it's the essential base of Italian risotto."
+    },
+    "tags": [
+      "Grain",
+      "Terroir",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-oursin-hokkaido",
+    "category": "ingredient",
+    "name": {
+      "fr": "Oursin de Hokkaido",
+      "en": "Hokkaido sea urchin"
+    },
+    "region": "Rishiri, Hokkaido",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      45.1789,
+      141.2422
+    ],
+    "description": {
+      "fr": "Les eaux froides autour de Rishiri produisent un uni bafun et murasaki d'une intensité crémeuse inégalée. Nourris de kombu sauvage, ces oursins sont le graal des sushis japonais.",
+      "en": "The cold waters around Rishiri yield bafun and murasaki uni of unmatched creamy intensity. Fed on wild kombu, these sea urchins are the holy grail of Japanese sushi."
+    },
+    "tags": [
+      "Seafood",
+      "Premium",
+      "Wild"
+    ]
+  },
+  {
+    "id": "ig-homard-maine",
+    "category": "ingredient",
+    "name": {
+      "fr": "Homard du Maine",
+      "en": "Maine lobster"
+    },
+    "region": "Côte du Maine, golfe du Maine",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      43.9331,
+      -69.1428
+    ],
+    "description": {
+      "fr": "Les eaux froides et rocheuses du golfe du Maine offrent au homard américain une chair ferme et sucrée. Pêche durable et traditions séculaires en font un produit emblématique.",
+      "en": "The cold rocky waters of the Gulf of Maine give American lobster its firm sweet meat. Sustainable fisheries and centuries-old traditions have made it iconic."
+    },
+    "tags": [
+      "Seafood",
+      "Wild",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-agneau-pre-sale",
+    "category": "ingredient",
+    "name": {
+      "fr": "Agneau de pré-salé",
+      "en": "Salt-marsh lamb"
+    },
+    "region": "Baie du Mont-Saint-Michel, Normandie",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.636,
+      -1.5115
+    ],
+    "description": {
+      "fr": "Élevés sur les herbus salés balayés par la marée, ces agneaux AOP développent une chair fine aux notes iodées uniques. Un terroir mouvant, entre terre et mer.",
+      "en": "Raised on the salt-swept marshes flooded by tides, these PDO lambs develop delicate meat with unique briny notes. A shifting terroir between land and sea."
+    },
+    "tags": [
+      "Meat",
+      "PDO",
+      "Terroir"
+    ]
+  },
+  {
+    "id": "ig-gruyere-fribourg",
+    "category": "ingredient",
+    "name": {
+      "fr": "Gruyère de Fribourg",
+      "en": "Fribourg Gruyère"
+    },
+    "region": "Gruyères, canton de Fribourg",
+    "country": {
+      "fr": "Suisse",
+      "en": "Switzerland"
+    },
+    "countryCode": "CH",
+    "coordinates": [
+      46.5847,
+      7.0819
+    ],
+    "description": {
+      "fr": "Fabriqué depuis 1115 dans les alpages fribourgeois, ce fromage à pâte pressée cuite AOP s'affine 5 à 18 mois. Notes de noisette, fruits secs et longueur légendaire.",
+      "en": "Made since 1115 in Fribourg's alpine pastures, this PDO cooked pressed cheese ripens 5 to 18 months. Hazelnut and dried fruit notes with legendary length."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Alpine"
+    ]
+  },
+  {
+    "id": "ig-tomates-san-marzano",
+    "category": "ingredient",
+    "name": {
+      "fr": "Tomates San Marzano",
+      "en": "San Marzano tomatoes"
+    },
+    "region": "Agro Sarnese-Nocerino, Campanie",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      40.783,
+      14.6558
+    ],
+    "description": {
+      "fr": "Cultivées sur les sols volcaniques au pied du Vésuve, ces tomates allongées AOP sont douces, peu acides et charnues. La base de la vraie pizza napolitaine.",
+      "en": "Grown on volcanic soils at the foot of Vesuvius, these elongated PDO tomatoes are sweet, low-acid and fleshy. The foundation of true Neapolitan pizza."
+    },
+    "tags": [
+      "Vegetable",
+      "PDO",
+      "Volcanic"
+    ]
+  },
+  {
+    "id": "ig-moutarde-dijon",
+    "category": "ingredient",
+    "name": {
+      "fr": "Moutarde de Dijon",
+      "en": "Dijon mustard"
+    },
+    "region": "Dijon, Bourgogne",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      47.322,
+      5.0415
+    ],
+    "description": {
+      "fr": "Depuis le XIIIe siècle, Dijon transforme la graine de moutarde brune en pâte piquante liée au verjus puis au vin blanc. Savoir-faire IGP au cœur de la Bourgogne gastronomique.",
+      "en": "Since the 13th century, Dijon has turned brown mustard seeds into a piquant paste bound with verjuice then white wine. A PGI craft at the heart of gastronomic Burgundy."
+    },
+    "tags": [
+      "Condiment",
+      "PGI",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-sirop-erable-quebec",
+    "category": "ingredient",
+    "name": {
+      "fr": "Sirop d'érable du Québec",
+      "en": "Quebec maple syrup"
+    },
+    "region": "Beauce, Québec",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      46.1155,
+      -70.665
+    ],
+    "description": {
+      "fr": "Le Québec produit 70 % du sirop d'érable mondial. Les érablières de la Beauce, entaillées au printemps, livrent une sève transformée en or ambré par évaporation traditionnelle.",
+      "en": "Quebec produces 70% of the world's maple syrup. Beauce's sugar bushes, tapped in spring, yield sap transformed into amber gold through traditional evaporation."
+    },
+    "tags": [
+      "Sweetener",
+      "Traditional",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-quinoa-bolivie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Quinoa Real de Bolivie",
+      "en": "Bolivian Royal quinoa"
+    },
+    "region": "Altiplano, Uyuni",
+    "country": {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+    },
+    "countryCode": "BO",
+    "coordinates": [
+      -20.4599,
+      -66.8253
+    ],
+    "description": {
+      "fr": "Cultivé à 3 600 mètres autour du Salar d'Uyuni, le quinoa Real a des grains plus gros et plus nobles que le quinoa standard. Aliment sacré des Incas depuis 5 000 ans.",
+      "en": "Grown at 3,600 meters around the Uyuni Salt Flats, Royal quinoa has larger, nobler grains than standard quinoa. Sacred Inca food for 5,000 years."
+    },
+    "tags": [
+      "Grain",
+      "Altitude",
+      "Ancestral"
+    ]
+  },
+  {
+    "id": "ig-acai-amazonie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Açaï d'Amazonie",
+      "en": "Amazonian açaí"
+    },
+    "region": "Delta de l'Amazone, Pará",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -1.4558,
+      -48.5039
+    ],
+    "description": {
+      "fr": "Petite baie violette du palmier açaí qui pousse dans les zones inondées du delta amazonien. Cueilli à la main par les riverains du Pará, superfruit à la pulpe grasse et antioxydante.",
+      "en": "Small purple berry of the açaí palm growing in the flooded Amazon delta. Hand-picked by Pará river communities, a superfruit with rich, antioxidant-loaded pulp."
+    },
+    "tags": [
+      "Fruit",
+      "Superfood",
+      "Wild"
+    ]
+  },
+  {
+    "id": "ig-gochujang-sunchang",
+    "category": "ingredient",
+    "name": {
+      "fr": "Gochujang de Sunchang",
+      "en": "Sunchang gochujang"
+    },
+    "region": "Sunchang, Jeolla du Nord",
+    "country": {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+    },
+    "countryCode": "KR",
+    "coordinates": [
+      35.3742,
+      127.1372
+    ],
+    "description": {
+      "fr": "Sunchang est la capitale historique du gochujang, cette pâte fermentée de piment coréen. Le microclimat des vallées y favorise une fermentation lente qui développe un umami sucré-piquant.",
+      "en": "Sunchang is the historic capital of gochujang, Korea's fermented chili paste. The valleys' microclimate fosters slow fermentation that develops sweet-spicy umami."
+    },
+    "tags": [
+      "Condiment",
+      "Fermented",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-harissa-nabeul",
+    "category": "ingredient",
+    "name": {
+      "fr": "Harissa de Nabeul",
+      "en": "Nabeul harissa"
+    },
+    "region": "Nabeul, Cap Bon",
+    "country": {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+    },
+    "countryCode": "TN",
+    "coordinates": [
+      36.456,
+      10.7377
+    ],
+    "description": {
+      "fr": "Le Cap Bon offre un climat chaud idéal pour le piment baklouti à la base de l'harissa. Séché au soleil, broyé avec ail, coriandre et carvi, ce condiment est classé à l'UNESCO.",
+      "en": "Cap Bon's warm climate is ideal for the baklouti pepper at the heart of harissa. Sun-dried and ground with garlic, coriander and caraway, this condiment is UNESCO-listed."
+    },
+    "tags": [
+      "Condiment",
+      "UNESCO",
+      "Spicy"
+    ]
+  },
+  {
+    "id": "ig-rooibos-cederberg",
+    "category": "ingredient",
+    "name": {
+      "fr": "Rooibos du Cederberg",
+      "en": "Cederberg rooibos"
+    },
+    "region": "Cederberg, Cap-Occidental",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -32.4667,
+      19.0333
+    ],
+    "description": {
+      "fr": "Le rooibos ne pousse que dans le Cederberg, sur des sols pauvres et sableux au climat sec. Fermenté au soleil, ce buisson rouge donne une infusion sans théine aux notes miellées.",
+      "en": "Rooibos grows only in the Cederberg, on poor sandy soils in a dry climate. Sun-fermented, this red bush yields a caffeine-free infusion with honeyed notes."
+    },
+    "tags": [
+      "Tea",
+      "Endemic",
+      "Terroir"
+    ]
+  },
+  {
+    "id": "ig-argan-souss",
+    "category": "ingredient",
+    "name": {
+      "fr": "Huile d'argan du Souss",
+      "en": "Souss argan oil"
+    },
+    "region": "Souss-Massa, Sud-Ouest marocain",
+    "country": {
+      "fr": "Maroc",
+      "en": "Morocco"
+    },
+    "countryCode": "MA",
+    "coordinates": [
+      30.4278,
+      -9.5981
+    ],
+    "description": {
+      "fr": "L'arganier endémique pousse dans la réserve UNESCO du Souss. Les femmes des coopératives berbères concassent les amandes à la main pour extraire une huile aux arômes de noisette grillée.",
+      "en": "The endemic argan tree grows in the UNESCO-listed Souss reserve. Berber cooperative women hand-crack the kernels to extract oil with toasted hazelnut aromas."
+    },
+    "tags": [
+      "Oil",
+      "Endemic",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "ig-dattes-deglet-nour",
+    "category": "ingredient",
+    "name": {
+      "fr": "Dattes Deglet Nour de Tolga",
+      "en": "Tolga Deglet Nour dates"
+    },
+    "region": "Tolga, oasis de Biskra",
+    "country": {
+      "fr": "Algérie",
+      "en": "Algeria"
+    },
+    "countryCode": "DZ",
+    "coordinates": [
+      34.7167,
+      5.3833
+    ],
+    "description": {
+      "fr": "La \"datte de lumière\" est la reine des dattes algériennes. Les palmeraies de Tolga, arrosées par les eaux fossiles du Sahara, produisent des dattes ambrées translucides.",
+      "en": "The \"date of light\" is queen of Algerian dates. Tolga's palm groves, irrigated by fossil Saharan water, yield translucent amber dates."
+    },
+    "tags": [
+      "Fruit",
+      "Oasis",
+      "Dried"
+    ]
+  },
+  {
+    "id": "ig-avocat-hass-michoacan",
+    "category": "ingredient",
+    "name": {
+      "fr": "Avocat Hass du Michoacán",
+      "en": "Michoacán Hass avocado"
+    },
+    "region": "Uruapan, Michoacán",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      19.42,
+      -102.0619
+    ],
+    "description": {
+      "fr": "Le Michoacán fournit 80 % des avocats Hass mondiaux. Ses sols volcaniques et son altitude permettent plusieurs récoltes par an de fruits à la chair crémeuse et au noyau réduit.",
+      "en": "Michoacán supplies 80% of the world's Hass avocados. Its volcanic soils and altitude allow multiple annual harvests of fruits with creamy flesh and a small stone."
+    },
+    "tags": [
+      "Fruit",
+      "Volcanic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-framboises-ardeche",
+    "category": "ingredient",
+    "name": {
+      "fr": "Framboises d'Ardèche",
+      "en": "Ardèche raspberries"
+    },
+    "region": "Beaumont, Cévennes ardéchoises",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      44.4522,
+      4.1381
+    ],
+    "description": {
+      "fr": "Les vallées ombragées des Cévennes ardéchoises offrent aux framboisiers un climat frais et humide. Les fruits, cueillis à maturité, sont d'une délicatesse et d'une intensité aromatique reconnues.",
+      "en": "The shaded valleys of Ardèche's Cévennes offer raspberry bushes a cool humid climate. Fruits, picked at peak ripeness, are prized for delicacy and aromatic intensity."
+    },
+    "tags": [
+      "Fruit",
+      "Terroir",
+      "Fragile"
+    ]
+  },
+  {
+    "id": "ig-cafe-blue-mountain",
+    "category": "ingredient",
+    "name": {
+      "fr": "Café Blue Mountain",
+      "en": "Blue Mountain coffee"
+    },
+    "region": "Blue Mountains, Portland Parish",
+    "country": {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+    },
+    "countryCode": "JM",
+    "coordinates": [
+      18.0563,
+      -76.575
+    ],
+    "description": {
+      "fr": "Cultivé entre 900 et 1 700 mètres dans les Blue Mountains brumeuses, ce café Arabica est réputé pour sa douceur, sa faible amertume et son équilibre parfait. L'un des plus chers au monde.",
+      "en": "Grown between 900 and 1,700 meters in the misty Blue Mountains, this Arabica is famed for mildness, low bitterness and perfect balance. One of the world's priciest coffees."
+    },
+    "tags": [
+      "Coffee",
+      "Altitude",
+      "Premium"
+    ]
+  },
+  {
+    "id": "ig-champagne-reims",
+    "category": "ingredient",
+    "name": {
+      "fr": "Champagne de Reims",
+      "en": "Reims Champagne"
+    },
+    "region": "Montagne de Reims, Champagne",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      49.2583,
+      4.0317
+    ],
+    "description": {
+      "fr": "Le sous-sol crayeux, le climat septentrional et la méthode traditionnelle imposée par l'AOC font du Champagne le vin effervescent de référence mondiale. Reims en est la capitale historique.",
+      "en": "Chalky subsoil, northern climate and the AOC-mandated traditional method make Champagne the world's benchmark sparkling wine. Reims is its historic capital."
+    },
+    "tags": [
+      "Wine",
+      "PDO",
+      "Sparkling"
+    ]
+  },
+  {
+    "id": "ig-barolo-langhe",
+    "category": "ingredient",
+    "name": {
+      "fr": "Barolo des Langhe",
+      "en": "Barolo from Langhe"
+    },
+    "region": "Langhe, Piémont",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      44.6119,
+      7.9436
+    ],
+    "description": {
+      "fr": "Le \"roi des vins\" est issu du cépage Nebbiolo sur les collines calcaires des Langhe. DOCG depuis 1980, le Barolo se distingue par sa puissance tannique et son potentiel de garde.",
+      "en": "The \"king of wines\" comes from Nebbiolo on the limestone hills of Langhe. DOCG since 1980, Barolo stands out for tannic power and exceptional aging potential."
+    },
+    "tags": [
+      "Wine",
+      "DOCG",
+      "Terroir"
+    ]
+  },
+  {
+    "id": "ig-tequila-jalisco",
+    "category": "ingredient",
+    "name": {
+      "fr": "Tequila de Jalisco",
+      "en": "Jalisco tequila"
+    },
+    "region": "Tequila, Jalisco",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      20.8797,
+      -103.8353
+    ],
+    "description": {
+      "fr": "Distillée à partir de l'agave bleu Weber cultivé dans les terres rouges volcaniques autour de la ville de Tequila. DO stricte, patrimoine UNESCO, spiritueux emblématique du Mexique.",
+      "en": "Distilled from Weber blue agave grown in the red volcanic soils around Tequila town. Strict DO and UNESCO heritage, it's Mexico's iconic spirit."
+    },
+    "tags": [
+      "Spirit",
+      "DO",
+      "UNESCO"
+    ]
+  },
+  {
+    "id": "ig-cannelle-ceylan",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cannelle de Ceylan",
+      "en": "Ceylon cinnamon"
+    },
+    "region": "Matale, hauts plateaux",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      7.4675,
+      80.6234
+    ],
+    "description": {
+      "fr": "La \"vraie cannelle\" est écorcée à la main sur les jeunes pousses de Cinnamomum verum au Sri Lanka. Sa saveur subtile et florale la distingue nettement de la cannelle chinoise plus commune.",
+      "en": "\"True cinnamon\" is hand-peeled from young Cinnamomum verum shoots in Sri Lanka. Its subtle floral flavor clearly sets it apart from the more common Chinese cinnamon."
+    },
+    "tags": [
+      "Spice",
+      "Artisanal",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-muscade-grenade",
+    "category": "ingredient",
+    "name": {
+      "fr": "Muscade de Grenade",
+      "en": "Grenada nutmeg"
+    },
+    "region": "Gouyave, Saint John Parish",
+    "country": {
+      "fr": "Grenade",
+      "en": "Grenada"
+    },
+    "countryCode": "GD",
+    "coordinates": [
+      12.167,
+      -61.7333
+    ],
+    "description": {
+      "fr": "Surnommée \"l'île aux épices\", la Grenade produit environ 20 % de la muscade mondiale. Ses sols volcaniques et son climat tropical donnent des noix particulièrement aromatiques.",
+      "en": "Nicknamed the \"Spice Isle,\" Grenada produces around 20% of the world's nutmeg. Volcanic soils and tropical climate yield particularly fragrant nuts."
+    },
+    "tags": [
+      "Spice",
+      "Volcanic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-girofle-zanzibar",
+    "category": "ingredient",
+    "name": {
+      "fr": "Clous de girofle de Zanzibar",
+      "en": "Zanzibar cloves"
+    },
+    "region": "Pemba, archipel de Zanzibar",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -5.1667,
+      39.7833
+    ],
+    "description": {
+      "fr": "L'île de Pemba abrite plus de trois millions de girofliers et fournit la majorité des clous de girofle du monde. L'humidité équatoriale en fait une épice charnue et huileuse.",
+      "en": "Pemba island hosts over three million clove trees and supplies most of the world's cloves. Equatorial humidity produces a fleshy, oil-rich spice."
+    },
+    "tags": [
+      "Spice",
+      "Insular",
+      "Tropical"
+    ]
+  },
+  {
+    "id": "ig-oranges-valencia",
+    "category": "ingredient",
+    "name": {
+      "fr": "Orange de Valence",
+      "en": "Valencia orange"
+    },
+    "region": "Valence, Communauté valencienne",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      39.4699,
+      -0.3763
+    ],
+    "description": {
+      "fr": "Les huertas de Valence, irriguées par les canaux hérités des Maures, produisent des oranges gorgées de soleil au jus abondant. Devenue la référence mondiale du jus frais.",
+      "en": "Valencia's huertas, irrigated by canals inherited from the Moors, yield sun-drenched juicy oranges. It has become the world reference for fresh juice."
+    },
+    "tags": [
+      "Fruit",
+      "Mediterranean",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-noix-grenoble",
+    "category": "ingredient",
+    "name": {
+      "fr": "Noix de Grenoble",
+      "en": "Grenoble walnut"
+    },
+    "region": "Vallée de l'Isère, Dauphiné",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ],
+    "description": {
+      "fr": "Première AOC fruitière de France (1938), la noix de Grenoble bénéficie des sols alluvionnaires de l'Isère et du climat continental montagnard. Trois variétés : Franquette, Mayette et Parisienne.",
+      "en": "The first fruit AOC in France (1938), the Grenoble walnut thrives on the Isère's alluvial soils and continental mountain climate. Three varieties: Franquette, Mayette and Parisienne."
+    },
+    "tags": [
+      "Nut",
+      "PDO",
+      "Alpine"
+    ]
+  },
+  {
+    "id": "ig-prosciutto-parma",
+    "category": "ingredient",
+    "name": {
+      "fr": "Prosciutto de Parme",
+      "en": "Prosciutto di Parma"
+    },
+    "region": "Langhirano, Émilie-Romagne",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      44.6217,
+      10.2586
+    ],
+    "description": {
+      "fr": "Séché au grand air dans les collines de Langhirano, ce jambon AOP ne connaît que sel, temps et courants d'air. Minimum 14 mois d'affinage pour une chair douce marquée de la ducale.",
+      "en": "Air-dried in the hills of Langhirano, this PDO ham knows only salt, time and airflow. At least 14 months of aging yield sweet flesh crowned with the ducal mark."
+    },
+    "tags": [
+      "Meat",
+      "PDO",
+      "Cured"
+    ]
+  },
+  {
+    "id": "ig-lardo-colonnata",
+    "category": "ingredient",
+    "name": {
+      "fr": "Lardo de Colonnata",
+      "en": "Colonnata lard"
+    },
+    "region": "Colonnata, Alpes apuanes",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      44.07,
+      10.147
+    ],
+    "description": {
+      "fr": "Le lardo IGP mature dans des bacs de marbre de Carrare avec des herbes aromatiques et des épices. Six mois minimum dans les caves fraîches de Colonnata pour un gras fondant et parfumé.",
+      "en": "This PGI lardo cures in Carrara marble tubs with aromatic herbs and spices. Minimum six months in Colonnata's cool cellars produce melting, fragrant fat."
+    },
+    "tags": [
+      "Meat",
+      "PGI",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-saucisse-morteau",
+    "category": "ingredient",
+    "name": {
+      "fr": "Saucisse de Morteau",
+      "en": "Morteau sausage"
+    },
+    "region": "Morteau, Haut-Doubs",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      47.0561,
+      6.6081
+    ],
+    "description": {
+      "fr": "Cette saucisse fumée IGP est séchée dans les tuyés, cheminées pyramidales des fermes comtoises, avec de la sciure de résineux. Un fumage lent qui donne son goût de sous-bois si caractéristique.",
+      "en": "This PGI smoked sausage is dried in tuyés, the pyramid chimneys of Comté farms, using conifer sawdust. Slow smoking gives it its signature woodsy taste."
+    },
+    "tags": [
+      "Meat",
+      "PGI",
+      "Smoked"
+    ]
+  },
+  {
+    "id": "ig-poulet-bresse",
+    "category": "ingredient",
+    "name": {
+      "fr": "Poulet de Bresse",
+      "en": "Bresse chicken"
+    },
+    "region": "Bourg-en-Bresse, Ain",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      46.2044,
+      5.2258
+    ],
+    "description": {
+      "fr": "Seule volaille au monde bénéficiant d'une AOP, le poulet de Bresse aux pattes bleues est élevé en plein air minimum 4 mois. Chair fine, gras nacré et goût inégalable.",
+      "en": "The only poultry in the world with a PDO, the blue-footed Bresse chicken is raised free-range for at least 4 months. Fine flesh, pearly fat and unmatched flavor."
+    },
+    "tags": [
+      "Meat",
+      "PDO",
+      "Free-range"
+    ]
+  },
+  {
+    "id": "ig-cajou-mozambique",
+    "category": "ingredient",
+    "name": {
+      "fr": "Noix de cajou de Nampula",
+      "en": "Nampula cashew nut"
+    },
+    "region": "Nampula, nord du Mozambique",
+    "country": {
+      "fr": "Mozambique",
+      "en": "Mozambique"
+    },
+    "countryCode": "MZ",
+    "coordinates": [
+      -15.1165,
+      39.2666
+    ],
+    "description": {
+      "fr": "Le Mozambique fut jadis premier producteur mondial. Les anacardiers du Nampula, replantés depuis les années 2000, redonnent au pays des cajous à la texture crémeuse et au goût beurré.",
+      "en": "Mozambique was once the world's top producer. Nampula's cashew trees, replanted since the 2000s, again yield cashews with creamy texture and buttery taste."
+    },
+    "tags": [
+      "Nut",
+      "Tropical",
+      "Artisanal"
+    ]
+  },
+  {
+    "id": "ig-brie-meaux",
+    "category": "ingredient",
+    "name": {
+      "fr": "Brie de Meaux",
+      "en": "Brie de Meaux"
+    },
+    "region": "Meaux, Seine-et-Marne",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.9605,
+      2.8781
+    ],
+    "description": {
+      "fr": "Sacré \"roi des fromages\" au Congrès de Vienne en 1815, le Brie de Meaux AOP est un fromage à croûte fleurie au lait cru, affiné 4 semaines. Onctueux, il évoque les champignons et les fruits secs.",
+      "en": "Crowned \"king of cheeses\" at the 1815 Congress of Vienna, PDO Brie de Meaux is a raw-milk bloomy-rind cheese aged 4 weeks. Creamy, evoking mushrooms and dried fruits."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-mozzarella-bufala",
+    "category": "ingredient",
+    "name": {
+      "fr": "Mozzarella di Bufala Campana",
+      "en": "Buffalo mozzarella from Campania"
+    },
+    "region": "Caserta, Campanie",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      41.074,
+      14.332
+    ],
+    "description": {
+      "fr": "Fabriquée avec le lait de bufflonnes élevées dans les plaines humides de Campanie, cette mozzarella AOP est filée à la main. Fraîche, elle offre une texture élastique et un goût lactique intense.",
+      "en": "Made from buffalo milk in Campania's humid plains, this PDO mozzarella is hand-stretched. Fresh, it delivers elastic texture and intense lactic flavor."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Fresh"
+    ]
+  },
+  {
+    "id": "ig-cheddar-somerset",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cheddar du Somerset",
+      "en": "Somerset Cheddar"
+    },
+    "region": "Cheddar, Somerset",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      51.279,
+      -2.7738
+    ],
+    "description": {
+      "fr": "Le West Country Farmhouse Cheddar AOP est produit dans le Somerset selon des méthodes ancestrales, affiné dans les gorges naturelles de Cheddar. Il développe umami et cristaux à maturité.",
+      "en": "PDO West Country Farmhouse Cheddar is made in Somerset by traditional methods, aged in Cheddar's natural gorge caves. It develops umami and crystals at full maturity."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-feta-thessalie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Feta de Thessalie",
+      "en": "Thessaly feta"
+    },
+    "region": "Thessalie, plaine centrale",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      39.55,
+      21.7679
+    ],
+    "description": {
+      "fr": "Fromage grec par excellence, la feta AOP est fabriquée avec du lait de brebis et un peu de chèvre, dans des zones précises comme la Thessalie. Saumurée, elle a un goût piquant et salé.",
+      "en": "Greece's iconic cheese, PDO feta is made from sheep milk with a touch of goat, in specific areas like Thessaly. Brined, it delivers a tangy salty flavor."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Brined"
+    ]
+  },
+  {
+    "id": "ig-camembert-normandie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Camembert de Normandie",
+      "en": "Normandy Camembert"
+    },
+    "region": "Camembert, Orne",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.8681,
+      -0.1867
+    ],
+    "description": {
+      "fr": "Créé au XVIIIe siècle par Marie Harel, le camembert AOP normand est moulé à la louche avec du lait cru de vaches normandes. Croûte fleurie, cœur crémeux, arômes puissants.",
+      "en": "Created in the 18th century by Marie Harel, PDO Normandy camembert is hand-ladled from raw Normandy cow's milk. Bloomy rind, creamy heart and powerful aromas."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-comte-jura",
+    "category": "ingredient",
+    "name": {
+      "fr": "Comté du Jura",
+      "en": "Comté from Jura"
+    },
+    "region": "Massif du Jura, Franche-Comté",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      46.71,
+      6.345
+    ],
+    "description": {
+      "fr": "Fabriqué dans les fruitières jurassiennes à partir du lait des Montbéliardes, ce fromage AOP à pâte pressée cuite est affiné 4 à 36 mois. Aromatique et complexe.",
+      "en": "Made in Jura's fruitières from Montbéliarde cow's milk, this PDO cooked pressed cheese ages 4 to 36 months. Aromatic and complex."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Alpine"
+    ]
+  },
+  {
+    "id": "ig-gorgonzola-lombardie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Gorgonzola de Lombardie",
+      "en": "Lombardy Gorgonzola"
+    },
+    "region": "Gorgonzola, Lombardie",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      45.5303,
+      9.4064
+    ],
+    "description": {
+      "fr": "Ce bleu italien AOP, doux ou piccante, se distingue par ses veines vertes-bleutées et sa texture crémeuse. Produit en Lombardie et au Piémont selon un savoir-faire millénaire.",
+      "en": "This PDO Italian blue, dolce or piccante, features green-blue veins and creamy texture. Produced in Lombardy and Piedmont following millennia-old know-how."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Blue"
+    ]
+  },
+  {
+    "id": "ig-halloumi-chypre",
+    "category": "ingredient",
+    "name": {
+      "fr": "Halloumi de Chypre",
+      "en": "Cypriot halloumi"
+    },
+    "region": "Nicosie, Chypre",
+    "country": {
+      "fr": "Chypre",
+      "en": "Cyprus"
+    },
+    "countryCode": "CY",
+    "coordinates": [
+      35.1856,
+      33.3823
+    ],
+    "description": {
+      "fr": "Fromage traditionnel chypriote AOP à base de laits de brebis et de chèvre. Sa texture unique lui permet d'être grillé sans fondre, un incontournable du barbecue méditerranéen.",
+      "en": "Traditional PDO Cypriot cheese from sheep and goat milk. Its unique texture lets it grill without melting, a Mediterranean barbecue essential."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Grilled"
+    ]
+  },
+  {
+    "id": "ig-manchego-mancha",
+    "category": "ingredient",
+    "name": {
+      "fr": "Manchego de La Manche",
+      "en": "Manchego from La Mancha"
+    },
+    "region": "La Manche, Castille",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      39.0,
+      -3.1
+    ],
+    "description": {
+      "fr": "Fabriqué exclusivement avec le lait cru des brebis Manchega paissant sur les plateaux arides de La Manche. AOP, croûte gravée du motif tressé caractéristique, chair pressée aux notes de noisette.",
+      "en": "Made exclusively from raw milk of Manchega sheep grazing La Mancha's arid plateaus. PDO, with the signature basket-weave rind pattern and hazelnut-noted pressed paste."
+    },
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Sheep"
+    ]
+  },
+  {
+    "id": "ig-the-darjeeling",
+    "category": "ingredient",
+    "name": {
+      "fr": "Thé Darjeeling",
+      "en": "Darjeeling tea"
+    },
+    "region": "Darjeeling, Bengale-Occidental",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      27.036,
+      88.2627
+    ],
+    "description": {
+      "fr": "Cultivé en altitude dans les contreforts himalayens sur les jardins historiques, le Darjeeling est surnommé \"champagne des thés\". Première boisson au monde à obtenir une IGP en Inde.",
+      "en": "Grown at altitude on historic Himalayan foothill estates, Darjeeling is called the \"champagne of teas.\" India's first beverage to earn a GI tag."
+    },
+    "tags": [
+      "Tea",
+      "GI",
+      "Altitude"
+    ]
+  },
+  {
+    "id": "ig-the-longjing",
+    "category": "ingredient",
+    "name": {
+      "fr": "Thé Longjing de Hangzhou",
+      "en": "Hangzhou Longjing tea"
+    },
+    "region": "West Lake, Hangzhou",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      30.2331,
+      120.1211
+    ],
+    "description": {
+      "fr": "Ce thé vert \"puits du dragon\" est cultivé autour du lac de l'Ouest depuis 1 200 ans. Ses feuilles pressées à la main délivrent une liqueur jaune-vert aux notes de châtaigne grillée.",
+      "en": "The \"dragon well\" green tea has been grown around West Lake for 1,200 years. Its hand-pressed leaves yield a yellow-green liquor with roasted chestnut notes."
+    },
+    "tags": [
+      "Tea",
+      "Traditional",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-cacao-tabasco",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cacao de Tabasco",
+      "en": "Tabasco cacao"
+    },
+    "region": "Comalcalco, Tabasco",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      18.2731,
+      -93.2172
+    ],
+    "description": {
+      "fr": "Berceau du cacao domestiqué par les Olmèques, Tabasco produit un cacao criollo aux arômes puissants et floraux. Un patrimoine génétique unique préservé par les paysans mexicains.",
+      "en": "Cradle of cacao domesticated by the Olmecs, Tabasco produces criollo cacao with powerful floral aromas. A unique genetic heritage preserved by Mexican farmers."
+    },
+    "tags": [
+      "Cacao",
+      "Ancestral",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-thon-almadraba",
+    "category": "ingredient",
+    "name": {
+      "fr": "Thon rouge de l'Almadraba",
+      "en": "Almadraba bluefin tuna"
+    },
+    "region": "Cadix, Andalousie",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      36.5297,
+      -6.2925
+    ],
+    "description": {
+      "fr": "Pêché au large de Cadix selon la technique millénaire de l'almadraba lors de la migration atlantique-méditerranéenne, ce thon rouge est prisé pour sa chair grasse et rubis.",
+      "en": "Caught off Cadiz using the millennia-old almadraba technique during the Atlantic-Mediterranean migration, this bluefin is prized for its fatty ruby flesh."
+    },
+    "tags": [
+      "Fish",
+      "Wild",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-saumon-loch-fyne",
+    "category": "ingredient",
+    "name": {
+      "fr": "Saumon fumé du Loch Fyne",
+      "en": "Loch Fyne smoked salmon"
+    },
+    "region": "Loch Fyne, Argyll",
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      56.0272,
+      -5.3719
+    ],
+    "description": {
+      "fr": "Fumé lentement sur des copeaux de chêne dans les Highlands, ce saumon écossais offre une chair dense et parfumée. Une tradition perpétuée par des fumoirs artisanaux depuis 1978.",
+      "en": "Slowly smoked over oak chips in the Highlands, this Scottish salmon delivers dense, fragrant flesh. A tradition perpetuated by artisan smokehouses since 1978."
+    },
+    "tags": [
+      "Fish",
+      "Smoked",
+      "Artisanal"
+    ]
+  },
+  {
+    "id": "ig-caviar-caspienne",
+    "category": "ingredient",
+    "name": {
+      "fr": "Caviar Beluga de la Caspienne",
+      "en": "Caspian Beluga caviar"
+    },
+    "region": "Astrakhan, delta de la Volga",
+    "country": {
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    "countryCode": "RU",
+    "coordinates": [
+      46.3479,
+      48.0336
+    ],
+    "description": {
+      "fr": "Le delta de la Volga et la mer Caspienne ont longtemps produit les grains les plus précieux du monde, issus du beluga. Ce caviar aux perles grises est le plus rare et le plus recherché.",
+      "en": "The Volga delta and the Caspian Sea long produced the world's most prized beluga sturgeon eggs. This caviar of pearly gray grains is the rarest and most sought-after."
+    },
+    "tags": [
+      "Seafood",
+      "Premium",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-morue-lofoten",
+    "category": "ingredient",
+    "name": {
+      "fr": "Morue des Lofoten",
+      "en": "Lofoten cod"
+    },
+    "region": "Lofoten, mer de Norvège",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      68.214,
+      14.5602
+    ],
+    "description": {
+      "fr": "Chaque hiver, la morue skrei migre dans les eaux glacées des Lofoten pour frayer. Séchée à l'air libre en stockfisk selon une tradition viking, elle offre une chair concentrée en umami.",
+      "en": "Each winter, skrei cod migrates to Lofoten's icy waters to spawn. Air-dried into stockfish following a Viking tradition, it delivers umami-concentrated flesh."
+    },
+    "tags": [
+      "Fish",
+      "Wild",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-anchois-collioure",
+    "category": "ingredient",
+    "name": {
+      "fr": "Anchois de Collioure",
+      "en": "Collioure anchovy"
+    },
+    "region": "Collioure, Côte Vermeille",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      42.5257,
+      3.0834
+    ],
+    "description": {
+      "fr": "Salés à la main dans des tonneaux de bois selon une méthode catalane du XIVe siècle, les anchois IGP de Collioure sont fondants et parfumés. Un savoir-faire préservé par quelques familles.",
+      "en": "Hand-salted in wooden barrels using a 14th-century Catalan method, PGI Collioure anchovies are melting and fragrant. A craft preserved by a few families."
+    },
+    "tags": [
+      "Fish",
+      "PGI",
+      "Artisanal"
+    ]
+  },
+  {
+    "id": "ig-piment-espelette",
+    "category": "ingredient",
+    "name": {
+      "fr": "Piment d'Espelette",
+      "en": "Espelette pepper"
+    },
+    "region": "Espelette, Pays basque",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.3406,
+      -1.4453
+    ],
+    "description": {
+      "fr": "Introduit du Mexique au XVIe siècle, le piment d'Espelette AOP sèche sur les façades des maisons basques. Doux et fruité, il est devenu l'épice emblématique de la cuisine basque.",
+      "en": "Introduced from Mexico in the 16th century, PDO Espelette pepper dries on Basque house facades. Mild and fruity, it has become the emblematic spice of Basque cuisine."
+    },
+    "tags": [
+      "Spice",
+      "PDO",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-poivre-penja",
+    "category": "ingredient",
+    "name": {
+      "fr": "Poivre blanc de Penja",
+      "en": "Penja white pepper"
+    },
+    "region": "Penja, vallée du Moungo",
+    "country": {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+    },
+    "countryCode": "CM",
+    "coordinates": [
+      4.6472,
+      9.7014
+    ],
+    "description": {
+      "fr": "Cultivé sur les sols volcaniques de la vallée du Moungo, ce poivre IGP à grains ronds et blancs est puissant, boisé et légèrement musqué. Le premier produit africain à obtenir une IGP.",
+      "en": "Grown on the volcanic soils of the Moungo valley, this PGI white pepper with round pearly grains is powerful, woody and slightly musky. The first African product to earn a PGI."
+    },
+    "tags": [
+      "Spice",
+      "PGI",
+      "Volcanic"
+    ]
+  },
+  {
+    "id": "ig-cardamome-kerala",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cardamome verte du Kerala",
+      "en": "Kerala green cardamom"
+    },
+    "region": "Idukki, Ghâts occidentaux",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      9.9189,
+      77.1025
+    ],
+    "description": {
+      "fr": "Cultivée sur les collines humides et ombragées des Ghâts occidentaux, la cardamome verte du Kerala est charnue et intensément aromatique. La \"reine des épices\" indienne.",
+      "en": "Grown on the humid shaded hills of the Western Ghats, Kerala's green cardamom is plump and intensely aromatic. India's \"queen of spices.\""
+    },
+    "tags": [
+      "Spice",
+      "Aromatic",
+      "Terroir"
+    ]
+  },
+  {
+    "id": "ig-curcuma-alleppey",
+    "category": "ingredient",
+    "name": {
+      "fr": "Curcuma d'Alleppey",
+      "en": "Alleppey turmeric"
+    },
+    "region": "Alleppey, Kerala",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      9.4981,
+      76.3388
+    ],
+    "description": {
+      "fr": "Le curcuma d'Alleppey se distingue par sa haute teneur en curcumine (jusqu'à 6,5 %) et sa couleur orange vif. Cultivé dans les backwaters humides du Kerala.",
+      "en": "Alleppey turmeric stands out for its high curcumin content (up to 6.5%) and vivid orange color. Grown in Kerala's humid backwaters."
+    },
+    "tags": [
+      "Spice",
+      "Medicinal",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-huile-toscane",
+    "category": "ingredient",
+    "name": {
+      "fr": "Huile d'olive de Toscane",
+      "en": "Tuscan olive oil"
+    },
+    "region": "Toscane, collines florentines",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      43.7711,
+      11.2486
+    ],
+    "description": {
+      "fr": "Récoltée à la main sur les collines toscanes IGP, cette huile verte au piquant caractéristique est un condiment. Les cépages Frantoio et Moraiolo lui donnent ses notes herbacées et poivrées.",
+      "en": "Hand-harvested on Tuscan PGI hills, this green, distinctly peppery oil is a condiment in its own right. Frantoio and Moraiolo varietals give it herbal, peppery notes."
+    },
+    "tags": [
+      "Oil",
+      "PGI",
+      "Terroir"
+    ]
+  },
+  {
+    "id": "ig-vinaigre-modene",
+    "category": "ingredient",
+    "name": {
+      "fr": "Vinaigre balsamique de Modène",
+      "en": "Modena balsamic vinegar"
+    },
+    "region": "Modène, Émilie-Romagne",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      44.6478,
+      10.9252
+    ],
+    "description": {
+      "fr": "Le tradizionale de Modène AOP est un moût de raisin cuit vieilli 12 à 25 ans en batterie de fûts de bois différents. Un nectar sirupeux au goût acidulé et boisé.",
+      "en": "PDO Modena Traditional is cooked grape must aged 12 to 25 years in a battery of casks of different woods. A syrupy nectar with tangy woody flavors."
+    },
+    "tags": [
+      "Vinegar",
+      "PDO",
+      "Aged"
+    ]
+  },
+  {
+    "id": "ig-sake-nada",
+    "category": "ingredient",
+    "name": {
+      "fr": "Saké de Nada",
+      "en": "Nada sake"
+    },
+    "region": "Nada, Kobe",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.7192,
+      135.2306
+    ],
+    "description": {
+      "fr": "Nada-Gogō, capitale historique du saké depuis 400 ans, doit sa qualité au Miyamizu, une eau minérale idéale pour la fermentation. Sakés secs et corsés y sont brassés à Kobe.",
+      "en": "Nada-Gogō, sake's historic capital for 400 years, owes its quality to Miyamizu, mineral water ideal for fermentation. Dry, robust sakes are brewed in Kobe."
+    },
+    "tags": [
+      "Spirit",
+      "Traditional",
+      "Fermented"
+    ]
+  },
+  {
+    "id": "ig-porto-douro",
+    "category": "ingredient",
+    "name": {
+      "fr": "Porto du Douro",
+      "en": "Douro port wine"
+    },
+    "region": "Vallée du Douro, Alto Douro",
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal"
+    },
+    "countryCode": "PT",
+    "coordinates": [
+      41.1497,
+      -7.51
+    ],
+    "description": {
+      "fr": "Vieillies dans les chais de Vila Nova de Gaia, les vignes en terrasses du Douro (UNESCO) donnent un vin muté au brandy aux notes de fruits confits et de noix.",
+      "en": "Aged in Vila Nova de Gaia's cellars, the Douro's terraced vineyards (UNESCO) produce a brandy-fortified wine with candied fruit and nut notes."
+    },
+    "tags": [
+      "Wine",
+      "PDO",
+      "UNESCO"
+    ]
+  },
+  {
+    "id": "ig-tokaji-tokaj",
+    "category": "ingredient",
+    "name": {
+      "fr": "Tokaji Aszú de Tokaj",
+      "en": "Tokaji Aszú from Tokaj"
+    },
+    "region": "Tokaj, Bodrog",
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary"
+    },
+    "countryCode": "HU",
+    "coordinates": [
+      48.1214,
+      21.4113
+    ],
+    "description": {
+      "fr": "Louis XIV le surnommait \"vin des rois, roi des vins\". Le Tokaji Aszú est un vin liquoreux issu de raisins botrytisés, mûri dans des caves creusées dans le tuf volcanique.",
+      "en": "Louis XIV called it \"wine of kings, king of wines.\" Tokaji Aszú is a sweet wine made from botrytized grapes, aged in cellars carved into volcanic tuff."
+    },
+    "tags": [
+      "Wine",
+      "Sweet",
+      "Historic"
+    ]
+  },
+  {
+    "id": "ig-skyr-islande",
+    "category": "ingredient",
+    "name": {
+      "fr": "Skyr islandais",
+      "en": "Icelandic skyr"
+    },
+    "region": "Reykjavik, Islande",
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland"
+    },
+    "countryCode": "IS",
+    "coordinates": [
+      64.1466,
+      -21.9426
+    ],
+    "description": {
+      "fr": "Le skyr, sorte de fromage frais islandais consommé depuis les Vikings, est produit à partir de lait écrémé fermenté. Onctueux, riche en protéines, il est un pilier de la culture nordique.",
+      "en": "Skyr, a fresh Icelandic cheese enjoyed since the Vikings, is made from fermented skimmed milk. Creamy and protein-rich, it's a Nordic dietary pillar."
+    },
+    "tags": [
+      "Dairy",
+      "Traditional",
+      "Nordic"
+    ]
+  },
+  {
+    "id": "ig-shiitake-oita",
+    "category": "ingredient",
+    "name": {
+      "fr": "Shiitake d'Oita",
+      "en": "Oita shiitake"
+    },
+    "region": "Oita, Kyūshū",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      33.2382,
+      131.6126
+    ],
+    "description": {
+      "fr": "La préfecture d'Oita produit le meilleur donko, ce shiitake séché à chapeau épais et fissuré, cultivé sur des rondins de chêne. Umami profond et arômes forestiers exceptionnels.",
+      "en": "Oita prefecture produces the finest donko, this thick-capped cracked dried shiitake grown on oak logs. Deep umami and exceptional forest aromas."
+    },
+    "tags": [
+      "Mushroom",
+      "Dried",
+      "Umami"
+    ]
+  },
+  {
+    "id": "ig-oignon-cevennes",
+    "category": "ingredient",
+    "name": {
+      "fr": "Oignon doux des Cévennes",
+      "en": "Cévennes sweet onion"
+    },
+    "region": "Cévennes, Gard",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      44.15,
+      3.6
+    ],
+    "description": {
+      "fr": "Cultivé sur les terrasses en pierre sèche des Cévennes, cet oignon AOP est particulièrement doux, sucré et sans amertume. Un patrimoine paysan préservé par une centaine de producteurs.",
+      "en": "Grown on the dry-stone terraces of the Cévennes, this PDO onion is uniquely mild, sweet and free of bitterness. A peasant heritage preserved by a hundred growers."
+    },
+    "tags": [
+      "Vegetable",
+      "PDO",
+      "Terrace"
+    ]
+  },
+  {
+    "id": "ig-lentille-puy",
+    "category": "ingredient",
+    "name": {
+      "fr": "Lentille verte du Puy",
+      "en": "Puy green lentil"
+    },
+    "region": "Le Puy-en-Velay, Haute-Loire",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.0428,
+      3.885
+    ],
+    "description": {
+      "fr": "Première légumineuse à obtenir une AOC en 1996, la lentille verte du Puy pousse sur les hauts plateaux volcaniques du Velay. Sa peau fine et son goût de noisette la distinguent.",
+      "en": "The first legume to obtain an AOC in 1996, Puy green lentil grows on the volcanic plateaus of Velay. Its thin skin and hazelnut flavor set it apart."
+    },
+    "tags": [
+      "Legume",
+      "PDO",
+      "Volcanic"
+    ]
+  },
+  {
+    "id": "ig-riz-koshihikari-niigata",
+    "category": "ingredient",
+    "name": {
+      "fr": "Riz Koshihikari de Niigata",
+      "en": "Niigata Koshihikari rice"
+    },
+    "region": "Uonuma, Niigata",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      37.0623,
+      138.9091
+    ],
+    "description": {
+      "fr": "Le Koshihikari cultivé dans les rizières d'Uonuma, arrosées par la fonte des neiges des Alpes japonaises, est classé Tokujō, le plus haut grade. Grains brillants, moelleux et légèrement sucrés.",
+      "en": "Koshihikari grown in Uonuma's paddies, watered by Japanese Alps snowmelt, is graded Tokujō, the highest. Shiny, chewy, slightly sweet grains."
+    },
+    "tags": [
+      "Grain",
+      "Iconic",
+      "Premium"
+    ]
+  },
+  {
+    "id": "ig-cafe-kona-hawai",
+    "category": "ingredient",
+    "name": {
+      "fr": "Café Kona de Hawaï",
+      "en": "Hawaii Kona coffee"
+    },
+    "region": "Kona, Big Island",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      19.64,
+      -155.9969
+    ],
+    "description": {
+      "fr": "Cultivé sur les pentes volcaniques du Mauna Loa et du Hualalai, le Kona bénéficie d'un microclimat rare : soleil du matin, nuages l'après-midi. Un des cafés les plus rares et prestigieux au monde.",
+      "en": "Grown on the volcanic slopes of Mauna Loa and Hualalai, Kona enjoys a rare microclimate: morning sun, afternoon clouds. One of the world's rarest and most prestigious coffees."
+    },
+    "tags": [
+      "Coffee",
+      "Volcanic",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-cafe-colombie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Café de Colombie",
+      "en": "Colombian coffee"
+    },
+    "region": "Eje Cafetero, Quindío",
+    "country": {
+      "fr": "Colombie",
+      "en": "Colombia"
+    },
+    "countryCode": "CO",
+    "coordinates": [
+      4.461,
+      -75.702
+    ],
+    "description": {
+      "fr": "Le triangle du café colombien, classé UNESCO, produit un Arabica lavé aux notes équilibrées de caramel et de fruits rouges. Cueilli à la main sur les pentes andines.",
+      "en": "Colombia's UNESCO-listed coffee triangle produces washed Arabica with balanced caramel and red fruit notes. Hand-picked on the Andean slopes."
+    },
+    "tags": [
+      "Coffee",
+      "UNESCO",
+      "Andean"
+    ]
+  },
+  {
+    "id": "ig-cacao-kilombero",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cacao Kokoa de Kilombero",
+      "en": "Kilombero Kokoa cacao"
+    },
+    "region": "Kilombero, région de Morogoro",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -8.9169,
+      36.5
+    ],
+    "description": {
+      "fr": "Cultivé par des petits producteurs dans la vallée de Kilombero, ce cacao trinitario propose des notes de fruits rouges, café et raisin. Une nouvelle référence des chocolatiers bean-to-bar.",
+      "en": "Grown by smallholders in the Kilombero valley, this trinitario cacao offers red fruit, coffee and raisin notes. A new reference for bean-to-bar chocolatiers."
+    },
+    "tags": [
+      "Cacao",
+      "Craft",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": "ig-malbec-mendoza",
+    "category": "ingredient",
+    "name": {
+      "fr": "Malbec de Mendoza",
+      "en": "Mendoza Malbec"
+    },
+    "region": "Valle de Uco, Mendoza",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -33.5,
+      -69.1667
+    ],
+    "description": {
+      "fr": "Le Malbec a trouvé en Argentine son terroir d'excellence : les vignes de Mendoza cultivées jusqu'à 1 500 mètres au pied des Andes donnent des vins puissants aux tanins soyeux et aux notes de fruits noirs.",
+      "en": "Malbec found its terroir of excellence in Argentina: Mendoza vineyards planted up to 1,500 meters at the foot of the Andes yield powerful wines with silky tannins and dark fruit notes."
+    },
+    "tags": [
+      "Wine",
+      "Altitude",
+      "Andean"
+    ]
+  },
+  {
+    "id": "ig-whisky-islay",
+    "category": "ingredient",
+    "name": {
+      "fr": "Whisky d'Islay",
+      "en": "Islay whisky"
+    },
+    "region": "Islay, Hébrides intérieures",
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      55.7889,
+      -6.1861
+    ],
+    "description": {
+      "fr": "L'île d'Islay produit les single malts les plus tourbés au monde, séchant l'orge à la fumée de tourbe locale. Notes iodées, médicinales et fumées inimitables sculptées par l'Atlantique.",
+      "en": "The island of Islay produces the world's most peated single malts, drying barley over local peat smoke. Iodine, medicinal and smoky notes sculpted by the Atlantic."
+    },
+    "tags": [
+      "Spirit",
+      "Terroir",
+      "Peated"
+    ]
+  },
+  {
+    "id": "ig-truffe-blanche-alba",
+    "category": "ingredient",
+    "name": {
+      "fr": "Truffe blanche d'Alba",
+      "en": "Alba white truffle"
+    },
+    "region": "Alba, Piémont",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      44.7009,
+      8.0356
+    ],
+    "description": {
+      "fr": "Ne poussant qu'en automne dans les Langhe autour d'Alba, la truffe blanche est le champignon le plus cher du monde. Son parfum entêtant d'ail et de fromage se déguste crue, râpée.",
+      "en": "Growing only in autumn in the Langhe hills around Alba, the white truffle is the world's most expensive mushroom. Its heady garlic-and-cheese aroma is enjoyed raw, shaved."
+    },
+    "tags": [
+      "Mushroom",
+      "Rare",
+      "Premium"
+    ]
+  },
+  {
+    "id": "ig-chataigne-corse",
+    "category": "ingredient",
+    "name": {
+      "fr": "Farine de châtaigne corse",
+      "en": "Corsican chestnut flour"
+    },
+    "region": "Castagniccia, Haute-Corse",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      42.3833,
+      9.4667
+    ],
+    "description": {
+      "fr": "Séchée dans les fumoirs traditionnels puis moulue à la pierre, la farine de châtaigne AOP corse est douce et légèrement fumée. Base historique de l'alimentation insulaire.",
+      "en": "Dried in traditional smokehouses then stone-milled, PDO Corsican chestnut flour is sweet and lightly smoked. A historic base of the island's diet."
+    },
+    "tags": [
+      "Flour",
+      "PDO",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "ig-canneberge-quebec",
+    "category": "ingredient",
+    "name": {
+      "fr": "Canneberge du Québec",
+      "en": "Quebec cranberry"
+    },
+    "region": "Centre-du-Québec, Bécancour",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      46.3378,
+      -72.4356
+    ],
+    "description": {
+      "fr": "Le Québec est deuxième producteur mondial de canneberges, cultivées dans des tourbières inondées. Ces baies rouges acidulées sont un pilier de la culture gastronomique nord-américaine.",
+      "en": "Quebec is the world's second-largest cranberry producer, farmed in flooded bogs. These tart red berries are a pillar of North American food culture."
+    },
+    "tags": [
+      "Fruit",
+      "Nordic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-scotch-bonnet-jamaique",
+    "category": "ingredient",
+    "name": {
+      "fr": "Piment Scotch Bonnet",
+      "en": "Jamaican Scotch Bonnet"
+    },
+    "region": "Kingston, Jamaïque",
+    "country": {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+    },
+    "countryCode": "JM",
+    "coordinates": [
+      17.977,
+      -76.7936
+    ],
+    "description": {
+      "fr": "Star de la cuisine caribéenne, le Scotch Bonnet allie feu intense et arôme fruité tropical. Base du jerk et des sauces piquantes de la Jamaïque et de tout l'archipel.",
+      "en": "Star of Caribbean cuisine, the Scotch Bonnet combines fierce heat with tropical fruity aroma. Foundation of jerk and hot sauces across Jamaica and the archipelago."
+    },
+    "tags": [
+      "Spice",
+      "Tropical",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-aji-amarillo-perou",
+    "category": "ingredient",
+    "name": {
+      "fr": "Ají amarillo du Pérou",
+      "en": "Peruvian ají amarillo"
+    },
+    "region": "Vallée de l'Ica, côte pacifique",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -14.0678,
+      -75.7286
+    ],
+    "description": {
+      "fr": "Le piment jaune star de la cuisine péruvienne pousse sur la côte pacifique. Sa saveur fruitée et sa chaleur modérée en font l'ingrédient signature du cebiche et de l'ají de gallina.",
+      "en": "The yellow chili star of Peruvian cuisine grows on the Pacific coast. Its fruity flavor and moderate heat make it the signature ingredient of ceviche and ají de gallina."
+    },
+    "tags": [
+      "Spice",
+      "Andean",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "ig-yaourt-ioannina",
+    "category": "ingredient",
+    "name": {
+      "fr": "Yaourt grec de Ioannina",
+      "en": "Ioannina Greek yogurt"
+    },
+    "region": "Épire, Ioannina",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      39.665,
+      20.8537
+    ],
+    "description": {
+      "fr": "Fabriqué avec le lait des brebis élevées dans les montagnes de l'Épire, le yaourt grec traditionnel est égoutté sur toile jusqu'à obtenir une texture dense et onctueuse.",
+      "en": "Made from milk of sheep raised in the Epirus mountains, traditional Greek yogurt is strained through cloth until dense and creamy."
+    },
+    "tags": [
+      "Dairy",
+      "Traditional",
+      "Mountain"
+    ]
+  },
+  {
+    "id": "ig-porc-bigorre",
+    "category": "ingredient",
+    "name": {
+      "fr": "Porc noir de Bigorre",
+      "en": "Black Bigorre pork"
+    },
+    "region": "Hautes-Pyrénées, Bigorre",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.08,
+      0.15
+    ],
+    "description": {
+      "fr": "Race pyrénéenne rustique sauvée de l'extinction, le porc noir de Bigorre AOP est élevé en plein air jusqu'à 2 ans. Chair persillée et gras aromatique, base du \"Noir de Bigorre\" séché.",
+      "en": "A rustic Pyrenean breed saved from extinction, the PDO black Bigorre pig is raised free-range for up to 2 years. Marbled meat and aromatic fat form the base of cured Noir de Bigorre."
+    },
+    "tags": [
+      "Meat",
+      "PDO",
+      "Rustic"
+    ]
+  },
+  {
+    "id": "ig-piment-gernika",
+    "category": "ingredient",
+    "name": {
+      "fr": "Piment de Gernika",
+      "en": "Gernika pepper"
+    },
+    "region": "Gernika, Biscaye",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      43.3117,
+      -2.6791
+    ],
+    "description": {
+      "fr": "Ce petit piment vert basque, cultivé sur la côte atlantique et frit en huile d'olive, est cousin du padrón mais plus régulier en douceur. Une IGP emblématique du Pays basque espagnol.",
+      "en": "This small green Basque pepper, grown on the Atlantic coast and flash-fried in olive oil, is padrón's cousin but more consistently mild. An emblematic PGI of the Spanish Basque Country."
+    },
+    "tags": [
+      "Vegetable",
+      "PGI",
+      "Basque"
+    ]
+  },
+  {
+    "id": "ig-miel-manuka",
+    "category": "ingredient",
+    "name": {
+      "fr": "Miel de Manuka",
+      "en": "Manuka honey"
+    },
+    "region": "East Cape, île du Nord",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -37.68,
+      178.5333
+    ],
+    "description": {
+      "fr": "Récolté par les abeilles butinant l'arbre de Manuka endémique, ce miel néo-zélandais est riche en méthylglyoxal aux propriétés antibactériennes uniques. Un superfood classé UMF.",
+      "en": "Collected by bees foraging the endemic Manuka tree, this New Zealand honey is rich in methylglyoxal with unique antibacterial properties. A UMF-graded superfood."
+    },
+    "tags": [
+      "Honey",
+      "Endemic",
+      "Medicinal"
+    ]
+  },
+  {
+    "id": "ig-poivre-timut-nepal",
+    "category": "ingredient",
+    "name": {
+      "fr": "Poivre Timut du Népal",
+      "en": "Nepalese Timut pepper"
+    },
+    "region": "Karnali, Himalaya népalais",
+    "country": {
+      "fr": "Népal",
+      "en": "Nepal"
+    },
+    "countryCode": "NP",
+    "coordinates": [
+      29.5,
+      82.0
+    ],
+    "description": {
+      "fr": "Cueilli à l'état sauvage sur les contreforts himalayens, ce poivre népalais du genre Zanthoxylum surprend par ses notes explosives de pamplemousse et de fruit de la passion.",
+      "en": "Hand-picked wild on the Himalayan foothills, this Nepalese Zanthoxylum pepper surprises with explosive notes of grapefruit and passion fruit."
+    },
+    "tags": [
+      "Spice",
+      "Wild",
+      "Aromatic"
+    ]
+  },
+  {
+    "id": "ig-timiz-ethiopie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Poivre long timiz d'Éthiopie",
+      "en": "Ethiopian timiz long pepper"
+    },
+    "region": "Kefa, sud-ouest éthiopien",
+    "country": {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      7.3167,
+      36.0333
+    ],
+    "description": {
+      "fr": "Baie sauvage récoltée dans les forêts primaires du berceau du café, le timiz délivre des notes de fumée, de cardamome et de café. Une épice ancestrale du berbéré éthiopien.",
+      "en": "A wild berry harvested in the primary forests of coffee's birthplace, timiz delivers smoky, cardamom and coffee notes. An ancestral spice of Ethiopian berbere."
+    },
+    "tags": [
+      "Spice",
+      "Wild",
+      "Ancestral"
+    ]
+  },
+  {
+    "id": "ig-huitre-belon",
+    "category": "ingredient",
+    "name": {
+      "fr": "Huître plate de Belon",
+      "en": "Belon flat oyster"
+    },
+    "region": "Rivière Belon, Finistère sud",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      47.8028,
+      -3.6858
+    ],
+    "description": {
+      "fr": "L'huître plate européenne affinée dans la rivière Belon développe un goût de noisette légendaire. La rencontre entre eau douce et mer y crée un terroir ostréicole unique.",
+      "en": "The European flat oyster finished in the Belon river develops its legendary hazelnut flavor. Fresh water meeting sea creates a unique oyster terroir."
+    },
+    "tags": [
+      "Seafood",
+      "Terroir",
+      "Rare"
+    ]
+  },
+  {
+    "id": "ig-cafe-geisha-panama",
+    "category": "ingredient",
+    "name": {
+      "fr": "Café Geisha de Boquete",
+      "en": "Boquete Geisha coffee"
+    },
+    "region": "Boquete, Chiriquí",
+    "country": {
+      "fr": "Panama",
+      "en": "Panama"
+    },
+    "countryCode": "PA",
+    "coordinates": [
+      8.7808,
+      -82.4386
+    ],
+    "description": {
+      "fr": "Cultivé dans les hauteurs volcaniques de Boquete, le Geisha panaméen a révolutionné le monde du café specialty avec ses notes explosives de jasmin, bergamote et fruits tropicaux.",
+      "en": "Grown at Boquete's volcanic altitudes, Panamanian Geisha revolutionized specialty coffee with explosive notes of jasmine, bergamot and tropical fruits."
+    },
+    "tags": [
+      "Coffee",
+      "Specialty",
+      "Volcanic"
+    ]
+  },
+  {
+    "id": "ig-angus-aberdeen",
+    "category": "ingredient",
+    "name": {
+      "fr": "Bœuf Aberdeen Angus",
+      "en": "Aberdeen Angus beef"
+    },
+    "region": "Aberdeenshire, Écosse",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      57.1497,
+      -2.0943
+    ],
+    "description": {
+      "fr": "Race écossaise originaire de l'Aberdeenshire, l'Angus est réputée pour son persillage et son goût prononcé. Élevée sur les prairies grasses du nord-est de l'Écosse depuis le XIXe siècle.",
+      "en": "A Scottish breed native to Aberdeenshire, Angus is famous for marbling and rich flavor. Raised on the lush pastures of northeast Scotland since the 19th century."
+    },
+    "tags": [
+      "Meat",
+      "Traditional",
+      "Breed"
+    ]
+  },
+  {
+    "id": "ig-riz-thai-hom-mali",
+    "category": "ingredient",
+    "name": {
+      "fr": "Riz jasmin Hom Mali",
+      "en": "Hom Mali jasmine rice"
+    },
+    "region": "Tung Kula Rong Hai, Isan",
+    "country": {
+      "fr": "Thaïlande",
+      "en": "Thailand"
+    },
+    "countryCode": "TH",
+    "coordinates": [
+      15.5,
+      103.5
+    ],
+    "description": {
+      "fr": "Le riz Hom Mali GI de la plaine Tung Kula Rong Hai est le plus prestigieux jasmin thaïlandais. Sol salin, sécheresse contrôlée : les conditions extrêmes concentrent le parfum floral légendaire.",
+      "en": "GI-protected Hom Mali rice from the Tung Kula Rong Hai plain is Thailand's most prestigious jasmine. Saline soil and controlled drought concentrate its legendary floral aroma."
+    },
+    "tags": [
+      "Grain",
+      "GI",
+      "Aromatic"
+    ]
+  },
+  {
+    "id": "ig-sel-himalaya-khewra",
+    "category": "ingredient",
+    "name": {
+      "fr": "Sel rose de l'Himalaya",
+      "en": "Himalayan pink salt"
+    },
+    "region": "Mine de Khewra, Punjab",
+    "country": {
+      "fr": "Pakistan",
+      "en": "Pakistan"
+    },
+    "countryCode": "PK",
+    "coordinates": [
+      32.6483,
+      73.0089
+    ],
+    "description": {
+      "fr": "Extrait à Khewra, deuxième plus grande mine de sel au monde, ce sel rose himalayen est un dépôt fossile vieux de 800 millions d'années, riche en minéraux et coloré par l'oxyde de fer.",
+      "en": "Mined at Khewra, the world's second-largest salt mine, this pink Himalayan salt is an 800-million-year-old fossil deposit rich in minerals and colored by iron oxide."
+    },
+    "tags": [
+      "Salt",
+      "Mineral",
+      "Fossil"
+    ]
+  }
+]

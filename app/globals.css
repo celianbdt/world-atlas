@@ -1,0 +1,217 @@
+@import "leaflet/dist/leaflet.css";
+@import "leaflet.markercluster/dist/MarkerCluster.css";
+@import "leaflet.markercluster/dist/MarkerCluster.Default.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#__next {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #0f0b06;
+  color: #d7c8a6;
+  font-family: var(--font-sans), -apple-system, "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* !important shields the ink theme from leaflet.css load-order (it was
+   painting the container grey and the popup white when bundled after us) */
+.leaflet-container {
+  height: 100vh;
+  width: 100vw;
+  background: #171009 !important;
+  font-family: var(--font-sans), inherit;
+}
+
+/* Warm the CARTO dark tiles toward brown parchment-ink */
+.leaflet-tile-pane {
+  filter: sepia(0.55) hue-rotate(-12deg) saturate(1.35) brightness(0.82) contrast(1.06);
+}
+
+/* ---------- Glassmorphism ---------- */
+.glass-panel {
+  background: rgba(17, 12, 7, 0.72);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(224, 207, 168, 0.14);
+}
+
+/* ---------- Atlas marker (photo ring, sepia placeholder fallback) ---------- */
+.atlas-marker {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 9999px;
+  width: 44px;
+  height: 44px;
+  border: 3px solid var(--marker-color, #c08a3e);
+  background:
+    radial-gradient(circle at 34% 28%, rgba(244, 236, 216, 0.14), transparent 55%),
+    radial-gradient(circle at 68% 78%, var(--marker-color, #c08a3e) 0%, transparent 72%),
+    #171009;
+  box-shadow:
+    0 8px 18px rgba(0, 0, 0, 0.8),
+    0 0 0 4px color-mix(in srgb, var(--marker-color, #c08a3e) 18%, transparent);
+  transition: width 140ms ease, height 140ms ease, box-shadow 140ms ease;
+  cursor: pointer;
+}
+.atlas-marker img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 9999px;
+  filter: sepia(0.28) saturate(0.85) contrast(1.05);
+}
+.atlas-marker:hover {
+  width: 54px;
+  height: 54px;
+  box-shadow:
+    0 10px 22px rgba(0, 0, 0, 0.85),
+    0 0 0 5px color-mix(in srgb, var(--marker-color, #c08a3e) 28%, transparent),
+    0 0 0 9px color-mix(in srgb, var(--marker-color, #c08a3e) 12%, transparent);
+}
+
+/* ---------- Clusters ---------- */
+.atlas-cluster {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  background:
+    radial-gradient(circle at 34% 28%, rgba(244, 236, 216, 0.16), transparent 55%),
+    #5b608c;
+  border: 2px solid rgba(244, 236, 216, 0.32);
+  color: #f4ecd8;
+  box-shadow:
+    0 10px 24px rgba(0, 0, 0, 0.75),
+    0 0 0 6px rgba(91, 96, 140, 0.2);
+}
+.atlas-cluster span {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background: transparent !important;
+}
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background: transparent !important;
+}
+
+/* ---------- Popup (ink glass, shielded from leaflet.css) ---------- */
+.leaflet-popup-content-wrapper {
+  background: rgba(23, 16, 9, 0.97) !important;
+  color: #d7c8a6 !important;
+  border-radius: 14px !important;
+  border: 1px solid rgba(224, 207, 168, 0.16);
+  box-shadow: 0 18px 40px -12px rgba(0, 0, 0, 0.85) !important;
+}
+.leaflet-popup-tip {
+  background: #171009 !important;
+  box-shadow: none !important;
+}
+.leaflet-popup-content {
+  margin: 12px 14px !important;
+  font-size: 13px;
+  line-height: 1.4;
+  font-family: var(--font-sans), inherit;
+  color: #d7c8a6;
+}
+.leaflet-popup-close-button {
+  color: #8a7a56 !important;
+}
+
+/* ---------- Leaflet controls, ink themed ---------- */
+.leaflet-bar a,
+.leaflet-bar a:hover {
+  background: #171009 !important;
+  color: #d7c8a6 !important;
+  border-bottom-color: #211a10 !important;
+}
+.leaflet-control-attribution {
+  background: rgba(17, 12, 7, 0.85) !important;
+  color: #7d6f52 !important;
+  font-family: var(--font-sans), inherit;
+}
+.leaflet-control-attribution a {
+  color: #c9b78d !important;
+}
+
+/* ---------- Scrollbars ---------- */
+.thin-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+.thin-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.thin-scroll::-webkit-scrollbar-thumb {
+  background: #211a10;
+  border-radius: 8px;
+}
+.thin-scroll::-webkit-scrollbar-thumb:hover {
+  background: #2c2416;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ---------- Panel entrance: slide-up on mobile, slide-in from right on desktop ---------- */
+@keyframes panel-in-mobile {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes panel-in-desktop {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.animate-panel {
+  animation: panel-in-mobile 220ms ease-out;
+}
+@media (min-width: 768px) {
+  .animate-panel {
+    animation: panel-in-desktop 200ms ease-out;
+  }
+}
+
+/* ---------- Loading spinner ---------- */
+@keyframes spin-slow {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.spinner-ring {
+  border: 2.5px solid rgba(224, 207, 168, 0.14);
+  border-top-color: #c08a3e;
+  border-radius: 9999px;
+  animation: spin-slow 900ms linear infinite;
+}

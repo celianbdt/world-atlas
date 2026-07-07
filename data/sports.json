@@ -1,0 +1,2240 @@
+[
+  {
+    "id": "sp-capoeira-bahia",
+    "category": "sport",
+    "name": {
+      "fr": "Capoeira",
+      "en": "Capoeira"
+    },
+    "region": "Salvador, Bahia",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -12.9714,
+      -38.5014
+    ],
+    "description": {
+      "fr": "Née dans les senzalas de Bahia, la capoeira est ce mélange de danse, de combat et de musique inventé par les esclaves africains pour s'entraîner sans se faire prendre. Salvador reste la roda mondiale, avec les écoles historiques de mestre Bimba et mestre Pastinha.",
+      "en": "Born in the slave quarters of Bahia, capoeira mixes dance, fight and music, invented by African slaves to train without getting caught. Salvador remains the global roda, home to the legendary schools of Mestre Bimba and Mestre Pastinha."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rugendasroda.jpg/330px-Rugendasroda.jpg"
+  },
+  {
+    "id": "sp-muay-thai-bangkok",
+    "category": "sport",
+    "name": {
+      "fr": "Muay-thaï",
+      "en": "Muay Thai"
+    },
+    "region": "Bangkok",
+    "country": {
+      "fr": "Thaïlande",
+      "en": "Thailand"
+    },
+    "countryCode": "TH",
+    "coordinates": [
+      13.7563,
+      100.5018
+    ],
+    "description": {
+      "fr": "Le stade Rajadamnern et le Lumpinee de Bangkok sont les temples du muay-thaï, où se joue chaque semaine l'élite des huit membres. La capitale concentre les camps historiques et les combats officiels sanctionnés par la couronne.",
+      "en": "Rajadamnern and Lumpinee stadiums in Bangkok are the temples of Muay Thai, where the elite of the art of eight limbs fights every week. The capital concentrates the historic camps and the officially sanctioned bouts."
+    },
+    "tags": [
+      "Martial art",
+      "Combat sport",
+      "National"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg/330px-Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg"
+  },
+  {
+    "id": "sp-muay-thai-chiang-mai",
+    "category": "sport",
+    "name": {
+      "fr": "Muay-thaï",
+      "en": "Muay Thai"
+    },
+    "region": "Chiang Mai",
+    "country": {
+      "fr": "Thaïlande",
+      "en": "Thailand"
+    },
+    "countryCode": "TH",
+    "coordinates": [
+      18.7883,
+      98.9853
+    ],
+    "description": {
+      "fr": "Chiang Mai est devenue la Mecque des étrangers qui viennent s'entraîner des mois entiers dans les camps du nord. L'ambiance jungle et les tarifs plus doux qu'à Bangkok en font le laboratoire mondial du muay-thaï amateur et pro.",
+      "en": "Chiang Mai has become the Mecca for foreigners spending months training in northern camps. Its jungle vibe and softer prices than Bangkok make it the world's lab for amateur and pro Muay Thai."
+    },
+    "tags": [
+      "Martial art",
+      "Training hub",
+      "Combat sport"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg/330px-Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg"
+  },
+  {
+    "id": "sp-judo-kodokan-tokyo",
+    "category": "sport",
+    "name": {
+      "fr": "Judo",
+      "en": "Judo"
+    },
+    "region": "Kodokan, Tokyo",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.7016,
+      139.7522
+    ],
+    "description": {
+      "fr": "Le Kodokan fondé par Jigoro Kano en 1882 reste le siège mondial du judo. Chaque judoka de la planète rêve d'y poser un pied sur le tatami au moins une fois — c'est la source du code, des grades et de l'esprit.",
+      "en": "Founded by Jigoro Kano in 1882, the Kodokan remains judo's world headquarters. Every judoka dreams of stepping on its tatamis at least once — this is the source of the code, ranks and spirit."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Olympic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jigoro_Kano_and_Kyuzo_Mifune_%28restoration%29.jpg/330px-Jigoro_Kano_and_Kyuzo_Mifune_%28restoration%29.jpg"
+  },
+  {
+    "id": "sp-karate-okinawa",
+    "category": "sport",
+    "name": {
+      "fr": "Karaté",
+      "en": "Karate"
+    },
+    "region": "Okinawa",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      26.5013,
+      127.9455
+    ],
+    "description": {
+      "fr": "Le karaté est né à Okinawa, île longtemps désarmée où les habitants ont codifié un art à mains nues en croisant boxe chinoise et techniques locales. Naha, Shuri et Tomari abritent encore les dojos-souche des styles Shorin, Goju et Uechi.",
+      "en": "Karate was born in Okinawa, an island long disarmed where locals codified an empty-hand art mixing Chinese boxing with local techniques. Naha, Shuri and Tomari still host the root dojos of Shorin, Goju and Uechi styles."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hanashiro_Chomo.jpg/330px-Hanashiro_Chomo.jpg"
+  },
+  {
+    "id": "sp-sumo-tokyo",
+    "category": "sport",
+    "name": {
+      "fr": "Sumo",
+      "en": "Sumo"
+    },
+    "region": "Ryogoku, Tokyo",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.6969,
+      139.7933
+    ],
+    "description": {
+      "fr": "Le quartier de Ryogoku abrite le Kokugikan, la grande arène des tournois officiels, et la plupart des heya où vivent les rikishi. Impossible de comprendre le sumo sans avoir vu un basho depuis l'aube.",
+      "en": "Ryogoku hosts the Kokugikan, the great arena of official tournaments, and most of the heya where rikishi live. You can't grasp sumo without watching a basho there from the early hours."
+    },
+    "tags": [
+      "Martial art",
+      "National",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Asashoryu_fight_Jan08.JPG/330px-Asashoryu_fight_Jan08.JPG"
+  },
+  {
+    "id": "sp-taekwondo-seoul",
+    "category": "sport",
+    "name": {
+      "fr": "Taekwondo",
+      "en": "Taekwondo"
+    },
+    "region": "Kukkiwon, Séoul",
+    "country": {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+    },
+    "countryCode": "KR",
+    "coordinates": [
+      37.535,
+      127.0083
+    ],
+    "description": {
+      "fr": "Le Kukkiwon de Séoul est le siège mondial du taekwondo et délivre les dan officiels reconnus partout. La Corée du Sud a codifié ce style de coups de pied hauts en art martial national et olympique.",
+      "en": "Seoul's Kukkiwon is taekwondo's world headquarters and issues the official dan grades recognized everywhere. South Korea codified this high-kicking style into a national and Olympic martial art."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Olympic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg/330px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg"
+  },
+  {
+    "id": "sp-kung-fu-shaolin",
+    "category": "sport",
+    "name": {
+      "fr": "Kung-fu Shaolin",
+      "en": "Shaolin Kung Fu"
+    },
+    "region": "Monastère de Shaolin, Henan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      34.509,
+      112.9358
+    ],
+    "description": {
+      "fr": "Le monastère de Shaolin, au pied du mont Song, a donné son nom à l'école qui a façonné les arts martiaux chinois pendant quinze siècles. Les écoles alentour forment aujourd'hui des dizaines de milliers d'élèves venus de la Chine entière.",
+      "en": "The Shaolin Monastery, at the foot of Mount Song, gave its name to the school that shaped Chinese martial arts for fifteen centuries. Surrounding schools now train tens of thousands of students from across China."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Shi_DeRu_and_Shi_DeYang.jpg/330px-Shi_DeRu_and_Shi_DeYang.jpg"
+  },
+  {
+    "id": "sp-krav-maga-tel-aviv",
+    "category": "sport",
+    "name": {
+      "fr": "Krav maga",
+      "en": "Krav Maga"
+    },
+    "region": "Tel-Aviv",
+    "country": {
+      "fr": "Israël",
+      "en": "Israel"
+    },
+    "countryCode": "IL",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "description": {
+      "fr": "Développé par Imi Lichtenfeld pour l'armée israélienne, le krav maga a été codifié à Netanya puis diffusé depuis Tel-Aviv. C'est là que se forment les instructeurs civils et militaires de la planète.",
+      "en": "Developed by Imi Lichtenfeld for the Israeli army, Krav Maga was codified in Netanya and spread from Tel Aviv. This is where civilian and military instructors from around the world get certified."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Self-defense"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kravmaga.jpg/330px-Kravmaga.jpg"
+  },
+  {
+    "id": "sp-kalaripayattu-kerala",
+    "category": "sport",
+    "name": {
+      "fr": "Kalaripayattu",
+      "en": "Kalaripayattu"
+    },
+    "region": "Kerala",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      10.8505,
+      76.2711
+    ],
+    "description": {
+      "fr": "Considéré comme l'un des plus vieux arts martiaux du monde, le kalaripayattu se pratique dans les kalari, fosses en terre battue du Kerala. Il mêle combat armé, thérapie ayurvédique et gymnastique acrobatique.",
+      "en": "Considered one of the world's oldest martial arts, Kalaripayattu is practiced in kalari, earth pits found across Kerala. It blends armed combat, Ayurvedic therapy and acrobatic gymnastics."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kalari_Pattu.jpg/330px-Kalari_Pattu.jpg"
+  },
+  {
+    "id": "sp-silat-sumatra",
+    "category": "sport",
+    "name": {
+      "fr": "Silat",
+      "en": "Silat"
+    },
+    "region": "Minangkabau, Sumatra Ouest",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -0.9471,
+      100.4172
+    ],
+    "description": {
+      "fr": "Le silat trouve ses racines chez les Minangkabau de Sumatra, où chaque village avait son école (perguruan). C'est le berceau du pencak silat, aujourd'hui reconnu à l'UNESCO et pratiqué de la Malaisie aux Philippines.",
+      "en": "Silat traces its roots to the Minangkabau of Sumatra, where every village had its own perguruan (school). This is the cradle of Pencak Silat, now UNESCO-recognized and practiced from Malaysia to the Philippines."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Silat_%28vietnamese%29.jpg/330px-Silat_%28vietnamese%29.jpg"
+  },
+  {
+    "id": "sp-aikido-iwama",
+    "category": "sport",
+    "name": {
+      "fr": "Aïkido",
+      "en": "Aikido"
+    },
+    "region": "Iwama, Ibaraki",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      36.3167,
+      140.3167
+    ],
+    "description": {
+      "fr": "C'est à Iwama que Morihei Ueshiba a passé la fin de sa vie et affiné l'aïkido moderne dans son dojo de campagne. Les uchi-deshi du monde entier viennent encore y suivre le style tel qu'il l'a laissé.",
+      "en": "It's in Iwama that Morihei Ueshiba spent his later years refining modern aikido in his countryside dojo. Uchi-deshi from around the world still travel there to study the style as he left it."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Shihonage.jpg/330px-Shihonage.jpg"
+  },
+  {
+    "id": "sp-sambo-moscow",
+    "category": "sport",
+    "name": {
+      "fr": "Sambo",
+      "en": "Sambo"
+    },
+    "region": "Moscou",
+    "country": {
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    "countryCode": "RU",
+    "coordinates": [
+      55.7558,
+      37.6173
+    ],
+    "description": {
+      "fr": "Développé dans les années 1920 pour l'Armée rouge, le sambo est né dans les salles de Moscou en croisant judo, lutte libre et grappling caucasien. C'est le socle technique de la nouvelle vague MMA russe.",
+      "en": "Developed in the 1920s for the Red Army, Sambo emerged from Moscow's gyms as a blend of judo, freestyle wrestling and Caucasian grappling. It's the technical backbone of the new wave of Russian MMA."
+    },
+    "tags": [
+      "Martial art",
+      "Origin",
+      "Combat sport"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sambo_at_the_2015_European_Games.jpg/330px-Sambo_at_the_2015_European_Games.jpg"
+  },
+  {
+    "id": "sp-lucha-libre-mexico",
+    "category": "sport",
+    "name": {
+      "fr": "Lucha libre",
+      "en": "Lucha Libre"
+    },
+    "region": "Mexico",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      19.4326,
+      -99.1332
+    ],
+    "description": {
+      "fr": "L'Arena México et l'Arena Coliseo sont les cathédrales de la lucha libre, où les luchadores masqués se produisent trois soirs par semaine depuis les années 1930. C'est un pilier de la culture populaire mexicaine.",
+      "en": "Arena México and Arena Coliseo are the cathedrals of lucha libre, where masked luchadores have performed three nights a week since the 1930s. It's a pillar of Mexican popular culture."
+    },
+    "tags": [
+      "Wrestling",
+      "Cultural",
+      "Origin"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mano_a_mano_entre_Magia_Blanca_y_Rey_Comenta_en_la_Arena_M%C3%A9xico_17.jpg/330px-Mano_a_mano_entre_Magia_Blanca_y_Rey_Comenta_en_la_Arena_M%C3%A9xico_17.jpg"
+  },
+  {
+    "id": "sp-mma-las-vegas",
+    "category": "sport",
+    "name": {
+      "fr": "MMA",
+      "en": "MMA"
+    },
+    "region": "Las Vegas",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      36.1699,
+      -115.1398
+    ],
+    "description": {
+      "fr": "Depuis que l'UFC a installé son APEX à Las Vegas, la ville est le centre mondial du MMA. Les meilleurs camps (Xtreme Couture, Syndicate) et la T-Mobile Arena en font le passage obligé de tout combattant qui vise le sommet.",
+      "en": "Ever since the UFC set up its APEX in Las Vegas, the city has been MMA's global hub. Top camps like Xtreme Couture and Syndicate plus the T-Mobile Arena make it a must-stop for any fighter chasing the top."
+    },
+    "tags": [
+      "Combat sport",
+      "Mecca",
+      "Professional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/UFC_131_Carwin_vs._JDS.jpg/330px-UFC_131_Carwin_vs._JDS.jpg"
+  },
+  {
+    "id": "sp-boxing-havana",
+    "category": "sport",
+    "name": {
+      "fr": "Boxe",
+      "en": "Boxing"
+    },
+    "region": "La Havane",
+    "country": {
+      "fr": "Cuba",
+      "en": "Cuba"
+    },
+    "countryCode": "CU",
+    "coordinates": [
+      23.1136,
+      -82.3666
+    ],
+    "description": {
+      "fr": "La salle Rafael Trejo, à ciel ouvert dans la vieille Havane, produit depuis les années 1960 la moitié des champions olympiques de boxe. L'école cubaine (jambes, jab, distance) reste la référence amateur mondiale.",
+      "en": "The open-air Rafael Trejo gym in Old Havana has produced half of the world's Olympic boxing champions since the 1960s. The Cuban school — footwork, jab, distance — remains the global amateur benchmark."
+    },
+    "tags": [
+      "Combat sport",
+      "Olympic",
+      "School"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Boxing_Tournament_in_Aid_of_King_George%27s_Fund_For_Sailors_at_the_Royal_Naval_Air_Station%2C_Henstridge%2C_Somerset%2C_July_1945_A29806.jpg/330px-Boxing_Tournament_in_Aid_of_King_George%27s_Fund_For_Sailors_at_the_Royal_Naval_Air_Station%2C_Henstridge%2C_Somerset%2C_July_1945_A29806.jpg"
+  },
+  {
+    "id": "sp-surf-nazare",
+    "category": "sport",
+    "name": {
+      "fr": "Surf",
+      "en": "Surfing"
+    },
+    "region": "Nazaré",
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal"
+    },
+    "countryCode": "PT",
+    "coordinates": [
+      39.6008,
+      -9.071
+    ],
+    "description": {
+      "fr": "Le canyon sous-marin de Nazaré transforme les houles d'Atlantique nord en murs de 25 mètres. Depuis McNamara en 2011, c'est LE spot mondial de big wave où se jouent les records de vagues chevauchées.",
+      "en": "The underwater canyon off Nazaré turns North Atlantic swells into 25-meter walls. Ever since McNamara's 2011 ride, it has been THE global big wave spot where surfed-wave records are set."
+    },
+    "tags": [
+      "Surf",
+      "Big wave",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/330px-Mavericks_Surf_Contest_2010b.jpg"
+  },
+  {
+    "id": "sp-surf-teahupoo",
+    "category": "sport",
+    "name": {
+      "fr": "Surf",
+      "en": "Surfing"
+    },
+    "region": "Teahupoo, Tahiti",
+    "country": {
+      "fr": "Polynésie française",
+      "en": "French Polynesia"
+    },
+    "countryCode": "PF",
+    "coordinates": [
+      -17.8461,
+      -149.2669
+    ],
+    "description": {
+      "fr": "La vague de Teahupoo casse sur un platier de corail à quelques centimètres sous la surface, générant le tube le plus lourd du monde. Le Tahiti Pro et les Jeux olympiques 2024 y ont confirmé son statut mythique.",
+      "en": "Teahupoo breaks over a coral reef just inches below the surface, producing the heaviest tube in the world. The Tahiti Pro and the 2024 Olympics confirmed its mythical status."
+    },
+    "tags": [
+      "Surf",
+      "Big wave",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/330px-Mavericks_Surf_Contest_2010b.jpg"
+  },
+  {
+    "id": "sp-surf-pipeline",
+    "category": "sport",
+    "name": {
+      "fr": "Surf",
+      "en": "Surfing"
+    },
+    "region": "Pipeline, Oahu",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      21.6653,
+      -158.0533
+    ],
+    "description": {
+      "fr": "Sur la North Shore d'Oahu, Banzai Pipeline reste le tube le plus filmé de la planète et l'étalon absolu du surf pro depuis les années 1960. Toutes les carrières de charger se jaugent à Pipe.",
+      "en": "On Oahu's North Shore, Banzai Pipeline is still the most filmed tube on earth and the absolute yardstick of pro surfing since the 1960s. Every charger's career is measured against Pipe."
+    },
+    "tags": [
+      "Surf",
+      "Legendary spot",
+      "Pro tour"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/330px-Mavericks_Surf_Contest_2010b.jpg"
+  },
+  {
+    "id": "sp-surf-uluwatu",
+    "category": "sport",
+    "name": {
+      "fr": "Surf",
+      "en": "Surfing"
+    },
+    "region": "Uluwatu, Bali",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -8.8291,
+      115.0879
+    ],
+    "description": {
+      "fr": "Uluwatu déroule une gauche parfaite au pied de la falaise du temple, et sert de spot de référence pour toute la génération surf de Bali depuis les années 70. Le paradis des goofy footers.",
+      "en": "Uluwatu peels a perfect left below the temple cliff and has been the reference spot for every Bali surfing generation since the 70s. Goofy footer paradise."
+    },
+    "tags": [
+      "Surf",
+      "Legendary spot",
+      "Reef"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/330px-Mavericks_Surf_Contest_2010b.jpg"
+  },
+  {
+    "id": "sp-surf-jbay",
+    "category": "sport",
+    "name": {
+      "fr": "Surf",
+      "en": "Surfing"
+    },
+    "region": "Jeffreys Bay",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -34.0507,
+      24.9281
+    ],
+    "description": {
+      "fr": "Supertubes à J-Bay est considérée comme la droite la plus parfaite du monde, un mur de 300 mètres qui déroule sur les rochers d'Eastern Cape. Étape mythique du Championship Tour.",
+      "en": "Supertubes at J-Bay is widely considered the world's most perfect right, a 300-meter wall peeling over Eastern Cape rocks. A mythical stop on the Championship Tour."
+    },
+    "tags": [
+      "Surf",
+      "Legendary spot",
+      "Pro tour"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/330px-Mavericks_Surf_Contest_2010b.jpg"
+  },
+  {
+    "id": "sp-surf-byron-bay",
+    "category": "sport",
+    "name": {
+      "fr": "Surf",
+      "en": "Surfing"
+    },
+    "region": "Byron Bay",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -28.6474,
+      153.602
+    ],
+    "description": {
+      "fr": "Byron Bay a fait naître le longboard moderne dans les années 60 et reste le cœur de la culture surf australienne. The Pass et Wategos sont des classiques quotidiens pour toute la côte est.",
+      "en": "Byron Bay birthed modern longboarding in the 60s and remains the heart of Australian surf culture. The Pass and Wategos are daily classics for the entire east coast."
+    },
+    "tags": [
+      "Surf",
+      "Longboard",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/330px-Mavericks_Surf_Contest_2010b.jpg"
+  },
+  {
+    "id": "sp-surf-hossegor",
+    "category": "sport",
+    "name": {
+      "fr": "Surf",
+      "en": "Surfing"
+    },
+    "region": "Hossegor, Landes",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.6689,
+      -1.4356
+    ],
+    "description": {
+      "fr": "La fosse de Capbreton concentre les houles d'automne sur les beach breaks d'Hossegor, ce qui en fait la capitale européenne du surf pro. Le Quiksilver Pro y a écrit trente ans de highlights.",
+      "en": "The Capbreton trench focuses autumn swells onto Hossegor's beach breaks, making it Europe's pro surfing capital. The Quiksilver Pro produced thirty years of highlights here."
+    },
+    "tags": [
+      "Surf",
+      "Beach break",
+      "Pro tour"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/330px-Mavericks_Surf_Contest_2010b.jpg"
+  },
+  {
+    "id": "sp-snowboard-whistler",
+    "category": "sport",
+    "name": {
+      "fr": "Snowboard",
+      "en": "Snowboard"
+    },
+    "region": "Whistler, Colombie-Britannique",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      50.1163,
+      -122.9574
+    ],
+    "description": {
+      "fr": "Whistler-Blackcomb, plus grand domaine skiable d'Amérique du Nord, a été le laboratoire du snowboard freeride depuis les années 90. Le snowpark de Blackcomb et la neige coastal en font un aimant mondial.",
+      "en": "Whistler-Blackcomb, North America's biggest ski area, has been the freeride snowboard lab since the 90s. Blackcomb's park and the coastal snow make it a global magnet."
+    },
+    "tags": [
+      "Snowboard",
+      "Freeride",
+      "Mecca"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Snowboard_pow.jpg/330px-Snowboard_pow.jpg"
+  },
+  {
+    "id": "sp-snowboard-chamonix",
+    "category": "sport",
+    "name": {
+      "fr": "Snowboard",
+      "en": "Snowboard"
+    },
+    "region": "Chamonix, Haute-Savoie",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.9237,
+      6.8694
+    ],
+    "description": {
+      "fr": "Chamonix a inventé le snowboard alpinisme moderne avec les couloirs de la Vallée Blanche et les faces nord du Midi. C'est la Mecque européenne de la ride engagée en haute montagne.",
+      "en": "Chamonix invented modern snowboard alpinism through the Vallée Blanche couloirs and the Midi's north faces. It's the European mecca for high-mountain committed riding."
+    },
+    "tags": [
+      "Snowboard",
+      "Big mountain",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Snowboard_pow.jpg/330px-Snowboard_pow.jpg"
+  },
+  {
+    "id": "sp-skate-venice-beach",
+    "category": "sport",
+    "name": {
+      "fr": "Skateboard",
+      "en": "Skateboarding"
+    },
+    "region": "Venice Beach, Los Angeles",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      33.985,
+      -118.4695
+    ],
+    "description": {
+      "fr": "Le Dogtown des Z-Boys, les pools vides des années 70 et le skatepark en bord de plage font de Venice le berceau mythique du skate moderne. Chaque skateur qui passe à LA doit rouler ce sol.",
+      "en": "The Z-Boys' Dogtown, the empty pools of the 70s and the beachfront skatepark make Venice the mythical cradle of modern skateboarding. Every skater passing through LA has to roll that ground."
+    },
+    "tags": [
+      "Skate",
+      "Origin",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BackSmithGrind.jpg/330px-BackSmithGrind.jpg"
+  },
+  {
+    "id": "sp-skate-sao-paulo",
+    "category": "sport",
+    "name": {
+      "fr": "Skateboard",
+      "en": "Skateboarding"
+    },
+    "region": "São Paulo",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -23.5505,
+      -46.6333
+    ],
+    "description": {
+      "fr": "São Paulo est probablement la ville la plus dense en skateurs par mètre carré, du Museu de Arte au viaduc de Vila Madalena. La scène brésilienne s'y forme depuis Bob Burnquist jusqu'à Rayssa Leal.",
+      "en": "São Paulo is arguably the city with the highest skater density per square meter, from the Museu de Arte to the Vila Madalena viaduct. The Brazilian scene has grown up there from Bob Burnquist to Rayssa Leal."
+    },
+    "tags": [
+      "Skate",
+      "Street",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BackSmithGrind.jpg/330px-BackSmithGrind.jpg"
+  },
+  {
+    "id": "sp-skate-barcelona",
+    "category": "sport",
+    "name": {
+      "fr": "Skateboard",
+      "en": "Skateboarding"
+    },
+    "region": "Barcelone, Catalogne",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      41.3851,
+      2.1734
+    ],
+    "description": {
+      "fr": "MACBA, Sants, Paral·lel : Barcelone est la capitale mondiale du skate street depuis les années 2000, avec ses plaques de marbre lisse et sa lumière parfaite douze mois sur douze. Tous les pro riders y ont posé leur board.",
+      "en": "MACBA, Sants, Paral·lel: Barcelona has been the world capital of street skating since the 2000s, with its slick marble slabs and perfect light twelve months a year. Every pro rider has set their board there."
+    },
+    "tags": [
+      "Skate",
+      "Street",
+      "Mecca"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BackSmithGrind.jpg/330px-BackSmithGrind.jpg"
+  },
+  {
+    "id": "sp-kitesurf-tarifa",
+    "category": "sport",
+    "name": {
+      "fr": "Kitesurf",
+      "en": "Kitesurfing"
+    },
+    "region": "Tarifa, Andalousie",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      36.0128,
+      -5.6062
+    ],
+    "description": {
+      "fr": "Coincée entre Atlantique et Méditerranée, Tarifa reçoit le Levante et le Poniente presque 300 jours par an. C'est la capitale européenne du kite avec plus de 40 écoles alignées sur la plage de Los Lances.",
+      "en": "Wedged between Atlantic and Mediterranean, Tarifa catches the Levante and Poniente winds nearly 300 days a year. It's Europe's kite capital with 40+ schools lined up along Los Lances beach."
+    },
+    "tags": [
+      "Kitesurf",
+      "Wind sport",
+      "Mecca"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kitesurfing_Sotavento.jpg/330px-Kitesurfing_Sotavento.jpg"
+  },
+  {
+    "id": "sp-kitesurf-cape-town",
+    "category": "sport",
+    "name": {
+      "fr": "Kitesurf",
+      "en": "Kitesurfing"
+    },
+    "region": "Le Cap, Western Cape",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -33.9249,
+      18.4241
+    ],
+    "description": {
+      "fr": "Le Cape Doctor souffle en fournaise sur Blouberg et Langebaan, offrant l'un des meilleurs terrains de jeu big-air du monde. Le Red Bull King of the Air s'y dispute chaque hiver austral.",
+      "en": "The Cape Doctor blasts across Blouberg and Langebaan, creating one of the best big-air playgrounds on the planet. The Red Bull King of the Air runs there every austral winter."
+    },
+    "tags": [
+      "Kitesurf",
+      "Big air",
+      "Wind sport"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kitesurfing_Sotavento.jpg/330px-Kitesurfing_Sotavento.jpg"
+  },
+  {
+    "id": "sp-kitesurf-cabarete",
+    "category": "sport",
+    "name": {
+      "fr": "Kitesurf",
+      "en": "Kitesurfing"
+    },
+    "region": "Cabarete",
+    "country": {
+      "fr": "République dominicaine",
+      "en": "Dominican Republic"
+    },
+    "countryCode": "DO",
+    "coordinates": [
+      19.7583,
+      -70.4167
+    ],
+    "description": {
+      "fr": "Cabarete a bâti sa réputation dans les années 80 grâce aux alizés thermiques réguliers de la baie et à son eau à 27°C. C'est le laboratoire caribéen du kite freestyle.",
+      "en": "Cabarete built its reputation in the 80s thanks to the steady thermal trade winds in the bay and its 27°C water. It's the Caribbean lab for freestyle kite."
+    },
+    "tags": [
+      "Kitesurf",
+      "Wind sport",
+      "Training hub"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kitesurfing_Sotavento.jpg/330px-Kitesurfing_Sotavento.jpg"
+  },
+  {
+    "id": "sp-ski-kitzbuhel",
+    "category": "sport",
+    "name": {
+      "fr": "Ski alpin",
+      "en": "Alpine skiing"
+    },
+    "region": "Kitzbühel, Tyrol",
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria"
+    },
+    "countryCode": "AT",
+    "coordinates": [
+      47.4467,
+      12.3925
+    ],
+    "description": {
+      "fr": "La descente du Hahnenkamm à Kitzbühel est LA course la plus redoutée du cirque blanc — 3,3 km, 85 % de pente maximale, 100 000 spectateurs. La Streif est l'examen final de toute carrière de descendeur.",
+      "en": "The Hahnenkamm downhill at Kitzbühel is the most feared race on the White Circus — 3.3 km, 85% max gradient, 100,000 fans. The Streif is the final exam of every downhill career."
+    },
+    "tags": [
+      "Ski",
+      "World Cup",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alpine_skiing_pictogram.svg/330px-Alpine_skiing_pictogram.svg.png"
+  },
+  {
+    "id": "sp-ski-chamonix",
+    "category": "sport",
+    "name": {
+      "fr": "Ski alpin",
+      "en": "Alpine skiing"
+    },
+    "region": "Chamonix-Mont-Blanc",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.9237,
+      6.8694
+    ],
+    "description": {
+      "fr": "Berceau des premiers JO d'hiver en 1924 et royaume de la Vallée Blanche, Chamonix reste le carrefour mondial du ski alpin et alpinisme. Les faces des Grands Montets et de l'Aiguille du Midi forment les meilleurs freeriders.",
+      "en": "Cradle of the first Winter Olympics in 1924 and kingdom of the Vallée Blanche, Chamonix remains the world crossroads of alpine skiing and mountaineering. The Grands Montets and Aiguille du Midi faces forge the best freeriders."
+    },
+    "tags": [
+      "Ski",
+      "Freeride",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alpine_skiing_pictogram.svg/330px-Alpine_skiing_pictogram.svg.png"
+  },
+  {
+    "id": "sp-ski-val-gardena",
+    "category": "sport",
+    "name": {
+      "fr": "Ski alpin",
+      "en": "Alpine skiing"
+    },
+    "region": "Val Gardena, Dolomites",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      46.5788,
+      11.6739
+    ],
+    "description": {
+      "fr": "La Saslong de Val Gardena est une piste de Coupe du monde classique, disputée depuis 1969 dans le décor des Dolomites classées UNESCO. Le domaine du Sellaronda relie 500 km de pistes autour du massif.",
+      "en": "The Saslong in Val Gardena is a classic World Cup piste, raced every year since 1969 in the UNESCO-listed Dolomites. The Sellaronda area links 500 km of runs around the massif."
+    },
+    "tags": [
+      "Ski",
+      "World Cup",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alpine_skiing_pictogram.svg/330px-Alpine_skiing_pictogram.svg.png"
+  },
+  {
+    "id": "sp-ski-whistler",
+    "category": "sport",
+    "name": {
+      "fr": "Ski alpin",
+      "en": "Alpine skiing"
+    },
+    "region": "Whistler, Colombie-Britannique",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      50.1163,
+      -122.9574
+    ],
+    "description": {
+      "fr": "Site des JO 2010, Whistler-Blackcomb aligne 8 100 acres skiables et plus de 200 pistes. Sa longue saison et son enneigement côtier en font le passage obligé de la ride nord-américaine.",
+      "en": "Home of the 2010 Olympics, Whistler-Blackcomb offers 8,100 skiable acres and 200+ runs. Its long season and coastal snow make it a must-visit for North American skiing."
+    },
+    "tags": [
+      "Ski",
+      "Olympic",
+      "Freeride"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alpine_skiing_pictogram.svg/330px-Alpine_skiing_pictogram.svg.png"
+  },
+  {
+    "id": "sp-cross-country-lillehammer",
+    "category": "sport",
+    "name": {
+      "fr": "Ski de fond",
+      "en": "Cross-country skiing"
+    },
+    "region": "Lillehammer",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      61.1153,
+      10.4662
+    ],
+    "description": {
+      "fr": "Le stade de Birkebeineren, hôte des JO 1994, est le sanctuaire du ski de fond norvégien. La Birkebeinerrennet, marathon de 54 km, réunit chaque printemps 15 000 fondeurs déguisés en Vikings.",
+      "en": "Birkebeineren stadium, host of the 1994 Olympics, is the sanctuary of Norwegian cross-country skiing. The Birkebeinerrennet, a 54 km marathon, gathers 15,000 skiers dressed as Vikings every spring."
+    },
+    "tags": [
+      "Cross-country",
+      "Olympic",
+      "National"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trip_to_Skorafjell_1.jpg/330px-Trip_to_Skorafjell_1.jpg"
+  },
+  {
+    "id": "sp-freeride-la-grave",
+    "category": "sport",
+    "name": {
+      "fr": "Ski freeride",
+      "en": "Freeride skiing"
+    },
+    "region": "La Grave, Hautes-Alpes",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.045,
+      6.308
+    ],
+    "description": {
+      "fr": "La Grave n'a qu'un téléphérique, aucune piste balisée et 2 150 m de dénivelé de face de La Meije. C'est le temple européen du ski hors-piste engagé, réservé aux initiés.",
+      "en": "La Grave has just one cable car, no marked runs and 2,150 m of vertical off La Meije's face. It's the European temple of committed off-piste skiing, for experts only."
+    },
+    "tags": [
+      "Freeride",
+      "Off-piste",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Skiguides_freeriding_in_Lech.jpg/330px-Skiguides_freeriding_in_Lech.jpg"
+  },
+  {
+    "id": "sp-heliski-chugach",
+    "category": "sport",
+    "name": {
+      "fr": "Héliski",
+      "en": "Heli-skiing"
+    },
+    "region": "Chugach, Alaska",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      61,
+      -145.5
+    ],
+    "description": {
+      "fr": "Les faces de la Chugach Range, autour de Valdez et Haines, offrent le meilleur ratio pente/adhérence de la planète — la neige colle même à 55°. C'est la terre promise du grand ski steep filmé.",
+      "en": "The Chugach Range faces around Valdez and Haines offer the world's best slope-to-grip ratio — snow sticks even at 55°. It's the promised land of steep big-mountain filming."
+    },
+    "tags": [
+      "Heli-ski",
+      "Big mountain",
+      "Steep"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wikipedia_heliskiihng_heliboarding.jpg/330px-Wikipedia_heliskiihng_heliboarding.jpg"
+  },
+  {
+    "id": "sp-alpinism-chamonix",
+    "category": "sport",
+    "name": {
+      "fr": "Alpinisme",
+      "en": "Alpinism"
+    },
+    "region": "Chamonix-Mont-Blanc",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.9237,
+      6.8694
+    ],
+    "description": {
+      "fr": "La capitale mondiale de l'alpinisme depuis la première ascension du Mont Blanc en 1786. L'ENSA et la Compagnie des Guides forment ici les cadors des grandes courses des Alpes et de l'Himalaya.",
+      "en": "The world capital of alpinism since the first Mont Blanc ascent in 1786. The ENSA school and the Guide Company still train the top climbers tackling the Alps and Himalayas."
+    },
+    "tags": [
+      "Alpinism",
+      "Origin",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/M_Rainier.jpg/330px-M_Rainier.jpg"
+  },
+  {
+    "id": "sp-alpinism-zermatt",
+    "category": "sport",
+    "name": {
+      "fr": "Alpinisme",
+      "en": "Alpinism"
+    },
+    "region": "Zermatt, Valais",
+    "country": {
+      "fr": "Suisse",
+      "en": "Switzerland"
+    },
+    "countryCode": "CH",
+    "coordinates": [
+      46.0207,
+      7.7491
+    ],
+    "description": {
+      "fr": "Le Cervin domine Zermatt depuis 4 478 m et attire depuis Whymper en 1865 les cordées les plus ambitieuses. Les 38 sommets de plus de 4 000 m qui entourent le village en font un hub d'alpinisme classique.",
+      "en": "The Matterhorn towers over Zermatt at 4,478 m and has drawn the most ambitious rope teams since Whymper's 1865 ascent. The 38 peaks above 4,000 m around the village make it a classic alpinism hub."
+    },
+    "tags": [
+      "Alpinism",
+      "Legendary spot",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/M_Rainier.jpg/330px-M_Rainier.jpg"
+  },
+  {
+    "id": "sp-bouldering-fontainebleau",
+    "category": "sport",
+    "name": {
+      "fr": "Bloc",
+      "en": "Bouldering"
+    },
+    "region": "Forêt de Fontainebleau",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.4083,
+      2.7011
+    ],
+    "description": {
+      "fr": "Fontainebleau est le berceau du bloc moderne : depuis les années 1930, on y a inventé l'échelle de cotation, le crash pad, la méthode. 20 000 blocs numérotés dans la forêt, la plus dense concentration au monde.",
+      "en": "Fontainebleau is the cradle of modern bouldering: since the 1930s, the grading scale, crash pad and method were invented here. 20,000 numbered boulders in the forest — the densest concentration on earth."
+    },
+    "tags": [
+      "Climbing",
+      "Origin",
+      "Bouldering"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bouldering.jpg/330px-Bouldering.jpg"
+  },
+  {
+    "id": "sp-climbing-kalymnos",
+    "category": "sport",
+    "name": {
+      "fr": "Escalade sportive",
+      "en": "Sport climbing"
+    },
+    "region": "Kalymnos, Dodécanèse",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      36.9575,
+      26.9836
+    ],
+    "description": {
+      "fr": "Kalymnos aligne plus de 3 500 voies équipées sur ses falaises calcaires dominant la mer Égée. C'est la station balnéaire mondiale de l'escalade sportive, avec un festival annuel qui rassemble tous les pros.",
+      "en": "Kalymnos boasts 3,500+ bolted routes on limestone cliffs above the Aegean Sea. It's the world's beach resort of sport climbing, hosting an annual festival that draws every top climber."
+    },
+    "tags": [
+      "Climbing",
+      "Sport climbing",
+      "Mecca"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adam_Ondra_climbing_Silence_9c_by_PAVEL_BLAZEK_3.jpg/330px-Adam_Ondra_climbing_Silence_9c_by_PAVEL_BLAZEK_3.jpg"
+  },
+  {
+    "id": "sp-bigwall-yosemite",
+    "category": "sport",
+    "name": {
+      "fr": "Grande paroi",
+      "en": "Big wall climbing"
+    },
+    "region": "Yosemite Valley, Californie",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      37.7456,
+      -119.5936
+    ],
+    "description": {
+      "fr": "El Capitan et Half Dome ont défini la grande paroi moderne : Nose, Dawn Wall, Free Solo d'Alex Honnold, tout s'écrit sur ce granite de 1 000 m. Yosemite est la référence absolue.",
+      "en": "El Capitan and Half Dome defined modern big wall climbing: the Nose, the Dawn Wall, Alex Honnold's Free Solo — the whole story is written on this 1,000 m granite. Yosemite is the absolute reference."
+    },
+    "tags": [
+      "Climbing",
+      "Big wall",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Craig_DeMartino_on_Zodiac_on_El_Capitan.jpg/330px-Craig_DeMartino_on_Zodiac_on_El_Capitan.jpg"
+  },
+  {
+    "id": "sp-bouldering-rocklands",
+    "category": "sport",
+    "name": {
+      "fr": "Bloc",
+      "en": "Bouldering"
+    },
+    "region": "Rocklands, Cederberg",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -32.1833,
+      19.0167
+    ],
+    "description": {
+      "fr": "Rocklands offre pendant l'hiver austral une qualité de grès et une friction inégalées, sur des blocs orange plantés dans la savane. Les grimpeurs européens y débarquent en juillet-août pour tenter les cotations les plus dures du monde.",
+      "en": "During the austral winter, Rocklands offers unmatched sandstone and friction on orange boulders scattered across the savanna. European climbers land there in July-August to try the hardest boulders on earth."
+    },
+    "tags": [
+      "Climbing",
+      "Bouldering",
+      "Mecca"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bouldering.jpg/330px-Bouldering.jpg"
+  },
+  {
+    "id": "sp-multipitch-dolomites",
+    "category": "sport",
+    "name": {
+      "fr": "Grande voie",
+      "en": "Multi-pitch climbing"
+    },
+    "region": "Cortina d'Ampezzo, Dolomites",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      46.5405,
+      12.1358
+    ],
+    "description": {
+      "fr": "Les Tre Cime, la Marmolada et le Civetta font des Dolomites autour de Cortina la Mecque de la grande voie calcaire. Comici, Cassin, Messner ont tracé ici les lignes qui font rêver le monde depuis un siècle.",
+      "en": "The Tre Cime, Marmolada and Civetta make the Dolomites around Cortina the mecca of limestone multi-pitch climbing. Comici, Cassin, Messner traced here the lines the world has dreamt of for a century."
+    },
+    "tags": [
+      "Climbing",
+      "Multi-pitch",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Matteo_Della_Bordella_Non_%C3%A8_un_paese_per_vecchi.jpg/330px-Matteo_Della_Bordella_Non_%C3%A8_un_paese_per_vecchi.jpg"
+  },
+  {
+    "id": "sp-diving-palau",
+    "category": "sport",
+    "name": {
+      "fr": "Plongée sous-marine",
+      "en": "Scuba diving"
+    },
+    "region": "Palau",
+    "country": {
+      "fr": "Palaos",
+      "en": "Palau"
+    },
+    "countryCode": "PW",
+    "coordinates": [
+      7.515,
+      134.5825
+    ],
+    "description": {
+      "fr": "Blue Corner, Ulong Channel, Jellyfish Lake : Palau concentre les meilleurs sites de plongée du Pacifique. La densité de requins gris, mantas et thons y est unique au monde.",
+      "en": "Blue Corner, Ulong Channel, Jellyfish Lake: Palau concentrates the Pacific's finest dive sites. The density of grey sharks, mantas and tuna is unmatched worldwide."
+    },
+    "tags": [
+      "Diving",
+      "Mecca",
+      "Marine life"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Underwater_photograph_of_a_recreational_scuba_diver_in_Playa_del_Carmen_2006.jpg/330px-Underwater_photograph_of_a_recreational_scuba_diver_in_Playa_del_Carmen_2006.jpg"
+  },
+  {
+    "id": "sp-diving-great-barrier",
+    "category": "sport",
+    "name": {
+      "fr": "Plongée sous-marine",
+      "en": "Scuba diving"
+    },
+    "region": "Grande Barrière de Corail",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -16.2864,
+      145.7781
+    ],
+    "description": {
+      "fr": "2 300 km de récifs classés au patrimoine mondial — le plus grand ensemble corallien de la planète. Cairns et Port Douglas sont les portes d'entrée vers les sites mythiques d'Osprey Reef et Ribbon Reefs.",
+      "en": "2,300 km of World Heritage reef — the largest coral ecosystem on earth. Cairns and Port Douglas are the gateways to the mythical Osprey Reef and Ribbon Reefs."
+    },
+    "tags": [
+      "Diving",
+      "Reef",
+      "Marine life"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Underwater_photograph_of_a_recreational_scuba_diver_in_Playa_del_Carmen_2006.jpg/330px-Underwater_photograph_of_a_recreational_scuba_diver_in_Playa_del_Carmen_2006.jpg"
+  },
+  {
+    "id": "sp-freediving-dahab",
+    "category": "sport",
+    "name": {
+      "fr": "Apnée",
+      "en": "Freediving"
+    },
+    "region": "Dahab Blue Hole, Sinaï",
+    "country": {
+      "fr": "Égypte",
+      "en": "Egypt"
+    },
+    "countryCode": "EG",
+    "coordinates": [
+      28.5723,
+      34.5372
+    ],
+    "description": {
+      "fr": "Le Blue Hole de Dahab, gouffre calcaire de 130 m qui rejoint la mer Rouge par une arche à -55 m, est le terrain d'entraînement mondial de l'apnée profonde. C'est ici que se disputent les records annuels d'AIDA.",
+      "en": "Dahab's Blue Hole, a 130 m limestone sinkhole connected to the Red Sea via a -55 m arch, is the global training ground for deep freediving. This is where the yearly AIDA records get set."
+    },
+    "tags": [
+      "Freediving",
+      "Legendary spot",
+      "Deep water"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Agata_Bogusz_wrakowe.png/330px-Agata_Bogusz_wrakowe.png"
+  },
+  {
+    "id": "sp-fly-fishing-iceland",
+    "category": "sport",
+    "name": {
+      "fr": "Pêche à la mouche",
+      "en": "Fly fishing"
+    },
+    "region": "Rivière Laxá, Nord-Est",
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland"
+    },
+    "countryCode": "IS",
+    "coordinates": [
+      65.6167,
+      -17
+    ],
+    "description": {
+      "fr": "L'Islande est LA destination mondiale du saumon atlantique sauvage et de la truite de mer. La Laxá, la Big Laxá et la Ranga sont réservées à quelques pêcheurs par jour, ambiance moyen-âge et paysages lunaires.",
+      "en": "Iceland is THE global destination for wild Atlantic salmon and sea trout. The Laxá, Big Laxá and Ranga rivers are reserved for a handful of anglers per day — medieval vibe and moon-like landscapes."
+    },
+    "tags": [
+      "Fly fishing",
+      "Salmon",
+      "Wilderness"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flyfishing.jpg/330px-Flyfishing.jpg"
+  },
+  {
+    "id": "sp-rafting-zambezi",
+    "category": "sport",
+    "name": {
+      "fr": "Rafting",
+      "en": "Rafting"
+    },
+    "region": "Bas Zambèze, chutes Victoria",
+    "country": {
+      "fr": "Zambie",
+      "en": "Zambia"
+    },
+    "countryCode": "ZM",
+    "coordinates": [
+      -17.9243,
+      25.8572
+    ],
+    "description": {
+      "fr": "En aval des chutes Victoria, le Zambèze déroule 25 rapides de classe V dans les gorges de basalte. C'est la rivière la plus intense au monde ouverte au rafting commercial.",
+      "en": "Downstream of Victoria Falls, the Zambezi rolls out 25 class V rapids through basalt gorges. It's the most intense commercially rafted river in the world."
+    },
+    "tags": [
+      "Rafting",
+      "Whitewater",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Upstream_view_Colorado_River_approximatly_Mile_59.0.jpg/330px-Upstream_view_Colorado_River_approximatly_Mile_59.0.jpg"
+  },
+  {
+    "id": "sp-sailing-cowes",
+    "category": "sport",
+    "name": {
+      "fr": "Voile",
+      "en": "Sailing"
+    },
+    "region": "Cowes, île de Wight",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      50.7626,
+      -1.2982
+    ],
+    "description": {
+      "fr": "La Cowes Week, courue chaque année depuis 1826, est la plus vieille et plus prestigieuse régate au monde. Le Solent et le Royal Yacht Squadron ont façonné les règles internationales de la voile.",
+      "en": "Cowes Week, raced every year since 1826, is the oldest and most prestigious regatta in the world. The Solent and the Royal Yacht Squadron shaped international sailing rules."
+    },
+    "tags": [
+      "Sailing",
+      "Origin",
+      "Regatta"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Regattafeld_vor_Laboe.jpg/330px-Regattafeld_vor_Laboe.jpg"
+  },
+  {
+    "id": "sp-sailing-auckland",
+    "category": "sport",
+    "name": {
+      "fr": "Voile",
+      "en": "Sailing"
+    },
+    "region": "Auckland",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -36.8485,
+      174.7633
+    ],
+    "description": {
+      "fr": "Surnommée City of Sails, Auckland compte plus de bateaux par habitant que n'importe quelle ville du monde. La Nouvelle-Zélande y a organisé la Coupe de l'America à trois reprises depuis 2000.",
+      "en": "Nicknamed the City of Sails, Auckland has more boats per capita than any city on earth. New Zealand has hosted the America's Cup there three times since 2000."
+    },
+    "tags": [
+      "Sailing",
+      "America's Cup",
+      "National"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Regattafeld_vor_Laboe.jpg/330px-Regattafeld_vor_Laboe.jpg"
+  },
+  {
+    "id": "sp-rugby-all-blacks",
+    "category": "sport",
+    "name": {
+      "fr": "Rugby à XV",
+      "en": "Rugby union"
+    },
+    "region": "Auckland",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -36.8485,
+      174.7633
+    ],
+    "description": {
+      "fr": "Eden Park à Auckland est la forteresse imprenable des All Blacks, quasi invaincue depuis trente ans. Le rugby y est religion nationale, joué de l'école primaire aux clubs.",
+      "en": "Eden Park in Auckland is the All Blacks' near-unbeatable fortress, barely defeated at home in thirty years. Rugby is a national religion here, played from primary school to club level."
+    },
+    "tags": [
+      "Rugby",
+      "National",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2014_Women%27s_Six_Nations_Championship_-_France_Italy_%2851%29.jpg/330px-2014_Women%27s_Six_Nations_Championship_-_France_Italy_%2851%29.jpg"
+  },
+  {
+    "id": "sp-rugby-twickenham",
+    "category": "sport",
+    "name": {
+      "fr": "Rugby à XV",
+      "en": "Rugby union"
+    },
+    "region": "Twickenham, Londres",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      51.456,
+      -0.3417
+    ],
+    "description": {
+      "fr": "Twickenham, 82 000 places, est le siège de la RFU et le stade de rugby le plus grand du monde. Le rugby lui-même est né en 1823 à quelques kilomètres, à Rugby School.",
+      "en": "Twickenham, 82,000 seats, is the RFU's headquarters and the world's largest rugby stadium. Rugby itself was born in 1823 just a few miles away, at Rugby School."
+    },
+    "tags": [
+      "Rugby",
+      "Origin",
+      "Stadium"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2014_Women%27s_Six_Nations_Championship_-_France_Italy_%2851%29.jpg/330px-2014_Women%27s_Six_Nations_Championship_-_France_Italy_%2851%29.jpg"
+  },
+  {
+    "id": "sp-football-manchester",
+    "category": "sport",
+    "name": {
+      "fr": "Football",
+      "en": "Football"
+    },
+    "region": "Manchester",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      53.4808,
+      -2.2426
+    ],
+    "description": {
+      "fr": "Deux clubs mythiques (United et City), Old Trafford et l'Etihad, plus de trente titres majeurs cumulés : Manchester est peut-être la ville football la plus dense d'Europe. La ville a par ailleurs vu naître le premier championnat pro au monde.",
+      "en": "Two legendary clubs (United and City), Old Trafford and the Etihad, over thirty major titles combined: Manchester may be Europe's densest football city. The town also saw the birth of the world's first pro league."
+    },
+    "tags": [
+      "Football",
+      "Origin",
+      "Professional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Olga_Mat%C4%ABsa_LVA.jpg/330px-Olga_Mat%C4%ABsa_LVA.jpg"
+  },
+  {
+    "id": "sp-football-barcelona",
+    "category": "sport",
+    "name": {
+      "fr": "Football",
+      "en": "Football"
+    },
+    "region": "Barcelone, Catalogne",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      41.3809,
+      2.1228
+    ],
+    "description": {
+      "fr": "La Masia du FC Barcelone a formé Xavi, Iniesta, Messi et défini le tiki-taka. Le Camp Nou, 99 000 places, est la plus grande cathédrale du football européen.",
+      "en": "FC Barcelona's La Masia trained Xavi, Iniesta, Messi and defined tiki-taka. Camp Nou, 99,000 seats, is European football's largest cathedral."
+    },
+    "tags": [
+      "Football",
+      "School",
+      "Professional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Olga_Mat%C4%ABsa_LVA.jpg/330px-Olga_Mat%C4%ABsa_LVA.jpg"
+  },
+  {
+    "id": "sp-cricket-lords",
+    "category": "sport",
+    "name": {
+      "fr": "Cricket",
+      "en": "Cricket"
+    },
+    "region": "Lord's, Londres",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      51.5294,
+      -0.1727
+    ],
+    "description": {
+      "fr": "Fondé en 1814, Lord's est le Home of Cricket, où siège encore le MCC qui rédige les lois du jeu. Chaque cricketeur pro rêve d'y disputer un test-match.",
+      "en": "Founded in 1814, Lord's is the Home of Cricket and still hosts the MCC, which writes the laws of the game. Every pro cricketer dreams of playing a Test there."
+    },
+    "tags": [
+      "Cricket",
+      "Origin",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pollock_to_Hussey.jpg/330px-Pollock_to_Hussey.jpg"
+  },
+  {
+    "id": "sp-cricket-mumbai",
+    "category": "sport",
+    "name": {
+      "fr": "Cricket",
+      "en": "Cricket"
+    },
+    "region": "Mumbai, Maharashtra",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      19.076,
+      72.8777
+    ],
+    "description": {
+      "fr": "Le Wankhede Stadium et les maidans d'Azad et de Cross accueillent chaque week-end des milliers de matchs amateurs. Mumbai a produit Tendulkar, Rohit Sharma et une part énorme de l'équipe nationale à elle seule.",
+      "en": "Wankhede Stadium and the Azad and Cross maidans host thousands of amateur games every weekend. Mumbai alone has produced Tendulkar, Rohit Sharma and a huge share of India's national team."
+    },
+    "tags": [
+      "Cricket",
+      "School",
+      "National"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pollock_to_Hussey.jpg/330px-Pollock_to_Hussey.jpg"
+  },
+  {
+    "id": "sp-baseball-new-york",
+    "category": "sport",
+    "name": {
+      "fr": "Baseball",
+      "en": "Baseball"
+    },
+    "region": "New York",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      40.8296,
+      -73.9262
+    ],
+    "description": {
+      "fr": "Le Bronx et le Yankee Stadium abritent la franchise la plus titrée du baseball mondial avec 27 World Series. Le baseball s'est structuré à New York dans les années 1840, tenant la ville pour capitale historique.",
+      "en": "The Bronx and Yankee Stadium host baseball's most decorated franchise with 27 World Series. The sport was structured in New York in the 1840s, making the city its historic capital."
+    },
+    "tags": [
+      "Baseball",
+      "Origin",
+      "Professional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg/330px-Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg"
+  },
+  {
+    "id": "sp-basketball-chicago",
+    "category": "sport",
+    "name": {
+      "fr": "Basketball",
+      "en": "Basketball"
+    },
+    "region": "Chicago, Illinois",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      41.8807,
+      -87.6742
+    ],
+    "description": {
+      "fr": "Le United Center et les Bulls des années Jordan ont fait de Chicago le point d'orgue de la culture NBA. L'aura MJ y attire encore les fans du monde entier chaque saison.",
+      "en": "The United Center and the Jordan-era Bulls made Chicago the peak of NBA culture. MJ's aura still draws fans from around the world every season."
+    },
+    "tags": [
+      "Basketball",
+      "Professional",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Steph_Curry_%2851915116957%29.jpg/330px-Steph_Curry_%2851915116957%29.jpg"
+  },
+  {
+    "id": "sp-basketball-belgrade",
+    "category": "sport",
+    "name": {
+      "fr": "Basketball",
+      "en": "Basketball"
+    },
+    "region": "Belgrade",
+    "country": {
+      "fr": "Serbie",
+      "en": "Serbia"
+    },
+    "countryCode": "RS",
+    "coordinates": [
+      44.8125,
+      20.4612
+    ],
+    "description": {
+      "fr": "L'école serbe (Divac, Bodiroga, Jokić) fait de Belgrade le laboratoire européen du basket. Étoile Rouge et Partizan s'affrontent dans l'un des derbys les plus chauds au monde à la Štark Arena.",
+      "en": "The Serbian school (Divac, Bodiroga, Jokić) makes Belgrade Europe's basketball lab. Red Star and Partizan clash in one of the world's hottest derbies at Štark Arena."
+    },
+    "tags": [
+      "Basketball",
+      "School",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Steph_Curry_%2851915116957%29.jpg/330px-Steph_Curry_%2851915116957%29.jpg"
+  },
+  {
+    "id": "sp-ice-hockey-montreal",
+    "category": "sport",
+    "name": {
+      "fr": "Hockey sur glace",
+      "en": "Ice hockey"
+    },
+    "region": "Montréal, Québec",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      45.5017,
+      -73.5673
+    ],
+    "description": {
+      "fr": "24 Coupes Stanley pour les Canadiens, plus que n'importe quelle franchise sportive nord-américaine. Le Centre Bell et l'ancien Forum ont écrit toute la légende du hockey en Amérique du Nord.",
+      "en": "24 Stanley Cups for the Canadiens, more than any other North American sports franchise. The Bell Centre and the old Forum wrote the whole legend of hockey in North America."
+    },
+    "tags": [
+      "Hockey",
+      "Professional",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/330px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg"
+  },
+  {
+    "id": "sp-marathon-iten",
+    "category": "sport",
+    "name": {
+      "fr": "Marathon",
+      "en": "Marathon running"
+    },
+    "region": "Iten, vallée du Rift",
+    "country": {
+      "fr": "Kenya",
+      "en": "Kenya"
+    },
+    "countryCode": "KE",
+    "coordinates": [
+      0.6702,
+      35.4881
+    ],
+    "description": {
+      "fr": "À 2 400 m d'altitude, Iten forme la majorité des recordmen mondiaux du fond, de Kipchoge à Kipyegon. Le panneau à l'entrée du village dit Home of Champions — c'est très factuel.",
+      "en": "At 2,400 m altitude, Iten trains the majority of the world's distance running record holders, from Kipchoge to Kipyegon. The sign at the entrance reads Home of Champions — quite literally."
+    },
+    "tags": [
+      "Running",
+      "Endurance",
+      "Training hub"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSK_CSOB_MARATON046_%2833791445325%29.jpg/330px-BSK_CSOB_MARATON046_%2833791445325%29.jpg"
+  },
+  {
+    "id": "sp-marathon-bekoji",
+    "category": "sport",
+    "name": {
+      "fr": "Marathon",
+      "en": "Marathon running"
+    },
+    "region": "Bekoji, Oromia",
+    "country": {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      7.5333,
+      39.25
+    ],
+    "description": {
+      "fr": "Bekoji, village d'altitude à 2 800 m, a donné Haile Gebrselassie, Kenenisa Bekele, Tirunesh Dibaba et Derartu Tulu — un club de champions olympiques à lui seul.",
+      "en": "Bekoji, a 2,800 m altitude village, produced Haile Gebrselassie, Kenenisa Bekele, Tirunesh Dibaba and Derartu Tulu — a club of Olympic champions on its own."
+    },
+    "tags": [
+      "Running",
+      "Endurance",
+      "Training hub"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSK_CSOB_MARATON046_%2833791445325%29.jpg/330px-BSK_CSOB_MARATON046_%2833791445325%29.jpg"
+  },
+  {
+    "id": "sp-trail-utmb-chamonix",
+    "category": "sport",
+    "name": {
+      "fr": "Trail",
+      "en": "Trail running"
+    },
+    "region": "Chamonix, UTMB",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.9237,
+      6.8694
+    ],
+    "description": {
+      "fr": "L'UTMB fait de Chamonix la capitale mondiale du trail chaque fin août. 171 km et 10 000 m de dénivelé autour du massif du Mont Blanc — l'épreuve reine du calendrier.",
+      "en": "The UTMB turns Chamonix into the world's trail running capital every late August. 171 km and 10,000 m of climbing around the Mont Blanc massif — the crown jewel of the calendar."
+    },
+    "tags": [
+      "Trail",
+      "Ultra",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kilian.jpg/330px-Kilian.jpg"
+  },
+  {
+    "id": "sp-ironman-kona",
+    "category": "sport",
+    "name": {
+      "fr": "Triathlon Ironman",
+      "en": "Ironman triathlon"
+    },
+    "region": "Kailua-Kona, Hawaii",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      19.639,
+      -155.9969
+    ],
+    "description": {
+      "fr": "Kona accueille chaque octobre les championnats du monde d'Ironman depuis 1978. 3,8 km de nage, 180 km de vélo et un marathon sous les lave fields d'Hawaï, la finale absolue du triathlon.",
+      "en": "Kona has hosted the Ironman World Championship every October since 1978. 3.8 km swim, 180 km bike and a marathon through Hawaii's lava fields — triathlon's absolute finale."
+    },
+    "tags": [
+      "Triathlon",
+      "Endurance",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stefan_Lind_-_Ironman_70.3_Budapest_-_2014.08.23_%287%29.JPG/330px-Stefan_Lind_-_Ironman_70.3_Budapest_-_2014.08.23_%287%29.JPG"
+  },
+  {
+    "id": "sp-cycling-roubaix",
+    "category": "sport",
+    "name": {
+      "fr": "Cyclisme sur pavés",
+      "en": "Cobblestone cycling"
+    },
+    "region": "Roubaix, Nord",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      50.6942,
+      3.1746
+    ],
+    "description": {
+      "fr": "Paris-Roubaix, l'Enfer du Nord, est LA classique reine des pavés depuis 1896. Le vélodrome de Roubaix et les 30 secteurs pavés du Nord définissent une catégorie entière du cyclisme.",
+      "en": "Paris-Roubaix, the Hell of the North, has been the queen of cobbled classics since 1896. The Roubaix velodrome and the 30 cobbled sectors define an entire cycling category."
+    },
+    "tags": [
+      "Cycling",
+      "Classic",
+      "Legendary spot"
+    ]
+  },
+  {
+    "id": "sp-cycling-alps",
+    "category": "sport",
+    "name": {
+      "fr": "Cyclisme de montagne",
+      "en": "Mountain road cycling"
+    },
+    "region": "Alpe d'Huez, Isère",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.091,
+      6.0698
+    ],
+    "description": {
+      "fr": "Les 21 lacets de l'Alpe d'Huez sont l'ascension la plus mythique du Tour de France depuis 1952. Une étape ici définit une carrière et transforme le col en fournaise humaine.",
+      "en": "The 21 hairpins of Alpe d'Huez are the Tour de France's most mythical climb since 1952. A stage here defines a career and turns the pass into a human furnace."
+    },
+    "tags": [
+      "Cycling",
+      "Climb",
+      "Legendary spot"
+    ]
+  },
+  {
+    "id": "sp-f1-monaco",
+    "category": "sport",
+    "name": {
+      "fr": "Formule 1",
+      "en": "Formula 1"
+    },
+    "region": "Monte-Carlo",
+    "country": {
+      "fr": "Monaco",
+      "en": "Monaco"
+    },
+    "countryCode": "MC",
+    "coordinates": [
+      43.7347,
+      7.4206
+    ],
+    "description": {
+      "fr": "Le Grand Prix de Monaco, tracé sur les rues de Monte-Carlo depuis 1929, est LA course prestige du Championnat du Monde. Gagner ici vaut deux victoires ailleurs pour tout pilote.",
+      "en": "The Monaco Grand Prix, run on the streets of Monte Carlo since 1929, is THE prestige race of the World Championship. Winning here is worth two wins anywhere else for any driver."
+    },
+    "tags": [
+      "Motorsport",
+      "Legendary spot",
+      "Circuit"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2010_Malaysian_GP_opening_lap.jpg/330px-2010_Malaysian_GP_opening_lap.jpg"
+  },
+  {
+    "id": "sp-rally-finland",
+    "category": "sport",
+    "name": {
+      "fr": "Rallye",
+      "en": "Rallying"
+    },
+    "region": "Jyväskylä",
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland"
+    },
+    "countryCode": "FI",
+    "coordinates": [
+      62.2415,
+      25.7209
+    ],
+    "description": {
+      "fr": "Le Rallye de Finlande à Jyväskylä est surnommé le Grand Prix des Rallyes — vitesses moyennes de 125 km/h sur terre et sauts géants. Le pays a produit la moitié des champions du monde WRC.",
+      "en": "The Rally of Finland in Jyväskylä is nicknamed the Grand Prix of Rallies — average speeds of 125 km/h on gravel and giant jumps. The country has produced half of all WRC world champions."
+    },
+    "tags": [
+      "Motorsport",
+      "Rally",
+      "National"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Petter_Solberg_-_2006_Cyprus_Rally.jpg/330px-Petter_Solberg_-_2006_Cyprus_Rally.jpg"
+  },
+  {
+    "id": "sp-nascar-charlotte",
+    "category": "sport",
+    "name": {
+      "fr": "NASCAR",
+      "en": "NASCAR"
+    },
+    "region": "Charlotte, Caroline du Nord",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      35.3499,
+      -80.6829
+    ],
+    "description": {
+      "fr": "90 % des équipes NASCAR sont basées autour de Charlotte, et le Charlotte Motor Speedway (167 000 places) accueille le Coca-Cola 600, la course la plus longue du championnat.",
+      "en": "90% of NASCAR teams are based around Charlotte, and the Charlotte Motor Speedway (167,000 seats) hosts the Coca-Cola 600, the longest race on the calendar."
+    },
+    "tags": [
+      "Motorsport",
+      "Professional",
+      "National"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Green_flag_at_Daytona.JPG/330px-Green_flag_at_Daytona.JPG"
+  },
+  {
+    "id": "sp-kabaddi-punjab",
+    "category": "sport",
+    "name": {
+      "fr": "Kabaddi",
+      "en": "Kabaddi"
+    },
+    "region": "Punjab",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      30.7333,
+      76.7794
+    ],
+    "description": {
+      "fr": "Le kabaddi est le sport traditionnel du Punjab, mêlant lutte et sprint dans un cercle de terre battue. La Pro Kabaddi League indienne l'a fait passer des villages aux stades pleins.",
+      "en": "Kabaddi is Punjab's traditional sport, mixing wrestling and sprints in a dirt circle. India's Pro Kabaddi League took it from villages to packed stadiums."
+    },
+    "tags": [
+      "Traditional",
+      "Origin",
+      "National"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Iran_men%27s_national_kabaddi_team_13970602000432636707284535394012_98208.jpg/330px-Iran_men%27s_national_kabaddi_team_13970602000432636707284535394012_98208.jpg"
+  },
+  {
+    "id": "sp-sepak-takraw-malaysia",
+    "category": "sport",
+    "name": {
+      "fr": "Sepak takraw",
+      "en": "Sepak Takraw"
+    },
+    "region": "Kuala Lumpur",
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
+    "countryCode": "MY",
+    "coordinates": [
+      3.139,
+      101.6869
+    ],
+    "description": {
+      "fr": "Le sepak takraw, volley acrobatique joué avec les pieds et une balle de rotin, est né dans la péninsule malaise au XVe siècle. La Malaisie et la Thaïlande se disputent chaque année les titres asiatiques.",
+      "en": "Sepak Takraw, an acrobatic volley played with the feet and a rattan ball, was born on the Malay peninsula in the 15th century. Malaysia and Thailand fight for Asian titles every year."
+    },
+    "tags": [
+      "Traditional",
+      "Origin",
+      "Ball sport"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Incheon_AsianGames_Sepaktakraw_09_%2815291705581%29.jpg/330px-Incheon_AsianGames_Sepaktakraw_09_%2815291705581%29.jpg"
+  },
+  {
+    "id": "sp-buzkashi-afghanistan",
+    "category": "sport",
+    "name": {
+      "fr": "Bouzkachi",
+      "en": "Buzkashi"
+    },
+    "region": "Mazar-i-Sharif",
+    "country": {
+      "fr": "Afghanistan",
+      "en": "Afghanistan"
+    },
+    "countryCode": "AF",
+    "coordinates": [
+      36.708,
+      67.1109
+    ],
+    "description": {
+      "fr": "Sport national afghan, le bouzkachi voit des cavaliers s'arracher une carcasse de chèvre pour la déposer dans un cercle adverse. C'est un chaos organisé pratiqué dans les plaines du nord depuis Gengis Khan.",
+      "en": "Afghanistan's national sport, buzkashi has horsemen fighting to grab a goat carcass and drop it in the opponent's circle. It's organized chaos played on the northern plains since Genghis Khan."
+    },
+    "tags": [
+      "Traditional",
+      "National",
+      "Equestrian"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Afghan_Game_Buzkashi.jpg/330px-Afghan_Game_Buzkashi.jpg"
+  },
+  {
+    "id": "sp-pelote-basque",
+    "category": "sport",
+    "name": {
+      "fr": "Pelote basque",
+      "en": "Basque pelota"
+    },
+    "region": "Saint-Jean-de-Luz, Pays basque",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.3873,
+      -1.6591
+    ],
+    "description": {
+      "fr": "Chaque village du Pays basque a son fronton et son équipe. Cesta punta, main nue, chistera : la pelote est le sport identitaire d'un peuple à cheval sur la France et l'Espagne.",
+      "en": "Every Basque village has its fronton and its team. Cesta punta, bare hand, chistera: pelota is the identity sport of a people straddling France and Spain."
+    },
+    "tags": [
+      "Traditional",
+      "Cultural",
+      "Racket sport"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ustaritz_Fronton_Pala.jpg/330px-Ustaritz_Fronton_Pala.jpg"
+  },
+  {
+    "id": "sp-petanque-marseille",
+    "category": "sport",
+    "name": {
+      "fr": "Pétanque",
+      "en": "Pétanque"
+    },
+    "region": "Marseille, Provence",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.2965,
+      5.3698
+    ],
+    "description": {
+      "fr": "Née en 1907 à La Ciotat près de Marseille, la pétanque s'est diffusée depuis les cafés provençaux jusqu'à la Mondial la Marseillaise à Pétanque, plus grand tournoi du monde avec 12 000 joueurs.",
+      "en": "Born in 1907 in La Ciotat near Marseille, pétanque spread from Provençal cafés to the Mondial la Marseillaise, the world's largest tournament with 12,000 players."
+    },
+    "tags": [
+      "Traditional",
+      "Origin",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Petanque_on_a_beach_of_Nice.jpg/330px-Petanque_on_a_beach_of_Nice.jpg"
+  },
+  {
+    "id": "sp-yoga-rishikesh",
+    "category": "sport",
+    "name": {
+      "fr": "Yoga",
+      "en": "Yoga"
+    },
+    "region": "Rishikesh, Uttarakhand",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      30.0869,
+      78.2676
+    ],
+    "description": {
+      "fr": "Sur les rives du Gange, Rishikesh est autoproclamée capitale mondiale du yoga. C'est ici que les Beatles ont étudié en 1968 et que se forment aujourd'hui la majorité des professeurs certifiés du monde.",
+      "en": "On the banks of the Ganges, Rishikesh calls itself the world capital of yoga. It's where the Beatles studied in 1968 and where most of the world's certified teachers train today."
+    },
+    "tags": [
+      "Wellness",
+      "Origin",
+      "Training hub"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shiva_Bangalore.jpg/330px-Shiva_Bangalore.jpg"
+  },
+  {
+    "id": "sp-paragliding-interlaken",
+    "category": "sport",
+    "name": {
+      "fr": "Parapente",
+      "en": "Paragliding"
+    },
+    "region": "Interlaken, Oberland bernois",
+    "country": {
+      "fr": "Suisse",
+      "en": "Switzerland"
+    },
+    "countryCode": "CH",
+    "coordinates": [
+      46.6863,
+      7.8632
+    ],
+    "description": {
+      "fr": "Coincée entre Eiger, Mönch et Jungfrau, Interlaken est la capitale mondiale du parapente biplace et de la voltige. Le décollage du Beatenberg alimente 24 écoles de vol.",
+      "en": "Wedged between Eiger, Mönch and Jungfrau, Interlaken is the world capital of tandem and acro paragliding. The Beatenberg launch feeds 24 flying schools."
+    },
+    "tags": [
+      "Air sport",
+      "Mecca",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paragliding_1350361.jpg/330px-Paragliding_1350361.jpg"
+  },
+  {
+    "id": "sp-basejump-lauterbrunnen",
+    "category": "sport",
+    "name": {
+      "fr": "Base jump",
+      "en": "BASE jumping"
+    },
+    "region": "Lauterbrunnen, Oberland",
+    "country": {
+      "fr": "Suisse",
+      "en": "Switzerland"
+    },
+    "countryCode": "CH",
+    "coordinates": [
+      46.5936,
+      7.9086
+    ],
+    "description": {
+      "fr": "La vallée de Lauterbrunnen, avec ses 72 cascades et ses parois de 500 m, est la capitale mondiale du base jump. Des milliers de sauts par an y sont enregistrés, souvent en wingsuit.",
+      "en": "Lauterbrunnen valley, with its 72 waterfalls and 500 m cliffs, is the world capital of BASE jumping. Thousands of jumps a year are logged there, many in wingsuit."
+    },
+    "tags": [
+      "Air sport",
+      "Extreme",
+      "Legendary spot"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Base_jump.webm/330px--Base_jump.webm.jpg"
+  },
+  {
+    "id": "sp-wingsuit-chamonix",
+    "category": "sport",
+    "name": {
+      "fr": "Wingsuit",
+      "en": "Wingsuit flying"
+    },
+    "region": "Aiguille du Midi, Chamonix",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      45.8786,
+      6.8875
+    ],
+    "description": {
+      "fr": "Depuis l'Aiguille du Midi à 3 842 m, les wingsuiters ont accès à des lignes de vol de plusieurs kilomètres au-dessus de la vallée de Chamonix. C'est le laboratoire européen du proximity flying alpin.",
+      "en": "From the Aiguille du Midi at 3,842 m, wingsuit pilots access flight lines running for kilometers over the Chamonix valley. It's Europe's alpine proximity flying lab."
+    },
+    "tags": [
+      "Air sport",
+      "Extreme",
+      "Alpine"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wingsuit_Flying_over_Langar_Airfield_UK.jpg/330px-Wingsuit_Flying_over_Langar_Airfield_UK.jpg"
+  }
+]

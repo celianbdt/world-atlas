@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "pl-general-sherman-sequoia",
+    "category": "plant",
+    "name": {
+      "fr": "Séquoia géant General Sherman",
+      "en": "General Sherman Giant Sequoia"
+    },
+    "region": "Giant Forest, Sequoia National Park, Sierra Nevada",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      36.5816,
+      -118.7517
+    ],
+    "description": {
+      "fr": "General Sherman est le plus grand arbre du monde en volume, un séquoia géant de plus de 2 200 ans culminant à 83 m au cœur de Sequoia National Park. La Sierra Nevada californienne est le seul endroit au monde où ces géants poussent naturellement.",
+      "en": "General Sherman is the largest tree on Earth by volume, a 2,200-year-old giant sequoia rising 83 m in Sequoia National Park. California's Sierra Nevada is the only place on the planet where these giants grow naturally."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-coast-redwood-muir-woods",
+    "category": "plant",
+    "name": {
+      "fr": "Séquoia à feuilles d'if",
+      "en": "Coast Redwood"
+    },
+    "region": "Muir Woods National Monument, Californie",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      37.8917,
+      -122.5719
+    ],
+    "description": {
+      "fr": "Le séquoia côtier (Sequoia sempervirens) est l'arbre le plus haut du monde, dépassant 115 m dans la brume du littoral californien. Muir Woods abrite une cathédrale vivante de spécimens millénaires à quelques kilomètres de San Francisco.",
+      "en": "The coast redwood is the tallest tree species on Earth, reaching over 115 m in the fog-drenched Californian coast. Muir Woods preserves a living cathedral of thousand-year-old giants just north of San Francisco."
+    },
+    "tags": [
+      "Tree",
+      "Tallest",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-bristlecone-pine-white-mountains",
+    "category": "plant",
+    "name": {
+      "fr": "Pin de Bristlecone Methuselah",
+      "en": "Great Basin Bristlecone Pine"
+    },
+    "region": "Ancient Bristlecone Pine Forest, White Mountains, Californie",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      37.3856,
+      -118.1789
+    ],
+    "description": {
+      "fr": "Les pins bristlecone des White Mountains, dont Methuselah, sont les êtres non-clonaux les plus vieux de la Terre : plus de 4 850 ans. Le climat aride et l'altitude extrême à 3 000 m ralentissent leur croissance et prolongent leur vie.",
+      "en": "The bristlecone pines of the White Mountains, including Methuselah, are Earth's oldest non-clonal living beings at over 4,850 years. Extreme altitude and arid conditions above 3,000 m slow their growth and extend their lives."
+    },
+    "tags": [
+      "Tree",
+      "Oldest",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-baobab-grandidier-madagascar",
+    "category": "plant",
+    "name": {
+      "fr": "Baobab de Grandidier",
+      "en": "Grandidier's Baobab"
+    },
+    "region": "Allée des Baobabs, Menabe, près de Morondava",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -20.2506,
+      44.4181
+    ],
+    "description": {
+      "fr": "L'Allée des Baobabs abrite les plus emblématiques baobabs de Grandidier, endémiques de Madagascar, hauts de 30 m et âgés de 800 ans. Ces géants au tronc lisse sont sacrés pour les Sakalava et menacés par la déforestation.",
+      "en": "The Avenue of the Baobabs shelters the most iconic Grandidier's baobabs, endemic to Madagascar, up to 30 m tall and 800 years old. These smooth-trunked giants are sacred to the Sakalava people and threatened by deforestation."
+    },
+    "tags": [
+      "Tree",
+      "Endemic",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-african-baobab-kruger",
+    "category": "plant",
+    "name": {
+      "fr": "Baobab africain",
+      "en": "African Baobab"
+    },
+    "region": "Kruger National Park, Limpopo",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -23.9884,
+      31.5547
+    ],
+    "description": {
+      "fr": "Le baobab africain (Adansonia digitata), surnommé l'arbre de vie, domine la savane du nord du Kruger. Certains spécimens dépassent 2 000 ans et servent de refuge à d'innombrables oiseaux, chauves-souris et éléphants.",
+      "en": "The African baobab, known as the tree of life, dominates the savanna in northern Kruger. Some specimens exceed 2,000 years and shelter countless birds, bats and elephants in their hollow trunks."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-dragon-blood-tree-socotra",
+    "category": "plant",
+    "name": {
+      "fr": "Dragonnier de Socotra",
+      "en": "Socotra Dragon Blood Tree"
+    },
+    "region": "Plateau de Diksam, île de Socotra",
+    "country": {
+      "fr": "Yémen",
+      "en": "Yemen"
+    },
+    "countryCode": "YE",
+    "coordinates": [
+      12.5,
+      54.0
+    ],
+    "description": {
+      "fr": "Le dragonnier de Socotra, à la silhouette de parapluie renversé et à la sève rouge sang, est endémique de cette île isolée classée à l'UNESCO. Son bois précieux et sa résine sont utilisés depuis l'Antiquité en médecine et pigment.",
+      "en": "The Socotra dragon tree, with its umbrella-shaped canopy and blood-red sap, is endemic to this UNESCO-listed island. Its resin has been prized since antiquity for medicine and pigment."
+    },
+    "tags": [
+      "Tree",
+      "Endemic",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-monkey-puzzle-patagonia",
+    "category": "plant",
+    "name": {
+      "fr": "Araucaria du Chili",
+      "en": "Monkey Puzzle Tree"
+    },
+    "region": "Parc national Conguillío, Araucanie",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -38.6706,
+      -71.6511
+    ],
+    "description": {
+      "fr": "L'araucaria araucana, arbre sacré des Mapuches, forme des forêts fossiles vivantes autour du volcan Llaima. Ses cônes nourrissent le peuple pehuenche depuis des millénaires et l'espèce remonte à 200 millions d'années.",
+      "en": "Araucaria araucana, sacred tree of the Mapuche people, forms living fossil forests around Llaima volcano. Its cones have fed the Pehuenche for millennia and the species dates back 200 million years."
+    },
+    "tags": [
+      "Tree",
+      "Sacred",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-kauri-waipoua",
+    "category": "plant",
+    "name": {
+      "fr": "Kauri Tane Mahuta",
+      "en": "Tane Mahuta Kauri"
+    },
+    "region": "Forêt de Waipoua, Northland",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -35.6006,
+      173.5228
+    ],
+    "description": {
+      "fr": "Tane Mahuta, le Seigneur de la forêt, est le plus grand kauri au monde avec 51 m de haut et 2 500 ans. Waipoua abrite les derniers grands kauris néo-zélandais, sacrés pour les Maoris.",
+      "en": "Tane Mahuta, Lord of the Forest, is the world's largest kauri at 51 m tall and 2,500 years old. Waipoua shelters the last remaining giant kauris, sacred to the Maori."
+    },
+    "tags": [
+      "Tree",
+      "Sacred",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-alerce-fitzroya-chile",
+    "category": "plant",
+    "name": {
+      "fr": "Alerce Fitzroya",
+      "en": "Patagonian Cypress Alerce"
+    },
+    "region": "Parc national Alerce Costero, région de Los Ríos",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -40.1667,
+      -73.4333
+    ],
+    "description": {
+      "fr": "Le Gran Abuelo, alerce du parc Alerce Costero, serait âgé de plus de 5 400 ans, ce qui en ferait potentiellement l'arbre le plus vieux du monde. Les Fitzroya cupressoides forment des forêts primaires dans les Andes patagoniennes.",
+      "en": "The Gran Abuelo, an alerce in Alerce Costero park, is estimated at over 5,400 years old, potentially the oldest tree on Earth. Fitzroya cupressoides form primeval forests in the Patagonian Andes."
+    },
+    "tags": [
+      "Tree",
+      "Oldest",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-bodhi-tree-bodh-gaya",
+    "category": "plant",
+    "name": {
+      "fr": "Figuier de la Bodhi",
+      "en": "Bodhi Tree"
+    },
+    "region": "Temple de la Mahabodhi, Bodh Gaya, Bihar",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      24.6961,
+      84.9911
+    ],
+    "description": {
+      "fr": "Sous ce figuier sacré (Ficus religiosa) de Bodh Gaya, Bouddha atteint l'éveil il y a 2 500 ans. L'arbre actuel est un descendant direct de l'original, vénéré chaque année par des millions de pèlerins bouddhistes.",
+      "en": "Beneath this sacred fig at Bodh Gaya, the Buddha attained enlightenment 2,500 years ago. The current tree is a direct descendant of the original, revered by millions of Buddhist pilgrims every year."
+    },
+    "tags": [
+      "Tree",
+      "Sacred",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-strangler-fig-angkor",
+    "category": "plant",
+    "name": {
+      "fr": "Ficus étrangleur d'Angkor",
+      "en": "Angkor Strangler Fig"
+    },
+    "region": "Temple de Ta Prohm, Angkor, Siem Reap",
+    "country": {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+    },
+    "countryCode": "KH",
+    "coordinates": [
+      13.4348,
+      103.8896
+    ],
+    "description": {
+      "fr": "Les figuiers étrangleurs (Tetrameles nudiflora et Ficus gibbosa) enlacent les temples de Ta Prohm depuis 400 ans, créant l'image iconique de la jungle mangeant la pierre. Les racines sont devenues indissociables de l'architecture khmère.",
+      "en": "Strangler figs have entwined Ta Prohm's temples for 400 years, creating the iconic image of jungle swallowing stone. The roots are now inseparable from the Khmer architecture itself."
+    },
+    "tags": [
+      "Tree",
+      "Iconic",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-wollemi-pine-nsw",
+    "category": "plant",
+    "name": {
+      "fr": "Pin de Wollemi",
+      "en": "Wollemi Pine"
+    },
+    "region": "Parc national de Wollemi, Blue Mountains, Nouvelle-Galles du Sud",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -33.0,
+      150.5
+    ],
+    "description": {
+      "fr": "Le pin de Wollemi, considéré comme un fossile vivant remontant à 200 millions d'années, n'a été redécouvert qu'en 1994 dans un canyon secret de Wollemi. Moins de 100 spécimens sauvages subsistent dans cette gorge protégée.",
+      "en": "The Wollemi pine, a living fossil dating back 200 million years, was rediscovered only in 1994 in a secret canyon. Fewer than 100 wild specimens survive in this protected gorge."
+    },
+    "tags": [
+      "Tree",
+      "Living-fossil",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "pl-arashiyama-bamboo-kyoto",
+    "category": "plant",
+    "name": {
+      "fr": "Forêt de bambous d'Arashiyama",
+      "en": "Arashiyama Bamboo Grove"
+    },
+    "region": "Sagano, Arashiyama, Kyoto",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.017,
+      135.6716
+    ],
+    "description": {
+      "fr": "La bambouseraie de Sagano à Arashiyama offre une cathédrale verte de Phyllostachys edulis dont le bruissement au vent est classé parmi les 100 paysages sonores du Japon. Les bambous, plantés au XIVe siècle, sont indissociables de l'esthétique zen kyotoïte.",
+      "en": "The Sagano bamboo grove in Arashiyama forms a green cathedral of Phyllostachys edulis whose wind-rustle is listed among Japan's 100 soundscapes. Planted in the 14th century, the bamboo is inseparable from Kyoto's Zen aesthetic."
+    },
+    "tags": [
+      "Bamboo",
+      "Iconic",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-sherwood-oak",
+    "category": "plant",
+    "name": {
+      "fr": "Chêne Major de Sherwood",
+      "en": "Major Oak of Sherwood"
+    },
+    "region": "Forêt de Sherwood, Nottinghamshire",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      53.2069,
+      -1.0725
+    ],
+    "description": {
+      "fr": "Le Major Oak de Sherwood, chêne pédonculé de 1 000 ans et 23 tonnes, aurait servi de repaire à Robin des Bois. Il incarne l'imaginaire de la forêt anglaise et est étayé depuis le XIXe siècle.",
+      "en": "The Major Oak in Sherwood Forest, a 1,000-year-old, 23-ton English oak, is said to have sheltered Robin Hood. It embodies the English forest mythos and has been propped up since the 19th century."
+    },
+    "tags": [
+      "Tree",
+      "Historic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-black-forest-fir",
+    "category": "plant",
+    "name": {
+      "fr": "Sapin de la Forêt-Noire",
+      "en": "Black Forest Silver Fir"
+    },
+    "region": "Forêt-Noire, Bade-Wurtemberg",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany"
+    },
+    "countryCode": "DE",
+    "coordinates": [
+      48.0,
+      8.2
+    ],
+    "description": {
+      "fr": "La Forêt-Noire tient son nom des sapins pectinés (Abies alba) au feuillage dense et sombre qui recouvrent ses collines. C'est le berceau des contes des frères Grimm et un exemple emblématique de sylviculture européenne.",
+      "en": "The Black Forest owes its name to the dense, dark canopies of silver fir (Abies alba) covering its hills. It is the cradle of the Brothers Grimm's tales and an iconic example of European forestry."
+    },
+    "tags": [
+      "Tree",
+      "Forest",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-aokigahara-cypress",
+    "category": "plant",
+    "name": {
+      "fr": "Forêt d'Aokigahara",
+      "en": "Aokigahara Sea of Trees"
+    },
+    "region": "Aokigahara Jukai, base du mont Fuji, Yamanashi",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.47,
+      138.62
+    ],
+    "description": {
+      "fr": "Aokigahara, la mer d'arbres au pied du Fuji, est une forêt primaire de hêtres, cyprès du Japon et pruches poussant sur la lave du Ve siècle. Son sol volcanique brouille les boussoles et lui confère une atmosphère mystique.",
+      "en": "Aokigahara, the sea of trees at Mount Fuji's base, is a primeval forest of hemlock, Japanese cypress and beech growing on 5th-century lava. Its volcanic ground disrupts compasses and lends the woods a mystical aura."
+    },
+    "tags": [
+      "Forest",
+      "Iconic",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-sundarbans-mangrove",
+    "category": "plant",
+    "name": {
+      "fr": "Mangrove Sundari des Sundarbans",
+      "en": "Sundari Mangrove of the Sundarbans"
+    },
+    "region": "Sundarbans, delta du Gange-Brahmapoutre",
+    "country": {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+    },
+    "countryCode": "BD",
+    "coordinates": [
+      21.9497,
+      89.1833
+    ],
+    "description": {
+      "fr": "Les Sundarbans forment la plus grande forêt de mangroves du monde, dominée par le sundari (Heritiera fomes) qui a donné son nom à la région. Elle protège les tigres du Bengale et sert de rempart naturel contre les cyclones.",
+      "en": "The Sundarbans are the world's largest mangrove forest, dominated by the sundari tree (Heritiera fomes) that gives the region its name. It shelters Bengal tigers and buffers cyclones for millions of people."
+    },
+    "tags": [
+      "Tree",
+      "Mangrove",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-laurisilva-la-gomera",
+    "category": "plant",
+    "name": {
+      "fr": "Laurisylve de La Gomera",
+      "en": "La Gomera Laurisilva"
+    },
+    "region": "Parc national de Garajonay, La Gomera",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      28.1167,
+      -17.2333
+    ],
+    "description": {
+      "fr": "La laurisylve de Garajonay est une forêt-relique du Tertiaire, disparue d'Europe continentale, où subsistent lauriers, viñátigo et til géants dans la brume permanente. Elle est classée à l'UNESCO comme témoignage vivant d'un climat révolu.",
+      "en": "Garajonay's laurisilva is a Tertiary-era relict forest, extinct on mainland Europe, where laurels and giant til survive in permanent mist. UNESCO-listed, it is a living witness of a vanished climate."
+    },
+    "tags": [
+      "Forest",
+      "Ancient",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-daintree-rainforest",
+    "category": "plant",
+    "name": {
+      "fr": "Forêt de Daintree",
+      "en": "Daintree Rainforest"
+    },
+    "region": "Parc national de Daintree, Queensland",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -16.17,
+      145.42
+    ],
+    "description": {
+      "fr": "Le Daintree est la plus ancienne forêt tropicale humide au monde, âgée de 180 millions d'années. Elle abrite des fougères géantes et des angiospermes primitifs uniques, entre la Grande Barrière et les Wet Tropics classés UNESCO.",
+      "en": "Daintree is the oldest tropical rainforest on Earth at 180 million years. It shelters giant ferns and primitive flowering plants found nowhere else, wedged between the Great Barrier Reef and the UNESCO Wet Tropics."
+    },
+    "tags": [
+      "Forest",
+      "Ancient",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-taiga-siberia-larch",
+    "category": "plant",
+    "name": {
+      "fr": "Mélèze de Sibérie",
+      "en": "Siberian Larch"
+    },
+    "region": "Taïga sibérienne, Yakoutie",
+    "country": {
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    "countryCode": "RU",
+    "coordinates": [
+      62.0355,
+      129.6755
+    ],
+    "description": {
+      "fr": "La taïga sibérienne, plus grande forêt boréale du monde, est dominée par le mélèze de Dahurie (Larix gmelinii), seul conifère à supporter -70 °C. Elle stocke plus de carbone que toutes les forêts tropicales réunies.",
+      "en": "The Siberian taiga, the world's largest boreal forest, is dominated by Dahurian larch (Larix gmelinii), the only conifer to withstand -70°C. It stores more carbon than all tropical forests combined."
+    },
+    "tags": [
+      "Tree",
+      "Forest",
+      "Boreal"
+    ]
+  },
+  {
+    "id": "pl-yungas-cloud-forest",
+    "category": "plant",
+    "name": {
+      "fr": "Forêt naine des Yungas",
+      "en": "Yungas Cloud Forest"
+    },
+    "region": "Parc national Cotapata, Yungas boliviennes",
+    "country": {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+    },
+    "countryCode": "BO",
+    "coordinates": [
+      -16.3,
+      -67.85
+    ],
+    "description": {
+      "fr": "Les Yungas boliviennes abritent des forêts nuageuses naines couvertes de mousses, de broméliacées et d'orchidées, où les arbres dépassent rarement 5 m. C'est le refuge d'endémismes andins uniques dans le monde.",
+      "en": "The Bolivian Yungas shelter cloud-forest thickets draped in mosses, bromeliads and orchids, where trees rarely exceed 5 m. It is the last refuge of Andean endemics found nowhere else."
+    },
+    "tags": [
+      "Forest",
+      "Cloud-forest",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-petrified-forest-arizona",
+    "category": "plant",
+    "name": {
+      "fr": "Forêt pétrifiée d'Arizona",
+      "en": "Petrified Forest of Arizona"
+    },
+    "region": "Petrified Forest National Park, Arizona",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      34.9099,
+      -109.8068
+    ],
+    "description": {
+      "fr": "La forêt pétrifiée d'Arizona conserve les troncs fossilisés d'Araucarioxylon arizonicum, arbres géants du Trias transformés en pierres de couleur il y a 225 millions d'années. C'est la plus grande concentration de bois pétrifié au monde.",
+      "en": "Arizona's Petrified Forest preserves fossilized trunks of Araucarioxylon arizonicum, giant Triassic trees turned to colored stone 225 million years ago. It is the largest concentration of petrified wood in the world."
+    },
+    "tags": [
+      "Tree",
+      "Fossil",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-kyoto-sakura",
+    "category": "plant",
+    "name": {
+      "fr": "Cerisiers en fleurs de Kyoto",
+      "en": "Kyoto Cherry Blossoms"
+    },
+    "region": "Philosopher's Path et Maruyama Park, Kyoto",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.0264,
+      135.7947
+    ],
+    "description": {
+      "fr": "Kyoto est la capitale mondiale des sakura : chaque printemps, Somei Yoshino et Shidarezakura transforment temples et canaux en nuages roses. Le hanami, contemplation des cerisiers, y est une tradition impériale millénaire.",
+      "en": "Kyoto is the world capital of sakura: every spring, Somei Yoshino and weeping cherries turn temples and canals into pink clouds. Hanami, the ritual viewing of blossoms, has been an imperial tradition for over a millennium."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-keukenhof-tulips",
+    "category": "plant",
+    "name": {
+      "fr": "Tulipes de Keukenhof",
+      "en": "Keukenhof Tulips"
+    },
+    "region": "Jardins de Keukenhof, Lisse, Hollande-Méridionale",
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+    },
+    "countryCode": "NL",
+    "coordinates": [
+      52.2708,
+      4.5461
+    ],
+    "description": {
+      "fr": "Keukenhof est le plus grand jardin de tulipes au monde, avec 7 millions de bulbes plantés à la main dans le Bollenstreek. Chaque printemps, il incarne trois siècles de tradition horticole hollandaise depuis la tulipomanie.",
+      "en": "Keukenhof is the world's largest tulip garden, with 7 million bulbs hand-planted in the Bollenstreek. Every spring it embodies three centuries of Dutch horticultural tradition since the age of tulipmania."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-hallerbos-bluebells",
+    "category": "plant",
+    "name": {
+      "fr": "Jacinthes des bois du Hallerbos",
+      "en": "Hallerbos Bluebells"
+    },
+    "region": "Forêt du Hallerbos, Brabant flamand",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium"
+    },
+    "countryCode": "BE",
+    "coordinates": [
+      50.7267,
+      4.2264
+    ],
+    "description": {
+      "fr": "Le Hallerbos, forêt bleue près de Halle, se couvre en avril d'un tapis surréaliste de jacinthes des bois (Hyacinthoides non-scripta). Le phénomène ne dure que trois semaines et attire des photographes du monde entier.",
+      "en": "Hallerbos, the Blue Forest near Halle, is carpeted every April in a surreal blanket of bluebells (Hyacinthoides non-scripta). The spectacle lasts only three weeks and draws photographers from around the world."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-antelope-valley-poppies",
+    "category": "plant",
+    "name": {
+      "fr": "Coquelicots de Californie",
+      "en": "California Poppy Superbloom"
+    },
+    "region": "Antelope Valley California Poppy Reserve, désert de Mojave",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      34.7247,
+      -118.4022
+    ],
+    "description": {
+      "fr": "Antelope Valley se transforme au printemps en un océan orange de coquelicots dorés de Californie (Eschscholzia californica). Ce superbloom, spectaculaire après les hivers pluvieux, est le plus dense au monde.",
+      "en": "Every spring Antelope Valley bursts into an orange ocean of California golden poppies (Eschscholzia californica). This superbloom, spectacular after rainy winters, is the densest on Earth."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-valensole-lavender",
+    "category": "plant",
+    "name": {
+      "fr": "Lavande du plateau de Valensole",
+      "en": "Valensole Lavender"
+    },
+    "region": "Plateau de Valensole, Alpes-de-Haute-Provence",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.8378,
+      6.0164
+    ],
+    "description": {
+      "fr": "Le plateau de Valensole est le sanctuaire mondial de la lavande fine et du lavandin, avec des champs violets qui fleurissent en juillet à perte de vue. La distillation locale alimente la parfumerie de Grasse depuis le XIXe siècle.",
+      "en": "The Valensole plateau is the world's stronghold of fine lavender and lavandin, with July fields stretching to the horizon. Local distillation has supplied Grasse's perfume houses since the 19th century."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-tuscany-sunflowers",
+    "category": "plant",
+    "name": {
+      "fr": "Tournesols de Toscane",
+      "en": "Tuscan Sunflowers"
+    },
+    "region": "Val d'Orcia, Sienne",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      43.0664,
+      11.6142
+    ],
+    "description": {
+      "fr": "Le Val d'Orcia toscan, classé UNESCO, se pare en juin et juillet de tournesols géants qui contrastent avec les cyprès et les collines dorées. Cette image est l'incarnation universelle de l'été italien.",
+      "en": "The UNESCO-listed Val d'Orcia in Tuscany is decked in giant sunflowers each June and July, contrasting with cypress rows and golden hills. The scene is the universal picture of an Italian summer."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-almond-blossom-mallorca",
+    "category": "plant",
+    "name": {
+      "fr": "Amandiers en fleurs de Majorque",
+      "en": "Mallorca Almond Blossom"
+    },
+    "region": "Vallée de Sóller, Majorque",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      39.7657,
+      2.7156
+    ],
+    "description": {
+      "fr": "Chaque février, sept millions d'amandiers couvrent Majorque d'un manteau blanc et rose, phénomène surnommé la neige de Majorque. La vallée de Sóller offre le spectacle le plus dense de toute la Méditerranée.",
+      "en": "Every February, seven million almond trees blanket Mallorca in white and pink, a phenomenon known as Majorca's snowfall. The Sóller valley offers the densest spectacle in the entire Mediterranean."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-damask-rose-bulgaria",
+    "category": "plant",
+    "name": {
+      "fr": "Rose de Damas",
+      "en": "Damask Rose"
+    },
+    "region": "Vallée des Roses, Kazanlak",
+    "country": {
+      "fr": "Bulgarie",
+      "en": "Bulgaria"
+    },
+    "countryCode": "BG",
+    "coordinates": [
+      42.6167,
+      25.4
+    ],
+    "description": {
+      "fr": "La Vallée des Roses de Kazanlak produit plus de 70 % de l'essence de rose de Damas mondiale, cueillie à la main à l'aube en mai et juin. Cette huile est l'ingrédient noble de la haute parfumerie française.",
+      "en": "The Rose Valley near Kazanlak produces over 70% of the world's Damask rose oil, hand-picked at dawn in May and June. The essence is a cornerstone ingredient of French high perfumery."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-sikkim-rhododendron",
+    "category": "plant",
+    "name": {
+      "fr": "Rhododendrons du Sikkim",
+      "en": "Sikkim Rhododendrons"
+    },
+    "region": "Parc national de Barsey Rhododendron, Sikkim",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      27.25,
+      88.15
+    ],
+    "description": {
+      "fr": "Le Sikkim est le berceau mondial des rhododendrons avec 36 espèces, dont Rhododendron arboreum, fleur d'État. Au printemps, les hauteurs himalayennes se parent d'un explosif rouge cramoisi.",
+      "en": "Sikkim is the world's rhododendron cradle with 36 species, including Rhododendron arboreum, the state flower. In spring, the Himalayan slopes explode in crimson red."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-yunnan-magnolia",
+    "category": "plant",
+    "name": {
+      "fr": "Magnolias du Yunnan",
+      "en": "Yunnan Magnolias"
+    },
+    "region": "Réserve de Gaoligong, Yunnan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      25.7833,
+      98.7833
+    ],
+    "description": {
+      "fr": "Le Yunnan est le centre d'origine des magnolias asiatiques, dont Magnolia campbellii et Magnolia rostrata, aux fleurs géantes de 30 cm. Les montagnes de Gaoligong abritent des populations sauvages considérées comme les ancêtres des variétés horticoles mondiales.",
+      "en": "Yunnan is the origin center of Asian magnolias, including Magnolia campbellii and Magnolia rostrata, with 30-cm giant blooms. The Gaoligong mountains shelter wild populations considered the ancestors of all horticultural varieties."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-bruges-azaleas",
+    "category": "plant",
+    "name": {
+      "fr": "Azalées de Gand",
+      "en": "Ghent Azaleas"
+    },
+    "region": "Région de Gand, Flandre-Orientale",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium"
+    },
+    "countryCode": "BE",
+    "coordinates": [
+      51.0543,
+      3.7174
+    ],
+    "description": {
+      "fr": "Gand est la capitale mondiale de l'azalée d'appartement (Rhododendron simsii) depuis le XIXe siècle, avec 60 % de la production mondiale. Les Floralies gantoises célèbrent cette tradition tous les cinq ans.",
+      "en": "Ghent has been the world capital of the indoor azalea (Rhododendron simsii) since the 19th century, producing 60% of the global supply. The Ghent Floralies festival celebrates the tradition every five years."
+    },
+    "tags": [
+      "Flower",
+      "Iconic",
+      "Horticulture"
+    ]
+  },
+  {
+    "id": "pl-ecuador-orchids-mindo",
+    "category": "plant",
+    "name": {
+      "fr": "Orchidées de Mindo",
+      "en": "Mindo Orchids"
+    },
+    "region": "Forêt nuageuse de Mindo-Nambillo, Pichincha",
+    "country": {
+      "fr": "Équateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -0.05,
+      -78.8
+    ],
+    "description": {
+      "fr": "L'Équateur détient le record mondial de diversité d'orchidées avec plus de 4 000 espèces, dont un tiers endémique. La forêt nuageuse de Mindo est le paradis mondial des Dracula, Masdevallia et autres orchidées miniatures.",
+      "en": "Ecuador holds the world record for orchid diversity with over 4,000 species, one third endemic. Mindo's cloud forest is a global paradise for Dracula, Masdevallia and miniature orchids."
+    },
+    "tags": [
+      "Flower",
+      "Endemic",
+      "Biodiversity"
+    ]
+  },
+  {
+    "id": "pl-blue-poppy-himalaya",
+    "category": "plant",
+    "name": {
+      "fr": "Pavot bleu de l'Himalaya",
+      "en": "Himalayan Blue Poppy"
+    },
+    "region": "Vallée des Fleurs, Uttarakhand",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      30.728,
+      79.605
+    ],
+    "description": {
+      "fr": "Le pavot bleu de l'Himalaya (Meconopsis) fleurit brièvement dans la Vallée des Fleurs, classée UNESCO, entre 3 500 et 4 500 m. C'est l'une des rares fleurs vraiment bleues au monde et un joyau des Ghâts himalayens.",
+      "en": "The Himalayan blue poppy (Meconopsis) blooms briefly in the UNESCO Valley of Flowers between 3,500 and 4,500 m. It is one of the rare truly blue flowers on Earth and a Himalayan jewel."
+    },
+    "tags": [
+      "Flower",
+      "Endemic",
+      "Seasonal"
+    ]
+  },
+  {
+    "id": "pl-edelweiss-alps",
+    "category": "plant",
+    "name": {
+      "fr": "Edelweiss des Alpes",
+      "en": "Alpine Edelweiss"
+    },
+    "region": "Massif du Berchtesgaden, Alpes bavaroises",
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria"
+    },
+    "countryCode": "AT",
+    "coordinates": [
+      47.5583,
+      12.9333
+    ],
+    "description": {
+      "fr": "L'edelweiss (Leontopodium nivale), fleur emblème de l'Autriche et de la Suisse, pousse au-dessus de 2 000 m dans les rochers calcaires alpins. Son duvet blanc la protège du gel et en fait un symbole d'amour et de courage.",
+      "en": "Edelweiss (Leontopodium nivale), emblem of Austria and Switzerland, grows above 2,000 m on Alpine limestone cliffs. Its woolly white bracts shield it from frost and made it a symbol of love and courage."
+    },
+    "tags": [
+      "Flower",
+      "Alpine",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-grasse-rose",
+    "category": "plant",
+    "name": {
+      "fr": "Rose de mai de Grasse",
+      "en": "Grasse May Rose"
+    },
+    "region": "Grasse, Alpes-Maritimes",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.6586,
+      6.9225
+    ],
+    "description": {
+      "fr": "La rose centifolia de Grasse, cueillie une seule fois en mai, est l'ingrédient star de Chanel N° 5 depuis 1921. Grasse est la capitale mondiale de la parfumerie, classée par l'UNESCO pour ses savoir-faire.",
+      "en": "Grasse's centifolia rose, picked only once in May, has been the signature ingredient of Chanel N°5 since 1921. Grasse is the world's perfume capital, UNESCO-listed for its craftsmanship."
+    },
+    "tags": [
+      "Flower",
+      "Iconic",
+      "Seasonal"
+    ]
+  },
+  {
+    "id": "pl-cedar-of-lebanon",
+    "category": "plant",
+    "name": {
+      "fr": "Cèdre du Liban",
+      "en": "Cedar of Lebanon"
+    },
+    "region": "Forêt des Cèdres de Dieu, Bcharré",
+    "country": {
+      "fr": "Liban",
+      "en": "Lebanon"
+    },
+    "countryCode": "LB",
+    "coordinates": [
+      34.2464,
+      36.0483
+    ],
+    "description": {
+      "fr": "La forêt des Cèdres de Dieu à Bcharré abrite les derniers cèdres du Liban millénaires, sacrés depuis les Phéniciens et cités dans la Bible. Emblème du drapeau libanais, l'espèce a fourni le bois du temple de Salomon.",
+      "en": "The Cedars of God at Bcharré shelter the last millennium-old Lebanese cedars, sacred since Phoenician times and cited in the Bible. The emblem of Lebanon's flag, its wood built Solomon's temple."
+    },
+    "tags": [
+      "Tree",
+      "Sacred",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-olive-tree-vouves",
+    "category": "plant",
+    "name": {
+      "fr": "Olivier millénaire de Vouves",
+      "en": "Olive Tree of Vouves"
+    },
+    "region": "Ano Vouves, Crète",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      35.4839,
+      23.7889
+    ],
+    "description": {
+      "fr": "L'olivier de Vouves en Crète, âgé d'au moins 3 000 ans selon les études, produit encore des olives. Il incarne la civilisation méditerranéenne et a servi à couronner les vainqueurs des Jeux d'Athènes de 2004.",
+      "en": "The olive tree of Vouves in Crete, dated at least 3,000 years old, still produces olives. It embodies Mediterranean civilization and was used to crown the winners of the 2004 Athens Olympics."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-bodhi-anuradhapura",
+    "category": "plant",
+    "name": {
+      "fr": "Figuier Sri Maha Bodhi",
+      "en": "Sri Maha Bodhi Fig"
+    },
+    "region": "Anuradhapura, province du Centre-Nord",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      8.3444,
+      80.3958
+    ],
+    "description": {
+      "fr": "Le Sri Maha Bodhi d'Anuradhapura, planté en 288 av. J.-C. à partir d'une bouture du Bodhi original, est le plus vieil arbre planté par l'homme dont la date est documentée. C'est le plus sacré du bouddhisme theravada.",
+      "en": "The Sri Maha Bodhi of Anuradhapura, planted in 288 BCE from a cutting of the original Bodhi tree, is the oldest human-planted tree with documented planting date. It is Theravada Buddhism's most sacred tree."
+    },
+    "tags": [
+      "Tree",
+      "Sacred",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-fortingall-yew",
+    "category": "plant",
+    "name": {
+      "fr": "If de Fortingall",
+      "en": "Fortingall Yew"
+    },
+    "region": "Fortingall, Perthshire, Highlands",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      56.6,
+      -4.09
+    ],
+    "description": {
+      "fr": "L'if de Fortingall en Écosse, estimé entre 2 000 et 5 000 ans, est l'un des plus vieux organismes vivants d'Europe. Il pousse dans le cimetière du village et aurait été planté avant l'ère chrétienne.",
+      "en": "Scotland's Fortingall Yew, estimated between 2,000 and 5,000 years old, is one of Europe's oldest living beings. It grows in the village churchyard and was likely planted before the Christian era."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-guernica-oak",
+    "category": "plant",
+    "name": {
+      "fr": "Chêne de Guernica",
+      "en": "Oak of Gernika"
+    },
+    "region": "Casa de Juntas, Gernika-Lumo, Biscaye",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      43.3167,
+      -2.6833
+    ],
+    "description": {
+      "fr": "Le chêne de Guernica est le symbole des libertés basques : depuis le Moyen Âge, les Juntes générales de Biscaye se tenaient sous son feuillage. Chaque nouvel arbre est issu du précédent, perpétuant une lignée ininterrompue.",
+      "en": "The Oak of Gernika is the symbol of Basque freedoms: since the Middle Ages, Biscay's general assemblies were held beneath its canopy. Each successor is grown from acorns of the previous, an unbroken lineage."
+    },
+    "tags": [
+      "Tree",
+      "Sacred",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-plane-of-hippocrates",
+    "category": "plant",
+    "name": {
+      "fr": "Platane d'Hippocrate",
+      "en": "Plane Tree of Hippocrates"
+    },
+    "region": "Place Platanou, ville de Kos",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      36.8938,
+      27.2887
+    ],
+    "description": {
+      "fr": "Sous ce platane oriental de Kos, Hippocrate aurait enseigné la médecine à ses élèves il y a 2 400 ans. L'arbre actuel, l'un des plus vieux d'Europe, est étayé depuis des siècles et symbolise la naissance de la médecine occidentale.",
+      "en": "Beneath this Kos plane tree, Hippocrates is said to have taught medicine 2,400 years ago. The current tree, among Europe's oldest, has been propped up for centuries and symbolizes the birth of Western medicine."
+    },
+    "tags": [
+      "Tree",
+      "Historic",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-araucaria-villarrica",
+    "category": "plant",
+    "name": {
+      "fr": "Araucaria pehuén de Villarrica",
+      "en": "Pehuén Monkey Puzzle"
+    },
+    "region": "Parc national Villarrica, Araucanie",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -39.4106,
+      -71.9306
+    ],
+    "description": {
+      "fr": "Les araucarias du volcan Villarrica dessinent les silhouettes emblématiques de la Patagonie chilienne. Sacrés pour les Pehuenches (peuple des araucarias), ils sont classés monument naturel depuis 1976.",
+      "en": "The araucarias of Villarrica volcano form the iconic silhouettes of Chilean Patagonia. Sacred to the Pehuenche (people of the araucaria), they have been protected as a natural monument since 1976."
+    },
+    "tags": [
+      "Tree",
+      "Sacred",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-saguaro-sonoran",
+    "category": "plant",
+    "name": {
+      "fr": "Cactus saguaro",
+      "en": "Saguaro Cactus"
+    },
+    "region": "Saguaro National Park, désert de Sonora, Arizona",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      32.2967,
+      -111.1667
+    ],
+    "description": {
+      "fr": "Le saguaro (Carnegiea gigantea) est le géant du désert de Sonora, atteignant 15 m et 200 ans. Icône du Far West, il ne pousse que dans cette bande désertique entre Arizona et Sonora mexicain.",
+      "en": "The saguaro (Carnegiea gigantea) is the giant of the Sonoran Desert, reaching 15 m and 200 years old. A Wild West icon, it grows only in this desert strip between Arizona and Sonora, Mexico."
+    },
+    "tags": [
+      "Cactus",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-lithops-namibia",
+    "category": "plant",
+    "name": {
+      "fr": "Plantes-cailloux Lithops",
+      "en": "Living Stones Lithops"
+    },
+    "region": "Désert du Namaqualand, région du Namib",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -27.0,
+      17.5
+    ],
+    "description": {
+      "fr": "Les Lithops, dites plantes-cailloux, imitent parfaitement les galets du désert namibien pour échapper aux herbivores. Elles ne fleurissent qu'après les rares pluies d'automne, dévoilant des fleurs jaunes ou blanches spectaculaires.",
+      "en": "Lithops, or living stones, perfectly mimic desert pebbles to escape herbivores in Namibia. They only bloom after the rare autumn rains, revealing striking yellow or white flowers."
+    },
+    "tags": [
+      "Succulent",
+      "Endemic",
+      "Camouflage"
+    ]
+  },
+  {
+    "id": "pl-welwitschia-namib",
+    "category": "plant",
+    "name": {
+      "fr": "Welwitschia mirabilis",
+      "en": "Welwitschia Mirabilis"
+    },
+    "region": "Désert du Namib, plaine du Welwitschia",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -22.5833,
+      15.0333
+    ],
+    "description": {
+      "fr": "Welwitschia mirabilis, plante endémique du désert du Namib, ne possède que deux feuilles qui poussent pendant 2 000 ans. C'est un fossile vivant que Darwin comparait à un ornithorynque du monde végétal.",
+      "en": "Welwitschia mirabilis, endemic to the Namib Desert, has only two leaves that keep growing for up to 2,000 years. Darwin called this living fossil the platypus of the plant kingdom."
+    },
+    "tags": [
+      "Endemic",
+      "Ancient",
+      "Living-fossil"
+    ]
+  },
+  {
+    "id": "pl-bosnian-pine-pollino",
+    "category": "plant",
+    "name": {
+      "fr": "Pin de Bosnie Italus",
+      "en": "Bosnian Pine Italus"
+    },
+    "region": "Parc national du Pollino, Basilicate",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      39.95,
+      16.1667
+    ],
+    "description": {
+      "fr": "Italus, pin de Bosnie du Pollino, est l'arbre le plus vieux d'Europe scientifiquement daté à 1 230 ans. Ces pins de haute altitude sont endémiques des Balkans et du sud de l'Italie.",
+      "en": "Italus, a Bosnian pine of the Pollino, is Europe's oldest scientifically dated tree at 1,230 years. These high-altitude pines are endemic to the Balkans and southern Italy."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-joshua-tree-mojave",
+    "category": "plant",
+    "name": {
+      "fr": "Arbre de Josué",
+      "en": "Joshua Tree"
+    },
+    "region": "Joshua Tree National Park, désert de Mojave",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      33.8734,
+      -115.901
+    ],
+    "description": {
+      "fr": "Le Joshua tree (Yucca brevifolia) est l'emblème du désert de Mojave, où il pousse au-dessus de 900 m avec sa silhouette torturée. Il ne se reproduit que grâce au papillon yucca, dans une symbiose parfaite.",
+      "en": "The Joshua tree (Yucca brevifolia) is the emblem of the Mojave Desert, growing above 900 m with its twisted silhouette. It reproduces only via the yucca moth in a perfect symbiotic bond."
+    },
+    "tags": [
+      "Tree",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-blue-agave-tequila",
+    "category": "plant",
+    "name": {
+      "fr": "Agave bleu de Tequila",
+      "en": "Blue Agave"
+    },
+    "region": "Paysage agavier de Tequila, Jalisco",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      20.8794,
+      -103.8383
+    ],
+    "description": {
+      "fr": "L'agave bleu (Agave tequilana) ne pousse que dans le paysage volcanique de Tequila, classé UNESCO, où il mature 8 ans avant d'être distillé. C'est l'unique matière première de la tequila authentique.",
+      "en": "Blue agave (Agave tequilana) grows only in the UNESCO-listed volcanic landscape around Tequila, maturing 8 years before distillation. It is the sole raw material of authentic tequila."
+    },
+    "tags": [
+      "Succulent",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-coco-de-mer-praslin",
+    "category": "plant",
+    "name": {
+      "fr": "Coco de mer de Praslin",
+      "en": "Coco de Mer Palm"
+    },
+    "region": "Vallée de Mai, Praslin",
+    "country": {
+      "fr": "Seychelles",
+      "en": "Seychelles"
+    },
+    "countryCode": "SC",
+    "coordinates": [
+      -4.3306,
+      55.7381
+    ],
+    "description": {
+      "fr": "Le coco de mer (Lodoicea maldivica) de la Vallée de Mai à Praslin produit la plus grande graine du règne végétal, jusqu'à 25 kg. Cette palmeraie primitive endémique aux Seychelles est classée UNESCO.",
+      "en": "The coco de mer (Lodoicea maldivica) of Praslin's Vallée de Mai produces the largest seed in the plant kingdom, up to 25 kg. The primeval palm forest endemic to the Seychelles is UNESCO-listed."
+    },
+    "tags": [
+      "Palm",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-wax-palm-cocora",
+    "category": "plant",
+    "name": {
+      "fr": "Palmier à cire de Quindío",
+      "en": "Quindío Wax Palm"
+    },
+    "region": "Vallée de Cocora, Salento, Quindío",
+    "country": {
+      "fr": "Colombie",
+      "en": "Colombia"
+    },
+    "countryCode": "CO",
+    "coordinates": [
+      4.6379,
+      -75.4879
+    ],
+    "description": {
+      "fr": "Le palmier à cire de Quindío est l'arbre national colombien et le plus haut palmier au monde, culminant à 60 m. La Vallée de Cocora abrite des forêts fantomatiques de ces géants dans les nuages andins.",
+      "en": "The Quindío wax palm is Colombia's national tree and the world's tallest palm, reaching 60 m. The Cocora Valley shelters ghostly forests of these giants in the Andean cloud."
+    },
+    "tags": [
+      "Palm",
+      "Endemic",
+      "Tallest"
+    ]
+  },
+  {
+    "id": "pl-date-palm-bam",
+    "category": "plant",
+    "name": {
+      "fr": "Palmier dattier de Bam",
+      "en": "Bam Date Palm"
+    },
+    "region": "Palmeraies de Bam, Kerman",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      29.1058,
+      58.3691
+    ],
+    "description": {
+      "fr": "Bam est le berceau mondial du palmier dattier depuis 2 000 ans, avec des variétés Mazafati incomparables cultivées grâce aux qanats souterrains. La palmeraie et sa citadelle sont classées UNESCO.",
+      "en": "Bam has been the world's date palm cradle for 2,000 years, with unmatched Mazafati varieties grown thanks to underground qanats. The palm grove and citadel are UNESCO-listed."
+    },
+    "tags": [
+      "Palm",
+      "Iconic",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-fiordland-tree-ferns",
+    "category": "plant",
+    "name": {
+      "fr": "Fougères arborescentes de Fiordland",
+      "en": "Fiordland Tree Ferns"
+    },
+    "region": "Parc national de Fiordland, Île du Sud",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -45.4167,
+      167.7167
+    ],
+    "description": {
+      "fr": "Les fougères arborescentes ponga (Cyathea dealbata) atteignent 10 m dans les forêts pluviales de Fiordland. Le silver fern, à revers argenté, est l'emblème national néo-zélandais depuis les Maoris.",
+      "en": "Silver fern (Cyathea dealbata) tree ferns reach 10 m in Fiordland's temperate rainforest. The silver-backed frond has been New Zealand's national emblem since Maori times."
+    },
+    "tags": [
+      "Fern",
+      "Iconic",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-victoria-amazonica-iquitos",
+    "category": "plant",
+    "name": {
+      "fr": "Nénuphar géant Victoria amazonica",
+      "en": "Giant Victoria Water Lily"
+    },
+    "region": "Réserve nationale Pacaya-Samiria, Iquitos",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -4.5,
+      -74.5
+    ],
+    "description": {
+      "fr": "Le nénuphar géant Victoria amazonica atteint 3 m de diamètre et supporte jusqu'à 40 kg. Les rios de l'Amazonie péruvienne autour d'Iquitos sont son habitat naturel, où ses fleurs blanches changent en rose chaque nuit.",
+      "en": "The giant Victoria amazonica water lily reaches 3 m across and can support up to 40 kg. The rivers around Iquitos in the Peruvian Amazon are its natural home, where white flowers turn pink each night."
+    },
+    "tags": [
+      "Aquatic",
+      "Endemic",
+      "Largest"
+    ]
+  },
+  {
+    "id": "pl-rafflesia-sumatra",
+    "category": "plant",
+    "name": {
+      "fr": "Rafflesia arnoldii",
+      "en": "Rafflesia Arnoldii"
+    },
+    "region": "Parc national de Bukit Barisan Selatan, Sumatra",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -5.3333,
+      104.4167
+    ],
+    "description": {
+      "fr": "La Rafflesia arnoldii de Sumatra produit la plus grande fleur du monde, atteignant 1 m et 11 kg. Parasite de lianes, elle dégage une odeur de charogne pour attirer les mouches pollinisatrices.",
+      "en": "Sumatra's Rafflesia arnoldii produces the world's largest flower, up to 1 m across and 11 kg. A vine parasite, it emits a rotting-flesh scent to attract carrion flies for pollination."
+    },
+    "tags": [
+      "Flower",
+      "Endemic",
+      "Largest"
+    ]
+  },
+  {
+    "id": "pl-amorphophallus-titan-sumatra",
+    "category": "plant",
+    "name": {
+      "fr": "Arum titan",
+      "en": "Titan Arum"
+    },
+    "region": "Forêts de Sumatra Ouest, Bukittinggi",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -0.305,
+      100.3697
+    ],
+    "description": {
+      "fr": "L'Amorphophallus titanum de Sumatra produit la plus grande inflorescence non ramifiée du monde, jusqu'à 3 m. Sa floraison rare, tous les 7 à 10 ans, dégage une odeur pestilentielle qui lui a valu le surnom de fleur cadavre.",
+      "en": "Sumatra's Amorphophallus titanum produces the world's largest unbranched inflorescence, up to 3 m tall. Its rare bloom every 7 to 10 years releases a putrid stench, earning it the name corpse flower."
+    },
+    "tags": [
+      "Flower",
+      "Endemic",
+      "Largest"
+    ]
+  },
+  {
+    "id": "pl-purple-pitcher-newfoundland",
+    "category": "plant",
+    "name": {
+      "fr": "Sarracénie pourpre",
+      "en": "Purple Pitcher Plant"
+    },
+    "region": "Parc national du Gros-Morne, Terre-Neuve",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      49.65,
+      -57.75
+    ],
+    "description": {
+      "fr": "La sarracénie pourpre (Sarracenia purpurea) est la fleur emblématique de Terre-Neuve-et-Labrador. Cette plante carnivore capture les insectes dans ses urnes remplies de pluie, dans les tourbières des landes atlantiques.",
+      "en": "The purple pitcher plant (Sarracenia purpurea) is Newfoundland and Labrador's provincial flower. This carnivorous species traps insects in rain-filled pitchers across the Atlantic bogs."
+    },
+    "tags": [
+      "Carnivorous",
+      "Iconic",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-tortoiseshell-bamboo-kagoshima",
+    "category": "plant",
+    "name": {
+      "fr": "Bambou tortue Kikko",
+      "en": "Tortoiseshell Bamboo"
+    },
+    "region": "Village de Kagoshima, Kyūshū",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      31.5966,
+      130.5571
+    ],
+    "description": {
+      "fr": "Le bambou tortue Kikko (Phyllostachys edulis 'Heterocycla'), aux chaumes gonflés en écailles, est cultivé uniquement dans la région de Kagoshima. C'est un trésor national japonais utilisé pour la fabrication d'objets d'art rares.",
+      "en": "Kikko tortoiseshell bamboo (Phyllostachys edulis 'Heterocycla'), with swollen scale-like culms, grows only around Kagoshima. It is a Japanese national treasure used for rare craft objects."
+    },
+    "tags": [
+      "Bamboo",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-teff-ethiopian-highlands",
+    "category": "plant",
+    "name": {
+      "fr": "Teff des hauts plateaux éthiopiens",
+      "en": "Ethiopian Teff"
+    },
+    "region": "Hauts plateaux d'Amhara, région de Gondar",
+    "country": {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      12.603,
+      37.46
+    ],
+    "description": {
+      "fr": "Le teff (Eragrostis tef), plus petite graine céréalière du monde, est domestiqué depuis 4 000 ans sur les hauts plateaux éthiopiens. Il est la base de l'injera et un symbole national inaccessible ailleurs.",
+      "en": "Teff (Eragrostis tef), the world's smallest cereal grain, has been cultivated for 4,000 years on the Ethiopian highlands. It is the base of injera and a national symbol found nowhere else."
+    },
+    "tags": [
+      "Grass",
+      "Endemic",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-ayahuasca-iquitos",
+    "category": "plant",
+    "name": {
+      "fr": "Ayahuasca",
+      "en": "Ayahuasca Vine"
+    },
+    "region": "Forêt amazonienne autour d'Iquitos, Loreto",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -3.7437,
+      -73.2516
+    ],
+    "description": {
+      "fr": "La liane Banisteriopsis caapi, combinée à la chacruna, est la base du breuvage sacré ayahuasca utilisé par les chamans shipibo depuis des siècles. Iquitos est devenue la capitale mondiale des retraites autour de ce vin des âmes.",
+      "en": "The Banisteriopsis caapi vine, combined with chacruna, forms the sacred ayahuasca brew used by Shipibo shamans for centuries. Iquitos has become the world capital of retreats around this vine of the soul."
+    },
+    "tags": [
+      "Vine",
+      "Sacred",
+      "Medicinal"
+    ]
+  },
+  {
+    "id": "pl-coca-andes",
+    "category": "plant",
+    "name": {
+      "fr": "Coca des Andes",
+      "en": "Andean Coca"
+    },
+    "region": "Vallée de La Convención, Cusco",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -12.95,
+      -72.6833
+    ],
+    "description": {
+      "fr": "La feuille de coca (Erythroxylum coca) est cultivée dans les Andes depuis 5 000 ans, mâchée par les peuples quechua et aymara pour lutter contre l'altitude et la fatigue. Elle est sacrée dans les rituels aux apus.",
+      "en": "The coca leaf (Erythroxylum coca) has been cultivated in the Andes for 5,000 years, chewed by Quechua and Aymara peoples to withstand altitude and fatigue. It is sacred in offerings to the apus."
+    },
+    "tags": [
+      "Shrub",
+      "Sacred",
+      "Medicinal"
+    ]
+  },
+  {
+    "id": "pl-khat-yemen",
+    "category": "plant",
+    "name": {
+      "fr": "Khat du Yémen",
+      "en": "Yemeni Qat"
+    },
+    "region": "Monts Haraz, gouvernorat de Sanaa",
+    "country": {
+      "fr": "Yémen",
+      "en": "Yemen"
+    },
+    "countryCode": "YE",
+    "coordinates": [
+      15.1667,
+      43.6667
+    ],
+    "description": {
+      "fr": "Le khat (Catha edulis) est cultivé sur les terrasses en pierre des monts Haraz depuis le XIVe siècle. Ses feuilles fraîches, mâchées lors du majlis quotidien, sont un pilier social et économique du Yémen.",
+      "en": "Qat (Catha edulis) has been grown on the stone terraces of the Haraz mountains since the 14th century. Its fresh leaves, chewed during the daily majlis, are a social and economic pillar of Yemen."
+    },
+    "tags": [
+      "Shrub",
+      "Cultural",
+      "Medicinal"
+    ]
+  },
+  {
+    "id": "pl-yohimbe-cameroon",
+    "category": "plant",
+    "name": {
+      "fr": "Yohimbe du Cameroun",
+      "en": "Yohimbe Tree"
+    },
+    "region": "Forêts du sud-ouest, région d'Ebolowa",
+    "country": {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+    },
+    "countryCode": "CM",
+    "coordinates": [
+      2.9,
+      11.15
+    ],
+    "description": {
+      "fr": "Le yohimbe (Pausinystalia johimbe) est un arbre endémique des forêts humides d'Afrique centrale, dont l'écorce est utilisée depuis des siècles comme aphrodisiaque et stimulant. Le Cameroun est le principal exportateur mondial.",
+      "en": "Yohimbe (Pausinystalia johimbe) is a tree endemic to Central African rainforests, whose bark has been used for centuries as an aphrodisiac and stimulant. Cameroon is the world's leading exporter."
+    },
+    "tags": [
+      "Tree",
+      "Medicinal",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-antarctic-hairgrass",
+    "category": "plant",
+    "name": {
+      "fr": "Canche antarctique",
+      "en": "Antarctic Hair Grass"
+    },
+    "region": "Péninsule Antarctique, île Signy",
+    "country": {
+      "fr": "Antarctique",
+      "en": "Antarctica"
+    },
+    "countryCode": "AQ",
+    "coordinates": [
+      -60.7167,
+      -45.6
+    ],
+    "description": {
+      "fr": "La canche antarctique (Deschampsia antarctica) est l'une des deux seules plantes à fleurs indigènes du continent antarctique. Elle prospère sur la péninsule où le réchauffement climatique lui permet de gagner du terrain.",
+      "en": "Antarctic hair grass (Deschampsia antarctica) is one of only two native flowering plants on the Antarctic continent. It thrives on the peninsula, where warming climate is helping it expand."
+    },
+    "tags": [
+      "Grass",
+      "Endemic",
+      "Extreme"
+    ]
+  },
+  {
+    "id": "pl-jacaranda-pretoria",
+    "category": "plant",
+    "name": {
+      "fr": "Jacarandas de Pretoria",
+      "en": "Pretoria Jacarandas"
+    },
+    "region": "Jacaranda City, Pretoria, Gauteng",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -25.7461,
+      28.1881
+    ],
+    "description": {
+      "fr": "Pretoria est surnommée la Jacaranda City : ses 70 000 jacarandas mimosifolia, importés d'Argentine au XIXe siècle, tapissent chaque octobre les avenues de violet. C'est l'un des plus grands déploiements urbains de jacarandas au monde.",
+      "en": "Pretoria is known as the Jacaranda City: its 70,000 Jacaranda mimosifolia, imported from Argentina in the 19th century, blanket avenues in purple every October. It is one of the world's greatest urban jacaranda displays."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-lotus-varanasi",
+    "category": "plant",
+    "name": {
+      "fr": "Lotus sacré du Gange",
+      "en": "Sacred Lotus of the Ganges"
+    },
+    "region": "Ghâts du Gange, Varanasi, Uttar Pradesh",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      25.3176,
+      82.9739
+    ],
+    "description": {
+      "fr": "Le lotus sacré (Nelumbo nucifera), fleur nationale de l'Inde, pousse sur les ghâts du Gange à Varanasi et symbolise la pureté qui émerge de la vase. Il est essentiel à l'iconographie hindoue et bouddhiste depuis 3 000 ans.",
+      "en": "The sacred lotus (Nelumbo nucifera), India's national flower, grows along the Ganges ghats of Varanasi and symbolizes purity rising from mud. It has anchored Hindu and Buddhist iconography for 3,000 years."
+    },
+    "tags": [
+      "Flower",
+      "Sacred",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-nara-primeval-forest",
+    "category": "plant",
+    "name": {
+      "fr": "Forêt primaire du mont Kasuga",
+      "en": "Kasuga Primeval Forest"
+    },
+    "region": "Kasugayama, Nara",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.68,
+      135.8489
+    ],
+    "description": {
+      "fr": "La forêt primaire de Kasugayama, protégée comme site sacré du sanctuaire Kasuga depuis 841, est un cas unique de forêt urbaine intacte depuis 1 200 ans. Elle abrite 175 espèces d'arbres et est classée UNESCO.",
+      "en": "Kasugayama primeval forest, protected as sacred ground of Kasuga shrine since 841, is a unique case of an urban forest untouched for 1,200 years. It shelters 175 tree species and is UNESCO-listed."
+    },
+    "tags": [
+      "Forest",
+      "Sacred",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-judean-date-palm",
+    "category": "plant",
+    "name": {
+      "fr": "Palmier dattier de Judée",
+      "en": "Judean Date Palm"
+    },
+    "region": "Kibboutz Ketura, désert d'Arava",
+    "country": {
+      "fr": "Israël",
+      "en": "Israel"
+    },
+    "countryCode": "IL",
+    "coordinates": [
+      29.9678,
+      35.0625
+    ],
+    "description": {
+      "fr": "Le palmier dattier de Judée, disparu depuis les Croisades, a été ressuscité en 2005 à partir de graines de 2 000 ans découvertes à Massada. Le désert d'Arava reste le seul lieu où cette variété biblique refleurit.",
+      "en": "The Judean date palm, extinct since the Crusades, was revived in 2005 from 2,000-year-old seeds found at Masada. The Arava desert is now the only place where this biblical variety grows again."
+    },
+    "tags": [
+      "Palm",
+      "Historic",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-pando-aspen-utah",
+    "category": "plant",
+    "name": {
+      "fr": "Pando, colonie de trembles",
+      "en": "Pando Quaking Aspen Colony"
+    },
+    "region": "Forêt nationale de Fishlake, Utah",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      38.525,
+      -111.75
+    ],
+    "description": {
+      "fr": "Pando est un unique tremble mâle dont les 47 000 troncs partagent un seul système racinaire, sur 43 hectares. Cet organisme clonal, vieux d'au moins 14 000 ans, est le plus grand être vivant de la planète.",
+      "en": "Pando is a single male quaking aspen whose 47,000 stems share one root system across 43 hectares. At 14,000 years old, this clonal being is the largest living organism on Earth."
+    },
+    "tags": [
+      "Tree",
+      "Largest",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-congaree-bald-cypress",
+    "category": "plant",
+    "name": {
+      "fr": "Cyprès chauve géant",
+      "en": "Bald Cypress Big Tree"
+    },
+    "region": "Congaree National Park, Caroline du Sud",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      33.7948,
+      -80.7822
+    ],
+    "description": {
+      "fr": "Congaree préserve l'une des dernières forêts de feuillus vierges d'Amérique du Nord, dominée par des cyprès chauves géants (Taxodium distichum) millénaires. Certains dépassent 40 m et sont adaptés aux crues du fleuve Congaree.",
+      "en": "Congaree preserves one of the last old-growth hardwood floodplains in North America, dominated by giant bald cypresses (Taxodium distichum) over a thousand years old. Some exceed 40 m and thrive in the Congaree's floods."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Wetland"
+    ]
+  },
+  {
+    "id": "pl-rose-portland",
+    "category": "plant",
+    "name": {
+      "fr": "Rose de Portland",
+      "en": "Portland Rose"
+    },
+    "region": "International Rose Test Garden, Portland, Oregon",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      45.5192,
+      -122.7078
+    ],
+    "description": {
+      "fr": "Portland, la Rose City, abrite l'International Rose Test Garden, plus vieux jardin d'essai continu de roses aux États-Unis (1917). Ses 10 000 rosiers et 650 variétés font office de laboratoire mondial pour les créations horticoles.",
+      "en": "Portland, the Rose City, hosts the International Rose Test Garden, the oldest continuously operating rose test garden in the US (1917). Its 10,000 bushes and 650 varieties serve as a global testing lab for new cultivars."
+    },
+    "tags": [
+      "Flower",
+      "Iconic",
+      "Horticulture"
+    ]
+  },
+  {
+    "id": "pl-suicide-palm-tahina",
+    "category": "plant",
+    "name": {
+      "fr": "Palmier suicide de Madagascar",
+      "en": "Tahina Suicide Palm"
+    },
+    "region": "District d'Analalava, Sofia",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -14.65,
+      47.75
+    ],
+    "description": {
+      "fr": "Le Tahina spectabilis, découvert en 2007, ne fleurit qu'une seule fois après 50 ans avant de mourir dans une explosion pyramidale de fleurs. Moins de 90 spécimens existent dans une petite zone du nord-ouest malgache.",
+      "en": "Tahina spectabilis, discovered in 2007, flowers only once after 50 years before dying in a pyramidal blossoming explosion. Fewer than 90 specimens survive in a small area of northwestern Madagascar."
+    },
+    "tags": [
+      "Palm",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "pl-boab-kimberley",
+    "category": "plant",
+    "name": {
+      "fr": "Boab d'Australie",
+      "en": "Australian Boab"
+    },
+    "region": "Prison Tree, Derby, Kimberley",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -17.305,
+      123.63
+    ],
+    "description": {
+      "fr": "Le boab (Adansonia gregorii) est le seul baobab hors d'Afrique et de Madagascar, endémique du Kimberley. L'arbre-prison de Derby, un géant creux de 14 m de circonférence, aurait mille ans.",
+      "en": "The boab (Adansonia gregorii) is the only baobab outside Africa and Madagascar, endemic to the Kimberley. The Derby Prison Tree, a hollow 14-m circumference giant, is believed to be a thousand years old."
+    },
+    "tags": [
+      "Tree",
+      "Endemic",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-atlas-cedar-morocco",
+    "category": "plant",
+    "name": {
+      "fr": "Cèdre de l'Atlas",
+      "en": "Atlas Cedar"
+    },
+    "region": "Parc national d'Ifrane, Moyen Atlas",
+    "country": {
+      "fr": "Maroc",
+      "en": "Morocco"
+    },
+    "countryCode": "MA",
+    "coordinates": [
+      33.5228,
+      -5.1108
+    ],
+    "description": {
+      "fr": "Le cèdre de l'Atlas (Cedrus atlantica) forme les plus grandes forêts au monde de son espèce dans le Moyen Atlas marocain. Le cèdre Gouraud, mort en 2003, a symbolisé pendant des décennies ces géants millénaires.",
+      "en": "The Atlas cedar (Cedrus atlantica) forms the world's largest natural forests of its kind in Morocco's Middle Atlas. The Gouraud cedar, dead since 2003, symbolized for decades these thousand-year-old giants."
+    },
+    "tags": [
+      "Tree",
+      "Endemic",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "pl-gobi-saxaul",
+    "category": "plant",
+    "name": {
+      "fr": "Saxaoul du Gobi",
+      "en": "Gobi Saxaul"
+    },
+    "region": "Désert du Gobi, Ömnögovi",
+    "country": {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+    },
+    "countryCode": "MN",
+    "coordinates": [
+      43.6,
+      104.45
+    ],
+    "description": {
+      "fr": "Le saxaoul (Haloxylon ammodendron) est le seul arbre qui pousse dans le désert du Gobi, essentiel pour fixer les dunes et abriter les chameaux de Bactriane. Son bois dur brûle comme du charbon et sauve les nomades du froid.",
+      "en": "The saxaul (Haloxylon ammodendron) is the only tree that grows in the Gobi Desert, essential for anchoring dunes and sheltering Bactrian camels. Its dense wood burns like coal and keeps nomads warm."
+    },
+    "tags": [
+      "Tree",
+      "Desert",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-jade-vine-philippines",
+    "category": "plant",
+    "name": {
+      "fr": "Liane de jade",
+      "en": "Jade Vine"
+    },
+    "region": "Forêts tropicales de Luzon, Aurora",
+    "country": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "countryCode": "PH",
+    "coordinates": [
+      15.7833,
+      121.5333
+    ],
+    "description": {
+      "fr": "La liane de jade (Strongylodon macrobotryos), endémique des Philippines, produit des grappes turquoise iridescentes suspendues à un mètre. Elle est pollinisée par les chauves-souris et menacée par la déforestation.",
+      "en": "The jade vine (Strongylodon macrobotryos), endemic to the Philippines, produces meter-long clusters of iridescent turquoise flowers. It is bat-pollinated and threatened by deforestation."
+    },
+    "tags": [
+      "Vine",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-corpse-flower-bogor",
+    "category": "plant",
+    "name": {
+      "fr": "Bunga bangkai de Bogor",
+      "en": "Bogor Corpse Flower"
+    },
+    "region": "Jardins botaniques de Bogor, Java",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -6.5972,
+      106.7994
+    ],
+    "description": {
+      "fr": "Les jardins de Bogor, fondés en 1817 par les Hollandais, sont l'épicentre mondial des cultures d'Amorphophallus et Rafflesia. Chaque floraison de titan attire des milliers de curieux venus du monde entier.",
+      "en": "The Bogor Botanical Gardens, founded by the Dutch in 1817, are the world hub for cultivation of Amorphophallus and Rafflesia. Each titan bloom draws thousands of visitors from around the globe."
+    },
+    "tags": [
+      "Flower",
+      "Iconic",
+      "Botanical-garden"
+    ]
+  },
+  {
+    "id": "pl-royal-palm-cuba",
+    "category": "plant",
+    "name": {
+      "fr": "Palmier royal de Cuba",
+      "en": "Royal Palm of Cuba"
+    },
+    "region": "Vallée de Viñales, Pinar del Río",
+    "country": {
+      "fr": "Cuba",
+      "en": "Cuba"
+    },
+    "countryCode": "CU",
+    "coordinates": [
+      22.6167,
+      -83.7167
+    ],
+    "description": {
+      "fr": "Le palmier royal (Roystonea regia) est l'arbre national de Cuba, présent sur les armoiries et omniprésent dans la vallée de Viñales, classée UNESCO. Il abrite 20 % de la faune aviaire de l'île.",
+      "en": "The royal palm (Roystonea regia) is Cuba's national tree, featured on the coat of arms and dominating the UNESCO Viñales valley. It shelters 20% of the island's bird species."
+    },
+    "tags": [
+      "Palm",
+      "Iconic",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-cotton-tree-freetown",
+    "category": "plant",
+    "name": {
+      "fr": "Fromager de Freetown",
+      "en": "Freetown Cotton Tree"
+    },
+    "region": "Freetown, Western Area",
+    "country": {
+      "fr": "Sierra Leone",
+      "en": "Sierra Leone"
+    },
+    "countryCode": "SL",
+    "coordinates": [
+      8.4844,
+      -13.2344
+    ],
+    "description": {
+      "fr": "Le fromager (Ceiba pentandra) de Freetown, planté en 1792 par des esclaves affranchis, était le symbole vivant de la liberté sierra-léonaise. Abattu par une tempête en 2023, ses vestiges restent un lieu de pèlerinage national.",
+      "en": "The Freetown Cotton Tree (Ceiba pentandra), planted in 1792 by freed slaves, was the living symbol of Sierra Leonean freedom. Toppled by a 2023 storm, its remnants remain a national pilgrimage site."
+    },
+    "tags": [
+      "Tree",
+      "Historic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-eucalyptus-regnans-tasmania",
+    "category": "plant",
+    "name": {
+      "fr": "Eucalyptus regnans de Tasmanie",
+      "en": "Tasmanian Mountain Ash"
+    },
+    "region": "Vallée de Styx, Tasmanie",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -42.7833,
+      146.6667
+    ],
+    "description": {
+      "fr": "L'Eucalyptus regnans de la vallée de Styx est le feuillu le plus haut du monde, avec des géants dépassant 100 m et plus de 400 ans. Ces forêts vierges tasmaniennes stockent plus de carbone que n'importe quelle autre au monde.",
+      "en": "Eucalyptus regnans in the Styx Valley is the world's tallest flowering plant, with giants exceeding 100 m and over 400 years old. These Tasmanian old-growth forests store more carbon per hectare than any other on Earth."
+    },
+    "tags": [
+      "Tree",
+      "Tallest",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-quiver-tree-namaqualand",
+    "category": "plant",
+    "name": {
+      "fr": "Arbre carquois",
+      "en": "Quiver Tree"
+    },
+    "region": "Forêt du Quiver Tree, Keetmanshoop",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -26.5833,
+      18.15
+    ],
+    "description": {
+      "fr": "Le kokerboom (Aloidendron dichotomum) est un aloès arborescent endémique du sud de la Namibie, dont les branches creuses servaient aux San à fabriquer des carquois. La forêt de Keetmanshoop est un monument naturel classé.",
+      "en": "The kokerboom (Aloidendron dichotomum) is a tree aloe endemic to southern Namibia, whose hollow branches were used by the San to make quivers. The Keetmanshoop forest is a protected natural monument."
+    },
+    "tags": [
+      "Succulent",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-peach-blossom-hangzhou",
+    "category": "plant",
+    "name": {
+      "fr": "Fleurs de pêcher de Hangzhou",
+      "en": "Hangzhou Peach Blossoms"
+    },
+    "region": "Lac de l'Ouest, Hangzhou, Zhejiang",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      30.25,
+      120.15
+    ],
+    "description": {
+      "fr": "Les pêchers en fleurs du Su Causeway sur le lac de l'Ouest sont célébrés depuis la dynastie Song comme l'une des dix vues classiques de Hangzhou. Chaque printemps, la digue devient un tunnel rose de trois kilomètres.",
+      "en": "The peach blossoms of Su Causeway on West Lake have been celebrated since the Song dynasty as one of the ten classic views of Hangzhou. Every spring, the causeway becomes a three-kilometer pink tunnel."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-mopane-okavango",
+    "category": "plant",
+    "name": {
+      "fr": "Arbre mopane",
+      "en": "Mopane Tree"
+    },
+    "region": "Delta de l'Okavango, Ngamiland",
+    "country": {
+      "fr": "Botswana",
+      "en": "Botswana"
+    },
+    "countryCode": "BW",
+    "coordinates": [
+      -19.2833,
+      22.95
+    ],
+    "description": {
+      "fr": "Le mopane (Colophospermum mopane) domine les savanes de l'Okavango, offrant fourrage aux éléphants et abri aux fameux vers mopane. Ses feuilles en forme de papillon se replient à la chaleur pour économiser l'eau.",
+      "en": "The mopane (Colophospermum mopane) dominates Okavango savannas, providing fodder for elephants and shelter for the famous mopane worms. Its butterfly-shaped leaves fold in the heat to save water."
+    },
+    "tags": [
+      "Tree",
+      "Savanna",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-tea-camellia-yunnan",
+    "category": "plant",
+    "name": {
+      "fr": "Théier ancien du Yunnan",
+      "en": "Ancient Yunnan Tea Camellia"
+    },
+    "region": "Montagnes Jingmai, Xishuangbanna",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      22.0611,
+      100.05
+    ],
+    "description": {
+      "fr": "Les théiers Camellia sinensis assamica du Yunnan, cultivés depuis le VIIe siècle, sont l'origine du thé pu'er. Le paysage culturel de Jingmai, classé UNESCO en 2023, abrite des théiers millénaires en forêt sacrée.",
+      "en": "The Camellia sinensis assamica tea trees of Yunnan, cultivated since the 7th century, are the origin of pu'er tea. The Jingmai cultural landscape, UNESCO-listed in 2023, shelters millennia-old tea trees in sacred forests."
+    },
+    "tags": [
+      "Shrub",
+      "Ancient",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-buckwheat-shirakawago",
+    "category": "plant",
+    "name": {
+      "fr": "Champs de sarrasin de Shirakawa-go",
+      "en": "Shirakawa-go Buckwheat Fields"
+    },
+    "region": "Ogimachi, Shirakawa-go, Gifu",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      36.2585,
+      136.9067
+    ],
+    "description": {
+      "fr": "Le sarrasin en fleurs (Fagopyrum esculentum) recouvre à l'automne les champs autour des maisons gassho-zukuri de Shirakawa-go, classées UNESCO. Ce paysage rural blanc-rosé nourrit la tradition des soba japonais.",
+      "en": "Flowering buckwheat (Fagopyrum esculentum) blankets the fields around Shirakawa-go's UNESCO gassho-zukuri houses in autumn. This white-pink rural landscape feeds Japan's soba tradition."
+    },
+    "tags": [
+      "Grain",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-california-fan-palm-oasis",
+    "category": "plant",
+    "name": {
+      "fr": "Palmier de Californie",
+      "en": "California Fan Palm"
+    },
+    "region": "Palm Canyon, Agua Caliente, désert de Colorado",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      33.6839,
+      -116.5586
+    ],
+    "description": {
+      "fr": "Le Washingtonia filifera est le seul palmier natif de l'ouest américain, formant des oasis miraculeuses dans le désert de Colorado. Palm Canyon abrite la plus grande palmeraie naturelle du continent avec 3 000 spécimens.",
+      "en": "Washingtonia filifera is the only palm native to the American West, forming miraculous oases in the Colorado Desert. Palm Canyon holds the continent's largest natural palm grove with 3,000 specimens."
+    },
+    "tags": [
+      "Palm",
+      "Endemic",
+      "Desert"
+    ]
+  },
+  {
+    "id": "pl-canary-dragon-tree",
+    "category": "plant",
+    "name": {
+      "fr": "Dragonnier des Canaries",
+      "en": "Canary Islands Dragon Tree"
+    },
+    "region": "Icod de los Vinos, Tenerife",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      28.3667,
+      -16.7167
+    ],
+    "description": {
+      "fr": "Le drago milenario d'Icod de los Vinos, arbre symbole des Canaries, est âgé de 800 à 1 000 ans. Ce dragonnier des Canaries (Dracaena draco) est un des rares témoins encore vivants de la flore préhistorique de Macaronésie.",
+      "en": "The Drago Milenario of Icod de los Vinos, the symbol tree of the Canaries, is estimated at 800 to 1,000 years old. This Dracaena draco is one of the last living witnesses of Macaronesia's prehistoric flora."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-nepal-lali-gurans",
+    "category": "plant",
+    "name": {
+      "fr": "Lali Gurans du Népal",
+      "en": "Nepali Lali Gurans"
+    },
+    "region": "Circuit des Annapurnas, Ghorepani",
+    "country": {
+      "fr": "Népal",
+      "en": "Nepal"
+    },
+    "countryCode": "NP",
+    "coordinates": [
+      28.4,
+      83.6833
+    ],
+    "description": {
+      "fr": "Le Rhododendron arboreum, ou lali gurans, est la fleur nationale du Népal et forme des forêts rouges spectaculaires autour de Ghorepani au printemps. Ses arbres atteignent 20 m, un record pour le genre.",
+      "en": "Rhododendron arboreum, or lali gurans, is Nepal's national flower and forms spectacular red forests around Ghorepani in spring. Its trees reach 20 m, a record for the genus."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-montezuma-cypress-tule",
+    "category": "plant",
+    "name": {
+      "fr": "Cyprès de Montezuma del Tule",
+      "en": "Árbol del Tule Montezuma Cypress"
+    },
+    "region": "Santa María del Tule, Oaxaca",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      17.0447,
+      -96.6367
+    ],
+    "description": {
+      "fr": "L'árbol del Tule, cyprès de Montezuma âgé de 1 500 ans, possède le tronc le plus large du monde avec 14 m de diamètre. Il domine la place du village de Santa María del Tule et est vénéré par les Zapotèques.",
+      "en": "The Árbol del Tule, a 1,500-year-old Montezuma cypress, has the world's widest trunk at 14 m in diameter. It dominates the village square of Santa María del Tule and is revered by the Zapotec people."
+    },
+    "tags": [
+      "Tree",
+      "Widest",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-canola-luoping",
+    "category": "plant",
+    "name": {
+      "fr": "Champs de colza de Luoping",
+      "en": "Luoping Canola Fields"
+    },
+    "region": "Luoping, préfecture de Qujing, Yunnan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      24.9,
+      104.3
+    ],
+    "description": {
+      "fr": "Luoping produit chaque février-mars la plus grande floraison de colza au monde : 200 000 hectares d'un jaune vif au milieu des karsts calcaires. Ce spectacle attire photographes et apiculteurs de toute la Chine.",
+      "en": "Every February and March, Luoping stages the world's largest canola bloom: 200,000 hectares of blazing yellow amid limestone karsts. The spectacle draws photographers and beekeepers from all over China."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-sagole-baobab",
+    "category": "plant",
+    "name": {
+      "fr": "Baobab Sagole",
+      "en": "Sagole Baobab"
+    },
+    "region": "Village de Sagole, Vhembe, Limpopo",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -22.5,
+      30.7
+    ],
+    "description": {
+      "fr": "Le baobab de Sagole, le plus grand baobab africain vivant, a un tronc de 33 m de circonférence et une estimation de 1 000 ans. Sacré pour les Venda, il est un site rituel où l'on adresse des demandes aux ancêtres.",
+      "en": "The Sagole baobab, Africa's largest living baobab, has a 33 m trunk circumference and is estimated at 1,000 years old. Sacred to the Venda, it is a ritual site for petitioning the ancestors."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-broceliande-guillotin-oak",
+    "category": "plant",
+    "name": {
+      "fr": "Chêne à Guillotin de Brocéliande",
+      "en": "Guillotin Oak of Brocéliande"
+    },
+    "region": "Forêt de Paimpont-Brocéliande, Ille-et-Vilaine",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.0333,
+      -2.1667
+    ],
+    "description": {
+      "fr": "Le chêne à Guillotin, âgé de 1 000 ans, est le plus vieux de la mythique forêt de Brocéliande, associée à la légende arthurienne et à Merlin. Il incarne le mysticisme celtique et druidique breton.",
+      "en": "The 1,000-year-old Guillotin Oak is the oldest tree in the mythical Brocéliande forest, tied to Arthurian legend and Merlin. It embodies Breton Celtic and Druidic mysticism."
+    },
+    "tags": [
+      "Tree",
+      "Ancient",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "pl-flamboyant-madagascar",
+    "category": "plant",
+    "name": {
+      "fr": "Flamboyant de Madagascar",
+      "en": "Royal Poinciana Flamboyant"
+    },
+    "region": "Tsimbazaza, Antananarivo",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -18.9333,
+      47.5167
+    ],
+    "description": {
+      "fr": "Le flamboyant (Delonix regia), endémique de Madagascar, embrase les rues d'Antananarivo d'un rouge orangé chaque décembre. Son aire naturelle se limite à une forêt sèche du nord-ouest de l'île.",
+      "en": "The flamboyant (Delonix regia), endemic to Madagascar, sets Antananarivo streets ablaze in orange-red each December. Its natural range is limited to a dry forest in the northwest of the island."
+    },
+    "tags": [
+      "Tree",
+      "Seasonal",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "pl-cotton-grass-svalbard",
+    "category": "plant",
+    "name": {
+      "fr": "Linaigrette arctique",
+      "en": "Arctic Cotton Grass"
+    },
+    "region": "Toundra du Svalbard, Longyearbyen",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      78.22,
+      15.63
+    ],
+    "description": {
+      "fr": "La linaigrette (Eriophorum scheuchzeri) est la fleur du toundra arctique, tapissant les zones humides du Svalbard de ses aigrettes cotonneuses en juillet. Elle prospère là où presque rien ne pousse.",
+      "en": "Cotton grass (Eriophorum scheuchzeri) is the flower of the Arctic tundra, dotting Svalbard's wetlands with cottony white tufts in July. It thrives where almost nothing else can grow."
+    },
+    "tags": [
+      "Flower",
+      "Arctic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-king-protea-cape",
+    "category": "plant",
+    "name": {
+      "fr": "Protéa royale du Cap",
+      "en": "King Protea"
+    },
+    "region": "Fynbos du Cap, Kirstenbosch, Le Cap",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -33.9878,
+      18.4325
+    ],
+    "description": {
+      "fr": "La protéa royale (Protea cynaroides) est la fleur nationale sud-africaine et le joyau du fynbos du Cap, région florale la plus dense du monde avec 9 000 espèces. Kirstenbosch protège ce hotspot classé UNESCO.",
+      "en": "The king protea (Protea cynaroides) is South Africa's national flower and the jewel of the Cape Fynbos, the world's densest floral kingdom with 9,000 species. Kirstenbosch protects this UNESCO hotspot."
+    },
+    "tags": [
+      "Flower",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-wisteria-ashikaga",
+    "category": "plant",
+    "name": {
+      "fr": "Glycines d'Ashikaga",
+      "en": "Ashikaga Wisteria"
+    },
+    "region": "Parc floral d'Ashikaga, Tochigi",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      36.3141,
+      139.5203
+    ],
+    "description": {
+      "fr": "La grande glycine d'Ashikaga, âgée de 160 ans, forme une cascade violette de 1 000 m² soutenue par des poutres d'acier. Le parc accueille chaque mai le plus célèbre spectacle de wisteria au monde, illuminé la nuit.",
+      "en": "Ashikaga's 160-year-old great wisteria forms a 1,000 m² purple cascade held up by steel beams. Every May the park hosts the world's most famous wisteria display, illuminated by night."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-saffron-la-mancha",
+    "category": "plant",
+    "name": {
+      "fr": "Safran de la Mancha",
+      "en": "La Mancha Saffron Crocus"
+    },
+    "region": "Consuegra, Castille-La Manche",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      39.4614,
+      -3.6069
+    ],
+    "description": {
+      "fr": "Le Crocus sativus fleurit à Consuegra chaque octobre, produisant l'épice la plus chère du monde. La rose du safran de La Mancha est protégée par l'AOP et récoltée à la main à l'aube.",
+      "en": "Crocus sativus blooms in Consuegra every October, producing the world's most expensive spice. La Mancha's Rosa del Azafrán is PDO-protected and hand-picked at dawn."
+    },
+    "tags": [
+      "Flower",
+      "Seasonal",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "pl-cinnamon-sri-lanka",
+    "category": "plant",
+    "name": {
+      "fr": "Cannelier de Ceylan",
+      "en": "Ceylon Cinnamon"
+    },
+    "region": "District de Galle, province du Sud",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      6.0329,
+      80.2168
+    ],
+    "description": {
+      "fr": "Le cannelier de Ceylan (Cinnamomum verum) est endémique du Sri Lanka, où son écorce est récoltée depuis 2 000 ans selon un savoir-faire familial. C'est la vraie cannelle, plus fine et plus rare que la cassia chinoise.",
+      "en": "Ceylon cinnamon (Cinnamomum verum) is endemic to Sri Lanka, where its bark has been harvested for 2,000 years through family craftsmanship. It is the true cinnamon, finer and rarer than Chinese cassia."
+    },
+    "tags": [
+      "Tree",
+      "Endemic",
+      "Historic"
+    ]
+  },
+  {
+    "id": "pl-vanilla-madagascar-sava",
+    "category": "plant",
+    "name": {
+      "fr": "Vanille bourbon de Madagascar",
+      "en": "Madagascar Bourbon Vanilla"
+    },
+    "region": "Région SAVA, Sambava",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -14.2661,
+      50.1667
+    ],
+    "description": {
+      "fr": "La région SAVA produit 80 % de la vanille bourbon mondiale, extraite de l'orchidée Vanilla planifolia pollinisée à la main sous les canopées humides. Sambava est surnommée la capitale mondiale de la vanille.",
+      "en": "The SAVA region produces 80% of the world's Bourbon vanilla, extracted from Vanilla planifolia orchids hand-pollinated under humid canopies. Sambava is nicknamed the vanilla capital of the world."
+    },
+    "tags": [
+      "Orchid",
+      "Iconic",
+      "Endemic"
+    ]
+  }
+]

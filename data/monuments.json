@@ -1,0 +1,4158 @@
+[
+  {
+    "id": "mn-tour-eiffel",
+    "category": "monument",
+    "name": {
+      "fr": "Tour Eiffel",
+      "en": "Eiffel Tower"
+    },
+    "region": "Paris, Île-de-France",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.8584,
+      2.2945
+    ],
+    "description": {
+      "fr": "Silhouette de fer forgé plantée sur le Champ-de-Mars depuis 1889, la Tour Eiffel reste l'emblème absolu de Paris. Le soir, ses vingt mille ampoules la font scintiller cinq minutes toutes les heures.",
+      "en": "A wrought-iron silhouette on the Champ-de-Mars since 1889, the Eiffel Tower remains the ultimate symbol of Paris. Each evening, twenty thousand bulbs make it sparkle for five minutes on the hour."
+    },
+    "tags": [
+      "Modern architecture",
+      "Cultural",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/330px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+  },
+  {
+    "id": "mn-colisee",
+    "category": "monument",
+    "name": {
+      "fr": "Colisée",
+      "en": "Colosseum"
+    },
+    "region": "Rome, Latium",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      41.8902,
+      12.4922
+    ],
+    "description": {
+      "fr": "Amphithéâtre géant achevé en 80 après J.-C., le Colisée pouvait accueillir cinquante mille spectateurs venus vibrer aux combats de gladiateurs. Ses arcades érodées racontent encore la puissance de Rome.",
+      "en": "A giant amphitheatre completed in 80 AD, the Colosseum once held fifty thousand spectators cheering gladiators. Its weathered arches still tell the story of imperial Rome."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg"
+  },
+  {
+    "id": "mn-sagrada-familia",
+    "category": "monument",
+    "name": {
+      "fr": "Sagrada Família",
+      "en": "Sagrada Família"
+    },
+    "region": "Barcelone, Catalogne",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      41.4036,
+      2.1744
+    ],
+    "description": {
+      "fr": "Basilique en chantier depuis 1882, imaginée par Antoni Gaudí comme une forêt de pierre inondée de lumière colorée. Elle devrait enfin être achevée dans les prochaines années.",
+      "en": "A basilica under construction since 1882, dreamt up by Antoni Gaudí as a stone forest bathed in coloured light. Completion is finally on the horizon."
+    },
+    "tags": [
+      "UNESCO",
+      "Modern architecture",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SF_maig_2_cropped.jpg/330px-SF_maig_2_cropped.jpg"
+  },
+  {
+    "id": "mn-acropole-athenes",
+    "category": "monument",
+    "name": {
+      "fr": "Acropole d'Athènes",
+      "en": "Acropolis of Athens"
+    },
+    "region": "Athènes, Attique",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      37.9715,
+      23.7267
+    ],
+    "description": {
+      "fr": "Rocher sacré dominant Athènes, l'Acropole porte le Parthénon, temple de marbre du Ve siècle av. J.-C. C'est le berceau visible de la démocratie et de l'esthétique classique.",
+      "en": "A sacred rock rising above Athens, the Acropolis crowns the 5th-century BC marble Parthenon. This is where democracy and classical beauty first took shape."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg/330px-1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": "mn-stonehenge",
+    "category": "monument",
+    "name": {
+      "fr": "Stonehenge",
+      "en": "Stonehenge"
+    },
+    "region": "Wiltshire, Angleterre",
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "countryCode": "GB",
+    "coordinates": [
+      51.1789,
+      -1.8262
+    ],
+    "description": {
+      "fr": "Cercle de mégalithes érigé il y a près de 5 000 ans dans la plaine de Salisbury. Ses pierres alignées sur les solstices intriguent encore archéologues et rêveurs.",
+      "en": "A megalithic circle raised on Salisbury Plain nearly 5,000 years ago. Its stones align with the solstices and still puzzle archaeologists and dreamers alike."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/330px-Stonehenge2007_07_30.jpg"
+  },
+  {
+    "id": "mn-neuschwanstein",
+    "category": "monument",
+    "name": {
+      "fr": "Château de Neuschwanstein",
+      "en": "Neuschwanstein Castle"
+    },
+    "region": "Alpes bavaroises, Bavière",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany"
+    },
+    "countryCode": "DE",
+    "coordinates": [
+      47.5576,
+      10.7498
+    ],
+    "description": {
+      "fr": "Perché sur un éperon rocheux des Alpes bavaroises, ce château romantique commandé par Louis II a inspiré le château de Walt Disney. Ses tours pâles émergent des forêts brumeuses.",
+      "en": "Perched on a Bavarian Alpine ridge, this romantic castle commissioned by King Ludwig II inspired the Walt Disney castle. Pale turrets rise from misty forests."
+    },
+    "tags": [
+      "Cultural",
+      "Mountain",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/330px-Schloss_Neuschwanstein_2013.jpg"
+  },
+  {
+    "id": "mn-mont-saint-michel",
+    "category": "monument",
+    "name": {
+      "fr": "Mont-Saint-Michel",
+      "en": "Mont-Saint-Michel"
+    },
+    "region": "Normandie",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.6361,
+      -1.5115
+    ],
+    "description": {
+      "fr": "Îlot rocheux couronné d'une abbaye gothique, cerné par les plus grandes marées d'Europe. À marée haute, il redevient une île mystique posée entre ciel et sable.",
+      "en": "A rocky islet crowned by a Gothic abbey, ringed by Europe's greatest tides. At high tide it becomes a mystical island suspended between sky and sand."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Coastal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/330px-Mont-Saint-Michel_vu_du_ciel.jpg"
+  },
+  {
+    "id": "mn-alhambra",
+    "category": "monument",
+    "name": {
+      "fr": "Alhambra de Grenade",
+      "en": "Alhambra of Granada"
+    },
+    "region": "Grenade, Andalousie",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      37.1761,
+      -3.5881
+    ],
+    "description": {
+      "fr": "Palais-forteresse nasride bâti au XIVe siècle sur la colline de la Sabika. Ses stucs finement ciselés et ses patios d'eau sont un sommet de l'art islamique.",
+      "en": "A 14th-century Nasrid palace-fortress crowning Sabika Hill. Its finely carved stucco and reflective courtyards mark a peak of Islamic art."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Ancient"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/330px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg"
+  },
+  {
+    "id": "mn-santorin",
+    "category": "monument",
+    "name": {
+      "fr": "Santorin",
+      "en": "Santorini"
+    },
+    "region": "Cyclades, mer Égée",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      36.4074,
+      25.4562
+    ],
+    "description": {
+      "fr": "Caldeira volcanique bordée de villages blancs et de dômes bleus qui plongent vers la mer Égée. Les couchers de soleil d'Oia y sont devenus mythiques.",
+      "en": "A volcanic caldera fringed with whitewashed villages and blue domes tumbling toward the Aegean. Sunsets from Oia have become the stuff of legend."
+    },
+    "tags": [
+      "Volcano",
+      "Coastal",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2011_Dimos_Thiras.png/330px-2011_Dimos_Thiras.png"
+  },
+  {
+    "id": "mn-plitvice",
+    "category": "monument",
+    "name": {
+      "fr": "Lacs de Plitvice",
+      "en": "Plitvice Lakes"
+    },
+    "region": "Lika, Croatie centrale",
+    "country": {
+      "fr": "Croatie",
+      "en": "Croatia"
+    },
+    "countryCode": "HR",
+    "coordinates": [
+      44.8654,
+      15.582
+    ],
+    "description": {
+      "fr": "Cascade de seize lacs turquoise reliés par des chutes travertines dans une forêt épaisse. Les passerelles en bois serpentent au ras de l'eau translucide.",
+      "en": "A cascade of sixteen turquoise lakes linked by travertine falls in dense forest. Wooden walkways skim just above the crystal-clear water."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Waterfall"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/View_in_Plitvice_Lakes_National_Park.jpg/330px-View_in_Plitvice_Lakes_National_Park.jpg"
+  },
+  {
+    "id": "mn-geirangerfjord",
+    "category": "monument",
+    "name": {
+      "fr": "Geirangerfjord",
+      "en": "Geirangerfjord"
+    },
+    "region": "Sunnmøre, Norvège occidentale",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      62.101,
+      7.205
+    ],
+    "description": {
+      "fr": "Fjord profond aux parois vertigineuses, ponctué par les cascades des Sept Sœurs. Les fermes abandonnées accrochées aux flancs racontent une vie rude et sublime.",
+      "en": "A deep fjord walled by dizzying cliffs and streaked by the Seven Sisters waterfalls. Abandoned farmsteads cling to the slopes, echoing a rugged sublime life."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Waterfall"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geirangerfjord_.jpg/330px-Geirangerfjord_.jpg"
+  },
+  {
+    "id": "mn-versailles",
+    "category": "monument",
+    "name": {
+      "fr": "Château de Versailles",
+      "en": "Palace of Versailles"
+    },
+    "region": "Yvelines, Île-de-France",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      48.8049,
+      2.1204
+    ],
+    "description": {
+      "fr": "Palais royal de Louis XIV avec sa galerie des Glaces, ses jardins à la française et ses fontaines dessinés par Le Nôtre. Un manifeste absolu de la monarchie française.",
+      "en": "Louis XIV's royal palace with its Hall of Mirrors, formal gardens and fountains laid out by Le Nôtre. An absolute manifesto of French monarchy."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Palace"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/330px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg"
+  },
+  {
+    "id": "mn-lofoten",
+    "category": "monument",
+    "name": {
+      "fr": "Îles Lofoten",
+      "en": "Lofoten Islands"
+    },
+    "region": "Nordland, Cercle polaire",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      68.21,
+      14.656
+    ],
+    "description": {
+      "fr": "Archipel de pics acérés surgis de la mer, avec ses villages de pêcheurs aux cabanes rouges. En été le soleil ne se couche pas, en hiver les aurores dansent au-dessus.",
+      "en": "An archipelago of jagged peaks rising from the sea, dotted with red fishermen's cabins. The summer sun never sets, and winter auroras dance overhead."
+    },
+    "tags": [
+      "Natural wonder",
+      "Coastal",
+      "Aurora"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg/330px-Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg"
+  },
+  {
+    "id": "mn-hallstatt",
+    "category": "monument",
+    "name": {
+      "fr": "Hallstatt",
+      "en": "Hallstatt"
+    },
+    "region": "Salzkammergut, Haute-Autriche",
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria"
+    },
+    "countryCode": "AT",
+    "coordinates": [
+      47.5622,
+      13.6493
+    ],
+    "description": {
+      "fr": "Village alpin coincé entre un lac émeraude et une falaise. Ses mines de sel exploitées depuis 7 000 ans en font l'un des plus anciens sites industriels du monde.",
+      "en": "An Alpine village wedged between an emerald lake and a cliff. Its salt mines, worked for 7,000 years, make it one of the world's oldest industrial sites."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hallstatt_-_Zentrum_.JPG/330px-Hallstatt_-_Zentrum_.JPG"
+  },
+  {
+    "id": "mn-sognefjord",
+    "category": "monument",
+    "name": {
+      "fr": "Sognefjord",
+      "en": "Sognefjord"
+    },
+    "region": "Vestland, Norvège occidentale",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      61.1717,
+      6.611
+    ],
+    "description": {
+      "fr": "Le plus long et le plus profond fjord de Norvège, s'enfonçant sur 200 km dans les terres. Ses ramifications abritent villages traditionnels et glaciers suspendus.",
+      "en": "Norway's longest and deepest fjord, cutting 200 km inland. Its branches shelter traditional villages and hanging glaciers."
+    },
+    "tags": [
+      "Natural wonder",
+      "Fjord",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sognefjord%2C_Norway.jpg/330px-Sognefjord%2C_Norway.jpg"
+  },
+  {
+    "id": "mn-jokulsarlon",
+    "category": "monument",
+    "name": {
+      "fr": "Jökulsárlón",
+      "en": "Jökulsárlón Glacier Lagoon"
+    },
+    "region": "Sud-est de l'Islande",
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland"
+    },
+    "countryCode": "IS",
+    "coordinates": [
+      64.0784,
+      -16.2306
+    ],
+    "description": {
+      "fr": "Lagon glaciaire où dérivent des icebergs bleus détachés du Breiðamerkurjökull. Sur la plage voisine, ces blocs échoués sur le sable noir forment le « diamond beach ».",
+      "en": "A glacier lagoon where blue icebergs calved from Breiðamerkurjökull drift toward the sea. On the nearby black-sand shore they stud the beach with diamonds."
+    },
+    "tags": [
+      "Natural wonder",
+      "Glacier",
+      "Coastal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jokulsarlon_lake%2C_Iceland.jpg/330px-Jokulsarlon_lake%2C_Iceland.jpg"
+  },
+  {
+    "id": "mn-geysir-haukadalur",
+    "category": "monument",
+    "name": {
+      "fr": "Geysers de Haukadalur",
+      "en": "Haukadalur Geysers"
+    },
+    "region": "Cercle d'Or, Islande",
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland"
+    },
+    "countryCode": "IS",
+    "coordinates": [
+      64.311,
+      -20.3022
+    ],
+    "description": {
+      "fr": "Vallée volcanique où Strokkur projette toutes les cinq minutes une colonne d'eau bouillante à trente mètres de haut. Le mot « geyser » lui-même vient d'ici.",
+      "en": "A volcanic valley where Strokkur blasts a boiling column of water 30 metres high every few minutes. The word 'geyser' itself was born here."
+    },
+    "tags": [
+      "Natural wonder",
+      "Volcano",
+      "Geothermal"
+    ]
+  },
+  {
+    "id": "mn-meteores",
+    "category": "monument",
+    "name": {
+      "fr": "Météores",
+      "en": "Meteora"
+    },
+    "region": "Thessalie",
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "countryCode": "GR",
+    "coordinates": [
+      39.7217,
+      21.6303
+    ],
+    "description": {
+      "fr": "Monastères orthodoxes juchés au sommet de piliers rocheux de 400 mètres, comme suspendus dans le ciel. Les moines y montaient jadis par échelles de corde.",
+      "en": "Orthodox monasteries perched atop 400-metre stone pillars, seemingly floating in the sky. Monks once hoisted themselves up with rope ladders."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Meteora%27s_monastery_2.jpg/330px-Meteora%27s_monastery_2.jpg"
+  },
+  {
+    "id": "mn-bruges",
+    "category": "monument",
+    "name": {
+      "fr": "Bruges",
+      "en": "Bruges"
+    },
+    "region": "Flandre-Occidentale",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium"
+    },
+    "countryCode": "BE",
+    "coordinates": [
+      51.2093,
+      3.2247
+    ],
+    "description": {
+      "fr": "Ville médiévale de brique rouge tissée de canaux et de beffrois, surnommée la Venise du Nord. Ses maisons à pignon reflètent des siècles de commerce flamand.",
+      "en": "A medieval red-brick city laced with canals and belfries, nicknamed the Venice of the North. Its gabled houses mirror centuries of Flemish trade."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Historic town"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Br%C3%BCgge_Blick_vom_Belfried_4.jpg/330px-Br%C3%BCgge_Blick_vom_Belfried_4.jpg"
+  },
+  {
+    "id": "mn-chambord",
+    "category": "monument",
+    "name": {
+      "fr": "Château de Chambord",
+      "en": "Château de Chambord"
+    },
+    "region": "Loir-et-Cher, Val de Loire",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      47.616,
+      1.517
+    ],
+    "description": {
+      "fr": "Palais Renaissance planté au milieu d'une forêt géante, avec son toit hérissé de tourelles et son escalier à double révolution attribué à Léonard de Vinci.",
+      "en": "A Renaissance palace set in a vast forest, with a roofscape bristling with turrets and a double-helix staircase credited to Leonardo da Vinci."
+    },
+    "tags": [
+      "UNESCO",
+      "Palace",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aerial_image_of_Ch%C3%A2teau_de_Chambord_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Ch%C3%A2teau_de_Chambord_%28view_from_the_southeast%29.jpg"
+  },
+  {
+    "id": "mn-gorges-verdon",
+    "category": "monument",
+    "name": {
+      "fr": "Gorges du Verdon",
+      "en": "Verdon Gorge"
+    },
+    "region": "Provence, Alpes-de-Haute-Provence",
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
+    "countryCode": "FR",
+    "coordinates": [
+      43.75,
+      6.4167
+    ],
+    "description": {
+      "fr": "Canyon calcaire de 700 mètres de profondeur creusé par les eaux turquoise du Verdon. On y navigue en kayak entre parois vertigineuses et villages perchés.",
+      "en": "A 700-metre-deep limestone canyon carved by the turquoise Verdon river. Kayaks glide between towering walls and perched Provençal villages."
+    },
+    "tags": [
+      "Natural wonder",
+      "Canyon",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Verdon_Gorge_1.jpg/330px-Verdon_Gorge_1.jpg"
+  },
+  {
+    "id": "mn-etna",
+    "category": "monument",
+    "name": {
+      "fr": "Etna",
+      "en": "Mount Etna"
+    },
+    "region": "Sicile",
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "countryCode": "IT",
+    "coordinates": [
+      37.751,
+      14.9934
+    ],
+    "description": {
+      "fr": "Plus haut volcan actif d'Europe, culminant à 3 350 mètres au-dessus des vignes et villages siciliens. Ses éruptions rougeoyantes rythment la vie de l'île.",
+      "en": "Europe's tallest active volcano, rising 3,350 metres above Sicilian vineyards and villages. Its glowing eruptions set the rhythm of island life."
+    },
+    "tags": [
+      "UNESCO",
+      "Volcano",
+      "Natural wonder"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mt_Etna_and_Catania1.jpg/330px-Mt_Etna_and_Catania1.jpg"
+  },
+  {
+    "id": "mn-cappadoce",
+    "category": "monument",
+    "name": {
+      "fr": "Cappadoce",
+      "en": "Cappadocia"
+    },
+    "region": "Anatolie centrale",
+    "country": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    "countryCode": "TR",
+    "coordinates": [
+      38.6431,
+      34.8289
+    ],
+    "description": {
+      "fr": "Paysage lunaire de cheminées de fées sculptées dans le tuf volcanique, creusées d'églises byzantines et de villes souterraines. Les montgolfières y décollent à l'aube.",
+      "en": "A lunar landscape of fairy chimneys carved from volcanic tuff, riddled with Byzantine churches and underground cities. Hot-air balloons drift up at dawn."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/330px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg"
+  },
+  {
+    "id": "mn-sainte-sophie",
+    "category": "monument",
+    "name": {
+      "fr": "Sainte-Sophie",
+      "en": "Hagia Sophia"
+    },
+    "region": "Istanbul, Marmara",
+    "country": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    "countryCode": "TR",
+    "coordinates": [
+      41.0086,
+      28.9802
+    ],
+    "description": {
+      "fr": "Basilique byzantine du VIe siècle devenue mosquée, ses immenses coupoles dorées ont défini l'architecture sacrée pendant mille ans. Un lieu où chrétienté et islam se superposent.",
+      "en": "A 6th-century Byzantine basilica turned mosque, its vast golden domes shaped sacred architecture for a thousand years. A place where Christianity and Islam overlap."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg"
+  },
+  {
+    "id": "mn-mostar",
+    "category": "monument",
+    "name": {
+      "fr": "Vieux pont de Mostar",
+      "en": "Old Bridge of Mostar"
+    },
+    "region": "Herzégovine",
+    "country": {
+      "fr": "Bosnie-Herzégovine",
+      "en": "Bosnia and Herzegovina"
+    },
+    "countryCode": "BA",
+    "coordinates": [
+      43.3372,
+      17.8149
+    ],
+    "description": {
+      "fr": "Pont ottoman en arc du XVIe siècle, détruit en 1993 et reconstruit pierre par pierre. Les plongeurs s'y jettent depuis 24 mètres de haut.",
+      "en": "A 16th-century Ottoman arched bridge, destroyed in 1993 and rebuilt stone by stone. Divers plunge 24 metres from its parapet."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Historic town"
+    ]
+  },
+  {
+    "id": "mn-taj-mahal",
+    "category": "monument",
+    "name": {
+      "fr": "Taj Mahal",
+      "en": "Taj Mahal"
+    },
+    "region": "Agra, Uttar Pradesh",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      27.1751,
+      78.0421
+    ],
+    "description": {
+      "fr": "Mausolée de marbre blanc érigé par Shah Jahan pour sa reine Mumtaz Mahal au XVIIe siècle. À l'aube, ses coupoles rosissent le long de la rivière Yamuna.",
+      "en": "A white marble mausoleum built by Shah Jahan in the 17th century for his queen Mumtaz Mahal. At dawn its domes turn rose along the Yamuna river."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "id": "mn-grande-muraille",
+    "category": "monument",
+    "name": {
+      "fr": "Grande Muraille de Chine",
+      "en": "Great Wall of China"
+    },
+    "region": "Nord de la Chine",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      40.4319,
+      116.5704
+    ],
+    "description": {
+      "fr": "Rempart serpentant sur plus de 20 000 kilomètres à travers montagnes et déserts, construit sur deux millénaires. Ses tours de guet cadencent les crêtes chinoises.",
+      "en": "A rampart snaking over 20,000 kilometres across mountains and deserts, built across two millennia. Watchtowers punctuate the Chinese ridgelines."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/330px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+  },
+  {
+    "id": "mn-angkor-vat",
+    "category": "monument",
+    "name": {
+      "fr": "Angkor Vat",
+      "en": "Angkor Wat"
+    },
+    "region": "Siem Reap",
+    "country": {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+    },
+    "countryCode": "KH",
+    "coordinates": [
+      13.4125,
+      103.867
+    ],
+    "description": {
+      "fr": "Plus grand ensemble monumental religieux au monde, ce temple khmer du XIIe siècle émerge de la jungle au lever du jour. Ses bas-reliefs racontent le Râmâyana.",
+      "en": "The world's largest religious monument, this 12th-century Khmer temple rises from the jungle at sunrise. Its bas-reliefs recount the Ramayana."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/330px-Angkor_Wat.jpg"
+  },
+  {
+    "id": "mn-cite-interdite",
+    "category": "monument",
+    "name": {
+      "fr": "Cité interdite",
+      "en": "Forbidden City"
+    },
+    "region": "Pékin",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      39.9163,
+      116.3972
+    ],
+    "description": {
+      "fr": "Palais impérial de 980 bâtiments aux toits ocre, cœur du pouvoir chinois de 1420 à 1912. Seuls l'empereur et sa cour pouvaient franchir ses murs pourpres.",
+      "en": "An imperial palace of 980 ochre-roofed buildings, the seat of Chinese power from 1420 to 1912. Only the emperor and his court could pass its crimson walls."
+    },
+    "tags": [
+      "UNESCO",
+      "Palace",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg"
+  },
+  {
+    "id": "mn-mont-fuji",
+    "category": "monument",
+    "name": {
+      "fr": "Mont Fuji",
+      "en": "Mount Fuji"
+    },
+    "region": "Honshū, Shizuoka et Yamanashi",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.3606,
+      138.7274
+    ],
+    "description": {
+      "fr": "Volcan parfaitement conique culminant à 3 776 mètres, coiffé de neige la moitié de l'année. Il est sacré depuis des siècles et a inspiré Hokusai.",
+      "en": "A perfectly conical volcano rising 3,776 metres, snow-capped much of the year. Sacred for centuries and immortalised by Hokusai."
+    },
+    "tags": [
+      "UNESCO",
+      "Volcano",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+  },
+  {
+    "id": "mn-kinkaku-ji",
+    "category": "monument",
+    "name": {
+      "fr": "Pavillon d'or de Kinkaku-ji",
+      "en": "Kinkaku-ji Golden Pavilion"
+    },
+    "region": "Kyoto, Kansai",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      35.0394,
+      135.7292
+    ],
+    "description": {
+      "fr": "Temple zen recouvert de feuilles d'or, reflété dans un étang de miroir au milieu d'un jardin de mousses. Un sommet du raffinement japonais.",
+      "en": "A Zen temple sheathed in gold leaf, mirrored in a still pond within a moss garden. A pinnacle of Japanese refinement."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "mn-fushimi-inari",
+    "category": "monument",
+    "name": {
+      "fr": "Fushimi Inari-taisha",
+      "en": "Fushimi Inari Shrine"
+    },
+    "region": "Kyoto, Kansai",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.9671,
+      135.7727
+    ],
+    "description": {
+      "fr": "Sanctuaire shintô dont un tunnel de 10 000 torii vermillon serpente sur une colline sacrée. Une marche de deux heures aboutit à un panorama sur Kyoto.",
+      "en": "A Shinto shrine whose tunnel of 10,000 vermilion torii winds up a sacred hill. A two-hour walk leads to a view over Kyoto."
+    },
+    "tags": [
+      "Cultural",
+      "Sacred",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/330px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg"
+  },
+  {
+    "id": "mn-himeji",
+    "category": "monument",
+    "name": {
+      "fr": "Château de Himeji",
+      "en": "Himeji Castle"
+    },
+    "region": "Hyōgo, Kansai",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.8394,
+      134.6939
+    ],
+    "description": {
+      "fr": "Château féodal aux courbes de plâtre blanc, surnommé « le héron blanc ». Ses défenses en labyrinthe n'ont jamais été forcées depuis 1609.",
+      "en": "A feudal castle of white plaster curves, nicknamed 'the White Heron'. Its maze-like defences have never been breached since 1609."
+    },
+    "tags": [
+      "UNESCO",
+      "Palace",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Himeji_castle_in_may_2015.jpg/330px-Himeji_castle_in_may_2015.jpg"
+  },
+  {
+    "id": "mn-todaiji",
+    "category": "monument",
+    "name": {
+      "fr": "Tōdai-ji",
+      "en": "Tōdai-ji Temple"
+    },
+    "region": "Nara, Kansai",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.689,
+      135.8399
+    ],
+    "description": {
+      "fr": "Temple bouddhiste du VIIIe siècle abritant un Grand Bouddha de bronze de 15 mètres. Il se trouve dans un parc où circulent des cerfs sacrés.",
+      "en": "An 8th-century Buddhist temple sheltering a 15-metre bronze Great Buddha. It sits in a park roamed by sacred deer."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Daibutsu-den_in_Todaiji_Nara01bs3200.jpg/330px-Daibutsu-den_in_Todaiji_Nara01bs3200.jpg"
+  },
+  {
+    "id": "mn-borobudur",
+    "category": "monument",
+    "name": {
+      "fr": "Borobudur",
+      "en": "Borobudur"
+    },
+    "region": "Java central",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -7.6079,
+      110.2038
+    ],
+    "description": {
+      "fr": "Immense stupa bouddhiste du IXe siècle, pyramide de pierre volcanique décorée de 2 672 bas-reliefs. Au sommet, une forêt de stupas cloches émerge de la brume.",
+      "en": "A vast 9th-century Buddhist stupa, a pyramid of volcanic stone adorned with 2,672 bas-reliefs. Bell-shaped stupas emerge through the morning mist at the top."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/330px-Pradaksina.jpg"
+  },
+  {
+    "id": "mn-bagan",
+    "category": "monument",
+    "name": {
+      "fr": "Bagan",
+      "en": "Bagan"
+    },
+    "region": "Mandalay",
+    "country": {
+      "fr": "Birmanie",
+      "en": "Myanmar"
+    },
+    "countryCode": "MM",
+    "coordinates": [
+      21.1717,
+      94.8583
+    ],
+    "description": {
+      "fr": "Plaine parsemée de plus de 2 000 temples de brique construits entre le IXe et le XIIIe siècle. Les montgolfières y flottent à l'aube au-dessus de la brume.",
+      "en": "A plain scattered with more than 2,000 brick temples built between the 9th and 13th centuries. Hot-air balloons drift over the dawn mist."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
+  },
+  {
+    "id": "mn-shwedagon",
+    "category": "monument",
+    "name": {
+      "fr": "Pagode Shwedagon",
+      "en": "Shwedagon Pagoda"
+    },
+    "region": "Rangoun",
+    "country": {
+      "fr": "Birmanie",
+      "en": "Myanmar"
+    },
+    "countryCode": "MM",
+    "coordinates": [
+      16.7981,
+      96.1497
+    ],
+    "description": {
+      "fr": "Stupa doré de 99 mètres dont le sommet est incrusté de milliers de diamants et rubis. Cœur spirituel de la Birmanie depuis 2 500 ans.",
+      "en": "A 99-metre gilded stupa crowned with thousands of diamonds and rubies. Myanmar's spiritual heart for 2,500 years."
+    },
+    "tags": [
+      "Cultural",
+      "Sacred",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Shwedagon_Pagoda_2017.jpg/330px-Shwedagon_Pagoda_2017.jpg"
+  },
+  {
+    "id": "mn-halong",
+    "category": "monument",
+    "name": {
+      "fr": "Baie d'Halong",
+      "en": "Ha Long Bay"
+    },
+    "region": "Quảng Ninh, golfe du Tonkin",
+    "country": {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+    },
+    "countryCode": "VN",
+    "coordinates": [
+      20.9101,
+      107.1839
+    ],
+    "description": {
+      "fr": "Baie constellée de 1 600 pitons calcaires surgis d'une mer émeraude. Les jonques y glissent entre grottes marines et villages flottants.",
+      "en": "A bay strewn with 1,600 limestone karsts rising from emerald water. Junks slip between sea caves and floating villages."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Coastal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/330px-Ha_Long_Bay_in_2019.jpg"
+  },
+  {
+    "id": "mn-hue",
+    "category": "monument",
+    "name": {
+      "fr": "Cité impériale de Huê",
+      "en": "Imperial City of Huế"
+    },
+    "region": "Vietnam central",
+    "country": {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+    },
+    "countryCode": "VN",
+    "coordinates": [
+      16.4691,
+      107.5793
+    ],
+    "description": {
+      "fr": "Ancienne capitale de la dynastie Nguyễn, entourée de douves et de remparts sur les rives de la rivière des Parfums. Un dédale de palais aux toits jaunes.",
+      "en": "The former capital of the Nguyễn dynasty, ringed by moats and walls along the Perfume River. A maze of yellow-roofed palaces."
+    },
+    "tags": [
+      "UNESCO",
+      "Palace",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%C4%90%E1%BA%A1i_n%E1%BB%99i.jpg/330px-%C4%90%E1%BA%A1i_n%E1%BB%99i.jpg"
+  },
+  {
+    "id": "mn-banaue",
+    "category": "monument",
+    "name": {
+      "fr": "Rizières de Banaue",
+      "en": "Banaue Rice Terraces"
+    },
+    "region": "Ifugao, Luçon",
+    "country": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "countryCode": "PH",
+    "coordinates": [
+      16.9299,
+      121.0577
+    ],
+    "description": {
+      "fr": "Escaliers de rizières sculptés à la main sur 2 000 ans dans les montagnes d'Ifugao. Bout à bout, elles feraient la moitié du tour de la Terre.",
+      "en": "Hand-carved rice terraces stepping up the Ifugao mountains over 2,000 years. Laid end to end they would circle half the Earth."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Banaue-terrace.JPG/330px-Banaue-terrace.JPG"
+  },
+  {
+    "id": "mn-marina-bay-sands",
+    "category": "monument",
+    "name": {
+      "fr": "Marina Bay Sands",
+      "en": "Marina Bay Sands"
+    },
+    "region": "Downtown Core",
+    "country": {
+      "fr": "Singapour",
+      "en": "Singapore"
+    },
+    "countryCode": "SG",
+    "coordinates": [
+      1.2834,
+      103.8607
+    ],
+    "description": {
+      "fr": "Trois tours reliées par un SkyPark de 340 mètres où trône une piscine à débordement suspendue au-dessus de la baie. Icône de Singapour signée Moshe Safdie.",
+      "en": "Three towers linked by a 340-metre SkyPark topped by an infinity pool floating above the bay. Moshe Safdie's icon of Singapore."
+    },
+    "tags": [
+      "Modern architecture",
+      "Iconic",
+      "Skyscraper"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Marina_Bay_Sands_%28I%29.jpg/330px-Marina_Bay_Sands_%28I%29.jpg"
+  },
+  {
+    "id": "mn-gardens-by-the-bay",
+    "category": "monument",
+    "name": {
+      "fr": "Gardens by the Bay",
+      "en": "Gardens by the Bay"
+    },
+    "region": "Marina Bay",
+    "country": {
+      "fr": "Singapour",
+      "en": "Singapore"
+    },
+    "countryCode": "SG",
+    "coordinates": [
+      1.2816,
+      103.8636
+    ],
+    "description": {
+      "fr": "Parc futuriste où des Supertrees de 50 mètres captent l'énergie solaire et s'illuminent chaque soir. Les serres abritent une cascade artificielle et une forêt nuageuse.",
+      "en": "A futuristic park where 50-metre Supertrees harvest solar energy and glow each night. The conservatories hold an indoor waterfall and a cloud forest."
+    },
+    "tags": [
+      "Modern architecture",
+      "Iconic",
+      "Park"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg/330px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg"
+  },
+  {
+    "id": "mn-grand-palais-bangkok",
+    "category": "monument",
+    "name": {
+      "fr": "Grand Palais de Bangkok",
+      "en": "Grand Palace of Bangkok"
+    },
+    "region": "Bangkok, Rattanakosin",
+    "country": {
+      "fr": "Thaïlande",
+      "en": "Thailand"
+    },
+    "countryCode": "TH",
+    "coordinates": [
+      13.75,
+      100.4913
+    ],
+    "description": {
+      "fr": "Complexe royal fondé en 1782, hérissé de toits d'or et de stupas. Il abrite le Bouddha d'Émeraude, statue sacrée du royaume.",
+      "en": "A royal complex founded in 1782, bristling with golden roofs and stupas. It shelters the Emerald Buddha, the kingdom's sacred image."
+    },
+    "tags": [
+      "Cultural",
+      "Palace",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-luang-prabang",
+    "category": "monument",
+    "name": {
+      "fr": "Luang Prabang",
+      "en": "Luang Prabang"
+    },
+    "region": "Nord du Laos",
+    "country": {
+      "fr": "Laos",
+      "en": "Laos"
+    },
+    "countryCode": "LA",
+    "coordinates": [
+      19.8845,
+      102.1348
+    ],
+    "description": {
+      "fr": "Ancienne capitale royale nichée au confluent du Mékong et du Nam Khan, riche de temples dorés et de villas coloniales. Chaque matin, la procession des moines rythme la ville.",
+      "en": "A former royal capital nestled where the Mekong meets the Nam Khan, rich with gilded temples and colonial villas. Each morning monks walk the streets for alms."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Historic town"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg/330px-Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg"
+  },
+  {
+    "id": "mn-batu-caves",
+    "category": "monument",
+    "name": {
+      "fr": "Grottes de Batu",
+      "en": "Batu Caves"
+    },
+    "region": "Selangor, près de Kuala Lumpur",
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
+    "countryCode": "MY",
+    "coordinates": [
+      3.2379,
+      101.684
+    ],
+    "description": {
+      "fr": "Sanctuaire hindou installé dans une falaise calcaire, gardé par une statue dorée de Murugan de 42 mètres. Un escalier arc-en-ciel de 272 marches y grimpe.",
+      "en": "A Hindu shrine inside a limestone cliff, guarded by a 42-metre gilded statue of Murugan. A rainbow staircase of 272 steps climbs up to it."
+    },
+    "tags": [
+      "Cultural",
+      "Cave",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/330px-Batu_Caves_stairs_2022-05.jpg"
+  },
+  {
+    "id": "mn-petronas",
+    "category": "monument",
+    "name": {
+      "fr": "Tours Petronas",
+      "en": "Petronas Twin Towers"
+    },
+    "region": "Kuala Lumpur",
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
+    "countryCode": "MY",
+    "coordinates": [
+      3.1579,
+      101.7114
+    ],
+    "description": {
+      "fr": "Deux tours jumelles de 452 mètres inspirées des motifs islamiques, un temps plus hauts gratte-ciels du monde. Une passerelle vitrée relie leurs 41e et 42e étages.",
+      "en": "Twin 452-metre towers inspired by Islamic patterns, once the world's tallest buildings. A glass skybridge links the 41st and 42nd floors."
+    },
+    "tags": [
+      "Modern architecture",
+      "Iconic",
+      "Skyscraper"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Petronas_Towers_Logo.svg/330px-Petronas_Towers_Logo.svg.png"
+  },
+  {
+    "id": "mn-mount-kailash",
+    "category": "monument",
+    "name": {
+      "fr": "Mont Kailash",
+      "en": "Mount Kailash"
+    },
+    "region": "Ngari, Tibet",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      31.068,
+      81.3122
+    ],
+    "description": {
+      "fr": "Pic sacré de 6 638 mètres, considéré comme l'axe du monde par quatre religions. Aucun alpiniste n'a jamais atteint son sommet.",
+      "en": "A sacred 6,638-metre peak revered as the axis of the world by four religions. No climber has ever set foot on its summit."
+    },
+    "tags": [
+      "Mountain",
+      "Cultural",
+      "Sacred"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kailash_north.JPG/330px-Kailash_north.JPG"
+  },
+  {
+    "id": "mn-taktsang",
+    "category": "monument",
+    "name": {
+      "fr": "Monastère de Taktshang",
+      "en": "Tiger's Nest Monastery"
+    },
+    "region": "Vallée de Paro",
+    "country": {
+      "fr": "Bhoutan",
+      "en": "Bhutan"
+    },
+    "countryCode": "BT",
+    "coordinates": [
+      27.4922,
+      89.3634
+    ],
+    "description": {
+      "fr": "Monastère bouddhiste accroché à une falaise à 3 120 mètres, au-dessus de la vallée de Paro. On l'atteint après trois heures d'ascension à travers les rhododendrons.",
+      "en": "A Buddhist monastery clinging to a cliff at 3,120 metres above the Paro valley. Reached after a three-hour climb through rhododendrons."
+    },
+    "tags": [
+      "Cultural",
+      "Mountain",
+      "Sacred"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Paro_Taktsang%2C_Bhutan_%28edited%29.jpg/330px-Paro_Taktsang%2C_Bhutan_%28edited%29.jpg"
+  },
+  {
+    "id": "mn-everest",
+    "category": "monument",
+    "name": {
+      "fr": "Mont Everest",
+      "en": "Mount Everest"
+    },
+    "region": "Khumbu, Himalaya",
+    "country": {
+      "fr": "Népal",
+      "en": "Nepal"
+    },
+    "countryCode": "NP",
+    "coordinates": [
+      27.9881,
+      86.925
+    ],
+    "description": {
+      "fr": "Sommet du monde à 8 848 mètres, appelé Sagarmatha en népalais et Chomolungma en tibétain. Depuis 1953, plus de 6 000 personnes l'ont gravi.",
+      "en": "The world's roof at 8,848 metres, called Sagarmatha in Nepali and Chomolungma in Tibetan. Since 1953 more than 6,000 climbers have reached the top."
+    },
+    "tags": [
+      "Natural wonder",
+      "Mountain",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg/330px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg"
+  },
+  {
+    "id": "mn-boudhanath",
+    "category": "monument",
+    "name": {
+      "fr": "Stupa de Bodnath",
+      "en": "Boudhanath Stupa"
+    },
+    "region": "Katmandou",
+    "country": {
+      "fr": "Népal",
+      "en": "Nepal"
+    },
+    "countryCode": "NP",
+    "coordinates": [
+      27.7215,
+      85.362
+    ],
+    "description": {
+      "fr": "L'un des plus grands stupas du monde, dôme blanc surmonté d'yeux dorés qui scrutent les quatre horizons. Autour, moulins à prière et robes safran des exilés tibétains.",
+      "en": "One of the world's largest stupas, a white dome crowned by gilded eyes gazing to the four horizons. Prayer wheels and Tibetan exiles fill the plaza."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Sacred"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg/330px-Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg"
+  },
+  {
+    "id": "mn-varanasi",
+    "category": "monument",
+    "name": {
+      "fr": "Ghâts de Varanasi",
+      "en": "Varanasi Ghats"
+    },
+    "region": "Vallée du Gange, Uttar Pradesh",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      25.3176,
+      82.9739
+    ],
+    "description": {
+      "fr": "Escaliers de pierre plongeant dans le Gange, où pèlerins et défunts se rejoignent depuis 3 000 ans. Chaque soir, la cérémonie de l'Aarti embrase les rives.",
+      "en": "Stone steps sinking into the Ganges where pilgrims and the departed have met for 3,000 years. Every evening the Aarti ceremony sets the banks aflame."
+    },
+    "tags": [
+      "Cultural",
+      "Sacred",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-hampi",
+    "category": "monument",
+    "name": {
+      "fr": "Hampi",
+      "en": "Hampi"
+    },
+    "region": "Karnataka",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      15.335,
+      76.46
+    ],
+    "description": {
+      "fr": "Ruines de l'ancienne capitale de l'empire Vijayanagara, dispersées dans un paysage de rochers ronds couleur or. Temples, chars de pierre et bazars désertés.",
+      "en": "Ruins of the former Vijayanagara capital scattered across a landscape of golden boulders. Temples, stone chariots and empty bazaars survive."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/330px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg"
+  },
+  {
+    "id": "mn-sigiriya",
+    "category": "monument",
+    "name": {
+      "fr": "Rocher de Sigirîya",
+      "en": "Sigiriya Rock"
+    },
+    "region": "Province centrale",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      7.957,
+      80.7603
+    ],
+    "description": {
+      "fr": "Piton de granit de 200 mètres portant sur son sommet les ruines d'un palais royal du Ve siècle, décoré de fresques célestes.",
+      "en": "A 200-metre granite plug crowned by the ruins of a 5th-century royal palace, decorated with celestial frescoes."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sigiriya_%28141688197%29.jpeg/330px-Sigiriya_%28141688197%29.jpeg"
+  },
+  {
+    "id": "mn-registan",
+    "category": "monument",
+    "name": {
+      "fr": "Registan de Samarcande",
+      "en": "Registan of Samarkand"
+    },
+    "region": "Route de la soie",
+    "country": {
+      "fr": "Ouzbékistan",
+      "en": "Uzbekistan"
+    },
+    "countryCode": "UZ",
+    "coordinates": [
+      39.6552,
+      66.9756
+    ],
+    "description": {
+      "fr": "Trois madrasas ornées de mosaïques bleues encadrant la place centrale de Samarcande, joyau timouride. Elles ont accueilli les caravaniers de la Route de la Soie.",
+      "en": "Three madrassas gleaming with blue mosaic tiles around Samarkand's main square, a Timurid jewel. They once welcomed Silk Road caravanners."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "mn-baikal",
+    "category": "monument",
+    "name": {
+      "fr": "Lac Baïkal",
+      "en": "Lake Baikal"
+    },
+    "region": "Sibérie",
+    "country": {
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    "countryCode": "RU",
+    "coordinates": [
+      53.5587,
+      108.165
+    ],
+    "description": {
+      "fr": "Plus vieux et plus profond lac du monde, il contient un cinquième de l'eau douce liquide de la planète. En hiver, sa glace turquoise se craquèle sur 25 millions d'années.",
+      "en": "The world's oldest and deepest lake, holding a fifth of Earth's liquid freshwater. In winter its turquoise ice crackles over 25 million years."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Extreme"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/330px-Baikal.A2001296.0420.250m-NASA.jpg"
+  },
+  {
+    "id": "mn-gobi",
+    "category": "monument",
+    "name": {
+      "fr": "Désert de Gobi",
+      "en": "Gobi Desert"
+    },
+    "region": "Mongolie du Sud",
+    "country": {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+    },
+    "countryCode": "MN",
+    "coordinates": [
+      42.7952,
+      105.0323
+    ],
+    "description": {
+      "fr": "Immense désert froid balayé par les vents, où l'on trouve encore des dinosaures fossiles et les campements des derniers éleveurs de chameaux nomades.",
+      "en": "A vast cold desert swept by wind, where dinosaur fossils still surface and the last nomadic camel herders pitch their gers."
+    },
+    "tags": [
+      "Desert",
+      "Natural wonder",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gobi_Desert.jpg/330px-Gobi_Desert.jpg"
+  },
+  {
+    "id": "mn-flaming-cliffs",
+    "category": "monument",
+    "name": {
+      "fr": "Falaises Flamboyantes",
+      "en": "Flaming Cliffs"
+    },
+    "region": "Bayanzag, désert de Gobi",
+    "country": {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+    },
+    "countryCode": "MN",
+    "coordinates": [
+      44.14,
+      103.74
+    ],
+    "description": {
+      "fr": "Falaises de grès rouge où furent découverts en 1923 les premiers œufs de dinosaure. Au coucher du soleil, la roche s'embrase littéralement.",
+      "en": "Red sandstone cliffs where the first dinosaur eggs were unearthed in 1923. At sunset the rock truly bursts into flame."
+    },
+    "tags": [
+      "Natural wonder",
+      "Desert",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flaming_cliffs_5.jpg/330px-Flaming_cliffs_5.jpg"
+  },
+  {
+    "id": "mn-jiuzhaigou",
+    "category": "monument",
+    "name": {
+      "fr": "Vallée de Jiuzhaigou",
+      "en": "Jiuzhaigou Valley"
+    },
+    "region": "Sichuan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      33.26,
+      103.92
+    ],
+    "description": {
+      "fr": "Vallée aux 108 lacs turquoise et cascades en escalier dans les montagnes tibétaines. Un paradis calcifié aux couleurs irréelles.",
+      "en": "A valley of 108 turquoise lakes and staircase waterfalls in the Tibetan mountains. A calcified paradise of unreal colours."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Waterfall"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/330px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg"
+  },
+  {
+    "id": "mn-zhangjiajie",
+    "category": "monument",
+    "name": {
+      "fr": "Zhangjiajie",
+      "en": "Zhangjiajie"
+    },
+    "region": "Hunan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      29.317,
+      110.479
+    ],
+    "description": {
+      "fr": "Forêt de piliers de quartzite dressés dans la brume, qui a inspiré les montagnes flottantes d'Avatar. Un vertige minéral.",
+      "en": "A forest of quartzite pillars rising from the mist, the inspiration for Avatar's floating mountains. A mineral vertigo."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+  },
+  {
+    "id": "mn-gyeongju",
+    "category": "monument",
+    "name": {
+      "fr": "Gyeongju",
+      "en": "Gyeongju"
+    },
+    "region": "Gyeongsang du Nord",
+    "country": {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+    },
+    "countryCode": "KR",
+    "coordinates": [
+      35.8562,
+      129.2247
+    ],
+    "description": {
+      "fr": "Ancienne capitale du royaume de Silla, appelée « musée sans murs » : tumulus royaux, pagodes et temples parsèment la vallée.",
+      "en": "The former Silla capital, dubbed a 'museum without walls': royal tumuli, pagodas and temples dot the valley."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gyeongju_montage.png/330px-Gyeongju_montage.png"
+  },
+  {
+    "id": "mn-jeju",
+    "category": "monument",
+    "name": {
+      "fr": "Île de Jeju",
+      "en": "Jeju Island"
+    },
+    "region": "Détroit de Corée",
+    "country": {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+    },
+    "countryCode": "KR",
+    "coordinates": [
+      33.4996,
+      126.5312
+    ],
+    "description": {
+      "fr": "Île volcanique dominée par le Hallasan et parsemée de tubes de lave. Les haenyeo, plongeuses en apnée, y récoltent encore l'ormeau à mains nues.",
+      "en": "A volcanic island dominated by Mount Hallasan and pocked with lava tubes. Haenyeo free-divers still harvest abalone by hand."
+    },
+    "tags": [
+      "UNESCO",
+      "Volcano",
+      "Coastal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jeju_Island.jpg/330px-Jeju_Island.jpg"
+  },
+  {
+    "id": "mn-tatev",
+    "category": "monument",
+    "name": {
+      "fr": "Monastère de Tatev",
+      "en": "Tatev Monastery"
+    },
+    "region": "Syunik",
+    "country": {
+      "fr": "Arménie",
+      "en": "Armenia"
+    },
+    "countryCode": "AM",
+    "coordinates": [
+      39.3792,
+      46.2506
+    ],
+    "description": {
+      "fr": "Monastère du IXe siècle perché sur une falaise, atteint par le plus long téléphérique du monde au-dessus des gorges de Vorotan.",
+      "en": "A 9th-century monastery perched on a cliff, reached by the world's longest cable car over the Vorotan gorge."
+    },
+    "tags": [
+      "Cultural",
+      "Sacred",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/-2025.05_%D0%A2%D0%B0%D1%82%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_1.jpg/330px--2025.05_%D0%A2%D0%B0%D1%82%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_1.jpg"
+  },
+  {
+    "id": "mn-derinkuyu",
+    "category": "monument",
+    "name": {
+      "fr": "Ville souterraine de Derinkuyu",
+      "en": "Derinkuyu Underground City"
+    },
+    "region": "Cappadoce",
+    "country": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    "countryCode": "TR",
+    "coordinates": [
+      38.3736,
+      34.735
+    ],
+    "description": {
+      "fr": "Cité troglodyte de dix-huit niveaux creusée dans le tuf, pouvant abriter 20 000 personnes. Elle protégeait les chrétiens des invasions dès le VIIIe siècle.",
+      "en": "An eighteen-storey underground city carved into tuff, capable of sheltering 20,000 people. It hid Christians from invasions from the 8th century onward."
+    },
+    "tags": [
+      "Ancient",
+      "Cultural",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg/330px-Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg"
+  },
+  {
+    "id": "mn-petra",
+    "category": "monument",
+    "name": {
+      "fr": "Pétra",
+      "en": "Petra"
+    },
+    "region": "Ma'an, sud de la Jordanie",
+    "country": {
+      "fr": "Jordanie",
+      "en": "Jordan"
+    },
+    "countryCode": "JO",
+    "coordinates": [
+      30.3285,
+      35.4444
+    ],
+    "description": {
+      "fr": "Cité nabatéenne taillée dans la roche rose il y a 2 000 ans, à laquelle on accède par un canyon étroit, le Siq. Sa façade du Trésor apparaît soudain, éblouissante.",
+      "en": "A Nabataean city carved into rose-red rock 2,000 years ago, reached through the narrow Siq canyon. The Treasury façade appears suddenly, dazzling."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/330px-Al_Deir_Petra.JPG"
+  },
+  {
+    "id": "mn-wadi-rum",
+    "category": "monument",
+    "name": {
+      "fr": "Wadi Rum",
+      "en": "Wadi Rum"
+    },
+    "region": "Aqaba, sud de la Jordanie",
+    "country": {
+      "fr": "Jordanie",
+      "en": "Jordan"
+    },
+    "countryCode": "JO",
+    "coordinates": [
+      29.5333,
+      35.4167
+    ],
+    "description": {
+      "fr": "Désert de sable rouge parsemé de montagnes de grès sculptées par le vent. Lawrence d'Arabie l'a arpenté ; les cinéastes y filment souvent Mars.",
+      "en": "A red-sand desert scattered with wind-carved sandstone mountains. Lawrence of Arabia rode across it, and filmmakers often use it as Mars."
+    },
+    "tags": [
+      "UNESCO",
+      "Desert",
+      "Natural wonder"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/330px-Mountain_in_Wadi_Rum%2C_Jordan.jpg"
+  },
+  {
+    "id": "mn-mer-morte",
+    "category": "monument",
+    "name": {
+      "fr": "Mer Morte",
+      "en": "Dead Sea"
+    },
+    "region": "Vallée du Jourdain",
+    "country": {
+      "fr": "Israël",
+      "en": "Israel"
+    },
+    "countryCode": "IL",
+    "coordinates": [
+      31.559,
+      35.4732
+    ],
+    "description": {
+      "fr": "Point le plus bas de la Terre, à 430 mètres sous le niveau de la mer, avec une eau si salée qu'on y flotte sans effort. Ses rives blanchies s'assèchent d'année en année.",
+      "en": "Earth's lowest point at 430 metres below sea level, so salty that swimmers float effortlessly. Its bleached shores retreat further each year."
+    },
+    "tags": [
+      "Natural wonder",
+      "Extreme",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dead_Sea_beach_00.JPG/330px-Dead_Sea_beach_00.JPG"
+  },
+  {
+    "id": "mn-persepolis",
+    "category": "monument",
+    "name": {
+      "fr": "Persépolis",
+      "en": "Persepolis"
+    },
+    "region": "Fars",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      29.9354,
+      52.8916
+    ],
+    "description": {
+      "fr": "Capitale cérémonielle de l'empire achéménide fondée par Darius Ier. Ses colonnes et bas-reliefs monumentaux témoignent d'un raffinement disparu il y a 2 500 ans.",
+      "en": "The ceremonial capital of the Achaemenid Empire founded by Darius I. Colossal columns and bas-reliefs testify to a refinement lost 2,500 years ago."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Map_Achaemenids_Capitals_locations.png/330px-Map_Achaemenids_Capitals_locations.png"
+  },
+  {
+    "id": "mn-badab-e-surt",
+    "category": "monument",
+    "name": {
+      "fr": "Terrasses de Badab-e Surt",
+      "en": "Badab-e Surt Terraces"
+    },
+    "region": "Mazandaran",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      36.3211,
+      53.6994
+    ],
+    "description": {
+      "fr": "Cascade de bassins de travertin ocre et rose formée par deux sources minérales, cachée dans les montagnes iraniennes. Un secret spectaculaire.",
+      "en": "A cascade of ochre and pink travertine pools formed by two mineral springs, hidden in Iran's mountains. A spectacular secret."
+    },
+    "tags": [
+      "Natural wonder",
+      "Off-beat",
+      "Geothermal"
+    ]
+  },
+  {
+    "id": "mn-cheikh-zayed",
+    "category": "monument",
+    "name": {
+      "fr": "Mosquée Cheikh Zayed",
+      "en": "Sheikh Zayed Grand Mosque"
+    },
+    "region": "Abou Dabi",
+    "country": {
+      "fr": "Émirats arabes unis",
+      "en": "United Arab Emirates"
+    },
+    "countryCode": "AE",
+    "coordinates": [
+      24.4128,
+      54.4747
+    ],
+    "description": {
+      "fr": "Immense mosquée de marbre blanc aux 82 dômes, achevée en 2007. Sa cour abrite le plus grand tapis noué à la main du monde et des lustres de cristal Swarovski.",
+      "en": "A vast white-marble mosque with 82 domes, completed in 2007. Its courtyard holds the world's largest hand-knotted carpet and Swarovski chandeliers."
+    },
+    "tags": [
+      "Modern architecture",
+      "Cultural",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Sheikh_Zayed_Mosque_view.jpg/330px-Sheikh_Zayed_Mosque_view.jpg"
+  },
+  {
+    "id": "mn-burj-khalifa",
+    "category": "monument",
+    "name": {
+      "fr": "Burj Khalifa",
+      "en": "Burj Khalifa"
+    },
+    "region": "Dubaï",
+    "country": {
+      "fr": "Émirats arabes unis",
+      "en": "United Arab Emirates"
+    },
+    "countryCode": "AE",
+    "coordinates": [
+      25.1972,
+      55.2744
+    ],
+    "description": {
+      "fr": "Plus haut gratte-ciel du monde avec ses 828 mètres, silhouette effilée signée SOM. Il domine Dubaï depuis 2010 et sert de rampe de lancement à la fusée du Nouvel An.",
+      "en": "The world's tallest skyscraper at 828 metres, a slender SOM-designed spire. It has ruled the Dubai skyline since 2010 and launches New Year's fireworks."
+    },
+    "tags": [
+      "Modern architecture",
+      "Iconic",
+      "Skyscraper"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg"
+  },
+  {
+    "id": "mn-kaaba",
+    "category": "monument",
+    "name": {
+      "fr": "Kaaba de La Mecque",
+      "en": "Kaaba of Mecca"
+    },
+    "region": "La Mecque, Hedjaz",
+    "country": {
+      "fr": "Arabie saoudite",
+      "en": "Saudi Arabia"
+    },
+    "countryCode": "SA",
+    "coordinates": [
+      21.4225,
+      39.8262
+    ],
+    "description": {
+      "fr": "Cube de granit drapé de noir au centre de la mosquée al-Haram, direction de la prière de tous les musulmans. Chaque année, le Hajj y rassemble deux millions de pèlerins.",
+      "en": "A black-draped granite cube at the heart of the al-Haram mosque, the direction of prayer for all Muslims. The Hajj draws two million pilgrims each year."
+    },
+    "tags": [
+      "Cultural",
+      "Sacred",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-hegra",
+    "category": "monument",
+    "name": {
+      "fr": "Hégra (Madâin Sâlih)",
+      "en": "Hegra (Madain Saleh)"
+    },
+    "region": "AlUla",
+    "country": {
+      "fr": "Arabie saoudite",
+      "en": "Saudi Arabia"
+    },
+    "countryCode": "SA",
+    "coordinates": [
+      26.7909,
+      37.9542
+    ],
+    "description": {
+      "fr": "Cité nabatéenne sœur de Pétra, avec plus de 100 tombeaux monumentaux taillés dans le grès rouge. Ouverte au public depuis 2020.",
+      "en": "A Nabataean sister to Petra with over 100 monumental tombs carved into red sandstone. Opened to visitors only in 2020."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Desert"
+    ]
+  },
+  {
+    "id": "mn-shibam",
+    "category": "monument",
+    "name": {
+      "fr": "Shibam",
+      "en": "Shibam"
+    },
+    "region": "Hadramaout",
+    "country": {
+      "fr": "Yémen",
+      "en": "Yemen"
+    },
+    "countryCode": "YE",
+    "coordinates": [
+      15.9269,
+      48.6262
+    ],
+    "description": {
+      "fr": "« Manhattan du désert », cité fortifiée du XVIe siècle aux tours de terre crue de 30 mètres. Ses ruelles serrées se protègent du soleil du Hadramaout.",
+      "en": "The 'Manhattan of the desert', a 16th-century walled city of 30-metre mud-brick towers. Narrow lanes shelter from the Hadramaut sun."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B4%D8%A8%D8%A7%D9%85_%D8%AD%D8%B6%D8%B1%D9%85%D9%88%D8%AA.jpg/330px-%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B4%D8%A8%D8%A7%D9%85_%D8%AD%D8%B6%D8%B1%D9%85%D9%88%D8%AA.jpg"
+  },
+  {
+    "id": "mn-socotra",
+    "category": "monument",
+    "name": {
+      "fr": "Île de Socotra",
+      "en": "Socotra Island"
+    },
+    "region": "Golfe d'Aden",
+    "country": {
+      "fr": "Yémen",
+      "en": "Yemen"
+    },
+    "countryCode": "YE",
+    "coordinates": [
+      12.4634,
+      53.8237
+    ],
+    "description": {
+      "fr": "Île isolée peuplée d'arbres dragonniers en forme de parapluie et de plantes uniques au monde. Un « Galápagos de l'océan Indien ».",
+      "en": "An isolated island populated by umbrella-shaped dragon blood trees and species found nowhere else. The 'Galápagos of the Indian Ocean'."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Socotra_satview.jpg/330px-Socotra_satview.jpg"
+  },
+  {
+    "id": "mn-baalbek",
+    "category": "monument",
+    "name": {
+      "fr": "Baalbek",
+      "en": "Baalbek"
+    },
+    "region": "Plaine de la Bekaa",
+    "country": {
+      "fr": "Liban",
+      "en": "Lebanon"
+    },
+    "countryCode": "LB",
+    "coordinates": [
+      34.0064,
+      36.2039
+    ],
+    "description": {
+      "fr": "Colonnes romaines monumentales du temple de Bacchus, parmi les mieux conservées au monde. Les blocs de fondation atteignent 800 tonnes.",
+      "en": "The colossal Roman columns of the Temple of Bacchus, among the best preserved on Earth. Foundation blocks weigh up to 800 tonnes."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/330px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg"
+  },
+  {
+    "id": "mn-pyramides-gizeh",
+    "category": "monument",
+    "name": {
+      "fr": "Pyramides de Gizeh",
+      "en": "Pyramids of Giza"
+    },
+    "region": "Gouvernorat de Gizeh, Basse-Égypte",
+    "country": {
+      "fr": "Égypte",
+      "en": "Egypt"
+    },
+    "countryCode": "EG",
+    "coordinates": [
+      29.9792,
+      31.1342
+    ],
+    "description": {
+      "fr": "Trois pyramides pharaoniques érigées il y a 4 500 ans à l'orée du désert. La grande pyramide de Khéops est la seule des sept merveilles antiques encore debout.",
+      "en": "Three pharaonic pyramids raised 4,500 years ago at the desert's edge. Khufu's Great Pyramid is the last of the seven ancient wonders still standing."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  {
+    "id": "mn-abou-simbel",
+    "category": "monument",
+    "name": {
+      "fr": "Temples d'Abou Simbel",
+      "en": "Abu Simbel Temples"
+    },
+    "region": "Nubie, Haute-Égypte",
+    "country": {
+      "fr": "Égypte",
+      "en": "Egypt"
+    },
+    "countryCode": "EG",
+    "coordinates": [
+      22.3372,
+      31.6258
+    ],
+    "description": {
+      "fr": "Deux temples creusés dans la falaise par Ramsès II au XIIIe siècle av. J.-C., déplacés bloc par bloc dans les années 1960 pour échapper au lac Nasser.",
+      "en": "Two temples carved into the cliff by Ramesses II in the 13th century BC, moved block by block in the 1960s to escape Lake Nasser."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama_Abu_Simbel_crop.jpg/330px-Panorama_Abu_Simbel_crop.jpg"
+  },
+  {
+    "id": "mn-djemaa-el-fna",
+    "category": "monument",
+    "name": {
+      "fr": "Place Djemaa el-Fna",
+      "en": "Jemaa el-Fnaa Square"
+    },
+    "region": "Marrakech",
+    "country": {
+      "fr": "Maroc",
+      "en": "Morocco"
+    },
+    "countryCode": "MA",
+    "coordinates": [
+      31.6258,
+      -7.9891
+    ],
+    "description": {
+      "fr": "Cœur battant de Marrakech, où charmeurs de serpents, conteurs et vendeurs de jus d'orange se relaient jusqu'à la nuit. Inscrite au patrimoine oral de l'humanité.",
+      "en": "The beating heart of Marrakech where snake charmers, storytellers and orange-juice sellers take turns until night. Listed as UNESCO oral heritage."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-fes-medina",
+    "category": "monument",
+    "name": {
+      "fr": "Médina de Fès",
+      "en": "Fes Medina"
+    },
+    "region": "Nord du Maroc",
+    "country": {
+      "fr": "Maroc",
+      "en": "Morocco"
+    },
+    "countryCode": "MA",
+    "coordinates": [
+      34.0611,
+      -4.9787
+    ],
+    "description": {
+      "fr": "Plus grande médina piétonne du monde, labyrinthe de 9 000 ruelles où résonnent artisans du cuir, du cuivre et du bois de cèdre depuis le IXe siècle.",
+      "en": "The world's largest car-free medina, a labyrinth of 9,000 alleys ringing with leather, copper and cedarwood artisans since the 9th century."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Historic town"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/29628-Fez_%2827596365313%29.jpg/330px-29628-Fez_%2827596365313%29.jpg"
+  },
+  {
+    "id": "mn-ait-ben-haddou",
+    "category": "monument",
+    "name": {
+      "fr": "Aït Ben Haddou",
+      "en": "Aït Benhaddou"
+    },
+    "region": "Ouarzazate",
+    "country": {
+      "fr": "Maroc",
+      "en": "Morocco"
+    },
+    "countryCode": "MA",
+    "coordinates": [
+      31.047,
+      -7.1298
+    ],
+    "description": {
+      "fr": "Ksar de terre crue aux tours crénelées, sur la route des caravanes du Sahara. Décor de Gladiator, Game of Thrones et bien d'autres.",
+      "en": "A mud-brick ksar with crenellated towers on the old caravan road to the Sahara. A backdrop for Gladiator, Game of Thrones and many more."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Desert"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg/330px-Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg"
+  },
+  {
+    "id": "mn-carthage",
+    "category": "monument",
+    "name": {
+      "fr": "Site de Carthage",
+      "en": "Carthage"
+    },
+    "region": "Banlieue de Tunis",
+    "country": {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+    },
+    "countryCode": "TN",
+    "coordinates": [
+      36.8528,
+      10.3236
+    ],
+    "description": {
+      "fr": "Ruines de la cité rivale de Rome, entre thermes d'Antonin et ports puniques. Elle a inspiré Salammbô à Flaubert.",
+      "en": "Ruins of Rome's ancient rival, from the Antonine baths to the Punic harbours. It inspired Flaubert's Salammbô."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Montage_ville_de_Carthage.png/330px-Montage_ville_de_Carthage.png"
+  },
+  {
+    "id": "mn-kairouan",
+    "category": "monument",
+    "name": {
+      "fr": "Grande mosquée de Kairouan",
+      "en": "Great Mosque of Kairouan"
+    },
+    "region": "Kairouan",
+    "country": {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+    },
+    "countryCode": "TN",
+    "coordinates": [
+      35.6817,
+      10.1044
+    ],
+    "description": {
+      "fr": "Plus ancienne mosquée du Maghreb, fondée en 670. Son minaret carré a servi de modèle à toute l'architecture de l'Occident musulman.",
+      "en": "The oldest mosque in the Maghreb, founded in 670. Its square minaret shaped all subsequent architecture of the Muslim West."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg/330px-Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg"
+  },
+  {
+    "id": "mn-leptis-magna",
+    "category": "monument",
+    "name": {
+      "fr": "Leptis Magna",
+      "en": "Leptis Magna"
+    },
+    "region": "Tripolitaine",
+    "country": {
+      "fr": "Libye",
+      "en": "Libya"
+    },
+    "countryCode": "LY",
+    "coordinates": [
+      32.6386,
+      14.2903
+    ],
+    "description": {
+      "fr": "L'une des plus riches cités romaines d'Afrique, avec forum, arc de Septime Sévère et théâtre face à la Méditerranée. Un site immense et peu fréquenté.",
+      "en": "One of the wealthiest Roman cities in Africa, with its forum, Arch of Septimius Severus and seaside theatre. Vast and rarely visited."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leptis_Magna_%2829%29_%288288918733%29.jpg/330px-Leptis_Magna_%2829%29_%288288918733%29.jpg"
+  },
+  {
+    "id": "mn-timbuktu",
+    "category": "monument",
+    "name": {
+      "fr": "Mosquées de Tombouctou",
+      "en": "Timbuktu Mosques"
+    },
+    "region": "Boucle du Niger",
+    "country": {
+      "fr": "Mali",
+      "en": "Mali"
+    },
+    "countryCode": "ML",
+    "coordinates": [
+      16.7735,
+      -3.0074
+    ],
+    "description": {
+      "fr": "Ancienne capitale intellectuelle des empires sahéliens, où trois mosquées en terre crue conservent des manuscrits vieux de 700 ans.",
+      "en": "A former intellectual capital of the Sahelian empires, where three mud-brick mosques preserve 700-year-old manuscripts."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Ancient"
+    ]
+  },
+  {
+    "id": "mn-djenne",
+    "category": "monument",
+    "name": {
+      "fr": "Grande Mosquée de Djenné",
+      "en": "Great Mosque of Djenné"
+    },
+    "region": "Delta intérieur du Niger",
+    "country": {
+      "fr": "Mali",
+      "en": "Mali"
+    },
+    "countryCode": "ML",
+    "coordinates": [
+      13.9053,
+      -4.5551
+    ],
+    "description": {
+      "fr": "Plus grand édifice en terre crue du monde, hérissé de poutres de palmier. Une fois par an, tout le village le recouvre ensemble d'une nouvelle couche de banco.",
+      "en": "The world's largest mud-brick building, spiked with palm beams. Once a year the whole village re-plasters it together in one great festival."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/330px-Djenne_great_mud_mosque.jpg"
+  },
+  {
+    "id": "mn-lalibela",
+    "category": "monument",
+    "name": {
+      "fr": "Églises rupestres de Lalibela",
+      "en": "Rock-Hewn Churches of Lalibela"
+    },
+    "region": "Amhara, hauts plateaux éthiopiens",
+    "country": {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      12.0317,
+      39.0433
+    ],
+    "description": {
+      "fr": "Onze églises monolithes taillées vers le bas dans le tuf rouge au XIIIe siècle. Prêtres coptes et pèlerins les habitent encore, tout de blanc vêtus.",
+      "en": "Eleven monolithic churches hewn downward into red tuff in the 13th century. Coptic priests and pilgrims in white still fill them today."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Sacred"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/330px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg"
+  },
+  {
+    "id": "mn-danakil",
+    "category": "monument",
+    "name": {
+      "fr": "Dépression du Danakil",
+      "en": "Danakil Depression"
+    },
+    "region": "Afar",
+    "country": {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      14.2417,
+      40.3
+    ],
+    "description": {
+      "fr": "L'un des lieux les plus chauds et bas de la Terre, marbré de bassins acides jaunes, verts et rouges. Les caravaniers Afars y transportent le sel.",
+      "en": "One of the hottest and lowest places on Earth, marbled with yellow, green and red acid pools. Afar caravanners still ferry salt across it."
+    },
+    "tags": [
+      "Natural wonder",
+      "Extreme",
+      "Volcano"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Map_Danakil.jpg/330px-Map_Danakil.jpg"
+  },
+  {
+    "id": "mn-kilimandjaro",
+    "category": "monument",
+    "name": {
+      "fr": "Kilimandjaro",
+      "en": "Mount Kilimanjaro"
+    },
+    "region": "Nord de la Tanzanie",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -3.0674,
+      37.3556
+    ],
+    "description": {
+      "fr": "Toit de l'Afrique à 5 895 mètres, volcan endormi dont le sommet neigeux domine la savane. Ses glaciers fondent inexorablement.",
+      "en": "Africa's roof at 5,895 metres, a dormant volcano whose snowy summit towers over the savannah. Its glaciers are melting fast."
+    },
+    "tags": [
+      "Mountain",
+      "Volcano",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/330px-Kilimanjaro_from_Amboseli.jpg"
+  },
+  {
+    "id": "mn-serengeti",
+    "category": "monument",
+    "name": {
+      "fr": "Parc du Serengeti",
+      "en": "Serengeti National Park"
+    },
+    "region": "Nord de la Tanzanie",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -2.3333,
+      34.8333
+    ],
+    "description": {
+      "fr": "Plaine infinie où chaque année 1,5 million de gnous et zèbres traversent les crocodiles du fleuve Mara. La plus grande migration terrestre du monde.",
+      "en": "An infinite plain where 1.5 million wildebeest and zebras cross the crocodile-lined Mara river each year. Earth's greatest land migration."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Wildlife"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/330px-Serengeti-Landscape-2012.JPG"
+  },
+  {
+    "id": "mn-zanzibar-stone-town",
+    "category": "monument",
+    "name": {
+      "fr": "Stone Town de Zanzibar",
+      "en": "Stone Town of Zanzibar"
+    },
+    "region": "Île d'Unguja, océan Indien",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -6.1659,
+      39.1996
+    ],
+    "description": {
+      "fr": "Vieille ville côtière swahilie, mélange d'influences arabes, indiennes et africaines. Ses portes de bois sculpté ont vu passer sultans et marchands d'épices.",
+      "en": "A coastal Swahili old town blending Arab, Indian and African influences. Its carved wooden doors have watched sultans and spice traders come and go."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Historic town"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zanzibar_sultan_palace.jpg/330px-Zanzibar_sultan_palace.jpg"
+  },
+  {
+    "id": "mn-victoria-falls",
+    "category": "monument",
+    "name": {
+      "fr": "Chutes Victoria",
+      "en": "Victoria Falls"
+    },
+    "region": "Fleuve Zambèze",
+    "country": {
+      "fr": "Zambie",
+      "en": "Zambia"
+    },
+    "countryCode": "ZM",
+    "coordinates": [
+      -17.9243,
+      25.8572
+    ],
+    "description": {
+      "fr": "« Mosi-oa-Tunya », la fumée qui gronde : 1,7 km de large et 108 mètres de haut, la plus large chute d'eau du monde. Le brouillard se voit à 40 km.",
+      "en": "'Mosi-oa-Tunya', the smoke that thunders: 1.7 km wide and 108 metres tall, the world's largest sheet of falling water. The mist is visible 40 km away."
+    },
+    "tags": [
+      "UNESCO",
+      "Waterfall",
+      "Natural wonder"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/330px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg"
+  },
+  {
+    "id": "mn-okavango",
+    "category": "monument",
+    "name": {
+      "fr": "Delta de l'Okavango",
+      "en": "Okavango Delta"
+    },
+    "region": "Nord-ouest du Botswana",
+    "country": {
+      "fr": "Botswana",
+      "en": "Botswana"
+    },
+    "countryCode": "BW",
+    "coordinates": [
+      -19.2833,
+      22.9667
+    ],
+    "description": {
+      "fr": "Delta intérieur unique où le fleuve Okavango se perd dans le désert du Kalahari, formant un labyrinthe de canaux, roselières et éléphants.",
+      "en": "A rare inland delta where the Okavango river fans out into the Kalahari, creating a maze of channels, reeds and roaming elephants."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Wildlife"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Okavango_Delta%2C_Botswana1.jpg/330px-Okavango_Delta%2C_Botswana1.jpg"
+  },
+  {
+    "id": "mn-sossusvlei",
+    "category": "monument",
+    "name": {
+      "fr": "Dunes de Sossusvlei",
+      "en": "Sossusvlei Dunes"
+    },
+    "region": "Désert du Namib",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -24.7291,
+      15.352
+    ],
+    "description": {
+      "fr": "Dunes rouges parmi les plus hautes du monde, qui bordent le lac asséché de Deadvlei et ses squelettes d'acacias vieux de 800 ans.",
+      "en": "Red dunes among the tallest on Earth, ringing the dried Deadvlei pan and its 800-year-old acacia skeletons."
+    },
+    "tags": [
+      "Desert",
+      "Natural wonder",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Thorn_Tree_Sossusvlei_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG/330px-Thorn_Tree_Sossusvlei_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG"
+  },
+  {
+    "id": "mn-fish-river-canyon",
+    "category": "monument",
+    "name": {
+      "fr": "Fish River Canyon",
+      "en": "Fish River Canyon"
+    },
+    "region": "Sud de la Namibie",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -27.6,
+      17.7167
+    ],
+    "description": {
+      "fr": "Second plus grand canyon du monde, gouffre de 550 mètres taillé sur 160 km dans la roche du désert namibien. Un trek mythique de cinq jours en descend le lit.",
+      "en": "The world's second-largest canyon, a 550-metre gash winding 160 km through Namibian desert rock. A legendary five-day trek follows its bed."
+    },
+    "tags": [
+      "Canyon",
+      "Natural wonder",
+      "Desert"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fish_River_Canyon_from_Main_View_Point.jpg/330px-Fish_River_Canyon_from_Main_View_Point.jpg"
+  },
+  {
+    "id": "mn-table-mountain",
+    "category": "monument",
+    "name": {
+      "fr": "Table Mountain",
+      "en": "Table Mountain"
+    },
+    "region": "Le Cap",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -33.9628,
+      18.4098
+    ],
+    "description": {
+      "fr": "Plateau rocheux plat de trois kilomètres surplombant Le Cap. La « nappe » de nuages qui coule sur son sommet en fait un décor perpétuellement changeant.",
+      "en": "A flat rocky plateau three kilometres long towering over Cape Town. The 'tablecloth' of clouds spilling over its edge creates a shifting stage."
+    },
+    "tags": [
+      "Natural wonder",
+      "Mountain",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/330px-Table_Mountain_DanieVDM.jpg"
+  },
+  {
+    "id": "mn-nyiragongo",
+    "category": "monument",
+    "name": {
+      "fr": "Volcan Nyiragongo",
+      "en": "Mount Nyiragongo"
+    },
+    "region": "Kivu, parc des Virunga",
+    "country": {
+      "fr": "République démocratique du Congo",
+      "en": "Democratic Republic of the Congo"
+    },
+    "countryCode": "CD",
+    "coordinates": [
+      -1.522,
+      29.2497
+    ],
+    "description": {
+      "fr": "Volcan actif abritant l'un des plus grands lacs de lave permanents du monde. Sa lueur rouge illumine la nuit du parc des Virunga.",
+      "en": "An active volcano cradling one of the world's largest permanent lava lakes. Its red glow lights up the Virunga night."
+    },
+    "tags": [
+      "Volcano",
+      "Natural wonder",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/An_aerial_view_of_the_towering_volcanic_peak_of_Mt._Nyiragongo.jpg/330px-An_aerial_view_of_the_towering_volcanic_peak_of_Mt._Nyiragongo.jpg"
+  },
+  {
+    "id": "mn-lac-assal",
+    "category": "monument",
+    "name": {
+      "fr": "Lac Assal",
+      "en": "Lake Assal"
+    },
+    "region": "Rift afar",
+    "country": {
+      "fr": "Djibouti",
+      "en": "Djibouti"
+    },
+    "countryCode": "DJ",
+    "coordinates": [
+      11.65,
+      42.4167
+    ],
+    "description": {
+      "fr": "Point le plus bas d'Afrique, à 155 mètres sous le niveau de la mer. Ses rives d'un blanc éblouissant sont couvertes de sel et de gypse.",
+      "en": "Africa's lowest point at 155 metres below sea level. Its dazzling white shores are crusted with salt and gypsum."
+    },
+    "tags": [
+      "Natural wonder",
+      "Extreme",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Djib_003.JPG/330px-Djib_003.JPG"
+  },
+  {
+    "id": "mn-baobabs",
+    "category": "monument",
+    "name": {
+      "fr": "Allée des Baobabs",
+      "en": "Avenue of the Baobabs"
+    },
+    "region": "Menabe",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -20.2506,
+      44.4181
+    ],
+    "description": {
+      "fr": "Alignement de baobabs Grandidier vieux de 800 ans le long d'une piste ocre, dernier vestige d'une forêt disparue. Chef-d'œuvre à l'heure dorée.",
+      "en": "A line of 800-year-old Grandidier baobabs along an ochre track, the last remnant of a vanished forest. A masterpiece at golden hour."
+    },
+    "tags": [
+      "Natural wonder",
+      "Off-beat",
+      "Forest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Adansonia_grandidieri_Pat_Hooper.jpg/330px-Adansonia_grandidieri_Pat_Hooper.jpg"
+  },
+  {
+    "id": "mn-fort-jesus",
+    "category": "monument",
+    "name": {
+      "fr": "Fort Jésus de Mombasa",
+      "en": "Fort Jesus of Mombasa"
+    },
+    "region": "Côte swahilie",
+    "country": {
+      "fr": "Kenya",
+      "en": "Kenya"
+    },
+    "countryCode": "KE",
+    "coordinates": [
+      -4.0632,
+      39.6795
+    ],
+    "description": {
+      "fr": "Forteresse portugaise du XVIe siècle sur l'océan Indien, disputée par Arabes, Portugais et Britanniques. Un jalon de la route des épices.",
+      "en": "A 16th-century Portuguese fortress on the Indian Ocean, fought over by Arabs, Portuguese and British. A landmark on the spice route."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Historic town"
+    ]
+  },
+  {
+    "id": "mn-statue-liberte",
+    "category": "monument",
+    "name": {
+      "fr": "Statue de la Liberté",
+      "en": "Statue of Liberty"
+    },
+    "region": "New York",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      40.6892,
+      -74.0445
+    ],
+    "description": {
+      "fr": "Cadeau français de 1886 érigé sur Liberty Island, œuvre de Bartholdi sur une structure d'Eiffel. Sa flamme accueille encore les navires entrant dans le port.",
+      "en": "An 1886 gift from France standing on Liberty Island, sculpted by Bartholdi on an Eiffel frame. Its torch still greets ships entering the harbour."
+    },
+    "tags": [
+      "UNESCO",
+      "Iconic",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Statue_of_Liberty%2C_statue%2C_Liberty_Island%2C_New_York.jpg/330px-Statue_of_Liberty%2C_statue%2C_Liberty_Island%2C_New_York.jpg"
+  },
+  {
+    "id": "mn-grand-canyon",
+    "category": "monument",
+    "name": {
+      "fr": "Grand Canyon",
+      "en": "Grand Canyon"
+    },
+    "region": "Arizona",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      36.1069,
+      -112.1129
+    ],
+    "description": {
+      "fr": "Faille de 450 km taillée par le fleuve Colorado, profonde de 1 800 mètres. Ses strates rouges révèlent deux milliards d'années d'histoire de la Terre.",
+      "en": "A 450-km gash carved by the Colorado River, 1,800 metres deep. Its red strata reveal two billion years of Earth's history."
+    },
+    "tags": [
+      "UNESCO",
+      "Canyon",
+      "Natural wonder"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/330px-Canyon_River_Tree_%28165872763%29.jpeg"
+  },
+  {
+    "id": "mn-yellowstone",
+    "category": "monument",
+    "name": {
+      "fr": "Yellowstone",
+      "en": "Yellowstone National Park"
+    },
+    "region": "Wyoming",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      44.428,
+      -110.5885
+    ],
+    "description": {
+      "fr": "Premier parc national du monde, ouvert en 1872 sur une caldeira volcanique. Geysers, sources bouillantes multicolores et bisons y coexistent.",
+      "en": "The world's first national park, opened in 1872 on a volcanic caldera. Geysers, rainbow-hued hot springs and bison share the plateau."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Geothermal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Grand_Canyon_of_yellowstone.jpg/330px-Grand_Canyon_of_yellowstone.jpg"
+  },
+  {
+    "id": "mn-yosemite",
+    "category": "monument",
+    "name": {
+      "fr": "Yosemite",
+      "en": "Yosemite National Park"
+    },
+    "region": "Sierra Nevada, Californie",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      37.8651,
+      -119.5383
+    ],
+    "description": {
+      "fr": "Vallée glaciaire dominée par les parois d'El Capitan et Half Dome, prisées des grimpeurs. Ses cascades géantes tombent des séquoias millénaires.",
+      "en": "A glacier-carved valley overlooked by El Capitan and Half Dome, beloved by climbers. Its great waterfalls drop past thousand-year-old sequoias."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg/330px-Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg"
+  },
+  {
+    "id": "mn-monument-valley",
+    "category": "monument",
+    "name": {
+      "fr": "Monument Valley",
+      "en": "Monument Valley"
+    },
+    "region": "Nation Navajo, plateau du Colorado",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      36.998,
+      -110.0985
+    ],
+    "description": {
+      "fr": "Buttes de grès rouge dressées comme des cathédrales dans le désert, sur le territoire navajo. L'image même du western américain.",
+      "en": "Red sandstone buttes rising like cathedrals from the desert on Navajo land. The visual template of the American Western."
+    },
+    "tags": [
+      "Natural wonder",
+      "Desert",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg/330px-Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg"
+  },
+  {
+    "id": "mn-antelope-canyon",
+    "category": "monument",
+    "name": {
+      "fr": "Antelope Canyon",
+      "en": "Antelope Canyon"
+    },
+    "region": "Page, Arizona",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      36.8619,
+      -111.3743
+    ],
+    "description": {
+      "fr": "Slot canyon aux parois de grès ondulées par les crues éclair, où des rayons de lumière tombent à midi comme des projecteurs.",
+      "en": "A slot canyon whose sandstone walls are wave-carved by flash floods, and where midday sunbeams fall like stage lights."
+    },
+    "tags": [
+      "Natural wonder",
+      "Canyon",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/USA_Antelope-Canyon.jpg/330px-USA_Antelope-Canyon.jpg"
+  },
+  {
+    "id": "mn-golden-gate",
+    "category": "monument",
+    "name": {
+      "fr": "Golden Gate Bridge",
+      "en": "Golden Gate Bridge"
+    },
+    "region": "San Francisco, Californie",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      37.8199,
+      -122.4783
+    ],
+    "description": {
+      "fr": "Pont suspendu rouge de 2,7 km inauguré en 1937, souvent flottant dans le brouillard du Pacifique. Une prouesse Art déco.",
+      "en": "A 2.7-km red suspension bridge opened in 1937, often adrift in Pacific fog. A feat of Art Deco engineering."
+    },
+    "tags": [
+      "Modern architecture",
+      "Iconic",
+      "Coastal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/330px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg"
+  },
+  {
+    "id": "mn-niagara",
+    "category": "monument",
+    "name": {
+      "fr": "Chutes du Niagara",
+      "en": "Niagara Falls"
+    },
+    "region": "Ontario / New York",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      43.0962,
+      -79.0377
+    ],
+    "description": {
+      "fr": "Trois chutes déversant 2 800 m³ d'eau par seconde à la frontière canado-américaine. Une brume perpétuelle nimbe le Fer à Cheval.",
+      "en": "Three cataracts pouring 2,800 cubic metres of water per second across the U.S.-Canada border. A perpetual mist wraps the Horseshoe Falls."
+    },
+    "tags": [
+      "Waterfall",
+      "Natural wonder",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/3Falls_Niagara.jpg/330px-3Falls_Niagara.jpg"
+  },
+  {
+    "id": "mn-banff",
+    "category": "monument",
+    "name": {
+      "fr": "Parc national de Banff",
+      "en": "Banff National Park"
+    },
+    "region": "Rocheuses, Alberta",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      51.4968,
+      -115.9281
+    ],
+    "description": {
+      "fr": "Cœur des Rocheuses canadiennes, avec ses lacs turquoise Louise et Moraine encadrés par pics et glaciers.",
+      "en": "The heart of the Canadian Rockies, with the turquoise Lake Louise and Moraine framed by peaks and glaciers."
+    },
+    "tags": [
+      "UNESCO",
+      "Mountain",
+      "Natural wonder"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/330px-Moraine_Lake_17092005.jpg"
+  },
+  {
+    "id": "mn-yellowknife-aurora",
+    "category": "monument",
+    "name": {
+      "fr": "Aurores boréales de Yellowknife",
+      "en": "Yellowknife Auroras"
+    },
+    "region": "Territoires du Nord-Ouest",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      62.454,
+      -114.3718
+    ],
+    "description": {
+      "fr": "Ville sous l'ovale auroral, où le ciel se déchire 240 nuits par an de rideaux verts et violets. L'observation d'aurores à son sommet.",
+      "en": "A city beneath the auroral oval where the sky splits open with green and purple curtains 240 nights a year. Aurora viewing at its finest."
+    },
+    "tags": [
+      "Aurora",
+      "Arctic",
+      "Natural wonder"
+    ]
+  },
+  {
+    "id": "mn-chichen-itza",
+    "category": "monument",
+    "name": {
+      "fr": "Chichén Itzá",
+      "en": "Chichén Itzá"
+    },
+    "region": "Yucatán",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      20.6843,
+      -88.5678
+    ],
+    "description": {
+      "fr": "Cité maya dominée par la pyramide de Kukulkán, où le serpent d'ombre descend les marches à chaque équinoxe.",
+      "en": "A Maya city crowned by the Kukulkan pyramid, where a shadow serpent slithers down its steps at each equinox."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg"
+  },
+  {
+    "id": "mn-teotihuacan",
+    "category": "monument",
+    "name": {
+      "fr": "Teotihuacán",
+      "en": "Teotihuacán"
+    },
+    "region": "État de Mexico",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      19.6925,
+      -98.8438
+    ],
+    "description": {
+      "fr": "Cité précolombienne de 2 000 ans, où l'avenue des Morts relie les pyramides du Soleil et de la Lune. Un mystère civilisationnel intact.",
+      "en": "A 2,000-year-old pre-Columbian city where the Avenue of the Dead links the Pyramids of the Sun and Moon. An unsolved civilizational mystery."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teotihuac%C3%A1n-5973.JPG/330px-Teotihuac%C3%A1n-5973.JPG"
+  },
+  {
+    "id": "mn-cenote-ik-kil",
+    "category": "monument",
+    "name": {
+      "fr": "Cénote Ik Kil",
+      "en": "Ik Kil Cenote"
+    },
+    "region": "Yucatán",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      20.6821,
+      -88.5701
+    ],
+    "description": {
+      "fr": "Puits naturel à ciel ouvert de 40 mètres de profondeur, tapissé de lianes et de cascades. Les Mayas y voyaient l'entrée du monde souterrain.",
+      "en": "An open-air natural well 40 metres deep, draped with vines and waterfalls. The Maya believed it was a doorway to the underworld."
+    },
+    "tags": [
+      "Natural wonder",
+      "Cave",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-tikal",
+    "category": "monument",
+    "name": {
+      "fr": "Tikal",
+      "en": "Tikal"
+    },
+    "region": "El Petén",
+    "country": {
+      "fr": "Guatemala",
+      "en": "Guatemala"
+    },
+    "countryCode": "GT",
+    "coordinates": [
+      17.222,
+      -89.6237
+    ],
+    "description": {
+      "fr": "Cité maya dont les pyramides percent la canopée. Depuis le sommet du temple IV, on entend le rugissement des singes hurleurs.",
+      "en": "A Maya city whose pyramids pierce the rainforest canopy. From Temple IV's peak the roar of howler monkeys carries across the trees."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Cultural"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tikal_3.jpg/330px-Tikal_3.jpg"
+  },
+  {
+    "id": "mn-havana",
+    "category": "monument",
+    "name": {
+      "fr": "Vieille Havane",
+      "en": "Old Havana"
+    },
+    "region": "La Havane",
+    "country": {
+      "fr": "Cuba",
+      "en": "Cuba"
+    },
+    "countryCode": "CU",
+    "coordinates": [
+      23.1361,
+      -82.3589
+    ],
+    "description": {
+      "fr": "Cœur colonial de la capitale cubaine, entre places baroques et façades pastel décrépites. Les voitures américaines des années 50 y ronronnent encore.",
+      "en": "The colonial heart of Cuba's capital, between baroque squares and peeling pastel façades. American cars from the 1950s still rumble past."
+    },
+    "tags": [
+      "UNESCO",
+      "Cultural",
+      "Historic town"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Havana_Map_-_Habana_Vieja.png/330px-Havana_Map_-_Habana_Vieja.png"
+  },
+  {
+    "id": "mn-machu-picchu",
+    "category": "monument",
+    "name": {
+      "fr": "Machu Picchu",
+      "en": "Machu Picchu"
+    },
+    "region": "Cusco, Andes",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -13.1631,
+      -72.545
+    ],
+    "description": {
+      "fr": "Cité inca perchée à 2 430 mètres, oubliée dans les nuages jusqu'en 1911. Terrasses, temples et huayna se dessinent au petit matin.",
+      "en": "An Inca city perched at 2,430 metres, forgotten in the clouds until 1911. Terraces, temples and Huayna Picchu emerge at dawn."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Mountain"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/330px-Machu_Picchu%2C_2023_%28012%29.jpg"
+  },
+  {
+    "id": "mn-nazca",
+    "category": "monument",
+    "name": {
+      "fr": "Lignes de Nazca",
+      "en": "Nazca Lines"
+    },
+    "region": "Ica, désert côtier",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -14.739,
+      -75.13
+    ],
+    "description": {
+      "fr": "Géoglyphes gigantesques tracés dans le désert entre 500 av. J.-C. et 500 ap. J.-C., visibles seulement du ciel. Colibri, singe et araignée intriguent encore.",
+      "en": "Giant geoglyphs traced across the desert between 500 BC and 500 AD, only visible from the sky. The hummingbird, monkey and spider still puzzle scholars."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/330px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG"
+  },
+  {
+    "id": "mn-rainbow-mountain",
+    "category": "monument",
+    "name": {
+      "fr": "Montagne aux sept couleurs",
+      "en": "Rainbow Mountain (Vinicunca)"
+    },
+    "region": "Cusco, Andes",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -13.8697,
+      -71.3033
+    ],
+    "description": {
+      "fr": "Sommet de 5 200 mètres aux strates minérales rouges, vertes et turquoise, révélé par la fonte des glaciers. Un phénomène récemment devenu culte.",
+      "en": "A 5,200-metre summit banded with red, green and turquoise mineral strata, revealed by melting glaciers. A recent cult phenomenon."
+    },
+    "tags": [
+      "Natural wonder",
+      "Mountain",
+      "Off-beat"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vinicunca.jpg/330px-Vinicunca.jpg"
+  },
+  {
+    "id": "mn-uyuni",
+    "category": "monument",
+    "name": {
+      "fr": "Salar d'Uyuni",
+      "en": "Salar de Uyuni"
+    },
+    "region": "Altiplano bolivien",
+    "country": {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+    },
+    "countryCode": "BO",
+    "coordinates": [
+      -20.1338,
+      -67.4891
+    ],
+    "description": {
+      "fr": "Plus grand désert de sel du monde, de 10 500 km². Après la pluie, il devient un miroir géant où se reflète le ciel.",
+      "en": "The world's largest salt flat at 10,500 sq km. After rain it turns into a giant mirror reflecting the sky."
+    },
+    "tags": [
+      "Natural wonder",
+      "Desert",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Salar_Uyuni_au01.jpg/330px-Salar_Uyuni_au01.jpg"
+  },
+  {
+    "id": "mn-iguazu",
+    "category": "monument",
+    "name": {
+      "fr": "Chutes d'Iguazú",
+      "en": "Iguazú Falls"
+    },
+    "region": "Frontière Brésil-Argentine",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -25.6953,
+      -54.4367
+    ],
+    "description": {
+      "fr": "Ensemble de 275 cascades étalées sur 2,7 km dans la forêt subtropicale. La Garganta del Diablo engloutit un fracas d'eau au ras du visiteur.",
+      "en": "A set of 275 waterfalls spread over 2.7 km through subtropical forest. The Garganta del Diablo swallows a roaring wall of water at eye level."
+    },
+    "tags": [
+      "UNESCO",
+      "Waterfall",
+      "Natural wonder"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Iguazu_Cataratas2.jpg/330px-Iguazu_Cataratas2.jpg"
+  },
+  {
+    "id": "mn-torres-del-paine",
+    "category": "monument",
+    "name": {
+      "fr": "Torres del Paine",
+      "en": "Torres del Paine"
+    },
+    "region": "Patagonie, Magallanes",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -50.9423,
+      -73.4068
+    ],
+    "description": {
+      "fr": "Trois tours de granit dressées au-dessus des lacs bleus de Patagonie. Le trek W longe glaciers, guanacos et vents violents.",
+      "en": "Three granite spires rising above Patagonian blue lakes. The W Trek passes glaciers, guanacos and howling winds."
+    },
+    "tags": [
+      "Natural wonder",
+      "Mountain",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Torres_del_Paine%2C_Chile_by_Karen_Chan_16.jpg/330px-Torres_del_Paine%2C_Chile_by_Karen_Chan_16.jpg"
+  },
+  {
+    "id": "mn-atacama",
+    "category": "monument",
+    "name": {
+      "fr": "Désert d'Atacama",
+      "en": "Atacama Desert"
+    },
+    "region": "Nord du Chili",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -24.5,
+      -69.25
+    ],
+    "description": {
+      "fr": "Désert le plus aride du monde, où certaines stations n'ont jamais reçu de pluie. Ses ciels très purs abritent les plus grands télescopes de la planète.",
+      "en": "The driest desert on Earth, with weather stations that have never recorded rain. Its pristine skies host the world's largest telescopes."
+    },
+    "tags": [
+      "Desert",
+      "Natural wonder",
+      "Extreme"
+    ]
+  },
+  {
+    "id": "mn-perito-moreno",
+    "category": "monument",
+    "name": {
+      "fr": "Glacier Perito Moreno",
+      "en": "Perito Moreno Glacier"
+    },
+    "region": "Santa Cruz, Patagonie",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -50.4791,
+      -73.0393
+    ],
+    "description": {
+      "fr": "Front glaciaire de 5 km de large et 70 mètres de haut qui avance encore chaque jour. Ses vêlages spectaculaires font trembler le lac.",
+      "en": "A five-kilometre-wide, seventy-metre-high glacier front that still advances daily. Its calvings shake the lake with thunder."
+    },
+    "tags": [
+      "Glacier",
+      "Natural wonder",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-christ-redempteur",
+    "category": "monument",
+    "name": {
+      "fr": "Christ Rédempteur",
+      "en": "Christ the Redeemer"
+    },
+    "region": "Rio de Janeiro",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -22.9519,
+      -43.2105
+    ],
+    "description": {
+      "fr": "Statue Art déco de 38 mètres bras ouverts sur la baie, inaugurée en 1931 au sommet du Corcovado. Un symbole du Brésil et de Rio.",
+      "en": "A 38-metre Art Deco statue with arms open over the bay, unveiled in 1931 atop Corcovado. A symbol of Brazil and Rio."
+    },
+    "tags": [
+      "Cultural",
+      "Iconic",
+      "Modern"
+    ]
+  },
+  {
+    "id": "mn-amazonie",
+    "category": "monument",
+    "name": {
+      "fr": "Forêt amazonienne",
+      "en": "Amazon Rainforest"
+    },
+    "region": "Bassin amazonien",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -3.4653,
+      -62.2159
+    ],
+    "description": {
+      "fr": "Plus grande forêt tropicale du monde, poumon vert traversé par un fleuve qui décharge plus d'eau que les six suivants réunis.",
+      "en": "The world's largest rainforest, a green lung crossed by a river that discharges more water than the next six combined."
+    },
+    "tags": [
+      "Natural wonder",
+      "Forest",
+      "Wildlife"
+    ]
+  },
+  {
+    "id": "mn-galapagos",
+    "category": "monument",
+    "name": {
+      "fr": "Îles Galápagos",
+      "en": "Galápagos Islands"
+    },
+    "region": "Pacifique équatorial",
+    "country": {
+      "fr": "Équateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -0.9538,
+      -90.9656
+    ],
+    "description": {
+      "fr": "Archipel volcanique où Darwin a formulé sa théorie de l'évolution. Iguanes marins, tortues géantes et fous à pieds bleus y règnent sans peur.",
+      "en": "A volcanic archipelago where Darwin conceived his theory of evolution. Marine iguanas, giant tortoises and blue-footed boobies rule fearlessly."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Wildlife"
+    ]
+  },
+  {
+    "id": "mn-ciudad-perdida",
+    "category": "monument",
+    "name": {
+      "fr": "Cité perdue (Ciudad Perdida)",
+      "en": "Ciudad Perdida"
+    },
+    "region": "Sierra Nevada de Santa Marta",
+    "country": {
+      "fr": "Colombie",
+      "en": "Colombia"
+    },
+    "countryCode": "CO",
+    "coordinates": [
+      11.0389,
+      -73.9256
+    ],
+    "description": {
+      "fr": "Cité tayrona du VIIIe siècle noyée dans la jungle, redécouverte en 1972. On y accède après quatre jours de marche à travers la sierra colombienne.",
+      "en": "An 8th-century Tayrona city lost in the jungle, rediscovered in 1972. Reached only after a four-day trek through the Colombian sierra."
+    },
+    "tags": [
+      "Ancient",
+      "Cultural",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-cano-cristales",
+    "category": "monument",
+    "name": {
+      "fr": "Caño Cristales",
+      "en": "Caño Cristales"
+    },
+    "region": "Meta, Serranía de la Macarena",
+    "country": {
+      "fr": "Colombie",
+      "en": "Colombia"
+    },
+    "countryCode": "CO",
+    "coordinates": [
+      2.2695,
+      -73.7897
+    ],
+    "description": {
+      "fr": "Rivière aux « cinq couleurs » due à la plante Macarenia clavigera. Chaque saison, le lit se teint de rouge, jaune, vert et bleu.",
+      "en": "A river of 'five colours' produced by the Macarenia clavigera plant. Each season the bed turns red, yellow, green and blue."
+    },
+    "tags": [
+      "Natural wonder",
+      "Off-beat",
+      "River"
+    ]
+  },
+  {
+    "id": "mn-easter-island",
+    "category": "monument",
+    "name": {
+      "fr": "Île de Pâques",
+      "en": "Easter Island"
+    },
+    "region": "Rapa Nui, Pacifique sud",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -27.1127,
+      -109.3497
+    ],
+    "description": {
+      "fr": "Île volcanique isolée où se dressent près de 900 moaïs, statues monumentales sculptées par les Rapa Nui entre le XIe et le XVIIe siècle.",
+      "en": "A remote volcanic island where nearly 900 moai, monumental statues carved by the Rapa Nui between the 11th and 17th centuries, still stand watch."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-uluru",
+    "category": "monument",
+    "name": {
+      "fr": "Uluru",
+      "en": "Uluru"
+    },
+    "region": "Territoire du Nord",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -25.3444,
+      131.0369
+    ],
+    "description": {
+      "fr": "Monolithe de grès de 348 mètres de haut, sacré pour les Anangu. Il change de couleur au coucher du soleil, du rose au braise.",
+      "en": "A 348-metre sandstone monolith sacred to the Anangu people. It shifts from pink to ember at sunset."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-great-barrier-reef",
+    "category": "monument",
+    "name": {
+      "fr": "Grande Barrière de corail",
+      "en": "Great Barrier Reef"
+    },
+    "region": "Queensland",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -18.2871,
+      147.6992
+    ],
+    "description": {
+      "fr": "Plus grand récif corallien du monde, visible depuis l'espace sur 2 300 km. Il abrite 1 500 espèces de poissons et lutte contre le blanchissement.",
+      "en": "The world's largest coral reef system, visible from space along 2,300 km. It shelters 1,500 fish species and battles bleaching."
+    },
+    "tags": [
+      "UNESCO",
+      "Reef",
+      "Natural wonder"
+    ]
+  },
+  {
+    "id": "mn-opera-sydney",
+    "category": "monument",
+    "name": {
+      "fr": "Opéra de Sydney",
+      "en": "Sydney Opera House"
+    },
+    "region": "Sydney, Nouvelle-Galles du Sud",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -33.8568,
+      151.2153
+    ],
+    "description": {
+      "fr": "Voiles de béton blanc signés Jørn Utzon, inaugurés en 1973 sur le port de Sydney. Un chef-d'œuvre du XXe siècle.",
+      "en": "Jørn Utzon's white concrete sails, unveiled in 1973 on Sydney Harbour. A masterpiece of 20th-century architecture."
+    },
+    "tags": [
+      "UNESCO",
+      "Modern architecture",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-kata-tjuta",
+    "category": "monument",
+    "name": {
+      "fr": "Kata Tjuṯa",
+      "en": "Kata Tjuṯa"
+    },
+    "region": "Territoire du Nord",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -25.2985,
+      130.7375
+    ],
+    "description": {
+      "fr": "Groupe de 36 dômes rocheux voisins d'Uluru, également sacrés pour les Anangu. La marche « Valley of the Winds » y traverse des gorges rouges.",
+      "en": "A cluster of 36 rock domes neighbouring Uluru, also sacred to the Anangu. The Valley of the Winds walk threads through red gorges."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Cultural"
+    ]
+  },
+  {
+    "id": "mn-heart-reef",
+    "category": "monument",
+    "name": {
+      "fr": "Heart Reef",
+      "en": "Heart Reef"
+    },
+    "region": "Whitsundays, Queensland",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -19.7739,
+      149.228
+    ],
+    "description": {
+      "fr": "Récif corallien en forme de cœur parfait, visible depuis les airs au milieu de la Grande Barrière. Un accident naturel devenu icône romantique.",
+      "en": "A perfectly heart-shaped coral formation seen from above within the Great Barrier Reef. A natural accident turned romantic icon."
+    },
+    "tags": [
+      "Reef",
+      "Natural wonder",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-milford-sound",
+    "category": "monument",
+    "name": {
+      "fr": "Milford Sound",
+      "en": "Milford Sound"
+    },
+    "region": "Fiordland, île du Sud",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -44.671,
+      167.927
+    ],
+    "description": {
+      "fr": "Fjord noir aux parois verticales plongeant dans une mer sombre, où cascadent des chutes d'eau après la pluie. Rudyard Kipling l'appelait « la huitième merveille du monde ».",
+      "en": "A black-walled fjord plunging into dark seas, streaked by waterfalls after rain. Rudyard Kipling called it 'the eighth wonder of the world'."
+    },
+    "tags": [
+      "UNESCO",
+      "Natural wonder",
+      "Fjord"
+    ]
+  },
+  {
+    "id": "mn-tongariro",
+    "category": "monument",
+    "name": {
+      "fr": "Tongariro",
+      "en": "Tongariro Alpine Crossing"
+    },
+    "region": "Île du Nord",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -39.1177,
+      175.642
+    ],
+    "description": {
+      "fr": "Trek d'une journée à travers cratères fumants, lacs émeraude et versants du Ngauruhoe, le mont Doom du Seigneur des Anneaux.",
+      "en": "A day trek across steaming craters, emerald lakes and the slopes of Ngauruhoe, the Mount Doom of The Lord of the Rings."
+    },
+    "tags": [
+      "UNESCO",
+      "Volcano",
+      "Mountain"
+    ]
+  },
+  {
+    "id": "mn-taranaki",
+    "category": "monument",
+    "name": {
+      "fr": "Mont Taranaki",
+      "en": "Mount Taranaki"
+    },
+    "region": "Île du Nord",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -39.2967,
+      174.0653
+    ],
+    "description": {
+      "fr": "Volcan conique symétrique dominant la côte ouest néo-zélandaise. Ses forêts humides et son sommet neigeux en font un mont Fuji du Pacifique.",
+      "en": "A perfectly symmetrical volcanic cone rising over New Zealand's west coast. Its rain forests and snowy peak make it a Pacific Fuji."
+    },
+    "tags": [
+      "Volcano",
+      "Mountain",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-hobbiton",
+    "category": "monument",
+    "name": {
+      "fr": "Hobbiton",
+      "en": "Hobbiton"
+    },
+    "region": "Matamata, Waikato",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -37.8721,
+      175.6832
+    ],
+    "description": {
+      "fr": "Village de hobbits reconstitué dans les collines du Waikato pour la trilogie de Peter Jackson. Portes rondes et cheminées fumantes toujours visitables.",
+      "en": "A hobbit village rebuilt in the Waikato hills for Peter Jackson's trilogy. Round doors and smoking chimneys still welcome visitors."
+    },
+    "tags": [
+      "Cultural",
+      "Off-beat",
+      "Film"
+    ]
+  },
+  {
+    "id": "mn-bora-bora",
+    "category": "monument",
+    "name": {
+      "fr": "Bora Bora",
+      "en": "Bora Bora"
+    },
+    "region": "Îles-sous-le-Vent",
+    "country": {
+      "fr": "Polynésie française",
+      "en": "French Polynesia"
+    },
+    "countryCode": "PF",
+    "coordinates": [
+      -16.5004,
+      -151.7415
+    ],
+    "description": {
+      "fr": "Île volcanique entourée d'un lagon turquoise et d'un anneau de motus. Les bungalows sur pilotis y flottent au-dessus d'un jardin de corail.",
+      "en": "A volcanic island ringed by a turquoise lagoon and a necklace of motus. Overwater bungalows float above a coral garden."
+    },
+    "tags": [
+      "Coastal",
+      "Reef",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "mn-palau-rock-islands",
+    "category": "monument",
+    "name": {
+      "fr": "Rock Islands de Palau",
+      "en": "Rock Islands of Palau"
+    },
+    "region": "Micronésie",
+    "country": {
+      "fr": "Palaos",
+      "en": "Palau"
+    },
+    "countryCode": "PW",
+    "coordinates": [
+      7.155,
+      134.373
+    ],
+    "description": {
+      "fr": "Semis d'îlots calcaires en champignons émergeant d'un lagon turquoise. Le Jellyfish Lake abrite des méduses inoffensives à traverser à la nage.",
+      "en": "A scatter of mushroom-shaped limestone islets in a turquoise lagoon. Jellyfish Lake hosts non-stinging jellies you can swim through."
+    },
+    "tags": [
+      "UNESCO",
+      "Reef",
+      "Natural wonder"
+    ]
+  },
+  {
+    "id": "mn-tetepare",
+    "category": "monument",
+    "name": {
+      "fr": "Île de Tetepare",
+      "en": "Tetepare Island"
+    },
+    "region": "Îles Salomon",
+    "country": {
+      "fr": "Îles Salomon",
+      "en": "Solomon Islands"
+    },
+    "countryCode": "SB",
+    "coordinates": [
+      -8.75,
+      157.5
+    ],
+    "description": {
+      "fr": "Plus grande île tropicale inhabitée du Pacifique Sud, forêt intacte gérée par les descendants de ses anciens habitants comme réserve communautaire.",
+      "en": "The South Pacific's largest uninhabited tropical island, an untouched forest run as a community reserve by the descendants of its former people."
+    },
+    "tags": [
+      "Natural wonder",
+      "Off-beat",
+      "Wildlife"
+    ]
+  },
+  {
+    "id": "mn-yasur",
+    "category": "monument",
+    "name": {
+      "fr": "Volcan Yasur",
+      "en": "Mount Yasur"
+    },
+    "region": "Tanna, Mélanésie",
+    "country": {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+    },
+    "countryCode": "VU",
+    "coordinates": [
+      -19.53,
+      169.446
+    ],
+    "description": {
+      "fr": "Volcan en éruption permanente depuis plus de 800 ans, dont on peut approcher le cratère rougeoyant à pied. L'un des plus accessibles au monde.",
+      "en": "A volcano in constant eruption for over 800 years, whose glowing crater can be reached on foot. One of the most accessible on Earth."
+    },
+    "tags": [
+      "Volcano",
+      "Natural wonder",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-navala",
+    "category": "monument",
+    "name": {
+      "fr": "Village de Navala",
+      "en": "Navala Village"
+    },
+    "region": "Ba, Viti Levu",
+    "country": {
+      "fr": "Fidji",
+      "en": "Fiji"
+    },
+    "countryCode": "FJ",
+    "coordinates": [
+      -17.59,
+      177.77
+    ],
+    "description": {
+      "fr": "L'un des derniers villages fidjiens entièrement construit en bures traditionnelles au toit de chaume, niché dans les collines de Viti Levu.",
+      "en": "One of the last Fijian villages still made entirely of traditional thatched bures, tucked into the hills of Viti Levu."
+    },
+    "tags": [
+      "Cultural",
+      "Off-beat",
+      "Village"
+    ]
+  },
+  {
+    "id": "mn-nan-madol",
+    "category": "monument",
+    "name": {
+      "fr": "Nan Madol",
+      "en": "Nan Madol"
+    },
+    "region": "Pohnpei",
+    "country": {
+      "fr": "États fédérés de Micronésie",
+      "en": "Federated States of Micronesia"
+    },
+    "countryCode": "FM",
+    "coordinates": [
+      6.8433,
+      158.335
+    ],
+    "description": {
+      "fr": "Cité de 92 îlots artificiels construits en colonnes de basalte au large de Pohnpei, capitale d'une dynastie disparue. La « Venise du Pacifique ».",
+      "en": "A city of 92 artificial islets built from basalt columns off Pohnpei, capital of a vanished dynasty. The 'Venice of the Pacific'."
+    },
+    "tags": [
+      "UNESCO",
+      "Ancient",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-samoa-to-sua",
+    "category": "monument",
+    "name": {
+      "fr": "To Sua Ocean Trench",
+      "en": "To Sua Ocean Trench"
+    },
+    "region": "Upolu",
+    "country": {
+      "fr": "Samoa",
+      "en": "Samoa"
+    },
+    "countryCode": "WS",
+    "coordinates": [
+      -14.0517,
+      -171.4272
+    ],
+    "description": {
+      "fr": "Piscine naturelle de trente mètres de profondeur cachée dans un jardin tropical, reliée à l'océan par un tunnel de lave. On y descend par une échelle vertigineuse.",
+      "en": "A thirty-metre-deep natural swimming hole hidden in a tropical garden, linked to the ocean by a lava tunnel. Reached by a dizzying wooden ladder."
+    },
+    "tags": [
+      "Natural wonder",
+      "Coastal",
+      "Off-beat"
+    ]
+  },
+  {
+    "id": "mn-mauna-kea",
+    "category": "monument",
+    "name": {
+      "fr": "Mauna Kea",
+      "en": "Mauna Kea"
+    },
+    "region": "Hawaï, Big Island",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      19.8207,
+      -155.4681
+    ],
+    "description": {
+      "fr": "Volcan sacré hawaïen mesuré depuis sa base sous-marine, plus haut que l'Everest. Ses observatoires guettent l'univers depuis 4 200 mètres.",
+      "en": "A sacred Hawaiian volcano taller than Everest when measured from its underwater base. Its observatories watch the universe from 4,200 metres up."
+    },
+    "tags": [
+      "Volcano",
+      "Natural wonder",
+      "Sacred"
+    ]
+  },
+  {
+    "id": "mn-nordkapp",
+    "category": "monument",
+    "name": {
+      "fr": "Cap Nord",
+      "en": "North Cape"
+    },
+    "region": "Finnmark",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      71.1699,
+      25.7833
+    ],
+    "description": {
+      "fr": "Falaise de 307 mètres considérée comme le point le plus septentrional d'Europe accessible en voiture. Soleil de minuit en été, nuit polaire en hiver.",
+      "en": "A 307-metre cliff regarded as Europe's northernmost point reachable by car. Midnight sun in summer, polar night in winter."
+    },
+    "tags": [
+      "Extreme",
+      "Coastal",
+      "Arctic"
+    ]
+  },
+  {
+    "id": "mn-svalbard",
+    "category": "monument",
+    "name": {
+      "fr": "Archipel du Svalbard",
+      "en": "Svalbard Archipelago"
+    },
+    "region": "Océan Arctique",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      78.22,
+      15.635
+    ],
+    "description": {
+      "fr": "Terres arctiques à mi-chemin entre la Norvège et le pôle Nord, refuge des ours polaires. La banque mondiale de semences y est enfouie dans le pergélisol.",
+      "en": "Arctic lands halfway between Norway and the North Pole, home to polar bears. The Global Seed Vault sits buried in the permafrost here."
+    },
+    "tags": [
+      "Arctic",
+      "Wildlife",
+      "Extreme"
+    ]
+  },
+  {
+    "id": "mn-ilulissat",
+    "category": "monument",
+    "name": {
+      "fr": "Fjord glacé d'Ilulissat",
+      "en": "Ilulissat Icefjord"
+    },
+    "region": "Baie de Disko",
+    "country": {
+      "fr": "Groenland",
+      "en": "Greenland"
+    },
+    "countryCode": "GL",
+    "coordinates": [
+      69.1667,
+      -49.8333
+    ],
+    "description": {
+      "fr": "Sortie de glace la plus productive de l'Arctique, d'où se détachent des icebergs monumentaux qui dérivent au large de Disko. Un laboratoire du climat.",
+      "en": "The most productive ice tongue in the Arctic, calving monumental icebergs that drift out into Disko Bay. A living climate laboratory."
+    },
+    "tags": [
+      "UNESCO",
+      "Glacier",
+      "Arctic"
+    ]
+  },
+  {
+    "id": "mn-mcmurdo",
+    "category": "monument",
+    "name": {
+      "fr": "Vallées sèches de McMurdo",
+      "en": "McMurdo Dry Valleys"
+    },
+    "region": "Terre Victoria",
+    "country": {
+      "fr": "Antarctique",
+      "en": "Antarctica"
+    },
+    "countryCode": "AQ",
+    "coordinates": [
+      -77.5,
+      162.5
+    ],
+    "description": {
+      "fr": "L'endroit le plus sec de la planète, où il n'a pas plu depuis deux millions d'années. La NASA l'étudie comme analogue martien.",
+      "en": "The driest place on Earth, where no rain has fallen for two million years. NASA studies it as a Martian analogue."
+    },
+    "tags": [
+      "Antarctic",
+      "Extreme",
+      "Natural wonder"
+    ]
+  },
+  {
+    "id": "mn-peninsule-antarctique",
+    "category": "monument",
+    "name": {
+      "fr": "Péninsule antarctique",
+      "en": "Antarctic Peninsula"
+    },
+    "region": "Antarctique occidental",
+    "country": {
+      "fr": "Antarctique",
+      "en": "Antarctica"
+    },
+    "countryCode": "AQ",
+    "coordinates": [
+      -64,
+      -60
+    ],
+    "description": {
+      "fr": "Bras glacé pointant vers l'Amérique du Sud, ourlé d'icebergs bleus, de manchots à jugulaire et de baleines à bosse.",
+      "en": "An icy arm pointing toward South America, rimmed with blue icebergs, chinstrap penguins and humpback whales."
+    },
+    "tags": [
+      "Antarctic",
+      "Wildlife",
+      "Glacier"
+    ]
+  }
+]

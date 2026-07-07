@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "an-lion-serengeti",
+    "category": "animal",
+    "name": {
+      "fr": "Lion d'Afrique",
+      "en": "African Lion"
+    },
+    "region": "Parc national du Serengeti, Tanzanie",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -2.3333,
+      34.8333
+    ],
+    "description": {
+      "fr": "Le Serengeti abrite la plus forte densité de lions au monde, avec près de 3 000 individus. Les coalitions de mâles et les prides sont observables toute l'année, avec un pic pendant la Grande Migration (juillet-octobre).",
+      "en": "The Serengeti holds the highest lion density on Earth, with nearly 3,000 individuals. Coalitions of males and prides are observable year-round, peaking during the Great Migration (July-October)."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-tigre-bengale-ranthambore",
+    "category": "animal",
+    "name": {
+      "fr": "Tigre du Bengale",
+      "en": "Bengal Tiger"
+    },
+    "region": "Parc national de Ranthambore, Rajasthan",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      26.0173,
+      76.5026
+    ],
+    "description": {
+      "fr": "Ranthambore est le sanctuaire mythique du tigre du Bengale, célèbre pour ses individus habitués aux véhicules et pour ses ruines mogholes. Les mois d'avril à juin, en pleine chaleur, offrent les meilleures chances d'observation autour des points d'eau.",
+      "en": "Ranthambore is the mythical stronghold of the Bengal tiger, famed for its vehicle-habituated cats prowling among Mughal ruins. April to June, in peak heat, offers the best sightings around waterholes."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-tigre-siberie-primorie",
+    "category": "animal",
+    "name": {
+      "fr": "Tigre de Sibérie",
+      "en": "Siberian Tiger"
+    },
+    "region": "Réserve du Sikhote-Aline, Primorié",
+    "country": {
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    "countryCode": "RU",
+    "coordinates": [
+      45.0,
+      136.5
+    ],
+    "description": {
+      "fr": "La taïga du Primorié russe abrite les derniers tigres de l'Amour, plus grands félins du monde. Environ 500 individus survivent dans cette forêt boréale enneigée, où le suivi se fait par pistage hivernal.",
+      "en": "The Primorye taiga in Russia shelters the last Amur tigers, the largest cats on Earth. Around 500 individuals survive in this snowy boreal forest, best tracked by winter footprint surveys."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-leopard-neiges-ladakh",
+    "category": "animal",
+    "name": {
+      "fr": "Léopard des neiges",
+      "en": "Snow Leopard"
+    },
+    "region": "Vallée d'Hemis, Ladakh",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      33.95,
+      77.7
+    ],
+    "description": {
+      "fr": "Le parc national d'Hemis, dans le Ladakh himalayen, est devenu la meilleure destination mondiale pour observer le fantôme des montagnes. En hiver (janvier-mars), les léopards descendent en vallée à la poursuite des bharals.",
+      "en": "Hemis National Park in the Himalayan Ladakh has become the world's top destination to spot the ghost of the mountains. In winter (January-March), snow leopards descend to the valleys chasing blue sheep."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-guepard-masai-mara",
+    "category": "animal",
+    "name": {
+      "fr": "Guépard",
+      "en": "Cheetah"
+    },
+    "region": "Réserve nationale du Masai Mara",
+    "country": {
+      "fr": "Kenya",
+      "en": "Kenya"
+    },
+    "countryCode": "KE",
+    "coordinates": [
+      -1.4061,
+      35.0058
+    ],
+    "description": {
+      "fr": "Les plaines ouvertes du Masai Mara offrent le terrain idéal pour observer les chasses au guépard en plein jour. Les coalitions de mâles y sont fréquentes et des individus comme la lignée de Malaika sont mondialement connus.",
+      "en": "The open plains of the Masai Mara offer the ideal terrain to witness daylight cheetah hunts. Male coalitions are frequent, and lineages like Malaika's have become globally famous."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-panda-geant-sichuan",
+    "category": "animal",
+    "name": {
+      "fr": "Panda géant",
+      "en": "Giant Panda"
+    },
+    "region": "Réserve de Wolong, Sichuan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      31.0333,
+      103.1833
+    ],
+    "description": {
+      "fr": "Les montagnes brumeuses du Sichuan concentrent 80 % des pandas géants sauvages. La réserve de Wolong, cœur du programme de conservation, permet d'observer des individus réintroduits dans les forêts de bambous.",
+      "en": "The misty mountains of Sichuan hold 80% of wild giant pandas. Wolong reserve, the heart of the conservation program, allows viewing of reintroduced individuals in the bamboo forests."
+    },
+    "tags": [
+      "Mammal",
+      "Endemic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-ours-polaire-churchill",
+    "category": "animal",
+    "name": {
+      "fr": "Ours polaire",
+      "en": "Polar Bear"
+    },
+    "region": "Churchill, baie d'Hudson, Manitoba",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      58.7684,
+      -94.165
+    ],
+    "description": {
+      "fr": "Churchill est la capitale mondiale de l'ours polaire : chaque octobre-novembre, les ours s'y rassemblent pour attendre le gel de la baie d'Hudson. Des tundra buggies permettent une observation rapprochée en toute sécurité.",
+      "en": "Churchill is the world's polar bear capital: each October-November, bears gather here awaiting the freeze of Hudson Bay. Tundra buggies allow safe close-up viewing."
+    },
+    "tags": [
+      "Mammal",
+      "Arctic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-grizzly-katmai",
+    "category": "animal",
+    "name": {
+      "fr": "Ours grizzly",
+      "en": "Grizzly Bear"
+    },
+    "region": "Parc national de Katmai, Alaska",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      58.5972,
+      -155.0
+    ],
+    "description": {
+      "fr": "Les chutes de Brooks Falls, à Katmai, offrent le spectacle le plus emblématique du monde : des dizaines de grizzlys attrapant les saumons en vol chaque juillet. La plateforme d'observation est mythique parmi les photographes animaliers.",
+      "en": "Brooks Falls in Katmai delivers the world's most iconic bear scene: dozens of grizzlies catching leaping salmon each July. The viewing platform is legendary among wildlife photographers."
+    },
+    "tags": [
+      "Mammal",
+      "Predator",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-ours-brun-kamchatka",
+    "category": "animal",
+    "name": {
+      "fr": "Ours brun du Kamtchatka",
+      "en": "Kamchatka Brown Bear"
+    },
+    "region": "Lac Kourile, Kamtchatka",
+    "country": {
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    "countryCode": "RU",
+    "coordinates": [
+      51.45,
+      157.1167
+    ],
+    "description": {
+      "fr": "Le lac Kourile, au sud du Kamtchatka, concentre la plus forte densité d'ours bruns du monde grâce à la remontée massive des saumons rouges. En août, plus de 200 ours peuvent pêcher simultanément.",
+      "en": "Kuril Lake, in southern Kamchatka, holds the world's highest brown bear density thanks to the massive sockeye salmon run. In August, over 200 bears may fish simultaneously."
+    },
+    "tags": [
+      "Mammal",
+      "Predator",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-ours-brun-slovenie",
+    "category": "animal",
+    "name": {
+      "fr": "Ours brun européen",
+      "en": "European Brown Bear"
+    },
+    "region": "Forêts de Notranjska, Slovénie",
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia"
+    },
+    "countryCode": "SI",
+    "coordinates": [
+      45.65,
+      14.4667
+    ],
+    "description": {
+      "fr": "La Slovénie abrite une population saine d'environ 1 000 ours bruns dans les forêts denses du karst dinarique. Les affûts photos y sont réputés pour offrir les meilleures observations d'ours bruns en Europe.",
+      "en": "Slovenia hosts a healthy population of around 1,000 brown bears in the dense forests of the Dinaric karst. Photo hides here are famed for delivering Europe's best brown bear sightings."
+    },
+    "tags": [
+      "Mammal",
+      "Predator",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-elephant-afrique-chobe",
+    "category": "animal",
+    "name": {
+      "fr": "Éléphant d'Afrique",
+      "en": "African Elephant"
+    },
+    "region": "Parc national de Chobe, Botswana",
+    "country": {
+      "fr": "Botswana",
+      "en": "Botswana"
+    },
+    "countryCode": "BW",
+    "coordinates": [
+      -18.6667,
+      24.6667
+    ],
+    "description": {
+      "fr": "Chobe abrite la plus grande concentration d'éléphants d'Afrique au monde : plus de 120 000 individus. En saison sèche (mai-octobre), les troupeaux se pressent en bord de rivière au coucher du soleil.",
+      "en": "Chobe holds the world's largest concentration of African elephants: over 120,000 individuals. In the dry season (May-October), herds gather along the river at sunset."
+    },
+    "tags": [
+      "Mammal",
+      "Endangered",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-elephant-asie-kerala",
+    "category": "animal",
+    "name": {
+      "fr": "Éléphant d'Asie",
+      "en": "Asian Elephant"
+    },
+    "region": "Parc national de Periyar, Kerala",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      9.4644,
+      77.2411
+    ],
+    "description": {
+      "fr": "Le parc national de Periyar, autour d'un lac artificiel entouré de forêts tropicales, est le meilleur site d'Inde pour observer les éléphants d'Asie sauvages, notamment en safari en bateau.",
+      "en": "Periyar National Park, centered on an artificial lake framed by tropical forests, is India's finest site for wild Asian elephant sightings, especially by boat safari."
+    },
+    "tags": [
+      "Mammal",
+      "Endangered",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-rhinoceros-noir-etosha",
+    "category": "animal",
+    "name": {
+      "fr": "Rhinocéros noir",
+      "en": "Black Rhinoceros"
+    },
+    "region": "Parc national d'Etosha, Namibie",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -18.8558,
+      16.3306
+    ],
+    "description": {
+      "fr": "Etosha détient la plus grande population de rhinocéros noirs au monde en libre roaming. Le point d'eau d'Okaukuejo, éclairé la nuit, permet des observations exceptionnelles de cette espèce en danger critique.",
+      "en": "Etosha holds the world's largest free-roaming population of black rhinos. The floodlit Okaukuejo waterhole delivers exceptional night viewings of this critically endangered species."
+    },
+    "tags": [
+      "Mammal",
+      "Critically endangered",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-rhinoceros-indien-kaziranga",
+    "category": "animal",
+    "name": {
+      "fr": "Rhinocéros indien",
+      "en": "Indian Rhinoceros"
+    },
+    "region": "Parc national de Kaziranga, Assam",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      26.5775,
+      93.1711
+    ],
+    "description": {
+      "fr": "Kaziranga abrite plus de 2 600 rhinocéros unicornes, soit les deux tiers de la population mondiale. Les prairies inondables de l'Assam permettent une observation aisée à dos d'éléphant ou en jeep.",
+      "en": "Kaziranga holds over 2,600 one-horned rhinos, two-thirds of the world population. The Assam floodplains allow easy viewing on elephant back or by jeep."
+    },
+    "tags": [
+      "Mammal",
+      "Vulnerable",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-hippopotame-luangwa",
+    "category": "animal",
+    "name": {
+      "fr": "Hippopotame",
+      "en": "Hippopotamus"
+    },
+    "region": "Parc national de South Luangwa, Zambie",
+    "country": {
+      "fr": "Zambie",
+      "en": "Zambia"
+    },
+    "countryCode": "ZM",
+    "coordinates": [
+      -13.0833,
+      31.9167
+    ],
+    "description": {
+      "fr": "La rivière Luangwa concentre la plus forte densité d'hippopotames au monde : jusqu'à 65 individus par kilomètre en saison sèche. Les safaris à pied y sont légendaires.",
+      "en": "The Luangwa River holds the world's highest hippo density: up to 65 individuals per kilometer in the dry season. Walking safaris here are legendary."
+    },
+    "tags": [
+      "Mammal",
+      "Semi-aquatic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-buffle-afrique-kruger",
+    "category": "animal",
+    "name": {
+      "fr": "Buffle d'Afrique",
+      "en": "African Buffalo"
+    },
+    "region": "Parc national Kruger",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -23.9884,
+      31.5547
+    ],
+    "description": {
+      "fr": "Le Kruger abrite d'énormes troupeaux de buffles, souvent en interaction avec les lions, offrant certaines des scènes de prédation les plus documentées d'Afrique.",
+      "en": "Kruger hosts massive buffalo herds, often clashing with lions, producing some of Africa's most documented predation scenes."
+    },
+    "tags": [
+      "Mammal",
+      "Big Five",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-gnou-migration-mara",
+    "category": "animal",
+    "name": {
+      "fr": "Gnou bleu",
+      "en": "Blue Wildebeest"
+    },
+    "region": "Rivière Mara, Masai Mara",
+    "country": {
+      "fr": "Kenya",
+      "en": "Kenya"
+    },
+    "countryCode": "KE",
+    "coordinates": [
+      -1.5,
+      35.0
+    ],
+    "description": {
+      "fr": "Chaque année, 1,5 million de gnous traversent la rivière Mara entre juillet et octobre : c'est la plus grande migration terrestre au monde, avec les traversées mythiques face aux crocodiles du Nil.",
+      "en": "Each year, 1.5 million wildebeest cross the Mara River between July and October: the world's largest overland migration, with iconic crossings amid Nile crocodiles."
+    },
+    "tags": [
+      "Mammal",
+      "Migration",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-zebre-etosha",
+    "category": "animal",
+    "name": {
+      "fr": "Zèbre des plaines",
+      "en": "Plains Zebra"
+    },
+    "region": "Parc national d'Etosha, Namibie",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -18.8558,
+      16.3306
+    ],
+    "description": {
+      "fr": "Les plaines salées d'Etosha rassemblent d'immenses troupeaux de zèbres autour des points d'eau, offrant certaines des plus belles compositions photographiques d'Afrique australe.",
+      "en": "The salt plains of Etosha gather huge zebra herds around waterholes, producing some of Southern Africa's most striking photographic compositions."
+    },
+    "tags": [
+      "Mammal",
+      "Herd",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-girafe-kruger",
+    "category": "animal",
+    "name": {
+      "fr": "Girafe",
+      "en": "Giraffe"
+    },
+    "region": "Parc national Kruger",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -24.0,
+      31.5
+    ],
+    "description": {
+      "fr": "Le Kruger abrite plus de 8 000 girafes du Sud, la plus grande population protégée. Les groupes familiaux sont facilement observables le long des routes touristiques du parc.",
+      "en": "Kruger hosts over 8,000 southern giraffes, the largest protected population. Family groups are easily seen along the park's tourist roads."
+    },
+    "tags": [
+      "Mammal",
+      "Iconic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-gorille-montagne-bwindi",
+    "category": "animal",
+    "name": {
+      "fr": "Gorille de montagne",
+      "en": "Mountain Gorilla"
+    },
+    "region": "Forêt impénétrable de Bwindi",
+    "country": {
+      "fr": "Ouganda",
+      "en": "Uganda"
+    },
+    "countryCode": "UG",
+    "coordinates": [
+      -1.05,
+      29.7
+    ],
+    "description": {
+      "fr": "Bwindi abrite près de la moitié des gorilles de montagne restants sur Terre (environ 1 000 individus). Les trekkings au cœur de la forêt impénétrable offrent des rencontres bouleversantes avec des familles habituées.",
+      "en": "Bwindi holds nearly half of the world's remaining mountain gorillas (around 1,000 individuals). Treks deep into the impenetrable forest offer humbling encounters with habituated families."
+    },
+    "tags": [
+      "Primate",
+      "Endangered",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-gorille-volcans-rwanda",
+    "category": "animal",
+    "name": {
+      "fr": "Gorille de montagne",
+      "en": "Mountain Gorilla"
+    },
+    "region": "Parc national des Volcans, Rwanda",
+    "country": {
+      "fr": "Rwanda",
+      "en": "Rwanda"
+    },
+    "countryCode": "RW",
+    "coordinates": [
+      -1.4667,
+      29.5
+    ],
+    "description": {
+      "fr": "Le parc des Volcans, où Dian Fossey menait ses études, est le berceau du tourisme responsable autour des gorilles. Les groupes vivent sur les flancs volcaniques recouverts de forêts d'altitude.",
+      "en": "Volcanoes National Park, where Dian Fossey conducted her studies, is the birthplace of responsible gorilla tourism. Groups live on volcanic slopes covered in high-altitude forests."
+    },
+    "tags": [
+      "Primate",
+      "Endangered",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-chimpanze-kibale",
+    "category": "animal",
+    "name": {
+      "fr": "Chimpanzé commun",
+      "en": "Common Chimpanzee"
+    },
+    "region": "Parc national de Kibale, Ouganda",
+    "country": {
+      "fr": "Ouganda",
+      "en": "Uganda"
+    },
+    "countryCode": "UG",
+    "coordinates": [
+      0.4833,
+      30.3833
+    ],
+    "description": {
+      "fr": "Kibale héberge plus de 1 500 chimpanzés, la plus grande densité d'Afrique de l'Est. Le chimpanzé habituation experience permet de suivre une troupe entière du lever au coucher du soleil.",
+      "en": "Kibale is home to over 1,500 chimpanzees, the highest density in East Africa. The habituation experience lets you follow a troop from dawn to dusk."
+    },
+    "tags": [
+      "Primate",
+      "Endangered",
+      "Great ape"
+    ]
+  },
+  {
+    "id": "an-orang-outan-sumatra",
+    "category": "animal",
+    "name": {
+      "fr": "Orang-outan de Sumatra",
+      "en": "Sumatran Orangutan"
+    },
+    "region": "Parc national de Gunung Leuser",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      3.75,
+      97.5
+    ],
+    "description": {
+      "fr": "Gunung Leuser, dernière forêt où coexistent orangs-outans, tigres, éléphants et rhinocéros, est le meilleur endroit pour observer les orangs-outans de Sumatra sauvages depuis les rives de la rivière Bohorok.",
+      "en": "Gunung Leuser, the last forest where orangutans, tigers, elephants and rhinos coexist, is the top place to see wild Sumatran orangutans from the Bohorok riverbanks."
+    },
+    "tags": [
+      "Primate",
+      "Critically endangered",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "an-orang-outan-borneo-kinabatangan",
+    "category": "animal",
+    "name": {
+      "fr": "Orang-outan de Bornéo",
+      "en": "Bornean Orangutan"
+    },
+    "region": "Rivière Kinabatangan, Sabah",
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
+    "countryCode": "MY",
+    "coordinates": [
+      5.4167,
+      118.1667
+    ],
+    "description": {
+      "fr": "Le corridor forestier de la Kinabatangan, à Bornéo, permet d'observer des orangs-outans en liberté depuis un bateau, ainsi que les emblématiques nasiques et les éléphants pygmées.",
+      "en": "The Kinabatangan forest corridor in Borneo allows river-boat sightings of wild orangutans alongside iconic proboscis monkeys and pygmy elephants."
+    },
+    "tags": [
+      "Primate",
+      "Critically endangered",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "an-macaque-japonais-jigokudani",
+    "category": "animal",
+    "name": {
+      "fr": "Macaque japonais",
+      "en": "Japanese Macaque"
+    },
+    "region": "Parc de Jigokudani, Nagano",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      36.7333,
+      138.4667
+    ],
+    "description": {
+      "fr": "Les singes des neiges de Jigokudani sont célèbres dans le monde entier pour leurs bains dans les sources chaudes en plein hiver. Une des scènes animalières les plus photographiées du Japon.",
+      "en": "The snow monkeys of Jigokudani are world-famous for bathing in hot springs during winter. One of Japan's most photographed wildlife scenes."
+    },
+    "tags": [
+      "Primate",
+      "Endemic",
+      "Unique behavior"
+    ]
+  },
+  {
+    "id": "an-lemurien-andasibe",
+    "category": "animal",
+    "name": {
+      "fr": "Indri (lémurien)",
+      "en": "Indri Lemur"
+    },
+    "region": "Parc national d'Andasibe-Mantadia",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -18.9333,
+      48.4167
+    ],
+    "description": {
+      "fr": "Andasibe est le meilleur endroit au monde pour observer l'indri, plus grand lémurien vivant, dont les chants résonnent à plusieurs kilomètres dans la forêt tropicale.",
+      "en": "Andasibe is the world's best place to observe the indri, the largest living lemur, whose haunting calls carry for kilometers through the rainforest."
+    },
+    "tags": [
+      "Primate",
+      "Endemic",
+      "Critically endangered"
+    ]
+  },
+  {
+    "id": "an-baleine-bosse-silver-bank",
+    "category": "animal",
+    "name": {
+      "fr": "Baleine à bosse",
+      "en": "Humpback Whale"
+    },
+    "region": "Silver Bank, République dominicaine",
+    "country": {
+      "fr": "République dominicaine",
+      "en": "Dominican Republic"
+    },
+    "countryCode": "DO",
+    "coordinates": [
+      20.5,
+      -69.75
+    ],
+    "description": {
+      "fr": "Le Silver Bank est l'un des rares sanctuaires au monde où l'on peut nager avec les baleines à bosse, qui viennent y mettre bas chaque hiver (janvier-avril).",
+      "en": "Silver Bank is one of the few sanctuaries in the world where you can swim with humpback whales, which come here to calve each winter (January-April)."
+    },
+    "tags": [
+      "Marine mammal",
+      "Migration",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-baleine-bosse-tonga",
+    "category": "animal",
+    "name": {
+      "fr": "Baleine à bosse",
+      "en": "Humpback Whale"
+    },
+    "region": "Vava'u, Tonga",
+    "country": {
+      "fr": "Tonga",
+      "en": "Tonga"
+    },
+    "countryCode": "TO",
+    "coordinates": [
+      -18.65,
+      -173.9833
+    ],
+    "description": {
+      "fr": "Vava'u, au royaume des Tonga, autorise la nage encadrée avec les baleines à bosse pendant leur saison de reproduction (juillet-octobre). Un des rares lieux au monde à le permettre légalement.",
+      "en": "Vava'u in the Kingdom of Tonga allows regulated swimming with humpback whales during their breeding season (July-October). One of the very few places on Earth to legally permit it."
+    },
+    "tags": [
+      "Marine mammal",
+      "Migration",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-baleine-bleue-mirissa",
+    "category": "animal",
+    "name": {
+      "fr": "Baleine bleue",
+      "en": "Blue Whale"
+    },
+    "region": "Mirissa, Sri Lanka",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      5.9483,
+      80.456
+    ],
+    "description": {
+      "fr": "Au large de Mirissa, la plateforme continentale plonge très près de la côte, ce qui rend cet endroit unique au monde pour observer la baleine bleue toute l'année (décembre-avril étant l'idéal).",
+      "en": "Off Mirissa, the continental shelf drops close to shore, making this the world's most reliable spot to see blue whales year-round (December-April being ideal)."
+    },
+    "tags": [
+      "Marine mammal",
+      "Largest animal",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-baleine-bleue-islande",
+    "category": "animal",
+    "name": {
+      "fr": "Baleine bleue",
+      "en": "Blue Whale"
+    },
+    "region": "Húsavík, baie de Skjálfandi",
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland"
+    },
+    "countryCode": "IS",
+    "coordinates": [
+      66.0453,
+      -17.3383
+    ],
+    "description": {
+      "fr": "La baie de Skjálfandi, au nord de l'Islande, est le meilleur site de l'Atlantique Nord pour observer la baleine bleue en été, aux côtés des rorquals communs et des baleines à bosse.",
+      "en": "Skjálfandi Bay in northern Iceland is the North Atlantic's top summer spot to see blue whales alongside fin whales and humpbacks."
+    },
+    "tags": [
+      "Marine mammal",
+      "Largest animal",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-orque-vancouver",
+    "category": "animal",
+    "name": {
+      "fr": "Orque",
+      "en": "Orca"
+    },
+    "region": "Île de Vancouver, Colombie-Britannique",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      50.5,
+      -126.5
+    ],
+    "description": {
+      "fr": "Le détroit de Johnstone, autour de l'île de Vancouver, abrite les orques résidentes du nord, spécialisées dans le saumon. Les meilleures observations ont lieu de juin à octobre.",
+      "en": "Johnstone Strait around Vancouver Island hosts the northern resident orcas, salmon specialists. Best sightings occur from June to October."
+    },
+    "tags": [
+      "Marine mammal",
+      "Apex predator",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-orque-andoya",
+    "category": "animal",
+    "name": {
+      "fr": "Orque",
+      "en": "Orca"
+    },
+    "region": "Andøya, Vesterålen",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      69.0,
+      15.75
+    ],
+    "description": {
+      "fr": "En hiver, les orques suivent les bancs de harengs le long des fjords norvégiens autour d'Andøya. Des expéditions permettent de les observer chassant en meute, parfois aux côtés de baleines à bosse.",
+      "en": "In winter, orcas follow herring shoals along the Norwegian fjords around Andøya. Expeditions allow watching them hunt in packs, sometimes alongside humpback whales."
+    },
+    "tags": [
+      "Marine mammal",
+      "Apex predator",
+      "Migration"
+    ]
+  },
+  {
+    "id": "an-cachalot-kaikoura",
+    "category": "animal",
+    "name": {
+      "fr": "Cachalot",
+      "en": "Sperm Whale"
+    },
+    "region": "Kaikoura, Nouvelle-Zélande",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -42.4,
+      173.6833
+    ],
+    "description": {
+      "fr": "Kaikoura est unique : un canyon sous-marin proche de la côte permet d'observer des cachalots mâles toute l'année, plongeant à plus de 1 000 mètres pour chasser le calmar géant.",
+      "en": "Kaikoura is unique: a deep underwater canyon close to shore lets you watch bull sperm whales year-round, diving over 1,000 meters to hunt giant squid."
+    },
+    "tags": [
+      "Marine mammal",
+      "Deep diver",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-grand-requin-blanc-gansbaai",
+    "category": "animal",
+    "name": {
+      "fr": "Grand requin blanc",
+      "en": "Great White Shark"
+    },
+    "region": "Gansbaai, Cap-Occidental",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -34.5833,
+      19.35
+    ],
+    "description": {
+      "fr": "Gansbaai, entre l'île de Dyer et Geyser Rock, est mondialement connue pour ses cages d'observation du grand requin blanc, attirés par les colonies d'otaries.",
+      "en": "Gansbaai, between Dyer Island and Geyser Rock, is world-famous for cage diving with great white sharks drawn by the resident seal colonies."
+    },
+    "tags": [
+      "Fish",
+      "Apex predator",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-requin-baleine-ningaloo",
+    "category": "animal",
+    "name": {
+      "fr": "Requin-baleine",
+      "en": "Whale Shark"
+    },
+    "region": "Récif de Ningaloo, Australie-Occidentale",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -22.7,
+      113.6667
+    ],
+    "description": {
+      "fr": "Ningaloo est le seul récif de barrière au monde où les requins-baleines se rassemblent chaque année (mars-juillet) pour se nourrir du frai du corail, permettant une nage encadrée avec eux.",
+      "en": "Ningaloo is the world's only fringing reef where whale sharks predictably aggregate each year (March-July) to feed on coral spawn, allowing regulated swims with them."
+    },
+    "tags": [
+      "Fish",
+      "Largest fish",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-requin-baleine-donsol",
+    "category": "animal",
+    "name": {
+      "fr": "Requin-baleine",
+      "en": "Whale Shark"
+    },
+    "region": "Donsol, Sorsogon",
+    "country": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "countryCode": "PH",
+    "coordinates": [
+      12.9047,
+      123.5975
+    ],
+    "description": {
+      "fr": "Donsol, aux Philippines, est considéré comme la capitale mondiale du requin-baleine, avec des interactions non nourries et éthiques dans un sanctuaire marin de renommée internationale.",
+      "en": "Donsol in the Philippines is considered the world capital of the whale shark, with ethical non-provisioned interactions in an internationally acclaimed marine sanctuary."
+    },
+    "tags": [
+      "Fish",
+      "Largest fish",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-requin-marteau-cocos",
+    "category": "animal",
+    "name": {
+      "fr": "Requin-marteau halicorne",
+      "en": "Scalloped Hammerhead Shark"
+    },
+    "region": "Île de Cocos",
+    "country": {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+    },
+    "countryCode": "CR",
+    "coordinates": [
+      5.55,
+      -87.0833
+    ],
+    "description": {
+      "fr": "L'île de Cocos, isolée dans le Pacifique, est célèbre pour ses gigantesques bancs de requins-marteaux — un des plus grands regroupements documentés au monde.",
+      "en": "Cocos Island, isolated in the Pacific, is famous for its massive schools of scalloped hammerheads — one of the largest aggregations documented worldwide."
+    },
+    "tags": [
+      "Fish",
+      "School",
+      "Critically endangered"
+    ]
+  },
+  {
+    "id": "an-otarie-galapagos",
+    "category": "animal",
+    "name": {
+      "fr": "Otarie des Galápagos",
+      "en": "Galápagos Sea Lion"
+    },
+    "region": "Îles Galápagos",
+    "country": {
+      "fr": "Équateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -0.95,
+      -90.9667
+    ],
+    "description": {
+      "fr": "Espèce endémique des Galápagos, l'otarie s'y observe partout, souvent en interaction ludique avec les plongeurs sur les plages d'Isabela et de San Cristóbal.",
+      "en": "Endemic to the Galápagos, sea lions can be seen everywhere, often playfully interacting with snorkelers on the beaches of Isabela and San Cristóbal."
+    },
+    "tags": [
+      "Marine mammal",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-phoque-moine-hawaii",
+    "category": "animal",
+    "name": {
+      "fr": "Phoque moine d'Hawaï",
+      "en": "Hawaiian Monk Seal"
+    },
+    "region": "Kauai, îles Hawaï",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      22.0964,
+      -159.5261
+    ],
+    "description": {
+      "fr": "Le phoque moine d'Hawaï, endémique et menacé, ne compte que 1 500 individus. Les plages sauvages de Kauai et des îles hawaïennes du Nord-Ouest en sont le dernier refuge.",
+      "en": "The endemic and endangered Hawaiian monk seal numbers just 1,500 individuals. The wild beaches of Kauai and the Northwestern Hawaiian Islands are its last refuge."
+    },
+    "tags": [
+      "Marine mammal",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-morse-svalbard",
+    "category": "animal",
+    "name": {
+      "fr": "Morse",
+      "en": "Walrus"
+    },
+    "region": "Archipel du Svalbard",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      78.2167,
+      15.6333
+    ],
+    "description": {
+      "fr": "Le Svalbard abrite d'importantes colonies de morses, notamment à Poolepynten et Moffen. Ces géants aux défenses d'ivoire s'y rassemblent l'été sur les plages de galets.",
+      "en": "Svalbard hosts important walrus colonies, particularly at Poolepynten and Moffen. These ivory-tusked giants haul out in summer on pebble beaches."
+    },
+    "tags": [
+      "Marine mammal",
+      "Arctic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-narval-baffin",
+    "category": "animal",
+    "name": {
+      "fr": "Narval",
+      "en": "Narwhal"
+    },
+    "region": "Île de Baffin, Nunavut",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      72.6833,
+      -77.95
+    ],
+    "description": {
+      "fr": "La banquise de l'île de Baffin, notamment autour de Pond Inlet, offre au printemps un point d'observation unique des narvals lorsqu'ils remontent le long des chenaux ouverts.",
+      "en": "The sea ice around Baffin Island, particularly at Pond Inlet, offers a unique spring vantage point to watch narwhals migrating along open leads."
+    },
+    "tags": [
+      "Marine mammal",
+      "Arctic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-dauphin-rose-rio-negro",
+    "category": "animal",
+    "name": {
+      "fr": "Dauphin rose de l'Amazone",
+      "en": "Amazon Pink River Dolphin"
+    },
+    "region": "Rio Negro, Amazonas",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -3.1,
+      -60.15
+    ],
+    "description": {
+      "fr": "Sur le Rio Negro, autour de Novo Airão, le boto rose est observable toute l'année. Cette espèce d'eau douce endémique de l'Amazone est classée en danger.",
+      "en": "On the Rio Negro, around Novo Airão, the pink river dolphin can be seen year-round. This freshwater species endemic to the Amazon is listed as endangered."
+    },
+    "tags": [
+      "Freshwater mammal",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-iguane-marin-galapagos",
+    "category": "animal",
+    "name": {
+      "fr": "Iguane marin",
+      "en": "Marine Iguana"
+    },
+    "region": "Île Fernandina, Galápagos",
+    "country": {
+      "fr": "Équateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -0.3667,
+      -91.55
+    ],
+    "description": {
+      "fr": "L'iguane marin, seul lézard au monde qui plonge en mer, s'observe partout aux Galápagos, avec les plus grandes colonies à Fernandina et Isabela.",
+      "en": "The marine iguana, the world's only sea-going lizard, is found throughout the Galápagos, with the largest colonies on Fernandina and Isabela."
+    },
+    "tags": [
+      "Reptile",
+      "Endemic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-tortue-luth-tortuguero",
+    "category": "animal",
+    "name": {
+      "fr": "Tortue luth",
+      "en": "Leatherback Turtle"
+    },
+    "region": "Parc national de Tortuguero",
+    "country": {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+    },
+    "countryCode": "CR",
+    "coordinates": [
+      10.545,
+      -83.503
+    ],
+    "description": {
+      "fr": "Les plages de Tortuguero, sur la côte caraïbe, sont un site de ponte majeur pour la tortue luth (mars-juillet) et la tortue verte (juillet-octobre).",
+      "en": "The beaches of Tortuguero on the Caribbean coast are a major nesting site for leatherback (March-July) and green turtles (July-October)."
+    },
+    "tags": [
+      "Reptile",
+      "Nesting",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-tortue-verte-grande-barriere",
+    "category": "animal",
+    "name": {
+      "fr": "Tortue verte",
+      "en": "Green Sea Turtle"
+    },
+    "region": "Île Raine, Grande Barrière de Corail",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -11.59,
+      144.03
+    ],
+    "description": {
+      "fr": "L'île Raine, au nord de la Grande Barrière, accueille la plus grande agrégation de tortues vertes au monde : jusqu'à 60 000 femelles en une seule saison de ponte.",
+      "en": "Raine Island in the northern Great Barrier Reef hosts the world's largest green turtle aggregation: up to 60,000 females in a single nesting season."
+    },
+    "tags": [
+      "Reptile",
+      "Nesting",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-crocodile-marin-kakadu",
+    "category": "animal",
+    "name": {
+      "fr": "Crocodile marin",
+      "en": "Saltwater Crocodile"
+    },
+    "region": "Parc national de Kakadu, Territoire du Nord",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -12.6833,
+      132.8333
+    ],
+    "description": {
+      "fr": "Kakadu abrite l'une des plus fortes densités de crocodiles marins au monde. Les croisières sur la Yellow Water et l'East Alligator River offrent des observations rapprochées.",
+      "en": "Kakadu holds one of the world's highest saltwater crocodile densities. Cruises on Yellow Water and the East Alligator River offer close-up sightings."
+    },
+    "tags": [
+      "Reptile",
+      "Apex predator",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-dragon-komodo",
+    "category": "animal",
+    "name": {
+      "fr": "Dragon de Komodo",
+      "en": "Komodo Dragon"
+    },
+    "region": "Parc national de Komodo",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -8.5486,
+      119.4867
+    ],
+    "description": {
+      "fr": "Endémique des îles de Komodo, Rinca et Padar, le dragon de Komodo est le plus grand lézard au monde. Environ 3 000 individus survivent dans ce parc classé au patrimoine mondial.",
+      "en": "Endemic to the islands of Komodo, Rinca and Padar, the Komodo dragon is the world's largest lizard. Around 3,000 individuals survive in this UNESCO-listed park."
+    },
+    "tags": [
+      "Reptile",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-gharial-chambal",
+    "category": "animal",
+    "name": {
+      "fr": "Gavial du Gange",
+      "en": "Gharial"
+    },
+    "region": "Sanctuaire de la Chambal, Uttar Pradesh",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      26.7,
+      78.5
+    ],
+    "description": {
+      "fr": "La rivière Chambal est le dernier refuge du gavial, crocodilien au museau étroit spécialisé dans la pêche. Moins de 1 000 individus subsistent à l'état sauvage.",
+      "en": "The Chambal River is the last refuge of the gharial, a slender-snouted fish-eating crocodilian. Fewer than 1,000 individuals remain in the wild."
+    },
+    "tags": [
+      "Reptile",
+      "Critically endangered",
+      "Endemic"
+    ]
+  },
+  {
+    "id": "an-manchot-empereur-antarctique",
+    "category": "animal",
+    "name": {
+      "fr": "Manchot empereur",
+      "en": "Emperor Penguin"
+    },
+    "region": "Snow Hill Island, mer de Weddell",
+    "country": {
+      "fr": "Antarctique",
+      "en": "Antarctica"
+    },
+    "countryCode": "AQ",
+    "coordinates": [
+      -64.4667,
+      -57.4
+    ],
+    "description": {
+      "fr": "Snow Hill est l'une des rares colonies de manchots empereurs accessibles en expédition (octobre-novembre). Plus grand manchot au monde, il élève ses poussins en plein hiver antarctique.",
+      "en": "Snow Hill is one of the few emperor penguin colonies reachable by expedition (October-November). The world's largest penguin raises its chicks in the depths of Antarctic winter."
+    },
+    "tags": [
+      "Bird",
+      "Antarctic",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-manchot-royal-georgie-sud",
+    "category": "animal",
+    "name": {
+      "fr": "Manchot royal",
+      "en": "King Penguin"
+    },
+    "region": "Salisbury Plain, Géorgie du Sud",
+    "country": {
+      "fr": "Géorgie du Sud",
+      "en": "South Georgia"
+    },
+    "countryCode": "GS",
+    "coordinates": [
+      -54.05,
+      -37.3333
+    ],
+    "description": {
+      "fr": "Salisbury Plain, en Géorgie du Sud, abrite plus de 250 000 manchots royaux, la deuxième plus grande colonie au monde. Un spectacle inégalé pour les expéditionnaires.",
+      "en": "Salisbury Plain in South Georgia hosts over 250,000 king penguins, the world's second largest colony. An unmatched spectacle for expedition travellers."
+    },
+    "tags": [
+      "Bird",
+      "Sub-antarctic",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-manchot-magellan-punta-tombo",
+    "category": "animal",
+    "name": {
+      "fr": "Manchot de Magellan",
+      "en": "Magellanic Penguin"
+    },
+    "region": "Punta Tombo, Patagonie",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -44.05,
+      -65.2
+    ],
+    "description": {
+      "fr": "Punta Tombo, en Patagonie argentine, accueille chaque année plus d'un million de manchots de Magellan (septembre-mars) — la plus grande colonie continentale au monde.",
+      "en": "Punta Tombo in Argentine Patagonia hosts over one million Magellanic penguins each year (September-March) — the largest continental colony on Earth."
+    },
+    "tags": [
+      "Bird",
+      "Colony",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-condor-colca",
+    "category": "animal",
+    "name": {
+      "fr": "Condor des Andes",
+      "en": "Andean Condor"
+    },
+    "region": "Canyon de Colca, Arequipa",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -15.6167,
+      -71.9833
+    ],
+    "description": {
+      "fr": "Le Cruz del Cóndor, au canyon de Colca, est le site le plus fiable au monde pour observer le condor des Andes prendre son envol dans les ascendances matinales.",
+      "en": "Cruz del Cóndor at Colca Canyon is the world's most reliable spot to watch Andean condors ride the morning thermals."
+    },
+    "tags": [
+      "Bird",
+      "Raptor",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-pygargue-tete-blanche-alaska",
+    "category": "animal",
+    "name": {
+      "fr": "Pygargue à tête blanche",
+      "en": "Bald Eagle"
+    },
+    "region": "Chilkat Bald Eagle Preserve, Alaska",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      59.3,
+      -135.9
+    ],
+    "description": {
+      "fr": "Chaque automne, plus de 3 000 pygargues à tête blanche se rassemblent sur la Chilkat River pour se nourrir de la dernière remontée de saumons — la plus grande concentration au monde.",
+      "en": "Each fall, over 3,000 bald eagles gather on the Chilkat River to feed on the last salmon run — the world's largest concentration of the species."
+    },
+    "tags": [
+      "Bird",
+      "Raptor",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-quetzal-monteverde",
+    "category": "animal",
+    "name": {
+      "fr": "Quetzal resplendissant",
+      "en": "Resplendent Quetzal"
+    },
+    "region": "Forêt nuageuse de Monteverde",
+    "country": {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+    },
+    "countryCode": "CR",
+    "coordinates": [
+      10.3,
+      -84.8
+    ],
+    "description": {
+      "fr": "La forêt nuageuse de Monteverde est mondialement connue pour ses observations quasi garanties du quetzal, oiseau sacré des Mayas, en particulier pendant la saison de nidification (mars-juin).",
+      "en": "Monteverde cloud forest is world-famous for its near-guaranteed sightings of the quetzal, the sacred bird of the Mayas, particularly during the nesting season (March-June)."
+    },
+    "tags": [
+      "Bird",
+      "Tropical",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-toucan-amazonie",
+    "category": "animal",
+    "name": {
+      "fr": "Toucan toco",
+      "en": "Toco Toucan"
+    },
+    "region": "Amazonie, Manaus",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -3.119,
+      -60.0217
+    ],
+    "description": {
+      "fr": "Le toucan toco, avec son bec orange démesuré, est emblématique de l'Amazonie brésilienne. Il s'observe fréquemment le long du Rio Negro et dans les lodges de la région de Manaus.",
+      "en": "The toco toucan, with its oversized orange bill, is iconic of the Brazilian Amazon. It's frequently seen along the Rio Negro and around the lodges of Manaus."
+    },
+    "tags": [
+      "Bird",
+      "Tropical",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-ara-hyacinthe-pantanal",
+    "category": "animal",
+    "name": {
+      "fr": "Ara hyacinthe",
+      "en": "Hyacinth Macaw"
+    },
+    "region": "Pantanal, Mato Grosso",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -17.5,
+      -56.5
+    ],
+    "description": {
+      "fr": "Le Pantanal abrite la plus grande population sauvage d'aras hyacinthes, plus grand perroquet du monde. Ces géants bleus se rassemblent autour des palmiers acuri.",
+      "en": "The Pantanal holds the largest wild population of hyacinth macaws, the world's largest parrot. These blue giants gather around acuri palms."
+    },
+    "tags": [
+      "Bird",
+      "Endemic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-calao-borneo",
+    "category": "animal",
+    "name": {
+      "fr": "Calao rhinocéros",
+      "en": "Rhinoceros Hornbill"
+    },
+    "region": "Parc national de Danum Valley, Sabah",
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
+    "countryCode": "MY",
+    "coordinates": [
+      4.9667,
+      117.7833
+    ],
+    "description": {
+      "fr": "La forêt vierge de Danum Valley est le meilleur endroit de Bornéo pour observer les huit espèces de calaos, dont l'emblématique calao rhinocéros aux couleurs éclatantes.",
+      "en": "The pristine Danum Valley rainforest is Borneo's top spot for seeing all eight hornbill species, including the iconic and vividly colored rhinoceros hornbill."
+    },
+    "tags": [
+      "Bird",
+      "Tropical",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-oiseau-paradis-papouasie",
+    "category": "animal",
+    "name": {
+      "fr": "Oiseau de paradis",
+      "en": "Bird of Paradise"
+    },
+    "region": "Péninsule de Huon, Papouasie",
+    "country": {
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "en": "Papua New Guinea"
+    },
+    "countryCode": "PG",
+    "coordinates": [
+      -6.6667,
+      147.0
+    ],
+    "description": {
+      "fr": "Les forêts d'altitude de la péninsule de Huon abritent plusieurs espèces d'oiseaux de paradis célèbres pour leurs parades nuptiales spectaculaires, connues via les documentaires de David Attenborough.",
+      "en": "The highland forests of the Huon Peninsula shelter several bird-of-paradise species famed for their spectacular courtship displays, popularized by David Attenborough documentaries."
+    },
+    "tags": [
+      "Bird",
+      "Endemic",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-flamant-rose-natron",
+    "category": "animal",
+    "name": {
+      "fr": "Flamant nain",
+      "en": "Lesser Flamingo"
+    },
+    "region": "Lac Natron, Tanzanie",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -2.4167,
+      36.0
+    ],
+    "description": {
+      "fr": "Le lac Natron, extrêmement alcalin, est le principal site de reproduction du flamant nain au monde : jusqu'à 2,5 millions d'individus s'y rassemblent chaque année.",
+      "en": "Highly alkaline Lake Natron is the world's main breeding site for lesser flamingos: up to 2.5 million individuals gather here each year."
+    },
+    "tags": [
+      "Bird",
+      "Colony",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-pelican-danube",
+    "category": "animal",
+    "name": {
+      "fr": "Pélican frisé",
+      "en": "Dalmatian Pelican"
+    },
+    "region": "Delta du Danube, Roumanie",
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania"
+    },
+    "countryCode": "RO",
+    "coordinates": [
+      45.0,
+      29.2
+    ],
+    "description": {
+      "fr": "Le delta du Danube abrite la plus grande colonie européenne de pélicans frisés et blancs. Réserve UNESCO, il est traversé par plus de 320 espèces d'oiseaux migrateurs.",
+      "en": "The Danube Delta holds Europe's largest colony of Dalmatian and white pelicans. A UNESCO reserve, it's crossed by over 320 migratory bird species."
+    },
+    "tags": [
+      "Bird",
+      "Wetland",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-kangourou-kangaroo-island",
+    "category": "animal",
+    "name": {
+      "fr": "Kangourou gris de l'Ouest",
+      "en": "Western Grey Kangaroo"
+    },
+    "region": "Kangaroo Island, Australie-Méridionale",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -35.7789,
+      137.2144
+    ],
+    "description": {
+      "fr": "Kangaroo Island est le sanctuaire ultime pour observer kangourous, wallabies et koalas sans grands prédateurs. Une sous-espèce endémique de kangourou gris y est présente.",
+      "en": "Kangaroo Island is the ultimate sanctuary to see kangaroos, wallabies and koalas free from major predators. An endemic western grey kangaroo subspecies lives here."
+    },
+    "tags": [
+      "Marsupial",
+      "Endemic",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-koala-grande-chaine",
+    "category": "animal",
+    "name": {
+      "fr": "Koala",
+      "en": "Koala"
+    },
+    "region": "Grande Chaîne de Séparation, Nouvelle-Galles du Sud",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -31.95,
+      152.2
+    ],
+    "description": {
+      "fr": "Les forêts d'eucalyptus de la Grande Chaîne de Séparation, notamment à Port Macquarie, abritent des populations sauvages de koalas. Un hôpital dédié soigne les blessés des feux de brousse.",
+      "en": "The eucalyptus forests of the Great Dividing Range, especially around Port Macquarie, shelter wild koala populations. A dedicated hospital treats bushfire victims."
+    },
+    "tags": [
+      "Marsupial",
+      "Iconic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-diable-tasmanie",
+    "category": "animal",
+    "name": {
+      "fr": "Diable de Tasmanie",
+      "en": "Tasmanian Devil"
+    },
+    "region": "Parc national de Cradle Mountain, Tasmanie",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -41.6833,
+      145.95
+    ],
+    "description": {
+      "fr": "La Tasmanie est le seul endroit au monde où observer le diable de Tasmanie, plus grand marsupial carnivore, menacé par une tumeur faciale contagieuse.",
+      "en": "Tasmania is the only place on Earth to observe the Tasmanian devil, the largest carnivorous marsupial, threatened by a contagious facial tumor disease."
+    },
+    "tags": [
+      "Marsupial",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-kiwi-fiordland",
+    "category": "animal",
+    "name": {
+      "fr": "Kiwi austral",
+      "en": "Southern Brown Kiwi"
+    },
+    "region": "Fiordland, île du Sud",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -45.4167,
+      167.7167
+    ],
+    "description": {
+      "fr": "Le Fiordland est l'un des derniers refuges du kiwi austral. Les sanctuaires prédateur-libre comme l'île Stewart offrent les meilleures chances d'observation nocturne.",
+      "en": "Fiordland is one of the last refuges of the southern brown kiwi. Predator-free sanctuaries like Stewart Island offer the best chance for nocturnal sightings."
+    },
+    "tags": [
+      "Bird",
+      "Endemic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-ornithorynque-eungella",
+    "category": "animal",
+    "name": {
+      "fr": "Ornithorynque",
+      "en": "Platypus"
+    },
+    "region": "Parc national d'Eungella, Queensland",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -21.1667,
+      148.4833
+    ],
+    "description": {
+      "fr": "Le parc d'Eungella est mondialement reconnu comme le site le plus fiable pour observer l'ornithorynque à l'état sauvage, notamment depuis les plateformes de Broken River.",
+      "en": "Eungella National Park is globally recognized as the most reliable site to see wild platypus, especially from the Broken River viewing platforms."
+    },
+    "tags": [
+      "Monotreme",
+      "Endemic",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-tarsier-sulawesi",
+    "category": "animal",
+    "name": {
+      "fr": "Tarsier spectre",
+      "en": "Spectral Tarsier"
+    },
+    "region": "Réserve de Tangkoko, Sulawesi",
+    "country": {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      1.5333,
+      125.1833
+    ],
+    "description": {
+      "fr": "Tangkoko, au nord de Sulawesi, est réputée pour ses observations quasi garanties du tarsier spectre, minuscule primate nocturne aux yeux immenses.",
+      "en": "Tangkoko in northern Sulawesi is famed for near-guaranteed sightings of the spectral tarsier, a tiny nocturnal primate with enormous eyes."
+    },
+    "tags": [
+      "Primate",
+      "Endemic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-pangolin-kalahari",
+    "category": "animal",
+    "name": {
+      "fr": "Pangolin de Temminck",
+      "en": "Ground Pangolin"
+    },
+    "region": "Réserve de Tswalu, Kalahari",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -27.3167,
+      22.4333
+    ],
+    "description": {
+      "fr": "Tswalu, au cœur du Kalahari, est devenue LA référence mondiale pour observer le pangolin, mammifère le plus braconné de la planète, grâce à des programmes de suivi télémétrique.",
+      "en": "Tswalu in the Kalahari has become THE global reference for pangolin sightings, the world's most trafficked mammal, thanks to telemetry-based tracking programs."
+    },
+    "tags": [
+      "Mammal",
+      "Critically endangered",
+      "Nocturnal"
+    ]
+  },
+  {
+    "id": "an-okapi-ituri",
+    "category": "animal",
+    "name": {
+      "fr": "Okapi",
+      "en": "Okapi"
+    },
+    "region": "Réserve de faune à okapis, Ituri",
+    "country": {
+      "fr": "République démocratique du Congo",
+      "en": "Democratic Republic of Congo"
+    },
+    "countryCode": "CD",
+    "coordinates": [
+      1.4833,
+      28.5667
+    ],
+    "description": {
+      "fr": "L'okapi, cousin de la girafe endémique de la forêt de l'Ituri, ne subsiste que dans les forêts denses du nord-est de la RDC. La réserve est classée à l'UNESCO.",
+      "en": "The okapi, a giraffe relative endemic to the Ituri forest, only survives in the dense forests of northeastern DRC. The reserve is UNESCO-listed."
+    },
+    "tags": [
+      "Mammal",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-fossa-madagascar",
+    "category": "animal",
+    "name": {
+      "fr": "Fossa",
+      "en": "Fossa"
+    },
+    "region": "Parc national de Kirindy",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -20.0667,
+      44.6667
+    ],
+    "description": {
+      "fr": "Kirindy, forêt sèche de l'ouest de Madagascar, est le site le plus fiable pour observer le fossa, plus grand carnivore de l'île, principal prédateur des lémuriens.",
+      "en": "Kirindy, a dry forest of western Madagascar, is the most reliable site to see the fossa, the island's largest carnivore and the main lemur predator."
+    },
+    "tags": [
+      "Mammal",
+      "Endemic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-caiman-pantanal",
+    "category": "animal",
+    "name": {
+      "fr": "Caïman yacare",
+      "en": "Yacare Caiman"
+    },
+    "region": "Pantanal, Mato Grosso do Sul",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -18.0,
+      -56.0
+    ],
+    "description": {
+      "fr": "Le Pantanal héberge la plus grande population de caïmans yacare au monde, estimée à plus de 10 millions d'individus. Ils sont visibles partout, notamment en saison sèche.",
+      "en": "The Pantanal hosts the world's largest yacare caiman population, estimated at over 10 million individuals. They are visible everywhere, especially in the dry season."
+    },
+    "tags": [
+      "Reptile",
+      "Wetland",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-piranha-amazonie",
+    "category": "animal",
+    "name": {
+      "fr": "Piranha à ventre rouge",
+      "en": "Red-bellied Piranha"
+    },
+    "region": "Bassin de l'Amazone",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -3.4653,
+      -62.2159
+    ],
+    "description": {
+      "fr": "Le bassin amazonien concentre la plus grande diversité de piranhas au monde. Le piranha à ventre rouge s'observe facilement à la pêche dans les affluents du Rio Negro et de la Madeira.",
+      "en": "The Amazon basin holds the world's greatest piranha diversity. Red-bellied piranhas are easily caught in tributaries of the Rio Negro and Madeira."
+    },
+    "tags": [
+      "Fish",
+      "Freshwater",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-monarque-michoacan",
+    "category": "animal",
+    "name": {
+      "fr": "Papillon monarque",
+      "en": "Monarch Butterfly"
+    },
+    "region": "Réserve de la biosphère de la Mariposa Monarca, Michoacán",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      19.5906,
+      -100.29
+    ],
+    "description": {
+      "fr": "Chaque hiver, des centaines de millions de papillons monarques se rassemblent dans les forêts d'oyamel du Michoacán, après un voyage de 4 000 km depuis le Canada — l'une des plus grandes migrations d'insectes au monde.",
+      "en": "Each winter, hundreds of millions of monarch butterflies gather in the oyamel forests of Michoacán after a 4,000 km journey from Canada — one of the world's greatest insect migrations."
+    },
+    "tags": [
+      "Insect",
+      "Migration",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "an-loup-yellowstone",
+    "category": "animal",
+    "name": {
+      "fr": "Loup gris",
+      "en": "Gray Wolf"
+    },
+    "region": "Parc national de Yellowstone, Wyoming",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      44.428,
+      -110.5885
+    ],
+    "description": {
+      "fr": "Depuis leur réintroduction en 1995, les loups de Yellowstone forment la population la plus étudiée au monde. La vallée de Lamar est le meilleur endroit pour les observer à l'aube ou au crépuscule.",
+      "en": "Since their 1995 reintroduction, Yellowstone's wolves have become the world's most studied population. Lamar Valley is the best place to spot them at dawn or dusk."
+    },
+    "tags": [
+      "Mammal",
+      "Predator",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-bison-yellowstone",
+    "category": "animal",
+    "name": {
+      "fr": "Bison d'Amérique",
+      "en": "American Bison"
+    },
+    "region": "Parc national de Yellowstone",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      44.6,
+      -110.5
+    ],
+    "description": {
+      "fr": "Yellowstone abrite le dernier troupeau de bisons génétiquement pur d'Amérique en libre roaming, environ 5 000 têtes. Ils s'observent facilement dans la vallée de Hayden.",
+      "en": "Yellowstone holds North America's last free-roaming genetically pure bison herd, around 5,000 animals. They are easily seen in Hayden Valley."
+    },
+    "tags": [
+      "Mammal",
+      "Herd",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-raie-manta-maldives",
+    "category": "animal",
+    "name": {
+      "fr": "Raie manta",
+      "en": "Manta Ray"
+    },
+    "region": "Atoll de Baa, Hanifaru Bay",
+    "country": {
+      "fr": "Maldives",
+      "en": "Maldives"
+    },
+    "countryCode": "MV",
+    "coordinates": [
+      5.1667,
+      73.1667
+    ],
+    "description": {
+      "fr": "Hanifaru Bay est le seul lieu au monde où l'on peut voir plus de 200 raies mantas se rassembler pour se nourrir de plancton, particulièrement d'août à novembre.",
+      "en": "Hanifaru Bay is the only place on Earth where over 200 manta rays gather to feed on plankton, particularly from August to November."
+    },
+    "tags": [
+      "Fish",
+      "Aggregation",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-requin-tigre-tiger-beach",
+    "category": "animal",
+    "name": {
+      "fr": "Requin-tigre",
+      "en": "Tiger Shark"
+    },
+    "region": "Tiger Beach, Bahamas",
+    "country": {
+      "fr": "Bahamas",
+      "en": "Bahamas"
+    },
+    "countryCode": "BS",
+    "coordinates": [
+      26.9167,
+      -79.0
+    ],
+    "description": {
+      "fr": "Tiger Beach, au large des Bahamas, est mondialement connu pour la plongée avec les requins-tigres. Les femelles matures y sont observables toute l'année en eau peu profonde.",
+      "en": "Tiger Beach off the Bahamas is world-renowned for tiger shark diving. Mature females can be observed year-round in shallow waters."
+    },
+    "tags": [
+      "Fish",
+      "Apex predator",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-puma-torres-del-paine",
+    "category": "animal",
+    "name": {
+      "fr": "Puma",
+      "en": "Puma"
+    },
+    "region": "Parc national Torres del Paine, Patagonie",
+    "country": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "countryCode": "CL",
+    "coordinates": [
+      -50.9423,
+      -72.9944
+    ],
+    "description": {
+      "fr": "Torres del Paine est devenu le meilleur endroit au monde pour observer et photographier le puma sauvage grâce à ses vastes plaines ouvertes et sa forte densité de guanacos, ses proies principales.",
+      "en": "Torres del Paine has become the world's top spot to see and photograph wild pumas thanks to its wide open plains and high density of guanacos, their main prey."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-jaguar-pantanal",
+    "category": "animal",
+    "name": {
+      "fr": "Jaguar",
+      "en": "Jaguar"
+    },
+    "region": "Porto Jofre, Pantanal",
+    "country": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -17.3667,
+      -56.7667
+    ],
+    "description": {
+      "fr": "Les berges du Rio Cuiabá, autour de Porto Jofre, offrent les meilleures observations de jaguars sauvages au monde, souvent en train de chasser le caïman ou le capybara depuis les rives.",
+      "en": "The banks of the Cuiabá River around Porto Jofre deliver the world's best wild jaguar sightings, often hunting caimans or capybaras from the water's edge."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-loutre-geante-manu",
+    "category": "animal",
+    "name": {
+      "fr": "Loutre géante",
+      "en": "Giant Otter"
+    },
+    "region": "Parc national de Manú, Amazonie péruvienne",
+    "country": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -12.6667,
+      -69.0833
+    ],
+    "description": {
+      "fr": "Le parc national de Manú et le lac Sandoval abritent des groupes familiaux de loutres géantes, prédateur endémique d'Amazonie pouvant atteindre 1,80 m de long.",
+      "en": "Manú National Park and Lake Sandoval host family groups of giant otters, an Amazon-endemic predator reaching up to 1.8 meters long."
+    },
+    "tags": [
+      "Mammal",
+      "Freshwater",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-capybara-ibera",
+    "category": "animal",
+    "name": {
+      "fr": "Capybara",
+      "en": "Capybara"
+    },
+    "region": "Esteros del Iberá, Corrientes",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -28.5,
+      -57.1667
+    ],
+    "description": {
+      "fr": "Les marécages de l'Iberá abritent d'importantes populations de capybaras, plus gros rongeurs du monde, aux côtés des caïmans, cerfs des marais et anacondas.",
+      "en": "The Iberá wetlands host large capybara populations, the world's largest rodent, alongside caimans, marsh deer and anacondas."
+    },
+    "tags": [
+      "Mammal",
+      "Wetland",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-wapiti-jasper",
+    "category": "animal",
+    "name": {
+      "fr": "Wapiti",
+      "en": "Elk"
+    },
+    "region": "Parc national de Jasper, Alberta",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      52.8737,
+      -118.0814
+    ],
+    "description": {
+      "fr": "Le parc national de Jasper offre l'une des meilleures observations de wapitis en Amérique du Nord, particulièrement pendant le brame automnal en septembre-octobre.",
+      "en": "Jasper National Park delivers some of North America's best elk viewing, particularly during the fall rut in September-October."
+    },
+    "tags": [
+      "Mammal",
+      "Herd",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-orignal-denali",
+    "category": "animal",
+    "name": {
+      "fr": "Orignal",
+      "en": "Moose"
+    },
+    "region": "Parc national de Denali, Alaska",
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      63.1148,
+      -151.1926
+    ],
+    "description": {
+      "fr": "Denali héberge les plus grands orignaux du monde. Les mâles arborant leurs immenses bois s'observent en été dans les zones marécageuses de la toundra alpine.",
+      "en": "Denali hosts the world's largest moose. Bulls with massive antlers can be seen in summer in the marshy areas of the alpine tundra."
+    },
+    "tags": [
+      "Mammal",
+      "Boreal",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-lynx-carpathes",
+    "category": "animal",
+    "name": {
+      "fr": "Lynx boréal",
+      "en": "Eurasian Lynx"
+    },
+    "region": "Carpates roumaines",
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania"
+    },
+    "countryCode": "RO",
+    "coordinates": [
+      45.5833,
+      25.55
+    ],
+    "description": {
+      "fr": "Les Carpates roumaines abritent la plus grande population de lynx boréaux d'Europe (environ 2 000 individus), avec des affûts photos réputés dans les forêts anciennes.",
+      "en": "The Romanian Carpathians host Europe's largest Eurasian lynx population (around 2,000 individuals), with renowned photo hides in the ancient forests."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-loup-iberique",
+    "category": "animal",
+    "name": {
+      "fr": "Loup ibérique",
+      "en": "Iberian Wolf"
+    },
+    "region": "Sierra de la Culebra, Zamora",
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "countryCode": "ES",
+    "coordinates": [
+      41.9333,
+      -6.2833
+    ],
+    "description": {
+      "fr": "La Sierra de la Culebra abrite la plus grande densité de loups ibériques d'Europe occidentale. C'est le meilleur endroit du continent pour tenter d'observer le loup sauvage.",
+      "en": "The Sierra de la Culebra hosts Western Europe's highest Iberian wolf density. It's the continent's best spot to try seeing wild wolves."
+    },
+    "tags": [
+      "Mammal",
+      "Predator",
+      "Near threatened"
+    ]
+  },
+  {
+    "id": "an-hyene-tachetee-ngorongoro",
+    "category": "animal",
+    "name": {
+      "fr": "Hyène tachetée",
+      "en": "Spotted Hyena"
+    },
+    "region": "Cratère du Ngorongoro, Tanzanie",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -3.1667,
+      35.5833
+    ],
+    "description": {
+      "fr": "Le cratère du Ngorongoro héberge la plus forte densité de hyènes tachetées au monde, avec des clans très étudiés compétant avec les lions pour les proies.",
+      "en": "The Ngorongoro Crater holds the world's highest spotted hyena density, with well-studied clans competing with lions for prey."
+    },
+    "tags": [
+      "Mammal",
+      "Predator",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-lycaon-okavango",
+    "category": "animal",
+    "name": {
+      "fr": "Lycaon",
+      "en": "African Wild Dog"
+    },
+    "region": "Delta de l'Okavango, Botswana",
+    "country": {
+      "fr": "Botswana",
+      "en": "Botswana"
+    },
+    "countryCode": "BW",
+    "coordinates": [
+      -19.2833,
+      22.95
+    ],
+    "description": {
+      "fr": "Le delta de l'Okavango est le meilleur endroit au monde pour observer le lycaon, prédateur en danger dont il ne reste que 6 000 individus, avec un taux de réussite de chasse exceptionnel.",
+      "en": "The Okavango Delta is the world's best place to see African wild dogs, an endangered predator numbering just 6,000 individuals, with an exceptional hunting success rate."
+    },
+    "tags": [
+      "Mammal",
+      "Predator",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-leopard-sri-lanka",
+    "category": "animal",
+    "name": {
+      "fr": "Léopard du Sri Lanka",
+      "en": "Sri Lankan Leopard"
+    },
+    "region": "Parc national de Yala",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      6.3725,
+      81.5185
+    ],
+    "description": {
+      "fr": "Le parc de Yala détient la plus forte densité de léopards au monde. Cette sous-espèce endémique, sans compétition d'autres grands félins, s'observe souvent en plein jour.",
+      "en": "Yala National Park holds the world's highest leopard density. This endemic subspecies, free from competition with other big cats, is often seen in broad daylight."
+    },
+    "tags": [
+      "Mammal",
+      "Big cat",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-renard-arctique-svalbard",
+    "category": "animal",
+    "name": {
+      "fr": "Renard polaire",
+      "en": "Arctic Fox"
+    },
+    "region": "Archipel du Svalbard",
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "countryCode": "NO",
+    "coordinates": [
+      78.5,
+      16.0
+    ],
+    "description": {
+      "fr": "Le renard polaire est présent partout au Svalbard, où son pelage blanc immaculé en hiver le rend emblématique de l'Arctique norvégien.",
+      "en": "The Arctic fox is found everywhere in Svalbard, where its pure white winter coat makes it iconic of the Norwegian Arctic."
+    },
+    "tags": [
+      "Mammal",
+      "Arctic",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-otarie-fourrure-cap",
+    "category": "animal",
+    "name": {
+      "fr": "Otarie à fourrure du Cap",
+      "en": "Cape Fur Seal"
+    },
+    "region": "Cape Cross, Namibie",
+    "country": {
+      "fr": "Namibie",
+      "en": "Namibia"
+    },
+    "countryCode": "NA",
+    "coordinates": [
+      -21.7714,
+      13.9578
+    ],
+    "description": {
+      "fr": "Cape Cross abrite l'une des plus grandes colonies d'otaries à fourrure du Cap au monde : jusqu'à 210 000 individus rassemblés sur la Skeleton Coast.",
+      "en": "Cape Cross hosts one of the world's largest Cape fur seal colonies: up to 210,000 individuals gathered on the Skeleton Coast."
+    },
+    "tags": [
+      "Marine mammal",
+      "Colony",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-phoque-leopard-antarctique",
+    "category": "animal",
+    "name": {
+      "fr": "Léopard de mer",
+      "en": "Leopard Seal"
+    },
+    "region": "Péninsule Antarctique",
+    "country": {
+      "fr": "Antarctique",
+      "en": "Antarctica"
+    },
+    "countryCode": "AQ",
+    "coordinates": [
+      -64.0,
+      -62.0
+    ],
+    "description": {
+      "fr": "Le léopard de mer, principal prédateur des manchots en Antarctique, s'observe idéalement depuis les zodiacs le long de la péninsule Antarctique en été austral.",
+      "en": "The leopard seal, the main penguin predator in Antarctica, is best observed from zodiacs along the Antarctic Peninsula during the austral summer."
+    },
+    "tags": [
+      "Marine mammal",
+      "Antarctic",
+      "Predator"
+    ]
+  },
+  {
+    "id": "an-manchot-galapagos",
+    "category": "animal",
+    "name": {
+      "fr": "Manchot des Galápagos",
+      "en": "Galápagos Penguin"
+    },
+    "region": "Îles Fernandina & Isabela, Galápagos",
+    "country": {
+      "fr": "Équateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -0.45,
+      -91.4
+    ],
+    "description": {
+      "fr": "Le manchot des Galápagos est le seul manchot vivant au niveau de l'équateur, avec seulement 2 000 individus. Fernandina et Isabela sont ses derniers bastions.",
+      "en": "The Galápagos penguin is the only penguin living at the equator, with only 2,000 individuals. Fernandina and Isabela are its last strongholds."
+    },
+    "tags": [
+      "Bird",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-albatros-hurleur-georgie",
+    "category": "animal",
+    "name": {
+      "fr": "Albatros hurleur",
+      "en": "Wandering Albatross"
+    },
+    "region": "Prion Island, Géorgie du Sud",
+    "country": {
+      "fr": "Géorgie du Sud",
+      "en": "South Georgia"
+    },
+    "countryCode": "GS",
+    "coordinates": [
+      -54.0167,
+      -37.2333
+    ],
+    "description": {
+      "fr": "L'albatros hurleur, plus grande envergure d'oiseau au monde (3,5 m), niche à Prion Island. Les colonies s'observent lors des expéditions vers la Géorgie du Sud.",
+      "en": "The wandering albatross, the world's largest bird by wingspan (3.5 m), nests on Prion Island. Colonies can be seen during South Georgia expeditions."
+    },
+    "tags": [
+      "Bird",
+      "Sub-antarctic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-macareux-islande",
+    "category": "animal",
+    "name": {
+      "fr": "Macareux moine",
+      "en": "Atlantic Puffin"
+    },
+    "region": "Île de Grímsey, Islande",
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland"
+    },
+    "countryCode": "IS",
+    "coordinates": [
+      66.5333,
+      -18.0167
+    ],
+    "description": {
+      "fr": "L'Islande abrite plus de 60 % de la population mondiale de macareux moines. Les falaises de Látrabjarg et Grímsey en accueillent d'immenses colonies (mai-août).",
+      "en": "Iceland is home to over 60% of the world's Atlantic puffins. The Látrabjarg and Grímsey cliffs host vast colonies (May-August)."
+    },
+    "tags": [
+      "Bird",
+      "Colony",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-harpie-feroce-darien",
+    "category": "animal",
+    "name": {
+      "fr": "Harpie féroce",
+      "en": "Harpy Eagle"
+    },
+    "region": "Parc national du Darién",
+    "country": {
+      "fr": "Panama",
+      "en": "Panama"
+    },
+    "countryCode": "PA",
+    "coordinates": [
+      7.85,
+      -77.75
+    ],
+    "description": {
+      "fr": "La harpie féroce, plus puissant aigle du monde, subsiste dans les forêts primaires du Darién. Les affûts près des nids offrent des observations exceptionnelles.",
+      "en": "The harpy eagle, the world's most powerful eagle, still survives in the primary forests of the Darién. Nest hides deliver exceptional sightings."
+    },
+    "tags": [
+      "Bird",
+      "Raptor",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-kea-fiordland",
+    "category": "animal",
+    "name": {
+      "fr": "Kéa",
+      "en": "Kea"
+    },
+    "region": "Col d'Arthur, île du Sud",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -42.95,
+      171.5667
+    ],
+    "description": {
+      "fr": "Le kéa, unique perroquet alpin au monde, est endémique de l'île du Sud. On le rencontre souvent aux cols alpins, notamment à Arthur's Pass, où il est réputé pour sa curiosité.",
+      "en": "The kea, the world's only alpine parrot, is endemic to New Zealand's South Island. It's often seen at alpine passes like Arthur's Pass, famed for its curiosity."
+    },
+    "tags": [
+      "Bird",
+      "Endemic",
+      "Endangered"
+    ]
+  },
+  {
+    "id": "an-kakapo-codfish",
+    "category": "animal",
+    "name": {
+      "fr": "Kakapo",
+      "en": "Kakapo"
+    },
+    "region": "Île Whenua Hou (Codfish Island)",
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -46.7667,
+      167.6333
+    ],
+    "description": {
+      "fr": "Le kakapo, seul perroquet nocturne et incapable de voler au monde, ne compte que 250 individus, tous sur des îles sanctuaires prédateur-libres comme Codfish Island.",
+      "en": "The kakapo, the world's only nocturnal and flightless parrot, numbers just 250 individuals, all on predator-free island sanctuaries like Codfish Island."
+    },
+    "tags": [
+      "Bird",
+      "Endemic",
+      "Critically endangered"
+    ]
+  },
+  {
+    "id": "an-elephant-de-mer-valdes",
+    "category": "animal",
+    "name": {
+      "fr": "Éléphant de mer austral",
+      "en": "Southern Elephant Seal"
+    },
+    "region": "Péninsule Valdés, Patagonie",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -42.5,
+      -63.75
+    ],
+    "description": {
+      "fr": "La péninsule Valdés est la seule zone continentale au monde où se reproduit l'éléphant de mer austral. Les mâles se battent violemment sur les plages en septembre-octobre.",
+      "en": "Península Valdés is the world's only continental breeding site for southern elephant seals. Males fight violently on the beaches in September-October."
+    },
+    "tags": [
+      "Marine mammal",
+      "Colony",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-baleine-franche-valdes",
+    "category": "animal",
+    "name": {
+      "fr": "Baleine franche australe",
+      "en": "Southern Right Whale"
+    },
+    "region": "Puerto Pirámides, Péninsule Valdés",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -42.5744,
+      -64.2872
+    ],
+    "description": {
+      "fr": "La Péninsule Valdés est le premier site de reproduction mondial de la baleine franche australe. De juin à décembre, mères et baleineaux se rassemblent dans le golfe Nuevo.",
+      "en": "Península Valdés is the world's leading breeding site for the southern right whale. From June to December, mothers and calves gather in the Golfo Nuevo."
+    },
+    "tags": [
+      "Marine mammal",
+      "Breeding",
+      "Least concern"
+    ]
+  },
+  {
+    "id": "an-iguane-terrestre-galapagos",
+    "category": "animal",
+    "name": {
+      "fr": "Iguane terrestre des Galápagos",
+      "en": "Galápagos Land Iguana"
+    },
+    "region": "Île Santa Fe, Galápagos",
+    "country": {
+      "fr": "Équateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -0.8,
+      -90.05
+    ],
+    "description": {
+      "fr": "L'iguane terrestre jaune, endémique des Galápagos, s'observe principalement sur les îles Santa Fe, Isabela et Fernandina, où il se nourrit de cactus.",
+      "en": "The yellow land iguana, endemic to the Galápagos, is mainly seen on Santa Fe, Isabela and Fernandina islands, where it feeds on cactus."
+    },
+    "tags": [
+      "Reptile",
+      "Endemic",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": "an-tortue-geante-galapagos",
+    "category": "animal",
+    "name": {
+      "fr": "Tortue géante des Galápagos",
+      "en": "Galápagos Giant Tortoise"
+    },
+    "region": "Volcan Alcedo, île Isabela",
+    "country": {
+      "fr": "Équateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -0.4333,
+      -91.1167
+    ],
+    "description": {
+      "fr": "Le volcan Alcedo, sur Isabela, abrite plus de 5 000 tortues géantes, la plus grande population sauvage au monde de cette espèce emblématique de Darwin.",
+      "en": "Volcán Alcedo on Isabela hosts over 5,000 giant tortoises, the largest wild population of this Darwin-iconic species."
+    },
+    "tags": [
+      "Reptile",
+      "Endemic",
+      "Vulnerable"
+    ]
+  }
+]

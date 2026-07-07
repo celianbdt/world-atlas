@@ -1,0 +1,1046 @@
+{
+  "AE": {
+    "name": { "fr": "Émirats arabes unis", "en": "United Arab Emirates" },
+    "currency": "AED (د.إ)",
+    "language": { "fr": "Arabe, anglais très répandu", "en": "Arabic, English widely spoken" },
+    "safety": { "fr": "Très sûr — criminalité très faible", "en": "Very safe — very low crime" },
+    "internet": { "fr": "Excellente — 5G et fibre partout", "en": "Excellent — ubiquitous 5G and fiber" },
+    "bestSeason": { "fr": "Novembre à mars (chaleur supportable)", "en": "November to March (bearable heat)" },
+    "plug": "G — 230V"
+  },
+  "AF": {
+    "name": { "fr": "Afghanistan", "en": "Afghanistan" },
+    "currency": "AFN (؋)",
+    "language": { "fr": "Dari, pachto", "en": "Dari, Pashto" },
+    "safety": { "fr": "Prudence recommandée — voyages touristiques déconseillés", "en": "Caution advised — tourist travel not recommended" },
+    "internet": { "fr": "Très limitée — 3G/4G lente et instable", "en": "Very limited — slow, unreliable 3G/4G" },
+    "bestSeason": { "fr": "Avril à juin, septembre à octobre", "en": "April to June, September to October" },
+    "plug": "C / F — 220V"
+  },
+  "AM": {
+    "name": { "fr": "Arménie", "en": "Armenia" },
+    "currency": "AMD (֏)",
+    "language": { "fr": "Arménien, russe courant", "en": "Armenian, Russian widely spoken" },
+    "safety": { "fr": "Globalement sûr — zones frontalières à éviter", "en": "Generally safe — border areas to avoid" },
+    "internet": { "fr": "Bonne — 4G solide, wifi courant à Erevan", "en": "Good — solid 4G, common wifi in Yerevan" },
+    "bestSeason": { "fr": "Mai à juin, septembre à octobre", "en": "May to June, September to October" },
+    "plug": "C / F — 230V"
+  },
+  "AQ": {
+    "name": { "fr": "Antarctique", "en": "Antarctica" },
+    "currency": "—",
+    "language": { "fr": "—", "en": "—" },
+    "safety": { "fr": "Expédition encadrée uniquement", "en": "Guided expeditions only" },
+    "internet": { "fr": "Quasi inexistante — satellite sur les bases", "en": "Nearly nonexistent — satellite at research bases" },
+    "bestSeason": { "fr": "Novembre à mars (été austral)", "en": "November to March (austral summer)" },
+    "plug": "—"
+  },
+  "AR": {
+    "name": { "fr": "Argentine", "en": "Argentina" },
+    "currency": "ARS ($)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Globalement sûr — prudence dans certains quartiers urbains", "en": "Generally safe — caution in some urban districts" },
+    "internet": { "fr": "Bonne — 4G solide en ville, wifi répandu", "en": "Good — solid urban 4G, widespread wifi" },
+    "bestSeason": { "fr": "Octobre à avril (été austral, selon les régions)", "en": "October to April (austral summer, region-dependent)" },
+    "plug": "C / I — 220V"
+  },
+  "AT": {
+    "name": { "fr": "Autriche", "en": "Austria" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Allemand", "en": "German" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — 4G/5G et fibre répandues", "en": "Excellent — widespread 4G/5G and fiber" },
+    "bestSeason": { "fr": "Mai à septembre (ou décembre à mars pour le ski)", "en": "May to September (or December to March for skiing)" },
+    "plug": "C / F — 230V"
+  },
+  "AU": {
+    "name": { "fr": "Australie", "en": "Australia" },
+    "currency": "AUD ($)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Très bonne en ville — couverture limitée dans l'outback", "en": "Very good in cities — limited coverage in the outback" },
+    "bestSeason": { "fr": "Septembre à novembre et mars à mai (selon les régions)", "en": "September to November and March to May (region-dependent)" },
+    "plug": "I — 230V"
+  },
+  "BA": {
+    "name": { "fr": "Bosnie-Herzégovine", "en": "Bosnia and Herzegovina" },
+    "currency": "BAM (KM)",
+    "language": { "fr": "Bosnien, croate, serbe", "en": "Bosnian, Croatian, Serbian" },
+    "safety": { "fr": "Globalement sûr — rester sur les sentiers balisés en zone rurale", "en": "Generally safe — stay on marked trails in rural areas" },
+    "internet": { "fr": "Correcte — 4G en ville, wifi courant", "en": "Decent — urban 4G, common wifi" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / F — 230V"
+  },
+  "BD": {
+    "name": { "fr": "Bangladesh", "en": "Bangladesh" },
+    "currency": "BDT (৳)",
+    "language": { "fr": "Bengali", "en": "Bengali" },
+    "safety": { "fr": "Prudence recommandée — circulation dense et zones à éviter", "en": "Caution advised — heavy traffic and areas to avoid" },
+    "internet": { "fr": "Correcte en ville — 4G variable ailleurs", "en": "Decent in cities — patchy 4G elsewhere" },
+    "bestSeason": { "fr": "Novembre à février (saison sèche)", "en": "November to February (dry season)" },
+    "plug": "A / C / D / G — 220V"
+  },
+  "BE": {
+    "name": { "fr": "Belgique", "en": "Belgium" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Français, néerlandais, allemand", "en": "French, Dutch, German" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — fibre et 4G/5G répandues", "en": "Excellent — widespread fiber and 4G/5G" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / E — 230V"
+  },
+  "BG": {
+    "name": { "fr": "Bulgarie", "en": "Bulgaria" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Bulgare", "en": "Bulgarian" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Très bonne — haut débit rapide et 4G solide", "en": "Very good — fast broadband and solid 4G" },
+    "bestSeason": { "fr": "Mai à septembre (ou hiver pour le ski)", "en": "May to September (or winter for skiing)" },
+    "plug": "C / F — 230V"
+  },
+  "BH": {
+    "name": { "fr": "Bahreïn", "en": "Bahrain" },
+    "currency": "BHD (.د.ب)",
+    "language": { "fr": "Arabe, anglais courant", "en": "Arabic, English widely spoken" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — 5G et fibre généralisées", "en": "Excellent — widespread 5G and fiber" },
+    "bestSeason": { "fr": "Novembre à mars", "en": "November to March" },
+    "plug": "G — 230V"
+  },
+  "BO": {
+    "name": { "fr": "Bolivie", "en": "Bolivia" },
+    "currency": "BOB (Bs)",
+    "language": { "fr": "Espagnol, quechua, aymara", "en": "Spanish, Quechua, Aymara" },
+    "safety": { "fr": "Globalement sûr — prudence en ville la nuit", "en": "Generally safe — caution in cities at night" },
+    "internet": { "fr": "Limitée — 4G en ville, faible en zone rurale", "en": "Limited — urban 4G, weak in rural areas" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "A / C — 230V"
+  },
+  "BR": {
+    "name": { "fr": "Brésil", "en": "Brazil" },
+    "currency": "BRL (R$)",
+    "language": { "fr": "Portugais", "en": "Portuguese" },
+    "safety": { "fr": "Prudence recommandée — vigilance dans les grandes villes", "en": "Caution advised — stay alert in major cities" },
+    "internet": { "fr": "Bonne — 4G/5G solides en ville", "en": "Good — solid 4G/5G in cities" },
+    "bestSeason": { "fr": "Septembre à mars (selon les régions)", "en": "September to March (region-dependent)" },
+    "plug": "C / N — 127/220V"
+  },
+  "BS": {
+    "name": { "fr": "Bahamas", "en": "Bahamas" },
+    "currency": "BSD ($)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Globalement sûr — prudence hors zones touristiques à Nassau", "en": "Generally safe — caution outside tourist areas in Nassau" },
+    "internet": { "fr": "Correcte — 4G et wifi dans les hôtels", "en": "Decent — 4G and hotel wifi" },
+    "bestSeason": { "fr": "Novembre à avril (hors saison des ouragans)", "en": "November to April (outside hurricane season)" },
+    "plug": "A / B — 120V"
+  },
+  "BT": {
+    "name": { "fr": "Bhoutan", "en": "Bhutan" },
+    "currency": "BTN (Nu.)",
+    "language": { "fr": "Dzongkha, anglais courant", "en": "Dzongkha, English widely spoken" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Correcte en ville — limitée en altitude", "en": "Decent in towns — limited at high altitude" },
+    "bestSeason": { "fr": "Mars à mai et septembre à novembre", "en": "March to May and September to November" },
+    "plug": "C / D / G — 230V"
+  },
+  "BW": {
+    "name": { "fr": "Botswana", "en": "Botswana" },
+    "currency": "BWP (P)",
+    "language": { "fr": "Anglais, tswana", "en": "English, Tswana" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Correcte en ville — quasi nulle dans les parcs", "en": "Decent in towns — nearly none in the parks" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche, safaris)", "en": "May to October (dry season, safaris)" },
+    "plug": "D / G / M — 230V"
+  },
+  "CA": {
+    "name": { "fr": "Canada", "en": "Canada" },
+    "currency": "CAD ($)",
+    "language": { "fr": "Anglais, français", "en": "English, French" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — fibre et 5G répandues en ville", "en": "Excellent — widespread fiber and 5G in cities" },
+    "bestSeason": { "fr": "Juin à septembre (ou hiver pour les sports de neige)", "en": "June to September (or winter for snow sports)" },
+    "plug": "A / B — 120V"
+  },
+  "CD": {
+    "name": { "fr": "République démocratique du Congo", "en": "Democratic Republic of the Congo" },
+    "currency": "CDF (FC)",
+    "language": { "fr": "Français, lingala, swahili", "en": "French, Lingala, Swahili" },
+    "safety": { "fr": "Prudence recommandée — est du pays à éviter", "en": "Caution advised — avoid the east of the country" },
+    "internet": { "fr": "Limitée — 3G/4G instable, wifi rare", "en": "Limited — unstable 3G/4G, scarce wifi" },
+    "bestSeason": { "fr": "Juin à septembre (saison sèche au sud)", "en": "June to September (southern dry season)" },
+    "plug": "C / D / E — 220V"
+  },
+  "CH": {
+    "name": { "fr": "Suisse", "en": "Switzerland" },
+    "currency": "CHF (Fr.)",
+    "language": { "fr": "Allemand, français, italien", "en": "German, French, Italian" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — fibre et 5G généralisées", "en": "Excellent — widespread fiber and 5G" },
+    "bestSeason": { "fr": "Juin à septembre (ou décembre à mars pour le ski)", "en": "June to September (or December to March for skiing)" },
+    "plug": "J — 230V"
+  },
+  "CL": {
+    "name": { "fr": "Chili", "en": "Chile" },
+    "currency": "CLP ($)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Globalement sûr — prudence à Santiago la nuit", "en": "Generally safe — caution in Santiago at night" },
+    "internet": { "fr": "Très bonne — 4G/5G solides, fibre en ville", "en": "Very good — solid 4G/5G, urban fiber" },
+    "bestSeason": { "fr": "Octobre à mars (été austral, selon les régions)", "en": "October to March (austral summer, region-dependent)" },
+    "plug": "C / L — 220V"
+  },
+  "CM": {
+    "name": { "fr": "Cameroun", "en": "Cameroon" },
+    "currency": "XAF (FCFA)",
+    "language": { "fr": "Français, anglais", "en": "French, English" },
+    "safety": { "fr": "Prudence recommandée — régions frontalières et anglophones à éviter", "en": "Caution advised — avoid border and anglophone regions" },
+    "internet": { "fr": "Limitée — 3G/4G variable, coupures fréquentes", "en": "Limited — patchy 3G/4G, frequent outages" },
+    "bestSeason": { "fr": "Novembre à février (saison sèche)", "en": "November to February (dry season)" },
+    "plug": "C / E — 220V"
+  },
+  "CN": {
+    "name": { "fr": "Chine", "en": "China" },
+    "currency": "CNY (¥)",
+    "language": { "fr": "Mandarin", "en": "Mandarin Chinese" },
+    "safety": { "fr": "Très sûr — criminalité très faible", "en": "Very safe — very low crime" },
+    "internet": { "fr": "Bonne 4G/5G mais fortement filtrée — VPN indispensable", "en": "Good 4G/5G but heavily filtered — VPN essential" },
+    "bestSeason": { "fr": "Avril à mai et septembre à octobre", "en": "April to May and September to October" },
+    "plug": "A / C / I — 220V"
+  },
+  "CO": {
+    "name": { "fr": "Colombie", "en": "Colombia" },
+    "currency": "COP ($)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Prudence recommandée — certaines zones rurales à éviter", "en": "Caution advised — some rural areas to avoid" },
+    "internet": { "fr": "Bonne — 4G solide en ville, wifi répandu", "en": "Good — solid urban 4G, widespread wifi" },
+    "bestSeason": { "fr": "Décembre à mars (saison sèche)", "en": "December to March (dry season)" },
+    "plug": "A / B — 110V"
+  },
+  "CR": {
+    "name": { "fr": "Costa Rica", "en": "Costa Rica" },
+    "currency": "CRC (₡)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Globalement sûr — vigilance contre les vols opportunistes", "en": "Generally safe — watch for petty theft" },
+    "internet": { "fr": "Bonne — 4G correcte, wifi courant dans les lodges", "en": "Good — decent 4G, common wifi in lodges" },
+    "bestSeason": { "fr": "Décembre à avril (saison sèche)", "en": "December to April (dry season)" },
+    "plug": "A / B — 120V"
+  },
+  "CU": {
+    "name": { "fr": "Cuba", "en": "Cuba" },
+    "currency": "CUP ($)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Limitée — wifi par cartes prépayées, débit lent", "en": "Limited — prepaid-card wifi, slow speeds" },
+    "bestSeason": { "fr": "Novembre à avril (saison sèche)", "en": "November to April (dry season)" },
+    "plug": "A / B / C / L — 110/220V"
+  },
+  "CY": {
+    "name": { "fr": "Chypre", "en": "Cyprus" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Grec, turc, anglais courant", "en": "Greek, Turkish, English widely spoken" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Bonne — 4G/5G solides, wifi répandu", "en": "Good — solid 4G/5G, widespread wifi" },
+    "bestSeason": { "fr": "Avril à juin et septembre à octobre", "en": "April to June and September to October" },
+    "plug": "G — 230V"
+  },
+  "DE": {
+    "name": { "fr": "Allemagne", "en": "Germany" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Allemand", "en": "German" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Très bonne — 4G/5G solides, fibre en progression", "en": "Very good — solid 4G/5G, fiber expanding" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / F — 230V"
+  },
+  "DJ": {
+    "name": { "fr": "Djibouti", "en": "Djibouti" },
+    "currency": "DJF (Fdj)",
+    "language": { "fr": "Français, arabe", "en": "French, Arabic" },
+    "safety": { "fr": "Globalement sûr — zones frontalières à éviter", "en": "Generally safe — border areas to avoid" },
+    "internet": { "fr": "Limitée — 4G en ville, débit modeste", "en": "Limited — urban 4G, modest speeds" },
+    "bestSeason": { "fr": "Novembre à mars (chaleur supportable)", "en": "November to March (bearable heat)" },
+    "plug": "C / E — 220V"
+  },
+  "DO": {
+    "name": { "fr": "République dominicaine", "en": "Dominican Republic" },
+    "currency": "DOP (RD$)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Globalement sûr — prudence hors zones touristiques", "en": "Generally safe — caution outside tourist areas" },
+    "internet": { "fr": "Bonne dans les zones touristiques — 4G correcte", "en": "Good in tourist areas — decent 4G" },
+    "bestSeason": { "fr": "Décembre à avril (saison sèche)", "en": "December to April (dry season)" },
+    "plug": "A / B — 110V"
+  },
+  "DZ": {
+    "name": { "fr": "Algérie", "en": "Algeria" },
+    "currency": "DZD (دج)",
+    "language": { "fr": "Arabe, tamazight, français courant", "en": "Arabic, Tamazight, French widely spoken" },
+    "safety": { "fr": "Globalement sûr — zones frontalières sahariennes à éviter", "en": "Generally safe — Saharan border areas to avoid" },
+    "internet": { "fr": "Moyenne — 4G en ville, débit inégal", "en": "Average — urban 4G, uneven speeds" },
+    "bestSeason": { "fr": "Mars à mai et septembre à novembre (octobre à avril au Sahara)", "en": "March to May and September to November (October to April in the Sahara)" },
+    "plug": "C / F — 230V"
+  },
+  "EC": {
+    "name": { "fr": "Équateur", "en": "Ecuador" },
+    "currency": "USD ($)",
+    "language": { "fr": "Espagnol, quechua", "en": "Spanish, Quechua" },
+    "safety": { "fr": "Prudence recommandée — criminalité en hausse dans certaines villes côtières", "en": "Caution advised — rising crime in some coastal cities" },
+    "internet": { "fr": "Correcte — 4G en ville, wifi courant", "en": "Decent — urban 4G, common wifi" },
+    "bestSeason": { "fr": "Juin à septembre (Andes), toute l'année aux Galápagos", "en": "June to September (Andes), year-round in the Galápagos" },
+    "plug": "A / B — 120V"
+  },
+  "EG": {
+    "name": { "fr": "Égypte", "en": "Egypt" },
+    "currency": "EGP (ج.م)",
+    "language": { "fr": "Arabe", "en": "Arabic" },
+    "safety": { "fr": "Globalement sûr dans les zones touristiques — nord du Sinaï à éviter", "en": "Generally safe in tourist areas — avoid North Sinai" },
+    "internet": { "fr": "Correcte — 4G en ville, wifi dans les hôtels", "en": "Decent — urban 4G, hotel wifi" },
+    "bestSeason": { "fr": "Octobre à avril", "en": "October to April" },
+    "plug": "C / F — 220V"
+  },
+  "ES": {
+    "name": { "fr": "Espagne", "en": "Spain" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Très sûr — attention aux pickpockets dans les zones touristiques", "en": "Very safe — watch for pickpockets in tourist areas" },
+    "internet": { "fr": "Excellente — fibre parmi les plus déployées d'Europe, 5G", "en": "Excellent — among Europe's best fiber coverage, 5G" },
+    "bestSeason": { "fr": "Mai à juin et septembre à octobre", "en": "May to June and September to October" },
+    "plug": "C / F — 230V"
+  },
+  "ET": {
+    "name": { "fr": "Éthiopie", "en": "Ethiopia" },
+    "currency": "ETB (Br)",
+    "language": { "fr": "Amharique", "en": "Amharic" },
+    "safety": { "fr": "Prudence recommandée — plusieurs régions à éviter", "en": "Caution advised — several regions to avoid" },
+    "internet": { "fr": "Limitée — 4G à Addis-Abeba, coupures possibles", "en": "Limited — 4G in Addis Ababa, possible outages" },
+    "bestSeason": { "fr": "Octobre à mars (saison sèche)", "en": "October to March (dry season)" },
+    "plug": "C / E / F — 220V"
+  },
+  "FI": {
+    "name": { "fr": "Finlande", "en": "Finland" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Finnois, suédois", "en": "Finnish, Swedish" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — 4G/5G même en zone rurale", "en": "Excellent — 4G/5G even in rural areas" },
+    "bestSeason": { "fr": "Juin à août (ou décembre à mars pour les aurores)", "en": "June to August (or December to March for auroras)" },
+    "plug": "C / F — 230V"
+  },
+  "FJ": {
+    "name": { "fr": "Fidji", "en": "Fiji" },
+    "currency": "FJD ($)",
+    "language": { "fr": "Anglais, fidjien", "en": "English, Fijian" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Correcte sur les îles principales — limitée ailleurs", "en": "Decent on main islands — limited elsewhere" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "I — 240V"
+  },
+  "FM": {
+    "name": { "fr": "Micronésie", "en": "Micronesia" },
+    "currency": "USD ($)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Limitée — débit lent, wifi rare hors hôtels", "en": "Limited — slow speeds, scarce wifi outside hotels" },
+    "bestSeason": { "fr": "Décembre à avril (saison la plus sèche)", "en": "December to April (driest season)" },
+    "plug": "A / B — 120V"
+  },
+  "FR": {
+    "name": { "fr": "France", "en": "France" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Français", "en": "French" },
+    "safety": { "fr": "Très sûr — attention aux pickpockets dans les grandes villes", "en": "Very safe — watch for pickpockets in big cities" },
+    "internet": { "fr": "Excellente — fibre et 5G répandues", "en": "Excellent — widespread fiber and 5G" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / E — 230V"
+  },
+  "GB": {
+    "name": { "fr": "Royaume-Uni", "en": "United Kingdom" },
+    "currency": "GBP (£)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Très bonne — fibre et 5G répandues", "en": "Very good — widespread fiber and 5G" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "G — 230V"
+  },
+  "GD": {
+    "name": { "fr": "Grenade", "en": "Grenada" },
+    "currency": "XCD ($)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Correcte — 4G et wifi dans les hôtels", "en": "Decent — 4G and hotel wifi" },
+    "bestSeason": { "fr": "Décembre à avril (hors saison des ouragans)", "en": "December to April (outside hurricane season)" },
+    "plug": "G — 230V"
+  },
+  "GE": {
+    "name": { "fr": "Géorgie", "en": "Georgia" },
+    "currency": "GEL (₾)",
+    "language": { "fr": "Géorgien", "en": "Georgian" },
+    "safety": { "fr": "Très sûr — régions séparatistes à éviter", "en": "Very safe — avoid the breakaway regions" },
+    "internet": { "fr": "Bonne — 4G solide, wifi très courant", "en": "Good — solid 4G, very common wifi" },
+    "bestSeason": { "fr": "Mai à octobre", "en": "May to October" },
+    "plug": "C / F — 220V"
+  },
+  "GL": {
+    "name": { "fr": "Groenland", "en": "Greenland" },
+    "currency": "DKK (kr)",
+    "language": { "fr": "Groenlandais, danois", "en": "Greenlandic, Danish" },
+    "safety": { "fr": "Très sûr — nature isolée, encadrement conseillé hors des villes", "en": "Very safe — remote wilderness, guides advised outside towns" },
+    "internet": { "fr": "Limitée hors des villes — satellite dans les zones isolées", "en": "Limited outside towns — satellite in remote areas" },
+    "bestSeason": { "fr": "Juin à août (ou février à avril pour les aurores)", "en": "June to August (or February to April for auroras)" },
+    "plug": "C / E / F / K — 230V"
+  },
+  "GR": {
+    "name": { "fr": "Grèce", "en": "Greece" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Grec", "en": "Greek" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Bonne — 4G/5G solides, fibre en progression", "en": "Good — solid 4G/5G, fiber expanding" },
+    "bestSeason": { "fr": "Mai à juin et septembre à octobre", "en": "May to June and September to October" },
+    "plug": "C / F — 230V"
+  },
+  "GS": {
+    "name": { "fr": "Géorgie du Sud", "en": "South Georgia" },
+    "currency": "GBP (£)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Expédition encadrée uniquement — territoire isolé sans population permanente", "en": "Guided expeditions only — remote territory with no permanent population" },
+    "internet": { "fr": "Quasi inexistante — satellite uniquement", "en": "Nearly nonexistent — satellite only" },
+    "bestSeason": { "fr": "Novembre à mars (été austral)", "en": "November to March (austral summer)" },
+    "plug": "—"
+  },
+  "GT": {
+    "name": { "fr": "Guatemala", "en": "Guatemala" },
+    "currency": "GTQ (Q)",
+    "language": { "fr": "Espagnol, langues mayas", "en": "Spanish, Mayan languages" },
+    "safety": { "fr": "Prudence recommandée — vigilance en ville et sur les routes la nuit", "en": "Caution advised — stay alert in cities and on roads at night" },
+    "internet": { "fr": "Correcte — 4G en ville, wifi dans les hébergements", "en": "Decent — urban 4G, wifi in accommodations" },
+    "bestSeason": { "fr": "Novembre à avril (saison sèche)", "en": "November to April (dry season)" },
+    "plug": "A / B — 120V"
+  },
+  "HR": {
+    "name": { "fr": "Croatie", "en": "Croatia" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Croate", "en": "Croatian" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Bonne — 4G/5G solides, wifi répandu", "en": "Good — solid 4G/5G, widespread wifi" },
+    "bestSeason": { "fr": "Mai à juin et septembre (éviter la foule de l'été)", "en": "May to June and September (avoiding peak-summer crowds)" },
+    "plug": "C / F — 230V"
+  },
+  "HU": {
+    "name": { "fr": "Hongrie", "en": "Hungary" },
+    "currency": "HUF (Ft)",
+    "language": { "fr": "Hongrois", "en": "Hungarian" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Très bonne — haut débit rapide, 4G/5G solides", "en": "Very good — fast broadband, solid 4G/5G" },
+    "bestSeason": { "fr": "Avril à juin et septembre à octobre", "en": "April to June and September to October" },
+    "plug": "C / F — 230V"
+  },
+  "ID": {
+    "name": { "fr": "Indonésie", "en": "Indonesia" },
+    "currency": "IDR (Rp)",
+    "language": { "fr": "Indonésien", "en": "Indonesian" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Correcte — 4G solide dans les zones touristiques", "en": "Decent — solid 4G in tourist areas" },
+    "bestSeason": { "fr": "Mai à septembre (saison sèche)", "en": "May to September (dry season)" },
+    "plug": "C / F — 230V"
+  },
+  "IL": {
+    "name": { "fr": "Israël", "en": "Israel" },
+    "currency": "ILS (₪)",
+    "language": { "fr": "Hébreu, arabe", "en": "Hebrew, Arabic" },
+    "safety": { "fr": "Prudence recommandée — situation régionale évolutive, suivre les consignes", "en": "Caution advised — evolving regional situation, follow advisories" },
+    "internet": { "fr": "Excellente — fibre et 5G répandues", "en": "Excellent — widespread fiber and 5G" },
+    "bestSeason": { "fr": "Mars à mai et septembre à novembre", "en": "March to May and September to November" },
+    "plug": "C / H — 230V"
+  },
+  "IN": {
+    "name": { "fr": "Inde", "en": "India" },
+    "currency": "INR (₹)",
+    "language": { "fr": "Hindi, anglais", "en": "Hindi, English" },
+    "safety": { "fr": "Globalement sûr — prudence recommandée dans certaines régions", "en": "Generally safe — caution advised in some regions" },
+    "internet": { "fr": "Très bonne — data mobile 4G/5G abondante et bon marché", "en": "Very good — abundant, cheap 4G/5G mobile data" },
+    "bestSeason": { "fr": "Octobre à mars (avant la mousson)", "en": "October to March (before the monsoon)" },
+    "plug": "C / D / M — 230V"
+  },
+  "IR": {
+    "name": { "fr": "Iran", "en": "Iran" },
+    "currency": "IRR (﷼)",
+    "language": { "fr": "Persan", "en": "Persian" },
+    "safety": { "fr": "Prudence recommandée — consulter les conseils aux voyageurs avant tout départ", "en": "Caution advised — check travel advisories before any trip" },
+    "internet": { "fr": "Correcte mais très filtrée — VPN nécessaire, coupures possibles", "en": "Decent but heavily filtered — VPN needed, possible outages" },
+    "bestSeason": { "fr": "Mars à mai et septembre à novembre", "en": "March to May and September to November" },
+    "plug": "C / F — 230V"
+  },
+  "IS": {
+    "name": { "fr": "Islande", "en": "Iceland" },
+    "currency": "ISK (kr)",
+    "language": { "fr": "Islandais, anglais courant", "en": "Icelandic, English widely spoken" },
+    "safety": { "fr": "Très sûr — vigilance surtout météo et conduite", "en": "Very safe — main risks are weather and driving" },
+    "internet": { "fr": "Excellente — fibre et 4G presque partout", "en": "Excellent — fiber and 4G almost everywhere" },
+    "bestSeason": { "fr": "Juin à août (ou septembre à mars pour les aurores)", "en": "June to August (or September to March for auroras)" },
+    "plug": "C / F — 230V"
+  },
+  "IT": {
+    "name": { "fr": "Italie", "en": "Italy" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Italien", "en": "Italian" },
+    "safety": { "fr": "Très sûr — attention aux pickpockets dans les sites touristiques", "en": "Very safe — watch for pickpockets at tourist sites" },
+    "internet": { "fr": "Bonne — 4G/5G solides, fibre en progression", "en": "Good — solid 4G/5G, fiber expanding" },
+    "bestSeason": { "fr": "Avril à juin et septembre à octobre", "en": "April to June and September to October" },
+    "plug": "C / F / L — 230V"
+  },
+  "JM": {
+    "name": { "fr": "Jamaïque", "en": "Jamaica" },
+    "currency": "JMD ($)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Prudence recommandée — rester dans les zones touristiques la nuit", "en": "Caution advised — stick to tourist areas at night" },
+    "internet": { "fr": "Correcte — 4G et wifi dans les complexes hôteliers", "en": "Decent — 4G and resort wifi" },
+    "bestSeason": { "fr": "Novembre à avril (hors saison des ouragans)", "en": "November to April (outside hurricane season)" },
+    "plug": "A / B — 110V"
+  },
+  "JO": {
+    "name": { "fr": "Jordanie", "en": "Jordan" },
+    "currency": "JOD (د.ا)",
+    "language": { "fr": "Arabe, anglais courant", "en": "Arabic, English widely spoken" },
+    "safety": { "fr": "Globalement sûr — pays stable, précautions habituelles", "en": "Generally safe — stable country, usual precautions" },
+    "internet": { "fr": "Correcte — 4G solide en ville, wifi répandu", "en": "Decent — solid urban 4G, widespread wifi" },
+    "bestSeason": { "fr": "Mars à mai et septembre à novembre", "en": "March to May and September to November" },
+    "plug": "C / D / F / G — 230V"
+  },
+  "JP": {
+    "name": { "fr": "Japon", "en": "Japan" },
+    "currency": "JPY (¥)",
+    "language": { "fr": "Japonais", "en": "Japanese" },
+    "safety": { "fr": "Très sûr — l'un des pays les plus sûrs au monde", "en": "Very safe — one of the safest countries in the world" },
+    "internet": { "fr": "Excellente — fibre, 5G et wifi très répandus", "en": "Excellent — widespread fiber, 5G and wifi" },
+    "bestSeason": { "fr": "Mars à mai (cerisiers) et octobre à novembre (érables)", "en": "March to May (cherry blossoms) and October to November (autumn foliage)" },
+    "plug": "A / B — 100V"
+  },
+  "KE": {
+    "name": { "fr": "Kenya", "en": "Kenya" },
+    "currency": "KES (KSh)",
+    "language": { "fr": "Swahili, anglais", "en": "Swahili, English" },
+    "safety": { "fr": "Prudence recommandée — zones frontalières et certains quartiers à éviter", "en": "Caution advised — border areas and some districts to avoid" },
+    "internet": { "fr": "Bonne — 4G solide, paiement mobile omniprésent", "en": "Good — solid 4G, mobile payments ubiquitous" },
+    "bestSeason": { "fr": "Juin à octobre et janvier à février (saisons sèches, safaris)", "en": "June to October and January to February (dry seasons, safaris)" },
+    "plug": "G — 240V"
+  },
+  "KH": {
+    "name": { "fr": "Cambodge", "en": "Cambodia" },
+    "currency": "KHR (៛)",
+    "language": { "fr": "Khmer", "en": "Khmer" },
+    "safety": { "fr": "Globalement sûr — vigilance contre les vols à l'arraché", "en": "Generally safe — watch for bag snatching" },
+    "internet": { "fr": "Correcte — 4G bon marché, wifi courant", "en": "Decent — cheap 4G, common wifi" },
+    "bestSeason": { "fr": "Novembre à mars (saison sèche et fraîche)", "en": "November to March (cool, dry season)" },
+    "plug": "A / C / G — 230V"
+  },
+  "KR": {
+    "name": { "fr": "Corée du Sud", "en": "South Korea" },
+    "currency": "KRW (₩)",
+    "language": { "fr": "Coréen", "en": "Korean" },
+    "safety": { "fr": "Très sûr — criminalité très faible", "en": "Very safe — very low crime" },
+    "internet": { "fr": "Excellente — parmi les meilleures connexions au monde", "en": "Excellent — among the world's best connectivity" },
+    "bestSeason": { "fr": "Avril à juin et septembre à novembre", "en": "April to June and September to November" },
+    "plug": "C / F — 220V"
+  },
+  "LA": {
+    "name": { "fr": "Laos", "en": "Laos" },
+    "currency": "LAK (₭)",
+    "language": { "fr": "Lao", "en": "Lao" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Limitée — 4G en ville, faible en zone rurale", "en": "Limited — urban 4G, weak in rural areas" },
+    "bestSeason": { "fr": "Novembre à mars (saison sèche)", "en": "November to March (dry season)" },
+    "plug": "A / B / C — 230V"
+  },
+  "LB": {
+    "name": { "fr": "Liban", "en": "Lebanon" },
+    "currency": "LBP (ل.ل)",
+    "language": { "fr": "Arabe, français courant", "en": "Arabic, French widely spoken" },
+    "safety": { "fr": "Prudence recommandée — situation instable, suivre les consignes officielles", "en": "Caution advised — unstable situation, follow official advisories" },
+    "internet": { "fr": "Correcte mais irrégulière — coupures d'électricité fréquentes", "en": "Decent but unreliable — frequent power cuts" },
+    "bestSeason": { "fr": "Avril à juin et septembre à novembre", "en": "April to June and September to November" },
+    "plug": "C / D / G — 220V"
+  },
+  "LK": {
+    "name": { "fr": "Sri Lanka", "en": "Sri Lanka" },
+    "currency": "LKR (Rs)",
+    "language": { "fr": "Cinghalais, tamoul", "en": "Sinhala, Tamil" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Correcte — 4G bon marché, wifi courant", "en": "Decent — cheap 4G, common wifi" },
+    "bestSeason": { "fr": "Décembre à mars (côte sud-ouest), mai à septembre (côte est)", "en": "December to March (southwest coast), May to September (east coast)" },
+    "plug": "D / G / M — 230V"
+  },
+  "LY": {
+    "name": { "fr": "Libye", "en": "Libya" },
+    "currency": "LYD (ل.د)",
+    "language": { "fr": "Arabe", "en": "Arabic" },
+    "safety": { "fr": "Prudence recommandée — voyages touristiques déconseillés", "en": "Caution advised — tourist travel not recommended" },
+    "internet": { "fr": "Limitée — réseau instable, coupures fréquentes", "en": "Limited — unstable network, frequent outages" },
+    "bestSeason": { "fr": "Mars à mai et octobre à novembre", "en": "March to May and October to November" },
+    "plug": "C / D / F / L — 230V"
+  },
+  "MA": {
+    "name": { "fr": "Maroc", "en": "Morocco" },
+    "currency": "MAD (د.م.)",
+    "language": { "fr": "Arabe, tamazight, français courant", "en": "Arabic, Tamazight, French widely spoken" },
+    "safety": { "fr": "Globalement sûr — vigilance dans les souks très fréquentés", "en": "Generally safe — stay alert in crowded souks" },
+    "internet": { "fr": "Bonne — 4G solide, wifi répandu dans les riads", "en": "Good — solid 4G, widespread wifi in riads" },
+    "bestSeason": { "fr": "Mars à mai et septembre à novembre", "en": "March to May and September to November" },
+    "plug": "C / E — 220V"
+  },
+  "MC": {
+    "name": { "fr": "Monaco", "en": "Monaco" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Français", "en": "French" },
+    "safety": { "fr": "Très sûr — l'un des endroits les plus sûrs au monde", "en": "Very safe — one of the safest places in the world" },
+    "internet": { "fr": "Excellente — fibre et 5G généralisées", "en": "Excellent — widespread fiber and 5G" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / E / F — 230V"
+  },
+  "MG": {
+    "name": { "fr": "Madagascar", "en": "Madagascar" },
+    "currency": "MGA (Ar)",
+    "language": { "fr": "Malgache, français", "en": "Malagasy, French" },
+    "safety": { "fr": "Prudence recommandée — vigilance en ville et sur les routes la nuit", "en": "Caution advised — stay alert in cities and on roads at night" },
+    "internet": { "fr": "Limitée — 4G en ville, faible ailleurs", "en": "Limited — urban 4G, weak elsewhere" },
+    "bestSeason": { "fr": "Avril à octobre (saison sèche)", "en": "April to October (dry season)" },
+    "plug": "C / E — 220V"
+  },
+  "ML": {
+    "name": { "fr": "Mali", "en": "Mali" },
+    "currency": "XOF (FCFA)",
+    "language": { "fr": "Français, bambara", "en": "French, Bambara" },
+    "safety": { "fr": "Prudence recommandée — voyages déconseillés dans le nord et le centre", "en": "Caution advised — travel not recommended in the north and center" },
+    "internet": { "fr": "Limitée — 3G/4G à Bamako, faible ailleurs", "en": "Limited — 3G/4G in Bamako, weak elsewhere" },
+    "bestSeason": { "fr": "Novembre à février (saison sèche et fraîche)", "en": "November to February (cool, dry season)" },
+    "plug": "C / E — 220V"
+  },
+  "MM": {
+    "name": { "fr": "Myanmar (Birmanie)", "en": "Myanmar" },
+    "currency": "MMK (K)",
+    "language": { "fr": "Birman", "en": "Burmese" },
+    "safety": { "fr": "Prudence recommandée — situation politique instable, voyages déconseillés", "en": "Caution advised — unstable political situation, travel not recommended" },
+    "internet": { "fr": "Limitée — coupures et restrictions fréquentes", "en": "Limited — frequent outages and restrictions" },
+    "bestSeason": { "fr": "Novembre à février (saison sèche et fraîche)", "en": "November to February (cool, dry season)" },
+    "plug": "C / D / F / G — 230V"
+  },
+  "MN": {
+    "name": { "fr": "Mongolie", "en": "Mongolia" },
+    "currency": "MNT (₮)",
+    "language": { "fr": "Mongol", "en": "Mongolian" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Correcte à Oulan-Bator — quasi nulle dans la steppe", "en": "Decent in Ulaanbaatar — nearly none in the steppe" },
+    "bestSeason": { "fr": "Juin à août", "en": "June to August" },
+    "plug": "C / E — 230V"
+  },
+  "MV": {
+    "name": { "fr": "Maldives", "en": "Maldives" },
+    "currency": "MVR (Rf)",
+    "language": { "fr": "Divehi, anglais courant", "en": "Dhivehi, English widely spoken" },
+    "safety": { "fr": "Très sûr — précautions habituelles dans les resorts", "en": "Very safe — usual precautions in resorts" },
+    "internet": { "fr": "Bonne dans les resorts — 4G correcte sur les îles habitées", "en": "Good in resorts — decent 4G on inhabited islands" },
+    "bestSeason": { "fr": "Novembre à avril (saison sèche)", "en": "November to April (dry season)" },
+    "plug": "D / G — 230V"
+  },
+  "MX": {
+    "name": { "fr": "Mexique", "en": "Mexico" },
+    "currency": "MXN ($)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Prudence recommandée — certains États à éviter, zones touristiques plus sûres", "en": "Caution advised — some states to avoid, tourist areas safer" },
+    "internet": { "fr": "Bonne — 4G/5G solides en ville et zones touristiques", "en": "Good — solid 4G/5G in cities and tourist areas" },
+    "bestSeason": { "fr": "Novembre à avril (saison sèche)", "en": "November to April (dry season)" },
+    "plug": "A / B — 127V"
+  },
+  "MY": {
+    "name": { "fr": "Malaisie", "en": "Malaysia" },
+    "currency": "MYR (RM)",
+    "language": { "fr": "Malais, anglais courant", "en": "Malay, English widely spoken" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Très bonne — 4G/5G solides, wifi répandu", "en": "Very good — solid 4G/5G, widespread wifi" },
+    "bestSeason": { "fr": "Décembre à avril (côte ouest), avril à septembre (côte est)", "en": "December to April (west coast), April to September (east coast)" },
+    "plug": "G — 240V"
+  },
+  "MZ": {
+    "name": { "fr": "Mozambique", "en": "Mozambique" },
+    "currency": "MZN (MT)",
+    "language": { "fr": "Portugais", "en": "Portuguese" },
+    "safety": { "fr": "Prudence recommandée — nord du pays (Cabo Delgado) à éviter", "en": "Caution advised — avoid the north (Cabo Delgado)" },
+    "internet": { "fr": "Limitée — 4G en ville, faible ailleurs", "en": "Limited — urban 4G, weak elsewhere" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "C / F / M — 220V"
+  },
+  "NA": {
+    "name": { "fr": "Namibie", "en": "Namibia" },
+    "currency": "NAD ($)",
+    "language": { "fr": "Anglais, afrikaans", "en": "English, Afrikaans" },
+    "safety": { "fr": "Globalement sûr — prudence à Windhoek la nuit", "en": "Generally safe — caution in Windhoek at night" },
+    "internet": { "fr": "Correcte en ville — quasi nulle dans le désert", "en": "Decent in towns — nearly none in the desert" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "D / M — 220V"
+  },
+  "NG": {
+    "name": { "fr": "Nigeria", "en": "Nigeria" },
+    "currency": "NGN (₦)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Prudence recommandée — plusieurs régions à éviter", "en": "Caution advised — several regions to avoid" },
+    "internet": { "fr": "Correcte à Lagos et Abuja — 4G variable ailleurs", "en": "Decent in Lagos and Abuja — patchy 4G elsewhere" },
+    "bestSeason": { "fr": "Novembre à février (saison sèche)", "en": "November to February (dry season)" },
+    "plug": "D / G — 230V"
+  },
+  "NL": {
+    "name": { "fr": "Pays-Bas", "en": "Netherlands" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Néerlandais, anglais courant", "en": "Dutch, English widely spoken" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — fibre et 5G généralisées", "en": "Excellent — widespread fiber and 5G" },
+    "bestSeason": { "fr": "Avril à septembre (tulipes en avril-mai)", "en": "April to September (tulips in April-May)" },
+    "plug": "C / F — 230V"
+  },
+  "NO": {
+    "name": { "fr": "Norvège", "en": "Norway" },
+    "currency": "NOK (kr)",
+    "language": { "fr": "Norvégien, anglais courant", "en": "Norwegian, English widely spoken" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Excellente — fibre et 5G même dans les fjords", "en": "Excellent — fiber and 5G even in the fjords" },
+    "bestSeason": { "fr": "Mai à septembre (ou novembre à mars pour les aurores)", "en": "May to September (or November to March for auroras)" },
+    "plug": "C / F — 230V"
+  },
+  "NP": {
+    "name": { "fr": "Népal", "en": "Nepal" },
+    "currency": "NPR (₨)",
+    "language": { "fr": "Népalais", "en": "Nepali" },
+    "safety": { "fr": "Globalement sûr — vigilance en trek (altitude, météo)", "en": "Generally safe — care needed when trekking (altitude, weather)" },
+    "internet": { "fr": "Correcte à Katmandou — limitée sur les sentiers de trek", "en": "Decent in Kathmandu — limited on trekking routes" },
+    "bestSeason": { "fr": "Octobre à novembre et mars à avril", "en": "October to November and March to April" },
+    "plug": "C / D / M — 230V"
+  },
+  "NZ": {
+    "name": { "fr": "Nouvelle-Zélande", "en": "New Zealand" },
+    "currency": "NZD ($)",
+    "language": { "fr": "Anglais, maori", "en": "English, Māori" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Bonne — fibre en ville, 4G correcte, zones blanches en montagne", "en": "Good — urban fiber, decent 4G, dead zones in the mountains" },
+    "bestSeason": { "fr": "Novembre à avril (été austral)", "en": "November to April (austral summer)" },
+    "plug": "I — 230V"
+  },
+  "PA": {
+    "name": { "fr": "Panama", "en": "Panama" },
+    "currency": "USD ($) / PAB (B/.)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Globalement sûr — région du Darién à éviter", "en": "Generally safe — avoid the Darién region" },
+    "internet": { "fr": "Bonne — 4G solide en ville, wifi répandu", "en": "Good — solid urban 4G, widespread wifi" },
+    "bestSeason": { "fr": "Décembre à avril (saison sèche)", "en": "December to April (dry season)" },
+    "plug": "A / B — 110V"
+  },
+  "PE": {
+    "name": { "fr": "Pérou", "en": "Peru" },
+    "currency": "PEN (S/)",
+    "language": { "fr": "Espagnol, quechua", "en": "Spanish, Quechua" },
+    "safety": { "fr": "Globalement sûr — prudence en ville et sur les routes de nuit", "en": "Generally safe — caution in cities and on roads at night" },
+    "internet": { "fr": "Correcte — 4G en ville, limitée dans les Andes", "en": "Decent — urban 4G, limited in the Andes" },
+    "bestSeason": { "fr": "Mai à septembre (saison sèche dans les Andes)", "en": "May to September (dry season in the Andes)" },
+    "plug": "A / B / C — 220V"
+  },
+  "PF": {
+    "name": { "fr": "Polynésie française", "en": "French Polynesia" },
+    "currency": "XPF (F)",
+    "language": { "fr": "Français, tahitien", "en": "French, Tahitian" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Correcte sur les îles principales — limitée sur les atolls isolés", "en": "Decent on main islands — limited on remote atolls" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "C / E — 220V"
+  },
+  "PG": {
+    "name": { "fr": "Papouasie-Nouvelle-Guinée", "en": "Papua New Guinea" },
+    "currency": "PGK (K)",
+    "language": { "fr": "Tok pisin, anglais, hiri motu", "en": "Tok Pisin, English, Hiri Motu" },
+    "safety": { "fr": "Prudence recommandée — criminalité élevée, guide local conseillé", "en": "Caution advised — high crime, local guide recommended" },
+    "internet": { "fr": "Limitée — 4G à Port Moresby, très faible ailleurs", "en": "Limited — 4G in Port Moresby, very weak elsewhere" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "I — 240V"
+  },
+  "PH": {
+    "name": { "fr": "Philippines", "en": "Philippines" },
+    "currency": "PHP (₱)",
+    "language": { "fr": "Filipino, anglais", "en": "Filipino, English" },
+    "safety": { "fr": "Globalement sûr — sud de Mindanao à éviter", "en": "Generally safe — avoid southern Mindanao" },
+    "internet": { "fr": "Correcte en ville — variable sur les îles reculées", "en": "Decent in cities — variable on remote islands" },
+    "bestSeason": { "fr": "Décembre à mai (saison sèche)", "en": "December to May (dry season)" },
+    "plug": "A / B / C — 220V"
+  },
+  "PK": {
+    "name": { "fr": "Pakistan", "en": "Pakistan" },
+    "currency": "PKR (₨)",
+    "language": { "fr": "Ourdou, anglais", "en": "Urdu, English" },
+    "safety": { "fr": "Prudence recommandée — zones frontalières à éviter", "en": "Caution advised — border areas to avoid" },
+    "internet": { "fr": "Correcte en ville — coupures et restrictions possibles", "en": "Decent in cities — possible outages and restrictions" },
+    "bestSeason": { "fr": "Octobre à mars (plaines), mai à septembre (montagnes du nord)", "en": "October to March (plains), May to September (northern mountains)" },
+    "plug": "C / D — 230V"
+  },
+  "PL": {
+    "name": { "fr": "Pologne", "en": "Poland" },
+    "currency": "PLN (zł)",
+    "language": { "fr": "Polonais", "en": "Polish" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Très bonne — fibre et 4G/5G répandues", "en": "Very good — widespread fiber and 4G/5G" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / E — 230V"
+  },
+  "PT": {
+    "name": { "fr": "Portugal", "en": "Portugal" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Portugais", "en": "Portuguese" },
+    "safety": { "fr": "Très sûr — l'un des pays les plus sûrs d'Europe", "en": "Very safe — one of Europe's safest countries" },
+    "internet": { "fr": "Excellente — fibre très déployée, 5G", "en": "Excellent — extensive fiber coverage, 5G" },
+    "bestSeason": { "fr": "Avril à octobre", "en": "April to October" },
+    "plug": "C / F — 230V"
+  },
+  "PW": {
+    "name": { "fr": "Palaos", "en": "Palau" },
+    "currency": "USD ($)",
+    "language": { "fr": "Palauan, anglais", "en": "Palauan, English" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Limitée — débit lent et coûteux", "en": "Limited — slow, expensive connectivity" },
+    "bestSeason": { "fr": "Novembre à avril (saison sèche)", "en": "November to April (dry season)" },
+    "plug": "A / B — 120V"
+  },
+  "RO": {
+    "name": { "fr": "Roumanie", "en": "Romania" },
+    "currency": "RON (lei)",
+    "language": { "fr": "Roumain", "en": "Romanian" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Excellente — parmi les débits fixes les plus rapides d'Europe", "en": "Excellent — some of Europe's fastest fixed broadband" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / F — 230V"
+  },
+  "RS": {
+    "name": { "fr": "Serbie", "en": "Serbia" },
+    "currency": "RSD (дин)",
+    "language": { "fr": "Serbe", "en": "Serbian" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Bonne — 4G solide, wifi très courant", "en": "Good — solid 4G, very common wifi" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / F — 230V"
+  },
+  "RU": {
+    "name": { "fr": "Russie", "en": "Russia" },
+    "currency": "RUB (₽)",
+    "language": { "fr": "Russe", "en": "Russian" },
+    "safety": { "fr": "Prudence recommandée — vérifier les restrictions et conseils aux voyageurs actuels", "en": "Caution advised — check current restrictions and travel advisories" },
+    "internet": { "fr": "Bonne en ville — services occidentaux souvent restreints", "en": "Good in cities — western services often restricted" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / F — 220V"
+  },
+  "RW": {
+    "name": { "fr": "Rwanda", "en": "Rwanda" },
+    "currency": "RWF (FRw)",
+    "language": { "fr": "Kinyarwanda, anglais, français", "en": "Kinyarwanda, English, French" },
+    "safety": { "fr": "Très sûr — l'un des pays les plus sûrs d'Afrique", "en": "Very safe — one of the safest countries in Africa" },
+    "internet": { "fr": "Bonne à Kigali — 4G correcte ailleurs", "en": "Good in Kigali — decent 4G elsewhere" },
+    "bestSeason": { "fr": "Juin à septembre (saison sèche, gorilles)", "en": "June to September (dry season, gorilla trekking)" },
+    "plug": "C / J — 230V"
+  },
+  "SA": {
+    "name": { "fr": "Arabie saoudite", "en": "Saudi Arabia" },
+    "currency": "SAR (﷼)",
+    "language": { "fr": "Arabe", "en": "Arabic" },
+    "safety": { "fr": "Très sûr — criminalité faible, respecter les règles locales", "en": "Very safe — low crime, respect local rules" },
+    "internet": { "fr": "Excellente — 5G très déployée", "en": "Excellent — extensive 5G coverage" },
+    "bestSeason": { "fr": "Novembre à février (chaleur supportable)", "en": "November to February (bearable heat)" },
+    "plug": "G — 230V"
+  },
+  "SB": {
+    "name": { "fr": "Îles Salomon", "en": "Solomon Islands" },
+    "currency": "SBD ($)",
+    "language": { "fr": "Anglais, pijin", "en": "English, Pijin" },
+    "safety": { "fr": "Globalement sûr — prudence à Honiara la nuit", "en": "Generally safe — caution in Honiara at night" },
+    "internet": { "fr": "Limitée — débit lent, couverture inégale", "en": "Limited — slow speeds, uneven coverage" },
+    "bestSeason": { "fr": "Avril à novembre (saison la plus sèche)", "en": "April to November (drier season)" },
+    "plug": "I / G — 220V"
+  },
+  "SC": {
+    "name": { "fr": "Seychelles", "en": "Seychelles" },
+    "currency": "SCR (₨)",
+    "language": { "fr": "Créole, anglais, français", "en": "Creole, English, French" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Correcte — 4G sur les îles principales, wifi dans les hôtels", "en": "Decent — 4G on main islands, hotel wifi" },
+    "bestSeason": { "fr": "Avril à mai et octobre à novembre (intersaisons)", "en": "April to May and October to November (shoulder seasons)" },
+    "plug": "G — 240V"
+  },
+  "SG": {
+    "name": { "fr": "Singapour", "en": "Singapore" },
+    "currency": "SGD ($)",
+    "language": { "fr": "Anglais, mandarin, malais", "en": "English, Mandarin, Malay" },
+    "safety": { "fr": "Très sûr — l'un des pays les plus sûrs au monde", "en": "Very safe — one of the safest countries in the world" },
+    "internet": { "fr": "Excellente — fibre et 5G parmi les meilleures au monde", "en": "Excellent — world-leading fiber and 5G" },
+    "bestSeason": { "fr": "Février à avril (période la moins pluvieuse)", "en": "February to April (least rainy period)" },
+    "plug": "G — 230V"
+  },
+  "SI": {
+    "name": { "fr": "Slovénie", "en": "Slovenia" },
+    "currency": "EUR (€)",
+    "language": { "fr": "Slovène", "en": "Slovene" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Très bonne — fibre et 4G/5G répandues", "en": "Very good — widespread fiber and 4G/5G" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / F — 230V"
+  },
+  "SL": {
+    "name": { "fr": "Sierra Leone", "en": "Sierra Leone" },
+    "currency": "SLE (Le)",
+    "language": { "fr": "Anglais, krio", "en": "English, Krio" },
+    "safety": { "fr": "Globalement sûr — prudence à Freetown la nuit", "en": "Generally safe — caution in Freetown at night" },
+    "internet": { "fr": "Limitée — 4G à Freetown, faible ailleurs", "en": "Limited — 4G in Freetown, weak elsewhere" },
+    "bestSeason": { "fr": "Novembre à avril (saison sèche)", "en": "November to April (dry season)" },
+    "plug": "D / G — 230V"
+  },
+  "SN": {
+    "name": { "fr": "Sénégal", "en": "Senegal" },
+    "currency": "XOF (FCFA)",
+    "language": { "fr": "Français, wolof", "en": "French, Wolof" },
+    "safety": { "fr": "Globalement sûr — prudence en Casamance près des frontières", "en": "Generally safe — caution in Casamance near the borders" },
+    "internet": { "fr": "Correcte — 4G solide à Dakar, variable ailleurs", "en": "Decent — solid 4G in Dakar, variable elsewhere" },
+    "bestSeason": { "fr": "Novembre à mai (saison sèche)", "en": "November to May (dry season)" },
+    "plug": "C / E — 230V"
+  },
+  "TH": {
+    "name": { "fr": "Thaïlande", "en": "Thailand" },
+    "currency": "THB (฿)",
+    "language": { "fr": "Thaï", "en": "Thai" },
+    "safety": { "fr": "Globalement sûr — provinces de l'extrême sud à éviter", "en": "Generally safe — avoid the far-southern provinces" },
+    "internet": { "fr": "Très bonne — 4G/5G bon marché, wifi partout", "en": "Very good — cheap 4G/5G, wifi everywhere" },
+    "bestSeason": { "fr": "Novembre à février (saison fraîche et sèche)", "en": "November to February (cool, dry season)" },
+    "plug": "A / B / C / O — 220V"
+  },
+  "TN": {
+    "name": { "fr": "Tunisie", "en": "Tunisia" },
+    "currency": "TND (د.ت)",
+    "language": { "fr": "Arabe, français courant", "en": "Arabic, French widely spoken" },
+    "safety": { "fr": "Globalement sûr — zones frontalières sud et ouest à éviter", "en": "Generally safe — southern and western border areas to avoid" },
+    "internet": { "fr": "Correcte — 4G en ville, wifi dans les hôtels", "en": "Decent — urban 4G, hotel wifi" },
+    "bestSeason": { "fr": "Avril à juin et septembre à octobre", "en": "April to June and September to October" },
+    "plug": "C / E — 230V"
+  },
+  "TO": {
+    "name": { "fr": "Tonga", "en": "Tonga" },
+    "currency": "TOP (T$)",
+    "language": { "fr": "Tongien, anglais", "en": "Tongan, English" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Limitée — dépendante d'un câble sous-marin, coupures possibles", "en": "Limited — reliant on one submarine cable, outages possible" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "I — 240V"
+  },
+  "TR": {
+    "name": { "fr": "Turquie", "en": "Turkey" },
+    "currency": "TRY (₺)",
+    "language": { "fr": "Turc", "en": "Turkish" },
+    "safety": { "fr": "Globalement sûr — zones frontalières du sud-est à éviter", "en": "Generally safe — southeastern border areas to avoid" },
+    "internet": { "fr": "Bonne — 4G solide, wifi très répandu", "en": "Good — solid 4G, very widespread wifi" },
+    "bestSeason": { "fr": "Avril à juin et septembre à octobre", "en": "April to June and September to October" },
+    "plug": "C / F — 230V"
+  },
+  "TZ": {
+    "name": { "fr": "Tanzanie", "en": "Tanzania" },
+    "currency": "TZS (TSh)",
+    "language": { "fr": "Swahili, anglais", "en": "Swahili, English" },
+    "safety": { "fr": "Globalement sûr — prudence en ville la nuit", "en": "Generally safe — caution in cities at night" },
+    "internet": { "fr": "Correcte dans les zones touristiques — limitée dans les parcs", "en": "Decent in tourist areas — limited in the parks" },
+    "bestSeason": { "fr": "Juin à octobre (saison sèche, safaris)", "en": "June to October (dry season, safaris)" },
+    "plug": "D / G — 230V"
+  },
+  "UA": {
+    "name": { "fr": "Ukraine", "en": "Ukraine" },
+    "currency": "UAH (₴)",
+    "language": { "fr": "Ukrainien", "en": "Ukrainian" },
+    "safety": { "fr": "Prudence recommandée — conflit en cours, voyages touristiques déconseillés", "en": "Caution advised — ongoing conflict, tourist travel not recommended" },
+    "internet": { "fr": "Bonne là où l'infrastructure fonctionne — coupures possibles", "en": "Good where infrastructure is intact — outages possible" },
+    "bestSeason": { "fr": "Mai à septembre", "en": "May to September" },
+    "plug": "C / F — 230V"
+  },
+  "UG": {
+    "name": { "fr": "Ouganda", "en": "Uganda" },
+    "currency": "UGX (USh)",
+    "language": { "fr": "Anglais, swahili", "en": "English, Swahili" },
+    "safety": { "fr": "Globalement sûr — prudence aux frontières avec la RDC et le Soudan du Sud", "en": "Generally safe — caution near the DRC and South Sudan borders" },
+    "internet": { "fr": "Correcte en ville — 4G variable ailleurs", "en": "Decent in cities — patchy 4G elsewhere" },
+    "bestSeason": { "fr": "Juin à août et décembre à février (saisons sèches)", "en": "June to August and December to February (dry seasons)" },
+    "plug": "G — 240V"
+  },
+  "US": {
+    "name": { "fr": "États-Unis", "en": "United States" },
+    "currency": "USD ($)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Très sûr dans l'ensemble — variable selon les quartiers", "en": "Very safe overall — varies by neighborhood" },
+    "internet": { "fr": "Excellente — fibre et 5G répandues, zones rurales inégales", "en": "Excellent — widespread fiber and 5G, uneven rural coverage" },
+    "bestSeason": { "fr": "Mai à septembre (très variable selon les régions)", "en": "May to September (highly region-dependent)" },
+    "plug": "A / B — 120V"
+  },
+  "UZ": {
+    "name": { "fr": "Ouzbékistan", "en": "Uzbekistan" },
+    "currency": "UZS (soʻm)",
+    "language": { "fr": "Ouzbek, russe courant", "en": "Uzbek, Russian widely spoken" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Correcte — 4G en ville, débit modeste ailleurs", "en": "Decent — urban 4G, modest speeds elsewhere" },
+    "bestSeason": { "fr": "Avril à juin et septembre à octobre", "en": "April to June and September to October" },
+    "plug": "C / F — 220V"
+  },
+  "VE": {
+    "name": { "fr": "Venezuela", "en": "Venezuela" },
+    "currency": "VES (Bs.)",
+    "language": { "fr": "Espagnol", "en": "Spanish" },
+    "safety": { "fr": "Prudence recommandée — criminalité élevée, se renseigner avant le départ", "en": "Caution advised — high crime, research before travel" },
+    "internet": { "fr": "Limitée — débit lent, coupures fréquentes", "en": "Limited — slow speeds, frequent outages" },
+    "bestSeason": { "fr": "Novembre à avril (saison sèche)", "en": "November to April (dry season)" },
+    "plug": "A / B — 120V"
+  },
+  "VN": {
+    "name": { "fr": "Vietnam", "en": "Vietnam" },
+    "currency": "VND (₫)",
+    "language": { "fr": "Vietnamien", "en": "Vietnamese" },
+    "safety": { "fr": "Globalement sûr — vigilance contre les vols à l'arraché en ville", "en": "Generally safe — watch for bag snatching in cities" },
+    "internet": { "fr": "Très bonne — 4G/5G bon marché, wifi partout", "en": "Very good — cheap 4G/5G, wifi everywhere" },
+    "bestSeason": { "fr": "Octobre à avril (variable entre nord et sud)", "en": "October to April (varies between north and south)" },
+    "plug": "A / C / F — 220V"
+  },
+  "VU": {
+    "name": { "fr": "Vanuatu", "en": "Vanuatu" },
+    "currency": "VUV (VT)",
+    "language": { "fr": "Bichelamar, anglais, français", "en": "Bislama, English, French" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Limitée — 4G sur les îles principales, faible ailleurs", "en": "Limited — 4G on main islands, weak elsewhere" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "I — 230V"
+  },
+  "WS": {
+    "name": { "fr": "Samoa", "en": "Samoa" },
+    "currency": "WST (T)",
+    "language": { "fr": "Samoan, anglais", "en": "Samoan, English" },
+    "safety": { "fr": "Très sûr — précautions habituelles", "en": "Very safe — usual precautions" },
+    "internet": { "fr": "Correcte à Apia — limitée ailleurs", "en": "Decent in Apia — limited elsewhere" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche)", "en": "May to October (dry season)" },
+    "plug": "I — 230V"
+  },
+  "YE": {
+    "name": { "fr": "Yémen", "en": "Yemen" },
+    "currency": "YER (﷼)",
+    "language": { "fr": "Arabe", "en": "Arabic" },
+    "safety": { "fr": "Prudence recommandée — voyages touristiques déconseillés (conflit en cours)", "en": "Caution advised — tourist travel not recommended (ongoing conflict)" },
+    "internet": { "fr": "Très limitée — réseau lent et instable", "en": "Very limited — slow, unstable network" },
+    "bestSeason": { "fr": "Octobre à mars (chaleur supportable)", "en": "October to March (bearable heat)" },
+    "plug": "A / D / G — 230V"
+  },
+  "ZA": {
+    "name": { "fr": "Afrique du Sud", "en": "South Africa" },
+    "currency": "ZAR (R)",
+    "language": { "fr": "Anglais, zoulou, xhosa", "en": "English, Zulu, Xhosa" },
+    "safety": { "fr": "Prudence recommandée — criminalité urbaine, éviter de circuler à pied la nuit", "en": "Caution advised — urban crime, avoid walking at night" },
+    "internet": { "fr": "Bonne — 4G/5G solides, fibre en ville", "en": "Good — solid 4G/5G, urban fiber" },
+    "bestSeason": { "fr": "Mai à septembre (safaris), novembre à mars (Le Cap)", "en": "May to September (safaris), November to March (Cape Town)" },
+    "plug": "C / D / M / N — 230V"
+  },
+  "ZM": {
+    "name": { "fr": "Zambie", "en": "Zambia" },
+    "currency": "ZMW (K)",
+    "language": { "fr": "Anglais", "en": "English" },
+    "safety": { "fr": "Globalement sûr — précautions habituelles", "en": "Generally safe — usual precautions" },
+    "internet": { "fr": "Correcte en ville — limitée dans les parcs", "en": "Decent in cities — limited in the parks" },
+    "bestSeason": { "fr": "Mai à octobre (saison sèche, chutes Victoria)", "en": "May to October (dry season, Victoria Falls)" },
+    "plug": "C / D / G — 230V"
+  }
+}
