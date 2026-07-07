@@ -24,7 +24,8 @@
       "Mammal",
       "Big cat",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
   },
   {
     "id": "an-tigre-bengale-ranthambore",
@@ -51,7 +52,8 @@
       "Mammal",
       "Big cat",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/330px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg"
   },
   {
     "id": "an-tigre-siberie-primorie",
@@ -67,7 +69,7 @@
     },
     "countryCode": "RU",
     "coordinates": [
-      45.0,
+      45,
       136.5
     ],
     "description": {
@@ -78,7 +80,8 @@
       "Mammal",
       "Big cat",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/P.t.altaica_Tomak_Male.jpg/330px-P.t.altaica_Tomak_Male.jpg"
   },
   {
     "id": "an-leopard-neiges-ladakh",
@@ -105,7 +108,8 @@
       "Mammal",
       "Big cat",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/330px-Irbis4.JPG"
   },
   {
     "id": "an-guepard-masai-mara",
@@ -132,7 +136,8 @@
       "Mammal",
       "Big cat",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/330px-Male_cheetah_facing_left_in_South_Africa.jpg"
   },
   {
     "id": "an-panda-geant-sichuan",
@@ -159,7 +164,8 @@
       "Mammal",
       "Endemic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/330px-Grosser_Panda.JPG"
   },
   {
     "id": "an-ours-polaire-churchill",
@@ -186,7 +192,8 @@
       "Mammal",
       "Arctic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Polar_Bear_2004-11-15.jpg/330px-Polar_Bear_2004-11-15.jpg"
   },
   {
     "id": "an-grizzly-katmai",
@@ -203,7 +210,7 @@
     "countryCode": "US",
     "coordinates": [
       58.5972,
-      -155.0
+      -155
     ],
     "description": {
       "fr": "Les chutes de Brooks Falls, à Katmai, offrent le spectacle le plus emblématique du monde : des dizaines de grizzlys attrapant les saumons en vol chaque juillet. La plateforme d'observation est mythique parmi les photographes animaliers.",
@@ -213,7 +220,8 @@
       "Mammal",
       "Predator",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/GrizzlyBearJeanBeaufort.jpg/330px-GrizzlyBearJeanBeaufort.jpg"
   },
   {
     "id": "an-ours-brun-kamchatka",
@@ -240,7 +248,8 @@
       "Mammal",
       "Predator",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A_bulky_grace_%2853172599742%29.jpg/330px-A_bulky_grace_%2853172599742%29.jpg"
   },
   {
     "id": "an-ours-brun-slovenie",
@@ -267,7 +276,8 @@
       "Mammal",
       "Predator",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg/330px-Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg"
   },
   {
     "id": "an-elephant-afrique-chobe",
@@ -294,7 +304,8 @@
       "Mammal",
       "Endangered",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg/330px-African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg"
   },
   {
     "id": "an-elephant-asie-kerala",
@@ -321,7 +332,8 @@
       "Mammal",
       "Endangered",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/330px-Elephas_maximus_%28Bandipur%29.jpg"
   },
   {
     "id": "an-rhinoceros-noir-etosha",
@@ -348,7 +360,8 @@
       "Mammal",
       "Critically endangered",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rhino_at_Working_with_Wildlife.jpg/330px-Black_Rhino_at_Working_with_Wildlife.jpg"
   },
   {
     "id": "an-rhinoceros-indien-kaziranga",
@@ -375,7 +388,8 @@
       "Mammal",
       "Vulnerable",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg/330px-Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg"
   },
   {
     "id": "an-hippopotame-luangwa",
@@ -402,7 +416,8 @@
       "Mammal",
       "Semi-aquatic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/330px-Portrait_Hippopotamus_in_the_water.jpg"
   },
   {
     "id": "an-buffle-afrique-kruger",
@@ -429,7 +444,8 @@
       "Mammal",
       "Big Five",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg/330px-African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg"
   },
   {
     "id": "an-gnou-migration-mara",
@@ -446,7 +462,7 @@
     "countryCode": "KE",
     "coordinates": [
       -1.5,
-      35.0
+      35
     ],
     "description": {
       "fr": "Chaque année, 1,5 million de gnous traversent la rivière Mara entre juillet et octobre : c'est la plus grande migration terrestre au monde, avec les traversées mythiques face aux crocodiles du Nil.",
@@ -456,7 +472,8 @@
       "Mammal",
       "Migration",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/330px-Blue_Wildebeest%2C_Ngorongoro.jpg"
   },
   {
     "id": "an-zebre-etosha",
@@ -483,7 +500,8 @@
       "Mammal",
       "Herd",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg/330px-Equus_quagga_burchellii_-_Etosha%2C_2014.jpg"
   },
   {
     "id": "an-girafe-kruger",
@@ -499,7 +517,7 @@
     },
     "countryCode": "ZA",
     "coordinates": [
-      -24.0,
+      -24,
       31.5
     ],
     "description": {
@@ -510,7 +528,8 @@
       "Mammal",
       "Iconic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/330px-Giraffe_Mikumi_National_Park.jpg"
   },
   {
     "id": "an-gorille-montagne-bwindi",
@@ -537,7 +556,8 @@
       "Primate",
       "Endangered",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Susa_group%2C_mountain_gorilla.jpg/330px-Susa_group%2C_mountain_gorilla.jpg"
   },
   {
     "id": "an-gorille-volcans-rwanda",
@@ -564,7 +584,8 @@
       "Primate",
       "Endangered",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Susa_group%2C_mountain_gorilla.jpg/330px-Susa_group%2C_mountain_gorilla.jpg"
   },
   {
     "id": "an-chimpanze-kibale",
@@ -591,7 +612,8 @@
       "Primate",
       "Endangered",
       "Great ape"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/330px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg"
   },
   {
     "id": "an-orang-outan-sumatra",
@@ -618,7 +640,8 @@
       "Primate",
       "Critically endangered",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sumatra-Orang-Utan_im_Pongoland.jpg/330px-Sumatra-Orang-Utan_im_Pongoland.jpg"
   },
   {
     "id": "an-orang-outan-borneo-kinabatangan",
@@ -645,7 +668,8 @@
       "Primate",
       "Critically endangered",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tanjung_Puting30477.jpg/330px-Tanjung_Puting30477.jpg"
   },
   {
     "id": "an-macaque-japonais-jigokudani",
@@ -672,7 +696,8 @@
       "Primate",
       "Endemic",
       "Unique behavior"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Japanese_Snow_Monkey_%28Macaque%29_Mother_Grooms_Her_Young.jpg/330px-Japanese_Snow_Monkey_%28Macaque%29_Mother_Grooms_Her_Young.jpg"
   },
   {
     "id": "an-lemurien-andasibe",
@@ -726,7 +751,8 @@
       "Marine mammal",
       "Migration",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Humpback_Whale_underwater_shot.jpg/330px-Humpback_Whale_underwater_shot.jpg"
   },
   {
     "id": "an-baleine-bosse-tonga",
@@ -753,7 +779,8 @@
       "Marine mammal",
       "Migration",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Humpback_Whale_underwater_shot.jpg/330px-Humpback_Whale_underwater_shot.jpg"
   },
   {
     "id": "an-baleine-bleue-mirissa",
@@ -780,7 +807,8 @@
       "Marine mammal",
       "Largest animal",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
   },
   {
     "id": "an-baleine-bleue-islande",
@@ -807,7 +835,8 @@
       "Marine mammal",
       "Largest animal",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
   },
   {
     "id": "an-orque-vancouver",
@@ -834,7 +863,8 @@
       "Marine mammal",
       "Apex predator",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/330px-Killerwhales_jumping.jpg"
   },
   {
     "id": "an-orque-andoya",
@@ -850,7 +880,7 @@
     },
     "countryCode": "NO",
     "coordinates": [
-      69.0,
+      69,
       15.75
     ],
     "description": {
@@ -861,7 +891,8 @@
       "Marine mammal",
       "Apex predator",
       "Migration"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/330px-Killerwhales_jumping.jpg"
   },
   {
     "id": "an-cachalot-kaikoura",
@@ -888,7 +919,8 @@
       "Marine mammal",
       "Deep diver",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mother_and_baby_sperm_whale.jpg/330px-Mother_and_baby_sperm_whale.jpg"
   },
   {
     "id": "an-grand-requin-blanc-gansbaai",
@@ -915,7 +947,8 @@
       "Fish",
       "Apex predator",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/330px-White_shark.jpg"
   },
   {
     "id": "an-requin-baleine-ningaloo",
@@ -942,7 +975,8 @@
       "Fish",
       "Largest fish",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg/330px-Similan_Dive_Center_-_great_whale_shark.jpg"
   },
   {
     "id": "an-requin-baleine-donsol",
@@ -969,7 +1003,8 @@
       "Fish",
       "Largest fish",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg/330px-Similan_Dive_Center_-_great_whale_shark.jpg"
   },
   {
     "id": "an-requin-marteau-cocos",
@@ -996,7 +1031,8 @@
       "Fish",
       "School",
       "Critically endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg/330px-Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg"
   },
   {
     "id": "an-otarie-galapagos",
@@ -1023,7 +1059,8 @@
       "Marine mammal",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Galapagos%2C_sea-lion%2C_female_%28by_Casey_Klebba%29.jpg/330px-Galapagos%2C_sea-lion%2C_female_%28by_Casey_Klebba%29.jpg"
   },
   {
     "id": "an-phoque-moine-hawaii",
@@ -1050,7 +1087,8 @@
       "Marine mammal",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Monachus_schauinslandi.jpg/330px-Monachus_schauinslandi.jpg"
   },
   {
     "id": "an-morse-svalbard",
@@ -1077,7 +1115,8 @@
       "Marine mammal",
       "Arctic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg/330px-Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg"
   },
   {
     "id": "an-narval-baffin",
@@ -1104,7 +1143,8 @@
       "Marine mammal",
       "Arctic",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/330px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg"
   },
   {
     "id": "an-dauphin-rose-rio-negro",
@@ -1131,7 +1171,8 @@
       "Freshwater mammal",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Inia-2.jpg/330px-Inia-2.jpg"
   },
   {
     "id": "an-iguane-marin-galapagos",
@@ -1158,7 +1199,8 @@
       "Reptile",
       "Endemic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Amblyrhynchus_cristatus_%283838137696%29.jpg/330px-Amblyrhynchus_cristatus_%283838137696%29.jpg"
   },
   {
     "id": "an-tortue-luth-tortuguero",
@@ -1185,7 +1227,8 @@
       "Reptile",
       "Nesting",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg/330px-Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg"
   },
   {
     "id": "an-tortue-verte-grande-barriere",
@@ -1212,7 +1255,8 @@
       "Reptile",
       "Nesting",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/330px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg"
   },
   {
     "id": "an-crocodile-marin-kakadu",
@@ -1239,7 +1283,8 @@
       "Reptile",
       "Apex predator",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/SaltwaterCrocodile%28%27Maximo%27%29.jpg/330px-SaltwaterCrocodile%28%27Maximo%27%29.jpg"
   },
   {
     "id": "an-dragon-komodo",
@@ -1266,7 +1311,8 @@
       "Reptile",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/330px-202306_Varanus_komodoensis.jpg"
   },
   {
     "id": "an-gharial-chambal",
@@ -1293,7 +1339,8 @@
       "Reptile",
       "Critically endangered",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gharial_%28Gavialis_gangeticus%29_male.jpg/330px-Gharial_%28Gavialis_gangeticus%29_male.jpg"
   },
   {
     "id": "an-manchot-empereur-antarctique",
@@ -1320,7 +1367,8 @@
       "Bird",
       "Antarctic",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/330px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"
   },
   {
     "id": "an-manchot-royal-georgie-sud",
@@ -1347,7 +1395,8 @@
       "Bird",
       "Sub-antarctic",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg/330px-SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg"
   },
   {
     "id": "an-manchot-magellan-punta-tombo",
@@ -1374,7 +1423,8 @@
       "Bird",
       "Colony",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/MagellanicPenguin.jpg/330px-MagellanicPenguin.jpg"
   },
   {
     "id": "an-condor-colca",
@@ -1401,7 +1451,8 @@
       "Bird",
       "Raptor",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/330px-AndeanCondorMale.jpg"
   },
   {
     "id": "an-pygargue-tete-blanche-alaska",
@@ -1428,7 +1479,8 @@
       "Bird",
       "Raptor",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg"
   },
   {
     "id": "an-quetzal-monteverde",
@@ -1455,7 +1507,8 @@
       "Bird",
       "Tropical",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg/330px-Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg"
   },
   {
     "id": "an-toucan-amazonie",
@@ -1482,7 +1535,8 @@
       "Bird",
       "Tropical",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/330px-006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg"
   },
   {
     "id": "an-ara-hyacinthe-pantanal",
@@ -1509,7 +1563,8 @@
       "Bird",
       "Endemic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/008_Hyacinth_macaw_couple_kissing_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/330px-008_Hyacinth_macaw_couple_kissing_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg"
   },
   {
     "id": "an-calao-borneo",
@@ -1536,7 +1591,8 @@
       "Bird",
       "Tropical",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg/330px-Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg"
   },
   {
     "id": "an-oiseau-paradis-papouasie",
@@ -1553,7 +1609,7 @@
     "countryCode": "PG",
     "coordinates": [
       -6.6667,
-      147.0
+      147
     ],
     "description": {
       "fr": "Les forêts d'altitude de la péninsule de Huon abritent plusieurs espèces d'oiseaux de paradis célèbres pour leurs parades nuptiales spectaculaires, connues via les documentaires de David Attenborough.",
@@ -1580,7 +1636,7 @@
     "countryCode": "TZ",
     "coordinates": [
       -2.4167,
-      36.0
+      36
     ],
     "description": {
       "fr": "Le lac Natron, extrêmement alcalin, est le principal site de reproduction du flamant nain au monde : jusqu'à 2,5 millions d'individus s'y rassemblent chaque année.",
@@ -1590,7 +1646,8 @@
       "Bird",
       "Colony",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flock_of_Lesser_Flamingo_along_with_juvenile_near_Jamnagar_railway_stationDSCN1798_1.jpg/330px-Flock_of_Lesser_Flamingo_along_with_juvenile_near_Jamnagar_railway_stationDSCN1798_1.jpg"
   },
   {
     "id": "an-pelican-danube",
@@ -1606,7 +1663,7 @@
     },
     "countryCode": "RO",
     "coordinates": [
-      45.0,
+      45,
       29.2
     ],
     "description": {
@@ -1617,7 +1674,8 @@
       "Bird",
       "Wetland",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dalmatian_Pelican_Pelecanus_crispus_by_Dr._Raju_Kasambe_DSCN6899_%283%29.jpg/330px-Dalmatian_Pelican_Pelecanus_crispus_by_Dr._Raju_Kasambe_DSCN6899_%283%29.jpg"
   },
   {
     "id": "an-kangourou-kangaroo-island",
@@ -1644,7 +1702,8 @@
       "Marsupial",
       "Endemic",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kangaroo_Island_Western_grey_kangaroo_%28Macropus_fuliginosus_fuliginosus%29_male.jpg/330px-Kangaroo_Island_Western_grey_kangaroo_%28Macropus_fuliginosus_fuliginosus%29_male.jpg"
   },
   {
     "id": "an-koala-grande-chaine",
@@ -1671,7 +1730,8 @@
       "Marsupial",
       "Iconic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/330px-Koala_climbing_tree.jpg"
   },
   {
     "id": "an-diable-tasmanie",
@@ -1698,7 +1758,8 @@
       "Marsupial",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sarcophilus_harrisii_taranna.jpg/330px-Sarcophilus_harrisii_taranna.jpg"
   },
   {
     "id": "an-kiwi-fiordland",
@@ -1725,7 +1786,8 @@
       "Bird",
       "Endemic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tokoeka.jpg/330px-Tokoeka.jpg"
   },
   {
     "id": "an-ornithorynque-eungella",
@@ -1752,7 +1814,8 @@
       "Monotreme",
       "Endemic",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/330px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg"
   },
   {
     "id": "an-tarsier-sulawesi",
@@ -1779,7 +1842,8 @@
       "Primate",
       "Endemic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tarsius_tarsier_Tandurusa_zoo.JPG/330px-Tarsius_tarsier_Tandurusa_zoo.JPG"
   },
   {
     "id": "an-pangolin-kalahari",
@@ -1806,7 +1870,8 @@
       "Mammal",
       "Critically endangered",
       "Nocturnal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Manis_temminckii_%2829645803646%29.jpg/330px-Manis_temminckii_%2829645803646%29.jpg"
   },
   {
     "id": "an-okapi-ituri",
@@ -1833,7 +1898,8 @@
       "Mammal",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/330px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg"
   },
   {
     "id": "an-fossa-madagascar",
@@ -1876,8 +1942,8 @@
     },
     "countryCode": "BR",
     "coordinates": [
-      -18.0,
-      -56.0
+      -18,
+      -56
     ],
     "description": {
       "fr": "Le Pantanal héberge la plus grande population de caïmans yacare au monde, estimée à plus de 10 millions d'individus. Ils sont visibles partout, notamment en saison sèche.",
@@ -1887,7 +1953,8 @@
       "Reptile",
       "Wetland",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Yacare_Caiman_%28Caiman_Yacare%29_-_Flickr_-_berniedup.jpg/330px-Yacare_Caiman_%28Caiman_Yacare%29_-_Flickr_-_berniedup.jpg"
   },
   {
     "id": "an-piranha-amazonie",
@@ -1914,7 +1981,8 @@
       "Fish",
       "Freshwater",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/330px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
   },
   {
     "id": "an-monarque-michoacan",
@@ -1941,7 +2009,8 @@
       "Insect",
       "Migration",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg/330px-Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg"
   },
   {
     "id": "an-loup-yellowstone",
@@ -1968,7 +2037,8 @@
       "Mammal",
       "Predator",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/330px-Eurasian_wolf_2.jpg"
   },
   {
     "id": "an-bison-yellowstone",
@@ -1995,7 +2065,8 @@
       "Mammal",
       "Herd",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/330px-American_bison_k5680-1.jpg"
   },
   {
     "id": "an-raie-manta-maldives",
@@ -2022,7 +2093,8 @@
       "Fish",
       "Aggregation",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG/330px-Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG"
   },
   {
     "id": "an-requin-tigre-tiger-beach",
@@ -2039,7 +2111,7 @@
     "countryCode": "BS",
     "coordinates": [
       26.9167,
-      -79.0
+      -79
     ],
     "description": {
       "fr": "Tiger Beach, au large des Bahamas, est mondialement connu pour la plongée avec les requins-tigres. Les femelles matures y sont observables toute l'année en eau peu profonde.",
@@ -2049,7 +2121,8 @@
       "Fish",
       "Apex predator",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tiger_shark.jpg/330px-Tiger_shark.jpg"
   },
   {
     "id": "an-puma-torres-del-paine",
@@ -2076,7 +2149,8 @@
       "Mammal",
       "Big cat",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Puma_concolor_stanleyana_-_Texas_Park_-_Lanzarote_-PC07.jpg/330px-Puma_concolor_stanleyana_-_Texas_Park_-_Lanzarote_-PC07.jpg"
   },
   {
     "id": "an-jaguar-pantanal",
@@ -2103,7 +2177,8 @@
       "Mammal",
       "Big cat",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg"
   },
   {
     "id": "an-loutre-geante-manu",
@@ -2130,7 +2205,8 @@
       "Mammal",
       "Freshwater",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg/330px-Giant_otters_%28Pteronura_brasiliensis%29.jpg"
   },
   {
     "id": "an-capybara-ibera",
@@ -2157,7 +2233,8 @@
       "Mammal",
       "Wetland",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Capybaracropped.jpg/330px-Capybaracropped.jpg"
   },
   {
     "id": "an-wapiti-jasper",
@@ -2184,7 +2261,8 @@
       "Mammal",
       "Herd",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jasper.Wapiti-Hirsch.P1033401.jpg/330px-Jasper.Wapiti-Hirsch.P1033401.jpg"
   },
   {
     "id": "an-orignal-denali",
@@ -2211,7 +2289,8 @@
       "Mammal",
       "Boreal",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/330px-Alaska_moose.jpg"
   },
   {
     "id": "an-lynx-carpathes",
@@ -2238,7 +2317,8 @@
       "Mammal",
       "Big cat",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg/330px-Lynx_Nationalpark_Bayerischer_Wald_01.jpg"
   },
   {
     "id": "an-loup-iberique",
@@ -2265,7 +2345,8 @@
       "Mammal",
       "Predator",
       "Near threatened"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Iberian_Wolf_AdF_001.jpg/330px-Iberian_Wolf_AdF_001.jpg"
   },
   {
     "id": "an-hyene-tachetee-ngorongoro",
@@ -2292,7 +2373,8 @@
       "Mammal",
       "Predator",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spotted_hyena_%28Crocuta_crocuta%29.jpg/330px-Spotted_hyena_%28Crocuta_crocuta%29.jpg"
   },
   {
     "id": "an-lycaon-okavango",
@@ -2319,7 +2401,8 @@
       "Mammal",
       "Predator",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/330px-African_Wild_Dog_at_Working_with_Wildlife.jpg"
   },
   {
     "id": "an-leopard-sri-lanka",
@@ -2346,7 +2429,8 @@
       "Mammal",
       "Big cat",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sri_Lankan_leopard_%28Panthera_pardus_kotiya%29_female_5.jpg/330px-Sri_Lankan_leopard_%28Panthera_pardus_kotiya%29_female_5.jpg"
   },
   {
     "id": "an-renard-arctique-svalbard",
@@ -2363,7 +2447,7 @@
     "countryCode": "NO",
     "coordinates": [
       78.5,
-      16.0
+      16
     ],
     "description": {
       "fr": "Le renard polaire est présent partout au Svalbard, où son pelage blanc immaculé en hiver le rend emblématique de l'Arctique norvégien.",
@@ -2373,7 +2457,8 @@
       "Mammal",
       "Arctic",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/330px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg"
   },
   {
     "id": "an-otarie-fourrure-cap",
@@ -2400,7 +2485,8 @@
       "Marine mammal",
       "Colony",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arctocephalus_pusillus_-_SE_Tasmania.jpg/330px-Arctocephalus_pusillus_-_SE_Tasmania.jpg"
   },
   {
     "id": "an-phoque-leopard-antarctique",
@@ -2416,8 +2502,8 @@
     },
     "countryCode": "AQ",
     "coordinates": [
-      -64.0,
-      -62.0
+      -64,
+      -62
     ],
     "description": {
       "fr": "Le léopard de mer, principal prédateur des manchots en Antarctique, s'observe idéalement depuis les zodiacs le long de la péninsule Antarctique en été austral.",
@@ -2427,7 +2513,8 @@
       "Marine mammal",
       "Antarctic",
       "Predator"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg/330px-Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg"
   },
   {
     "id": "an-manchot-galapagos",
@@ -2454,7 +2541,8 @@
       "Bird",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gal%C3%A1pagos_penguin_%28Spheniscus_mendiculus%29_male.jpg/330px-Gal%C3%A1pagos_penguin_%28Spheniscus_mendiculus%29_male.jpg"
   },
   {
     "id": "an-albatros-hurleur-georgie",
@@ -2481,7 +2569,8 @@
       "Bird",
       "Sub-antarctic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Diomedea_exulans_-_SE_Tasmania.jpg/330px-Diomedea_exulans_-_SE_Tasmania.jpg"
   },
   {
     "id": "an-macareux-islande",
@@ -2508,7 +2597,8 @@
       "Bird",
       "Colony",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puffin_%28Fratercula_arctica%29.jpg/330px-Puffin_%28Fratercula_arctica%29.jpg"
   },
   {
     "id": "an-harpie-feroce-darien",
@@ -2535,7 +2625,8 @@
       "Bird",
       "Raptor",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/330px-Harpia_harpyja_001_800.jpg"
   },
   {
     "id": "an-kea-fiordland",
@@ -2562,7 +2653,8 @@
       "Bird",
       "Endemic",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nestor_notabilis_-Fiordland%2C_New_Zealand-8b.jpg/330px-Nestor_notabilis_-Fiordland%2C_New_Zealand-8b.jpg"
   },
   {
     "id": "an-kakapo-codfish",
@@ -2589,7 +2681,8 @@
       "Bird",
       "Endemic",
       "Critically endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sirocco_full_length_portrait.jpg/330px-Sirocco_full_length_portrait.jpg"
   },
   {
     "id": "an-elephant-de-mer-valdes",
@@ -2616,7 +2709,8 @@
       "Marine mammal",
       "Colony",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2020-11_Kerguelen_Islands_-_Southern_elephant_seal_30.jpg/330px-2020-11_Kerguelen_Islands_-_Southern_elephant_seal_30.jpg"
   },
   {
     "id": "an-baleine-franche-valdes",
@@ -2643,7 +2737,8 @@
       "Marine mammal",
       "Breeding",
       "Least concern"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Southern_right_whale6.jpg/330px-Southern_right_whale6.jpg"
   },
   {
     "id": "an-iguane-terrestre-galapagos",
@@ -2670,7 +2765,8 @@
       "Reptile",
       "Endemic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gal%C3%A1pagos_land_iguana_%284201794181%29.jpg/330px-Gal%C3%A1pagos_land_iguana_%284201794181%29.jpg"
   },
   {
     "id": "an-tortue-geante-galapagos",
@@ -2697,6 +2793,7 @@
       "Reptile",
       "Endemic",
       "Vulnerable"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tortue_g%C3%A9ante.jpg/330px-Tortue_g%C3%A9ante.jpg"
   }
 ]

@@ -3370,7 +3370,8 @@
       "Desert",
       "Natural wonder",
       "Extreme"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Atacama.png/330px-Atacama.png"
   },
   {
     "id": "mn-perito-moreno",
@@ -3397,7 +3398,8 @@
       "Glacier",
       "Natural wonder",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Perito_Moreno_Glacier_2023.jpg/330px-Perito_Moreno_Glacier_2023.jpg"
   },
   {
     "id": "mn-christ-redempteur",
@@ -3451,7 +3453,8 @@
       "Natural wonder",
       "Forest",
       "Wildlife"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/330px-Amazon17_%285641020319%29.jpg"
   },
   {
     "id": "mn-galapagos",
@@ -3478,7 +3481,8 @@
       "UNESCO",
       "Natural wonder",
       "Wildlife"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG/330px-Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG"
   },
   {
     "id": "mn-ciudad-perdida",
@@ -3505,7 +3509,8 @@
       "Ancient",
       "Cultural",
       "Off-beat"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/CIUDAD_PERDIDA_2.jpg/330px-CIUDAD_PERDIDA_2.jpg"
   },
   {
     "id": "mn-cano-cristales",
@@ -3532,7 +3537,8 @@
       "Natural wonder",
       "Off-beat",
       "River"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ca%C3%B1o_Cristales_01.jpg/330px-Ca%C3%B1o_Cristales_01.jpg"
   },
   {
     "id": "mn-easter-island",
@@ -3559,7 +3565,8 @@
       "UNESCO",
       "Ancient",
       "Off-beat"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/330px-Easter_Island_5.jpg"
   },
   {
     "id": "mn-uluru",
@@ -3586,7 +3593,8 @@
       "UNESCO",
       "Natural wonder",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/330px-ULURU.jpg"
   },
   {
     "id": "mn-great-barrier-reef",
@@ -3613,7 +3621,8 @@
       "UNESCO",
       "Reef",
       "Natural wonder"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg/330px-ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg"
   },
   {
     "id": "mn-opera-sydney",
@@ -3640,7 +3649,8 @@
       "UNESCO",
       "Modern architecture",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/330px-Sydney_Australia._%2821339175489%29.jpg"
   },
   {
     "id": "mn-kata-tjuta",
@@ -3667,7 +3677,8 @@
       "UNESCO",
       "Natural wonder",
       "Cultural"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aerial_Kata_Tjuta_olgas4799.jpg/330px-Aerial_Kata_Tjuta_olgas4799.jpg"
   },
   {
     "id": "mn-heart-reef",
@@ -3721,7 +3732,8 @@
       "UNESCO",
       "Natural wonder",
       "Fjord"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Milford_Sound_%28New_Zealand%29.JPG/330px-Milford_Sound_%28New_Zealand%29.JPG"
   },
   {
     "id": "mn-tongariro",
@@ -3775,7 +3787,8 @@
       "Volcano",
       "Mountain",
       "Off-beat"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mt_Taranaki.JPG/330px-Mt_Taranaki.JPG"
   },
   {
     "id": "mn-hobbiton",
@@ -3802,7 +3815,8 @@
       "Cultural",
       "Off-beat",
       "Film"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hobbit_holes_reflected_in_water.jpg/330px-Hobbit_holes_reflected_in_water.jpg"
   },
   {
     "id": "mn-bora-bora",
@@ -3829,7 +3843,8 @@
       "Coastal",
       "Reef",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bora_Bora_ISS006.jpg/330px-Bora_Bora_ISS006.jpg"
   },
   {
     "id": "mn-palau-rock-islands",
@@ -3883,7 +3898,8 @@
       "Natural wonder",
       "Off-beat",
       "Wildlife"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tetepare_Island_NASA.jpg/330px-Tetepare_Island_NASA.jpg"
   },
   {
     "id": "mn-yasur",
@@ -3910,7 +3926,8 @@
       "Volcano",
       "Natural wonder",
       "Off-beat"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mount_Yasur_eruption_2006%2C_Tanna_Island%2C_Vanuatu%2C_VAN_0516.jpg/330px-Mount_Yasur_eruption_2006%2C_Tanna_Island%2C_Vanuatu%2C_VAN_0516.jpg"
   },
   {
     "id": "mn-navala",
@@ -3964,7 +3981,8 @@
       "UNESCO",
       "Ancient",
       "Off-beat"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nan_madol.jpg/330px-Nan_madol.jpg"
   },
   {
     "id": "mn-samoa-to-sua",
@@ -4018,7 +4036,8 @@
       "Volcano",
       "Natural wonder",
       "Sacred"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mauna_Kea_from_the_ocean.jpg/330px-Mauna_Kea_from_the_ocean.jpg"
   },
   {
     "id": "mn-nordkapp",
@@ -4045,7 +4064,8 @@
       "Extreme",
       "Coastal",
       "Arctic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Falaise_du_cap_nord_touristique.jpg/330px-Falaise_du_cap_nord_touristique.jpg"
   },
   {
     "id": "mn-svalbard",
@@ -4072,7 +4092,8 @@
       "Arctic",
       "Wildlife",
       "Extreme"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/W_W_Svalbard_LandSat7_21.14475E_78.71545N.png/330px-W_W_Svalbard_LandSat7_21.14475E_78.71545N.png"
   },
   {
     "id": "mn-ilulissat",
@@ -4099,7 +4120,8 @@
       "UNESCO",
       "Glacier",
       "Arctic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Greenland_Ilulissat-25.jpg/330px-Greenland_Ilulissat-25.jpg"
   },
   {
     "id": "mn-mcmurdo",
@@ -4126,7 +4148,8 @@
       "Antarctic",
       "Extreme",
       "Natural wonder"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mcmurdo_sound_USGS_map.jpg/330px-Mcmurdo_sound_USGS_map.jpg"
   },
   {
     "id": "mn-peninsule-antarctique",
@@ -4153,6 +4176,7 @@
       "Antarctic",
       "Wildlife",
       "Glacier"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antpen-en.png/330px-Antpen-en.png"
   }
 ]

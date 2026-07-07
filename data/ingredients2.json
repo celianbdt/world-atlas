@@ -2,1121 +2,2187 @@
   {
     "id": "ig-olive-nyons",
     "category": "ingredient",
-    "name": { "fr": "Olive noire de Nyons", "en": "Nyons black olive" },
+    "name": {
+      "fr": "Olive noire de Nyons",
+      "en": "Nyons black olive"
+    },
     "region": "Nyons, Drôme provençale",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [44.3617, 5.1408],
+    "coordinates": [
+      44.3617,
+      5.1408
+    ],
     "description": {
       "fr": "Première olive de France à obtenir une AOC (1994), la Tanche mûrit sous le mistral des Baronnies. Ridée par les froids d'hiver, elle offre une chair fine aux notes de sous-bois et de noisette fraîche.",
       "en": "The first French olive to earn an AOC (1994), the Tanche ripens under the mistral winds of the Baronnies. Wrinkled by winter cold, it delivers fine flesh with notes of forest floor and fresh hazelnut."
     },
-    "tags": ["Olive", "PDO", "Provence"]
+    "tags": [
+      "Olive",
+      "PDO",
+      "Provence"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Olives1.jpg/330px-Olives1.jpg"
   },
   {
     "id": "ig-olive-bella-cerignola",
     "category": "ingredient",
-    "name": { "fr": "Bella di Cerignola", "en": "Bella di Cerignola olive" },
+    "name": {
+      "fr": "Bella di Cerignola",
+      "en": "Bella di Cerignola olive"
+    },
     "region": "Cerignola, Pouilles",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [41.2656, 15.8953],
+    "coordinates": [
+      41.2656,
+      15.8953
+    ],
     "description": {
       "fr": "La plus grosse olive de table au monde, cultivée dans la plaine du Tavoliere depuis le XVIIIe siècle. Sa chair verte, charnue et croquante, se détache facilement du noyau, un apéritif emblématique des Pouilles AOP.",
       "en": "The world's largest table olive, grown on the Tavoliere plain since the 18th century. Its green, fleshy, crunchy pulp separates easily from the pit — an iconic PDO aperitivo of Puglia."
     },
-    "tags": ["Olive", "PDO", "Giant"]
+    "tags": [
+      "Olive",
+      "PDO",
+      "Giant"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Olive_di_Cerignola.jpg/330px-Olive_di_Cerignola.jpg"
   },
   {
     "id": "ig-olive-gordal-seville",
     "category": "ingredient",
-    "name": { "fr": "Olive Gordal de Séville", "en": "Seville Gordal olive" },
+    "name": {
+      "fr": "Olive Gordal de Séville",
+      "en": "Seville Gordal olive"
+    },
     "region": "Séville, Andalousie",
-    "country": { "fr": "Espagne", "en": "Spain" },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
     "countryCode": "ES",
-    "coordinates": [37.3891, -5.9845],
+    "coordinates": [
+      37.3891,
+      -5.9845
+    ],
     "description": {
       "fr": "La \"grosse\" andalouse par excellence, préparée en saumure selon le style sévillan depuis des siècles. Charnue et légèrement fumée, elle règne sur les comptoirs à tapas, souvent farcie de piment ou d'anchois.",
       "en": "Andalusia's quintessential \"fat one,\" brine-cured Seville-style for centuries. Meaty and lightly smoky, it rules tapas counters, often stuffed with pepper or anchovy."
     },
-    "tags": ["Olive", "Table", "Iconic"]
+    "tags": [
+      "Olive",
+      "Table",
+      "Iconic"
+    ]
   },
   {
     "id": "ig-olive-nice",
     "category": "ingredient",
-    "name": { "fr": "Olive de Nice", "en": "Nice olive" },
+    "name": {
+      "fr": "Olive de Nice",
+      "en": "Nice olive"
+    },
     "region": "Collines niçoises, Alpes-Maritimes",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [43.7102, 7.262],
+    "coordinates": [
+      43.7102,
+      7.262
+    ],
     "description": {
       "fr": "Issue du cailletier, petit arbre accroché aux restanques des collines niçoises, cette olive AOP brun-violacé est récoltée au filet. Douce et peu amère, elle est l'âme de la salade niçoise et de la pissaladière.",
       "en": "From the cailletier tree clinging to the terraced hills above Nice, this purplish-brown PDO olive is net-harvested. Mild and low in bitterness, it is the soul of salade niçoise and pissaladière."
     },
-    "tags": ["Olive", "PDO", "Riviera"]
+    "tags": [
+      "Olive",
+      "PDO",
+      "Riviera"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Filet_Olive_de_Nice.jpg/330px-Filet_Olive_de_Nice.jpg"
   },
   {
     "id": "ig-orange-tarocco-sicile",
     "category": "ingredient",
-    "name": { "fr": "Orange sanguine Tarocco de Sicile", "en": "Sicilian Tarocco blood orange" },
+    "name": {
+      "fr": "Orange sanguine Tarocco de Sicile",
+      "en": "Sicilian Tarocco blood orange"
+    },
     "region": "Plaine de Catane, Sicile",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [37.2286, 14.8783],
+    "coordinates": [
+      37.2286,
+      14.8783
+    ],
     "description": {
       "fr": "Les nuits froides au pied de l'Etna déclenchent la pigmentation en anthocyanes qui rougit la chair de la Tarocco IGP. Sucrée, peu acide et gorgée de vitamine C, c'est la reine des oranges sanguines.",
       "en": "Cold nights at the foot of Mount Etna trigger the anthocyanin pigmentation that reddens the flesh of the PGI Tarocco. Sweet, low-acid and packed with vitamin C, it is the queen of blood oranges."
     },
-    "tags": ["Citrus", "PGI", "Volcanic"]
+    "tags": [
+      "Citrus",
+      "PGI",
+      "Volcanic"
+    ]
   },
   {
     "id": "ig-bergamote-calabre",
     "category": "ingredient",
-    "name": { "fr": "Bergamote de Calabre", "en": "Calabrian bergamot" },
+    "name": {
+      "fr": "Bergamote de Calabre",
+      "en": "Calabrian bergamot"
+    },
     "region": "Reggio de Calabre, Calabre",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [38.1105, 15.6613],
+    "coordinates": [
+      38.1105,
+      15.6613
+    ],
     "description": {
       "fr": "90 % de la bergamote mondiale pousse sur une étroite bande côtière de la pointe calabraise. Son zeste AOP, à la fragrance florale incomparable, parfume le thé Earl Grey et la haute parfumerie.",
       "en": "90% of the world's bergamot grows on a narrow coastal strip at the tip of Calabria. Its PDO zest, with an incomparable floral fragrance, scents Earl Grey tea and fine perfumery."
     },
-    "tags": ["Citrus", "PDO", "Aromatic"]
+    "tags": [
+      "Citrus",
+      "PDO",
+      "Aromatic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bergamot_orange_-_whole_and_slice.jpg/330px-Bergamot_orange_-_whole_and_slice.jpg"
   },
   {
     "id": "ig-citron-menton",
     "category": "ingredient",
-    "name": { "fr": "Citron de Menton", "en": "Menton lemon" },
+    "name": {
+      "fr": "Citron de Menton",
+      "en": "Menton lemon"
+    },
     "region": "Menton, Côte d'Azur",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [43.7765, 7.5045],
+    "coordinates": [
+      43.7765,
+      7.5045
+    ],
     "description": {
       "fr": "Cultivé en restanques entre mer et montagne dans un microclimat quasi subtropical, le citron de Menton IGP a une écorce épaisse riche en huiles essentielles et une chair peu acide. Il est célébré chaque hiver par la Fête du Citron.",
       "en": "Grown on terraces between sea and mountains in a near-subtropical microclimate, the PGI Menton lemon has a thick, oil-rich rind and mildly acidic flesh. It is celebrated each winter at the Fête du Citron."
     },
-    "tags": ["Citrus", "PGI", "Riviera"]
+    "tags": [
+      "Citrus",
+      "PGI",
+      "Riviera"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Citron.jpg/330px-Citron.jpg"
   },
   {
     "id": "ig-citron-amalfi",
     "category": "ingredient",
-    "name": { "fr": "Citron d'Amalfi", "en": "Amalfi lemon" },
+    "name": {
+      "fr": "Citron d'Amalfi",
+      "en": "Amalfi lemon"
+    },
     "region": "Côte amalfitaine, Campanie",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [40.634, 14.6027],
+    "coordinates": [
+      40.634,
+      14.6027
+    ],
     "description": {
       "fr": "Le sfusato amalfitano IGP pousse sur des terrasses vertigineuses suspendues au-dessus de la mer Tyrrhénienne. Allongé, très parfumé et presque sans amertume, il est la base du véritable limoncello.",
       "en": "The PGI sfusato amalfitano grows on dizzying terraces suspended above the Tyrrhenian Sea. Elongated, intensely fragrant and nearly free of bitterness, it is the base of true limoncello."
     },
-    "tags": ["Citrus", "PGI", "Coastal"]
+    "tags": [
+      "Citrus",
+      "PGI",
+      "Coastal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Amalfi_sea_view_Italy.JPG/330px-Amalfi_sea_view_Italy.JPG"
   },
   {
     "id": "ig-yuzu-kochi",
     "category": "ingredient",
-    "name": { "fr": "Yuzu de Kochi", "en": "Kochi yuzu" },
+    "name": {
+      "fr": "Yuzu de Kochi",
+      "en": "Kochi yuzu"
+    },
     "region": "Kitagawa, préfecture de Kochi",
-    "country": { "fr": "Japon", "en": "Japan" },
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
     "countryCode": "JP",
-    "coordinates": [33.5589, 133.5314],
+    "coordinates": [
+      33.5589,
+      133.5314
+    ],
     "description": {
       "fr": "Les vallées montagneuses de Shikoku produisent la moitié du yuzu japonais. Cet agrume au parfum entre mandarine, pamplemousse et citron vert est récolté à la main ; son zeste sublime ponzu, miso et pâtisserie.",
       "en": "The mountain valleys of Shikoku grow half of Japan's yuzu. This citrus, with aromas between mandarin, grapefruit and lime, is hand-picked; its zest elevates ponzu, miso and pastry."
     },
-    "tags": ["Citrus", "Aromatic", "Traditional"]
+    "tags": [
+      "Citrus",
+      "Aromatic",
+      "Traditional"
+    ]
   },
   {
     "id": "ig-clementine-corse",
     "category": "ingredient",
-    "name": { "fr": "Clémentine de Corse", "en": "Corsican clementine" },
+    "name": {
+      "fr": "Clémentine de Corse",
+      "en": "Corsican clementine"
+    },
     "region": "Plaine orientale, Corse",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [42.2833, 9.5333],
+    "coordinates": [
+      42.2833,
+      9.5333
+    ],
     "description": {
       "fr": "Seule clémentine produite en France, cueillie à la main avec ses feuilles entre novembre et janvier. L'IGP garantit un fruit non traité après récolte, au petit calibre acidulé et au cul vert caractéristique.",
       "en": "The only clementine grown in France, hand-picked with its leaves from November to January. The PGI guarantees an untreated fruit, small, tangy, with its signature green-tinged base."
     },
-    "tags": ["Citrus", "PGI", "Insular"]
+    "tags": [
+      "Citrus",
+      "PGI",
+      "Insular"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Logo_Cl%C3%A9mentine_de_Corse.jpg/330px-Logo_Cl%C3%A9mentine_de_Corse.jpg"
   },
   {
     "id": "ig-kumquat-corfou",
     "category": "ingredient",
-    "name": { "fr": "Kumquat de Corfou", "en": "Corfu kumquat" },
+    "name": {
+      "fr": "Kumquat de Corfou",
+      "en": "Corfu kumquat"
+    },
     "region": "Nymfes, île de Corfou",
-    "country": { "fr": "Grèce", "en": "Greece" },
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
     "countryCode": "GR",
-    "coordinates": [39.6243, 19.9217],
+    "coordinates": [
+      39.6243,
+      19.9217
+    ],
     "description": {
       "fr": "Introduit par les Britanniques en 1860, le kumquat s'est épanoui dans le climat doux et pluvieux du nord de Corfou. Ce petit agrume IGP se croque entier, écorce sucrée comprise, et se décline en liqueur ambrée.",
       "en": "Introduced by the British in 1860, the kumquat thrived in the mild, rainy climate of northern Corfu. This tiny PGI citrus is eaten whole, sweet peel included, and famously distilled into an amber liqueur."
     },
-    "tags": ["Citrus", "PGI", "Insular"]
+    "tags": [
+      "Citrus",
+      "PGI",
+      "Insular"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KoumQuatLiqueur.jpg/330px-KoumQuatLiqueur.jpg"
   },
   {
     "id": "ig-main-bouddha-jinhua",
     "category": "ingredient",
-    "name": { "fr": "Main de Bouddha de Jinhua", "en": "Jinhua Buddha's hand citron" },
+    "name": {
+      "fr": "Main de Bouddha de Jinhua",
+      "en": "Jinhua Buddha's hand citron"
+    },
     "region": "Jinhua, Zhejiang",
-    "country": { "fr": "Chine", "en": "China" },
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
     "countryCode": "CN",
-    "coordinates": [29.1028, 119.6472],
+    "coordinates": [
+      29.1028,
+      119.6472
+    ],
     "description": {
       "fr": "Cet agrume aux doigts effilés est cultivé à Jinhua depuis plus de 700 ans, offert dans les temples pour porter bonheur. Sans pulpe ni jus, il n'est que zeste : un parfum de fleur d'oranger et de citron confit.",
       "en": "This finger-shaped citron has been grown in Jinhua for over 700 years, offered in temples for good fortune. With no pulp or juice, it is all zest: an aroma of orange blossom and candied lemon."
     },
-    "tags": ["Citrus", "Rare", "Symbolic"]
+    "tags": [
+      "Citrus",
+      "Rare",
+      "Symbolic"
+    ]
   },
   {
     "id": "ig-lime-colima",
     "category": "ingredient",
-    "name": { "fr": "Lime de Colima", "en": "Colima key lime" },
+    "name": {
+      "fr": "Lime de Colima",
+      "en": "Colima key lime"
+    },
     "region": "Tecomán, Colima",
-    "country": { "fr": "Mexique", "en": "Mexico" },
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
     "countryCode": "MX",
-    "coordinates": [18.9089, -103.8747],
+    "coordinates": [
+      18.9089,
+      -103.8747
+    ],
     "description": {
       "fr": "Tecomán se proclame capitale mondiale du limón mexicano, petite lime acide cultivée sur la côte pacifique volcanique. Son jus explosif et son zeste intense signent tacos, ceviches et micheladas.",
       "en": "Tecomán calls itself the world capital of the limón mexicano, a small acidic lime grown on the volcanic Pacific coast. Its explosive juice and intense zest define tacos, ceviches and micheladas."
     },
-    "tags": ["Citrus", "Acidic", "Iconic"]
+    "tags": [
+      "Citrus",
+      "Acidic",
+      "Iconic"
+    ]
   },
   {
     "id": "ig-pomelo-pinghe",
     "category": "ingredient",
-    "name": { "fr": "Pomelo de Pinghe", "en": "Pinghe honey pomelo" },
+    "name": {
+      "fr": "Pomelo de Pinghe",
+      "en": "Pinghe honey pomelo"
+    },
     "region": "Pinghe, Fujian",
-    "country": { "fr": "Chine", "en": "China" },
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
     "countryCode": "CN",
-    "coordinates": [24.3639, 117.3124],
+    "coordinates": [
+      24.3639,
+      117.3124
+    ],
     "description": {
       "fr": "Le guanxi miyou, pomelo au miel de Pinghe, est cultivé depuis 500 ans et fut offert en tribut aux empereurs Qing. Sa chair blond pâle, juteuse et sans pépins, allie douceur et fine amertume florale.",
       "en": "The guanxi honey pomelo of Pinghe has been grown for 500 years and was once tribute fruit for Qing emperors. Its pale golden, juicy, seedless flesh balances sweetness with delicate floral bitterness."
     },
-    "tags": ["Citrus", "GI", "Historic"]
+    "tags": [
+      "Citrus",
+      "GI",
+      "Historic"
+    ]
   },
   {
     "id": "ig-fraise-plougastel",
     "category": "ingredient",
-    "name": { "fr": "Fraise de Plougastel", "en": "Plougastel strawberry" },
+    "name": {
+      "fr": "Fraise de Plougastel",
+      "en": "Plougastel strawberry"
+    },
     "region": "Plougastel-Daoulas, Bretagne",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [48.3728, -4.3714],
+    "coordinates": [
+      48.3728,
+      -4.3714
+    ],
     "description": {
       "fr": "C'est à Plougastel que Frézier acclimata la fraise blanche du Chili qui donna naissance aux variétés modernes. Le microclimat doux de la rade de Brest produit des gariguettes précoces, parfumées et fondantes.",
       "en": "It was in Plougastel that Frézier planted the white Chilean strawberry that gave rise to modern varieties. The mild microclimate of the Brest roadstead yields early, fragrant, melting gariguettes."
     },
-    "tags": ["Fruit", "Historic", "Terroir"]
+    "tags": [
+      "Fruit",
+      "Historic",
+      "Terroir"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strawberries.JPG/330px-Strawberries.JPG"
   },
   {
     "id": "ig-cerise-ceret",
     "category": "ingredient",
-    "name": { "fr": "Cerise de Céret", "en": "Céret cherry" },
+    "name": {
+      "fr": "Cerise de Céret",
+      "en": "Céret cherry"
+    },
     "region": "Céret, Pyrénées-Orientales",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [42.4869, 2.7483],
+    "coordinates": [
+      42.4869,
+      2.7483
+    ],
     "description": {
       "fr": "Protégé de la tramontane par les Albères, le Vallespir donne les cerises les plus précoces de France. Depuis 1932, les premières caisses de Céret sont envoyées chaque printemps au président de la République.",
       "en": "Sheltered from the tramontane wind by the Albères, the Vallespir valley yields France's earliest cherries. Since 1932, the first crates from Céret have been sent each spring to the French President."
     },
-    "tags": ["Fruit", "Early", "Tradition"]
+    "tags": [
+      "Fruit",
+      "Early",
+      "Tradition"
+    ]
   },
   {
     "id": "ig-abricot-roussillon",
     "category": "ingredient",
-    "name": { "fr": "Abricot rouge du Roussillon", "en": "Roussillon red apricot" },
+    "name": {
+      "fr": "Abricot rouge du Roussillon",
+      "en": "Roussillon red apricot"
+    },
     "region": "Plaine du Roussillon, Pyrénées-Orientales",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [42.6986, 2.8956],
+    "coordinates": [
+      42.6986,
+      2.8956
+    ],
     "description": {
       "fr": "Petit abricot AOP piqueté de rouge, mûri sous le soleil catalan entre mer et Canigou. Sa chair juteuse, sucrée et acidulée en fait le favori des confituriers et des marchés d'été.",
       "en": "A small PDO apricot flecked with red, ripened under the Catalan sun between the sea and Mount Canigou. Its juicy, sweet-tart flesh makes it a favorite of jam-makers and summer markets."
     },
-    "tags": ["Fruit", "PDO", "Sun-ripened"]
+    "tags": [
+      "Fruit",
+      "PDO",
+      "Sun-ripened"
+    ]
   },
   {
     "id": "ig-peche-georgie",
     "category": "ingredient",
-    "name": { "fr": "Pêche de Géorgie", "en": "Georgia peach" },
+    "name": {
+      "fr": "Pêche de Géorgie",
+      "en": "Georgia peach"
+    },
     "region": "Fort Valley, Géorgie",
-    "country": { "fr": "États-Unis", "en": "United States" },
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
     "countryCode": "US",
-    "coordinates": [32.5538, -83.8874],
+    "coordinates": [
+      32.5538,
+      -83.8874
+    ],
     "description": {
       "fr": "Le \"Peach State\" cultive la pêche depuis le XVIIIe siècle sur ses sols sableux et rouges. Étés torrides et hivers doux donnent des fruits sucrés et parfumés, symbole gourmand du Sud américain.",
       "en": "The Peach State has grown peaches since the 18th century on its sandy red soils. Scorching summers and mild winters yield sweet, fragrant fruit — the culinary emblem of the American South."
     },
-    "tags": ["Fruit", "Iconic", "Summer"]
+    "tags": [
+      "Fruit",
+      "Iconic",
+      "Summer"
+    ]
   },
   {
     "id": "ig-durian-musang-king",
     "category": "ingredient",
-    "name": { "fr": "Durian Musang King", "en": "Musang King durian" },
+    "name": {
+      "fr": "Durian Musang King",
+      "en": "Musang King durian"
+    },
     "region": "Raub, Pahang",
-    "country": { "fr": "Malaisie", "en": "Malaysia" },
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
     "countryCode": "MY",
-    "coordinates": [3.7893, 101.8579],
+    "coordinates": [
+      3.7893,
+      101.8579
+    ],
     "description": {
       "fr": "Le roi des durians pousse sur les collines de Raub, au cœur de la péninsule malaise. Sa chair jaune safran, crémeuse et amère-sucrée, aux arômes puissants, atteint des prix records en Asie.",
       "en": "The king of durians grows in the hills of Raub, in the heart of peninsular Malaysia. Its saffron-yellow flesh, creamy and bittersweet with powerful aromas, commands record prices across Asia."
     },
-    "tags": ["Fruit", "Premium", "Tropical"]
+    "tags": [
+      "Fruit",
+      "Premium",
+      "Tropical"
+    ]
   },
   {
     "id": "ig-ananas-victoria-reunion",
     "category": "ingredient",
-    "name": { "fr": "Ananas Victoria de La Réunion", "en": "Réunion Victoria pineapple" },
+    "name": {
+      "fr": "Ananas Victoria de La Réunion",
+      "en": "Réunion Victoria pineapple"
+    },
     "region": "Saint-Pierre, île de La Réunion",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [-21.3393, 55.4781],
+    "coordinates": [
+      -21.3393,
+      55.4781
+    ],
     "description": {
       "fr": "Petit ananas au feuillage couronné, cultivé sur les pentes volcaniques du sud de La Réunion. Sa chair dorée, croquante jusqu'au cœur, concentre un sucre et des parfums que les gros calibres n'égalent jamais.",
       "en": "A small crowned pineapple grown on the volcanic slopes of southern Réunion. Its golden flesh, crisp right to the core, concentrates sugar and aromas that larger varieties never match."
     },
-    "tags": ["Fruit", "Volcanic", "Tropical"]
+    "tags": [
+      "Fruit",
+      "Volcanic",
+      "Tropical"
+    ]
   },
   {
     "id": "ig-plantain-cameroun",
     "category": "ingredient",
-    "name": { "fr": "Banane plantain du Moungo", "en": "Moungo plantain" },
+    "name": {
+      "fr": "Banane plantain du Moungo",
+      "en": "Moungo plantain"
+    },
     "region": "Njombé-Penja, région du Littoral",
-    "country": { "fr": "Cameroun", "en": "Cameroon" },
+    "country": {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+    },
     "countryCode": "CM",
-    "coordinates": [4.6363, 9.6636],
+    "coordinates": [
+      4.6363,
+      9.6636
+    ],
     "description": {
       "fr": "Les sols volcaniques du mont Cameroun et les pluies équatoriales du Moungo donnent des plantains charnus et sucrés. Frit, braisé ou pilé, il est la base du célèbre ndolè et de la cuisine d'Afrique centrale.",
       "en": "The volcanic soils of Mount Cameroon and the equatorial rains of the Moungo yield plump, sweet plantains. Fried, braised or pounded, it anchors the famous ndolè and Central African cooking."
     },
-    "tags": ["Fruit", "Volcanic", "Staple"]
+    "tags": [
+      "Fruit",
+      "Volcanic",
+      "Staple"
+    ]
   },
   {
     "id": "ig-figue-sollies",
     "category": "ingredient",
-    "name": { "fr": "Figue de Solliès", "en": "Solliès fig" },
+    "name": {
+      "fr": "Figue de Solliès",
+      "en": "Solliès fig"
+    },
     "region": "Solliès-Pont, Var",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [43.19, 6.041],
+    "coordinates": [
+      43.19,
+      6.041
+    ],
     "description": {
       "fr": "La bourjassotte noire du bassin de Solliès représente les trois quarts de la production française de figues. Violette, charnue, en \"goutte d'eau\", cette AOP marie notes de fraise, pastèque et miel.",
       "en": "The black bourjassotte from the Solliès basin accounts for three-quarters of French fig production. Purple, fleshy, teardrop-shaped, this PDO fig blends notes of strawberry, watermelon and honey."
     },
-    "tags": ["Fruit", "PDO", "Provence"]
+    "tags": [
+      "Fruit",
+      "PDO",
+      "Provence"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grappe_de_figues_2.jpg/330px-Grappe_de_figues_2.jpg"
   },
   {
     "id": "ig-kiwi-bay-of-plenty",
     "category": "ingredient",
-    "name": { "fr": "Kiwi de Bay of Plenty", "en": "Bay of Plenty kiwifruit" },
+    "name": {
+      "fr": "Kiwi de Bay of Plenty",
+      "en": "Bay of Plenty kiwifruit"
+    },
     "region": "Te Puke, Bay of Plenty",
-    "country": { "fr": "Nouvelle-Zélande", "en": "New Zealand" },
+    "country": {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+    },
     "countryCode": "NZ",
-    "coordinates": [-37.787, 176.326],
+    "coordinates": [
+      -37.787,
+      176.326
+    ],
     "description": {
       "fr": "Te Puke, capitale mondiale du kiwi, bénéficie de sols volcaniques fertiles et d'un climat océanique doux. C'est ici que la groseille de Chine devint le kiwi moderne, vert acidulé ou gold sucré.",
       "en": "Te Puke, the world's kiwifruit capital, enjoys fertile volcanic soils and a mild maritime climate. Here the Chinese gooseberry became the modern kiwifruit, tangy green or sweet gold."
     },
-    "tags": ["Fruit", "Volcanic", "Iconic"]
+    "tags": [
+      "Fruit",
+      "Volcanic",
+      "Iconic"
+    ]
   },
   {
     "id": "ig-grenade-saveh",
     "category": "ingredient",
-    "name": { "fr": "Grenade de Saveh", "en": "Saveh pomegranate" },
+    "name": {
+      "fr": "Grenade de Saveh",
+      "en": "Saveh pomegranate"
+    },
     "region": "Saveh, province de Markazi",
-    "country": { "fr": "Iran", "en": "Iran" },
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
     "countryCode": "IR",
-    "coordinates": [35.0213, 50.3566],
+    "coordinates": [
+      35.0213,
+      50.3566
+    ],
     "description": {
       "fr": "L'Iran est le berceau de la grenade et Saveh sa capitale historique. Ses arilles rouge grenat, sucrés et acidulés, nourrissent depuis des millénaires la cuisine persane, du fesenjan au jus glacé.",
       "en": "Iran is the birthplace of the pomegranate and Saveh its historic capital. Its garnet-red arils, sweet and tart, have fed Persian cuisine for millennia, from fesenjan to iced juice."
     },
-    "tags": ["Fruit", "Ancestral", "Persian"]
+    "tags": [
+      "Fruit",
+      "Ancestral",
+      "Persian"
+    ]
   },
   {
     "id": "ig-melon-cavaillon",
     "category": "ingredient",
-    "name": { "fr": "Melon de Cavaillon", "en": "Cavaillon melon" },
+    "name": {
+      "fr": "Melon de Cavaillon",
+      "en": "Cavaillon melon"
+    },
     "region": "Cavaillon, Vaucluse",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [43.8374, 5.0381],
+    "coordinates": [
+      43.8374,
+      5.0381
+    ],
     "description": {
       "fr": "Le charentais de Cavaillon, gorgé du soleil du Luberon et irrigué par la Durance, est le melon français par excellence. Alexandre Dumas en échangea la promesse de douze par an contre ses œuvres complètes.",
       "en": "The Cavaillon charentais, soaked in Luberon sun and irrigated by the Durance, is the quintessential French melon. Alexandre Dumas traded his complete works for the promise of twelve a year."
     },
-    "tags": ["Fruit", "Provence", "Iconic"]
+    "tags": [
+      "Fruit",
+      "Provence",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Melon_cantaloup_dit_de_Cavaillon.jpg/330px-Melon_cantaloup_dit_de_Cavaillon.jpg"
   },
   {
     "id": "ig-poire-williams-valais",
     "category": "ingredient",
-    "name": { "fr": "Poire Williams du Valais", "en": "Valais Williams pear" },
+    "name": {
+      "fr": "Poire Williams du Valais",
+      "en": "Valais Williams pear"
+    },
     "region": "Martigny, Valais",
-    "country": { "fr": "Suisse", "en": "Switzerland" },
+    "country": {
+      "fr": "Suisse",
+      "en": "Switzerland"
+    },
     "countryCode": "CH",
-    "coordinates": [46.1028, 7.0731],
+    "coordinates": [
+      46.1028,
+      7.0731
+    ],
     "description": {
       "fr": "Dans la vallée du Rhône valaisanne, la Williams mûrit entre vergers ensoleillés et sommets alpins. Juteuse et musquée, elle est distillée en une eau-de-vie AOP dont certaines poires grandissent en bouteille.",
       "en": "In the Valais Rhône valley, the Williams pear ripens between sun-drenched orchards and Alpine peaks. Juicy and musky, it is distilled into a PDO brandy — some pears famously grown inside the bottle."
     },
-    "tags": ["Fruit", "PDO", "Alpine"]
+    "tags": [
+      "Fruit",
+      "PDO",
+      "Alpine"
+    ]
   },
   {
     "id": "ig-pomme-limousin",
     "category": "ingredient",
-    "name": { "fr": "Pomme du Limousin", "en": "Limousin apple" },
+    "name": {
+      "fr": "Pomme du Limousin",
+      "en": "Limousin apple"
+    },
     "region": "Saint-Yrieix, Haute-Vienne",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [45.5142, 1.205],
+    "coordinates": [
+      45.5142,
+      1.205
+    ],
     "description": {
       "fr": "Seule pomme française en AOP, cette golden d'altitude pousse entre 300 et 500 mètres sur les plateaux granitiques du Limousin. Les nuits fraîches lui donnent croquant, équilibre sucre-acidité et longue conservation.",
       "en": "France's only PDO apple, this highland golden grows at 300–500 meters on the granite plateaus of Limousin. Cool nights give it crunch, sugar-acid balance and long keeping quality."
     },
-    "tags": ["Fruit", "PDO", "Altitude"]
+    "tags": [
+      "Fruit",
+      "PDO",
+      "Altitude"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pommes_du_Limousin_AOP.jpg/330px-Pommes_du_Limousin_AOP.jpg"
   },
   {
     "id": "ig-asperge-pertuis",
     "category": "ingredient",
-    "name": { "fr": "Asperge de Pertuis", "en": "Pertuis asparagus" },
+    "name": {
+      "fr": "Asperge de Pertuis",
+      "en": "Pertuis asparagus"
+    },
     "region": "Pertuis, Luberon",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [43.6939, 5.5033],
+    "coordinates": [
+      43.6939,
+      5.5033
+    ],
     "description": {
       "fr": "Les sables légers de la vallée de la Durance donnent une asperge blanche à la pointe nacrée, tendre et sans amertume. Cueillie à l'aube avant que le soleil ne la colore, elle annonce le printemps provençal.",
       "en": "The light sandy soils of the Durance valley yield a white asparagus with a pearly tip, tender and free of bitterness. Cut at dawn before the sun can color it, it heralds the Provençal spring."
     },
-    "tags": ["Vegetable", "Spring", "Terroir"]
+    "tags": [
+      "Vegetable",
+      "Spring",
+      "Terroir"
+    ]
   },
   {
     "id": "ig-ail-rose-lautrec",
     "category": "ingredient",
-    "name": { "fr": "Ail rose de Lautrec", "en": "Lautrec pink garlic" },
+    "name": {
+      "fr": "Ail rose de Lautrec",
+      "en": "Lautrec pink garlic"
+    },
     "region": "Lautrec, Tarn",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [43.7064, 2.1394],
+    "coordinates": [
+      43.7064,
+      2.1394
+    ],
     "description": {
       "fr": "Cultivé sur les coteaux argilo-calcaires du Tarn depuis le Moyen Âge, cet ail IGP aux tuniques rosées est tressé à la main en manouilles. Doux, subtil et longuement conservable, il a son propre Label Rouge.",
       "en": "Grown on the clay-limestone slopes of the Tarn since the Middle Ages, this PGI garlic with pink-tinged skins is hand-braided into manouilles. Mild, subtle and long-keeping, it carries its own Label Rouge."
     },
-    "tags": ["Vegetable", "PGI", "Artisanal"]
+    "tags": [
+      "Vegetable",
+      "PGI",
+      "Artisanal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Manouille_Ail_Rose_de_Lautrec_Label_Rouge_IGP.jpg/330px-Manouille_Ail_Rose_de_Lautrec_Label_Rouge_IGP.jpg"
   },
   {
     "id": "ig-poivron-padron",
     "category": "ingredient",
-    "name": { "fr": "Poivron de Padrón", "en": "Padrón pepper" },
+    "name": {
+      "fr": "Poivron de Padrón",
+      "en": "Padrón pepper"
+    },
     "region": "Padrón, Galice",
-    "country": { "fr": "Espagne", "en": "Spain" },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
     "countryCode": "ES",
-    "coordinates": [42.7383, -8.6608],
+    "coordinates": [
+      42.7383,
+      -8.6608
+    ],
     "description": {
       "fr": "Rapportés du Mexique par des moines franciscains au XVIe siècle, ces petits poivrons verts se dégustent frits au gros sel. \"Os uns pican e outros non\" : un sur dix pique, roulette russe des tapas galiciennes.",
       "en": "Brought from Mexico by Franciscan monks in the 16th century, these small green peppers are fried and showered with coarse salt. \"Some are hot and some are not\": one in ten bites back — Galicia's tapas roulette."
     },
-    "tags": ["Vegetable", "Tapas", "Historic"]
+    "tags": [
+      "Vegetable",
+      "Tapas",
+      "Historic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pementos_de_Padron.jpg/330px-Pementos_de_Padron.jpg"
   },
   {
     "id": "ig-patate-douce-okinawa",
     "category": "ingredient",
-    "name": { "fr": "Patate douce beni imo d'Okinawa", "en": "Okinawa beni imo sweet potato" },
+    "name": {
+      "fr": "Patate douce beni imo d'Okinawa",
+      "en": "Okinawa beni imo sweet potato"
+    },
     "region": "Yomitan, Okinawa",
-    "country": { "fr": "Japon", "en": "Japan" },
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
     "countryCode": "JP",
-    "coordinates": [26.3958, 127.7444],
+    "coordinates": [
+      26.3958,
+      127.7444
+    ],
     "description": {
       "fr": "Cette patate douce à la chair violet profond pousse dans les sols coralliens d'Okinawa depuis 400 ans. Riche en anthocyanes, douce et châtaignée, elle est associée à la longévité légendaire des insulaires.",
       "en": "This deep-purple-fleshed sweet potato has grown in Okinawa's coral soils for 400 years. Rich in anthocyanins, sweet and chestnut-like, it is linked to the islanders' legendary longevity."
     },
-    "tags": ["Vegetable", "Insular", "Longevity"]
+    "tags": [
+      "Vegetable",
+      "Insular",
+      "Longevity"
+    ]
   },
   {
     "id": "ig-wasabi-shizuoka",
     "category": "ingredient",
-    "name": { "fr": "Wasabi de Shizuoka", "en": "Shizuoka wasabi" },
+    "name": {
+      "fr": "Wasabi de Shizuoka",
+      "en": "Shizuoka wasabi"
+    },
     "region": "Utōgi, Shizuoka",
-    "country": { "fr": "Japon", "en": "Japan" },
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
     "countryCode": "JP",
-    "coordinates": [35.1046, 138.3222],
+    "coordinates": [
+      35.1046,
+      138.3222
+    ],
     "description": {
       "fr": "Le wasabi véritable est cultivé depuis 400 ans dans les terrasses inondées d'Utōgi, irriguées par les sources froides des montagnes. Râpé minute sur peau de requin, il livre un piquant floral qui s'évanouit en douceur.",
       "en": "True wasabi has been grown for 400 years in the flooded terraces of Utōgi, fed by cold mountain springs. Grated fresh on sharkskin, it delivers a floral heat that fades into sweetness."
     },
-    "tags": ["Vegetable", "Rare", "Traditional"]
+    "tags": [
+      "Vegetable",
+      "Rare",
+      "Traditional"
+    ]
   },
   {
     "id": "ig-cepe-bordeaux",
     "category": "ingredient",
-    "name": { "fr": "Cèpe de Bordeaux", "en": "Bordeaux porcini" },
+    "name": {
+      "fr": "Cèpe de Bordeaux",
+      "en": "Bordeaux porcini"
+    },
     "region": "Forêts de Gironde, Sud-Ouest",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [44.8378, -0.5792],
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ],
     "description": {
       "fr": "Boletus edulis des chênaies et châtaigneraies girondines, ramassé après les pluies d'automne. Chapeau brun noisette, chair ferme et parfum de sous-bois : le champignon roi de la cuisine du Sud-Ouest.",
       "en": "Boletus edulis from the oak and chestnut woods of the Gironde, gathered after autumn rains. Hazel-brown cap, firm flesh and forest-floor aroma: the king mushroom of southwestern French cooking."
     },
-    "tags": ["Mushroom", "Wild", "Autumn"]
+    "tags": [
+      "Mushroom",
+      "Wild",
+      "Autumn"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boletus_edulis_0.jpg/330px-Boletus_edulis_0.jpg"
   },
   {
     "id": "ig-morille-vosges",
     "category": "ingredient",
-    "name": { "fr": "Morille des Vosges", "en": "Vosges morel" },
+    "name": {
+      "fr": "Morille des Vosges",
+      "en": "Vosges morel"
+    },
     "region": "Gérardmer, massif des Vosges",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [48.0736, 6.8797],
+    "coordinates": [
+      48.0736,
+      6.8797
+    ],
     "description": {
       "fr": "Au dégel printanier, les morilles percent les lisières et vergers des vallées vosgiennes. Leur chapeau alvéolé concentre des arômes fumés et noisettés, sublimés par la crème et le vin jaune des tables de l'Est.",
       "en": "At the spring thaw, morels push through the forest edges and orchards of the Vosges valleys. Their honeycombed caps concentrate smoky, nutty aromas, exalted by cream and vin jaune in eastern French cooking."
     },
-    "tags": ["Mushroom", "Wild", "Spring"]
+    "tags": [
+      "Mushroom",
+      "Wild",
+      "Spring"
+    ]
   },
   {
     "id": "ig-artichaut-camus-bretagne",
     "category": "ingredient",
-    "name": { "fr": "Artichaut Camus de Bretagne", "en": "Brittany Camus artichoke" },
+    "name": {
+      "fr": "Artichaut Camus de Bretagne",
+      "en": "Brittany Camus artichoke"
+    },
     "region": "Saint-Pol-de-Léon, Finistère",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [48.687, -3.987],
+    "coordinates": [
+      48.687,
+      -3.987
+    ],
     "description": {
       "fr": "Le gros artichaut rond de la ceinture dorée du Léon prospère dans les limons profonds et le climat océanique doux. Son fond charnu et ses feuilles tendres en font le préféré des tables françaises depuis 1920.",
       "en": "The large round artichoke of the Léon \"golden belt\" thrives in deep loam and a mild oceanic climate. Its fleshy heart and tender leaves have made it France's favorite since the 1920s."
     },
-    "tags": ["Vegetable", "Oceanic", "Iconic"]
+    "tags": [
+      "Vegetable",
+      "Oceanic",
+      "Iconic"
+    ]
   },
   {
     "id": "ig-daikon-sakurajima",
     "category": "ingredient",
-    "name": { "fr": "Radis géant de Sakurajima", "en": "Sakurajima giant radish" },
+    "name": {
+      "fr": "Radis géant de Sakurajima",
+      "en": "Sakurajima giant radish"
+    },
     "region": "Sakurajima, Kagoshima",
-    "country": { "fr": "Japon", "en": "Japan" },
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
     "countryCode": "JP",
-    "coordinates": [31.58, 130.66],
+    "coordinates": [
+      31.58,
+      130.66
+    ],
     "description": {
       "fr": "Le plus gros radis du monde pousse dans les cendres du volcan Sakurajima, certains spécimens dépassant 30 kg. Sa chair dense et sucrée, qui ne se délite pas à la cuisson, est mijotée ou confite en tsukemono.",
       "en": "The world's largest radish grows in the ash of the Sakurajima volcano, with specimens topping 30 kg. Its dense, sweet flesh holds firm in cooking, simmered or preserved as tsukemono."
     },
-    "tags": ["Vegetable", "Volcanic", "Giant"]
+    "tags": [
+      "Vegetable",
+      "Volcanic",
+      "Giant"
+    ]
   },
   {
     "id": "ig-coco-paimpol",
     "category": "ingredient",
-    "name": { "fr": "Coco de Paimpol", "en": "Paimpol coco bean" },
+    "name": {
+      "fr": "Coco de Paimpol",
+      "en": "Paimpol coco bean"
+    },
     "region": "Paimpol, Côtes-d'Armor",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [48.778, -3.045],
+    "coordinates": [
+      48.778,
+      -3.045
+    ],
     "description": {
       "fr": "Premier légume frais AOP de France, ce haricot demi-sec blanc nacré est écossé à la main lors du \"plumage\". Le climat doux de la côte du Goëlo lui donne une texture fondante sans peau dure.",
       "en": "France's first fresh vegetable PDO, this pearly-white semi-dried bean is hand-shelled at the traditional \"plumage.\" The mild Goëlo coast climate gives it a melting texture with no tough skin."
     },
-    "tags": ["Vegetable", "PDO", "Coastal"]
+    "tags": [
+      "Vegetable",
+      "PDO",
+      "Coastal"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Coco_de_paimpol1.jpg/330px-Coco_de_paimpol1.jpg"
   },
   {
     "id": "ig-beaufort-savoie",
     "category": "ingredient",
-    "name": { "fr": "Beaufort de Savoie", "en": "Savoie Beaufort" },
+    "name": {
+      "fr": "Beaufort de Savoie",
+      "en": "Savoie Beaufort"
+    },
     "region": "Beaufortain, Savoie",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [45.7192, 6.5731],
+    "coordinates": [
+      45.7192,
+      6.5731
+    ],
     "description": {
       "fr": "Le \"prince des gruyères\" est fabriqué avec le lait des tarines et abondances pâturant jusqu'à 2 500 mètres. Sa meule concave, moulée dans un cercle de hêtre, cache une pâte fruitée aux arômes d'alpage.",
       "en": "The \"prince of gruyères\" is made from the milk of Tarine and Abondance cows grazing up to 2,500 meters. Its concave wheel, molded in a beechwood hoop, hides a fruity paste with high-pasture aromas."
     },
-    "tags": ["Cheese", "PDO", "Alpine"]
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Alpine"
+    ]
   },
   {
     "id": "ig-stilton-angleterre",
     "category": "ingredient",
-    "name": { "fr": "Stilton d'Angleterre", "en": "English Stilton" },
+    "name": {
+      "fr": "Stilton d'Angleterre",
+      "en": "English Stilton"
+    },
     "region": "Melton Mowbray, Midlands de l'Est",
-    "country": { "fr": "Royaume-Uni", "en": "United Kingdom" },
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
     "countryCode": "GB",
-    "coordinates": [52.7661, -0.886],
+    "coordinates": [
+      52.7661,
+      -0.886
+    ],
     "description": {
       "fr": "Le \"roi des fromages anglais\" ne peut être produit en AOP que dans trois comtés des Midlands. Persillé de bleu, à la texture friable devenant crémeuse, il accompagne traditionnellement le porto à Noël.",
       "en": "The \"king of English cheeses\" may only be made under PDO in three Midlands counties. Blue-veined, crumbly turning creamy, it is the traditional Christmas companion to port wine."
     },
-    "tags": ["Cheese", "PDO", "Blue"]
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Blue"
+    ]
   },
   {
     "id": "ig-pecorino-sardo",
     "category": "ingredient",
-    "name": { "fr": "Pecorino sardo", "en": "Pecorino sardo" },
+    "name": {
+      "fr": "Pecorino sardo",
+      "en": "Pecorino sardo"
+    },
     "region": "Macomer, Sardaigne",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [40.2661, 8.7714],
+    "coordinates": [
+      40.2661,
+      8.7714
+    ],
     "description": {
       "fr": "Le lait des brebis sardes, nourries de maquis et d'herbes sauvages, donne un fromage AOP dolce ou maturo. Vieilli, il développe des notes piquantes et rustiques qui relèvent pâtes et soupes insulaires.",
       "en": "Milk from Sardinian ewes grazing maquis and wild herbs yields this PDO cheese, dolce or maturo. Aged, it develops sharp, rustic notes that lift the island's pastas and soups."
     },
-    "tags": ["Cheese", "PDO", "Sheep"]
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Sheep"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Pecorino_Sardo_Cheese.jpg/330px-Pecorino_Sardo_Cheese.jpg"
   },
   {
     "id": "ig-burrata-andria",
     "category": "ingredient",
-    "name": { "fr": "Burrata di Andria", "en": "Burrata from Andria" },
+    "name": {
+      "fr": "Burrata di Andria",
+      "en": "Burrata from Andria"
+    },
     "region": "Andria, Pouilles",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [41.2266, 16.2966],
+    "coordinates": [
+      41.2266,
+      16.2966
+    ],
     "description": {
       "fr": "Née à Andria dans les années 1920 pour ne rien perdre de la mozzarella, la burrata IGP enferme une stracciatella crémeuse dans une poche de pâte filée. Ouverte, elle libère un cœur lacté opulent.",
       "en": "Created in Andria in the 1920s to use up mozzarella scraps, PGI burrata seals creamy stracciatella inside a pouch of stretched curd. Cut open, it spills an opulent milky heart."
     },
-    "tags": ["Cheese", "PGI", "Fresh"]
+    "tags": [
+      "Cheese",
+      "PGI",
+      "Fresh"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burrata_di_bufala_2.jpg/330px-Burrata_di_bufala_2.jpg"
   },
   {
     "id": "ig-epoisses-bourgogne",
     "category": "ingredient",
-    "name": { "fr": "Époisses de Bourgogne", "en": "Époisses de Bourgogne" },
+    "name": {
+      "fr": "Époisses de Bourgogne",
+      "en": "Époisses de Bourgogne"
+    },
     "region": "Époisses, Côte-d'Or",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [47.5075, 4.1736],
+    "coordinates": [
+      47.5075,
+      4.1736
+    ],
     "description": {
       "fr": "Ce fromage AOP à croûte lavée au marc de Bourgogne fut, dit-on, le préféré de Brillat-Savarin. Sous sa robe orangée, une pâte coulante aux arômes puissants, apprivoisée par des mois de soins en cave.",
       "en": "This PDO cheese, washed in marc de Bourgogne, was reputedly Brillat-Savarin's favorite. Beneath its orange rind lies a flowing paste of powerful aromas, tamed by months of cellar care."
     },
-    "tags": ["Cheese", "PDO", "Washed-rind"]
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Washed-rind"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%C3%89poisses_de_Bourgogne.jpg/330px-%C3%89poisses_de_Bourgogne.jpg"
   },
   {
     "id": "ig-oscypek-tatras",
     "category": "ingredient",
-    "name": { "fr": "Oscypek des Tatras", "en": "Tatra oscypek" },
+    "name": {
+      "fr": "Oscypek des Tatras",
+      "en": "Tatra oscypek"
+    },
     "region": "Zakopane, Podhale",
-    "country": { "fr": "Pologne", "en": "Poland" },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland"
+    },
     "countryCode": "PL",
-    "coordinates": [49.2992, 19.9496],
+    "coordinates": [
+      49.2992,
+      19.9496
+    ],
     "description": {
       "fr": "Fromage fumé en fuseau décoré, moulé à la main par les bergers gorales dans leurs cabanes d'alpage. Fait de lait de brebis des Tatras et fumé au bois d'épicéa, cet AOP se grille avec de la confiture d'airelles.",
       "en": "A decorated spindle-shaped smoked cheese, hand-molded by Góral shepherds in their mountain huts. Made from Tatra sheep's milk and smoked over spruce, this PDO is grilled and served with lingonberry jam."
     },
-    "tags": ["Cheese", "PDO", "Smoked"]
+    "tags": [
+      "Cheese",
+      "PDO",
+      "Smoked"
+    ]
   },
   {
     "id": "ig-gouda-vieux-hollande",
     "category": "ingredient",
-    "name": { "fr": "Gouda vieux de Hollande", "en": "Aged Dutch Gouda" },
+    "name": {
+      "fr": "Gouda vieux de Hollande",
+      "en": "Aged Dutch Gouda"
+    },
     "region": "Gouda, Hollande-Méridionale",
-    "country": { "fr": "Pays-Bas", "en": "Netherlands" },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+    },
     "countryCode": "NL",
-    "coordinates": [52.0116, 4.7105],
+    "coordinates": [
+      52.0116,
+      4.7105
+    ],
     "description": {
       "fr": "Négocié sur la place de Gouda depuis 1395, ce fromage des polders devient, après 24 mois, un \"oude kaas\" ambré. Cristaux croquants, notes de caramel et de noix : l'or vieilli des plats pays.",
       "en": "Traded on Gouda's market square since 1395, this polder cheese becomes an amber \"oude kaas\" after 24 months. Crunchy crystals and caramel-walnut notes: the aged gold of the Low Countries."
     },
-    "tags": ["Cheese", "Aged", "Historic"]
+    "tags": [
+      "Cheese",
+      "Aged",
+      "Historic"
+    ]
   },
   {
     "id": "ig-boeuf-galice",
     "category": "ingredient",
-    "name": { "fr": "Bœuf de Galice", "en": "Galician beef" },
+    "name": {
+      "fr": "Bœuf de Galice",
+      "en": "Galician beef"
+    },
     "region": "Lugo, Galice",
-    "country": { "fr": "Espagne", "en": "Spain" },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
     "countryCode": "ES",
-    "coordinates": [43.0097, -7.5568],
+    "coordinates": [
+      43.0097,
+      -7.5568
+    ],
     "description": {
       "fr": "Les vaches rubia gallega, élevées jusqu'à quinze ans sur les prairies atlantiques, donnent une viande persillée au gras jaune doré. Le chuletón galicien, longuement maturé, est culte chez les carnivores du monde entier.",
       "en": "Rubia gallega cows, raised up to fifteen years on Atlantic pastures, yield marbled meat with golden-yellow fat. The long-aged Galician chuletón has a cult following among carnivores worldwide."
     },
-    "tags": ["Meat", "Aged", "Pasture"]
+    "tags": [
+      "Meat",
+      "Aged",
+      "Pasture"
+    ]
   },
   {
     "id": "ig-agneau-sisteron",
     "category": "ingredient",
-    "name": { "fr": "Agneau de Sisteron", "en": "Sisteron lamb" },
+    "name": {
+      "fr": "Agneau de Sisteron",
+      "en": "Sisteron lamb"
+    },
     "region": "Sisteron, Alpes-de-Haute-Provence",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [44.195, 5.9439],
+    "coordinates": [
+      44.195,
+      5.9439
+    ],
     "description": {
       "fr": "Élevé sous la mère au moins 60 jours dans les bergeries de Haute-Provence, cet agneau IGP est l'héritier de la grande transhumance. Chair claire, tendre et délicate, parfumée par les herbes sèches des parcours provençaux.",
       "en": "Raised with its mother for at least 60 days in Haute-Provence sheepfolds, this PGI lamb is heir to the great transhumance. Pale, tender, delicate meat, perfumed by the dry herbs of Provençal rangelands."
     },
-    "tags": ["Meat", "PGI", "Pastoral"]
+    "tags": [
+      "Meat",
+      "PGI",
+      "Pastoral"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Midi_en_France_-_Agneau_de_Sault_1.JPG/330px-Midi_en_France_-_Agneau_de_Sault_1.JPG"
   },
   {
     "id": "ig-canard-challans",
     "category": "ingredient",
-    "name": { "fr": "Canard de Challans", "en": "Challans duck" },
+    "name": {
+      "fr": "Canard de Challans",
+      "en": "Challans duck"
+    },
     "region": "Challans, Vendée",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [46.8467, -1.875],
+    "coordinates": [
+      46.8467,
+      -1.875
+    ],
     "description": {
       "fr": "Élevé en liberté dans le marais breton-vendéen, le canard nantais de Challans est préparé selon la tradition pour préserver son sang et sa saveur. C'est lui que la Tour d'Argent numérote depuis 1890 pour son canard au sang.",
       "en": "Raised free-range in the Breton-Vendée marshes, the Challans duck is prepared in the traditional manner to preserve its blood and flavor. It is the numbered duck of La Tour d'Argent's canard au sang since 1890."
     },
-    "tags": ["Meat", "Free-range", "Gastronomic"]
+    "tags": [
+      "Meat",
+      "Free-range",
+      "Gastronomic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canard_de_Challans_-_%C3%A9comus%C3%A9e_Rennes_02.jpg/330px-Canard_de_Challans_-_%C3%A9comus%C3%A9e_Rennes_02.jpg"
   },
   {
     "id": "ig-bresaola-valteline",
     "category": "ingredient",
-    "name": { "fr": "Bresaola de la Valteline", "en": "Valtellina bresaola" },
+    "name": {
+      "fr": "Bresaola de la Valteline",
+      "en": "Valtellina bresaola"
+    },
     "region": "Sondrio, Valteline",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [46.1712, 9.8724],
+    "coordinates": [
+      46.1712,
+      9.8724
+    ],
     "description": {
       "fr": "Dans les vallées alpines de la Valteline, le bœuf salé aux épices sèche à l'air pur des montagnes pendant des semaines. Cette IGP rubis, maigre et fondante, se déguste en carpaccio avec huile, citron et roquette.",
       "en": "In the Alpine valleys of Valtellina, spiced salted beef air-dries in pure mountain air for weeks. This ruby-red PGI, lean and melting, is served carpaccio-style with oil, lemon and arugula."
     },
-    "tags": ["Meat", "PGI", "Air-dried"]
+    "tags": [
+      "Meat",
+      "PGI",
+      "Air-dried"
+    ]
   },
   {
     "id": "ig-culatello-zibello",
     "category": "ingredient",
-    "name": { "fr": "Culatello di Zibello", "en": "Culatello di Zibello" },
+    "name": {
+      "fr": "Culatello di Zibello",
+      "en": "Culatello di Zibello"
+    },
     "region": "Zibello, Émilie-Romagne",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [45.0186, 10.1289],
+    "coordinates": [
+      45.0186,
+      10.1289
+    ],
     "description": {
       "fr": "Cœur de la cuisse du porc affiné dans une vessie, le culatello AOP mûrit dans les caves humides des bords du Pô, caressé par le brouillard hivernal. Plus rare et plus précieux que tout autre jambon italien.",
       "en": "The heart of the pork thigh cured in a bladder, PDO culatello matures in humid cellars along the Po, caressed by winter fog. Rarer and more prized than any other Italian ham."
     },
-    "tags": ["Meat", "PDO", "Rare"]
+    "tags": [
+      "Meat",
+      "PDO",
+      "Rare"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Culatello_di_Zibello.jpg/330px-Culatello_di_Zibello.jpg"
   },
   {
     "id": "ig-saucisson-lyon",
     "category": "ingredient",
-    "name": { "fr": "Saucisson de Lyon", "en": "Lyon saucisson" },
+    "name": {
+      "fr": "Saucisson de Lyon",
+      "en": "Lyon saucisson"
+    },
     "region": "Lyon, Rhône",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [45.764, 4.8357],
+    "coordinates": [
+      45.764,
+      4.8357
+    ],
     "description": {
       "fr": "Rosette, jésus et saucisson à cuire pistaché forment la trilogie charcutière de la capitale des Gaules. Embossés dans le boyau naturel et séchés lentement, ils règnent sur les bouchons et le mâchon lyonnais.",
       "en": "Rosette, jésus and pistachio-studded cooking sausage form the charcuterie trilogy of Lyon. Cased in natural gut and slowly dried, they reign over the city's bouchons and the traditional mâchon."
     },
-    "tags": ["Meat", "Cured", "Traditional"]
+    "tags": [
+      "Meat",
+      "Cured",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saucisson_de_Lyon.jpg/330px-Saucisson_de_Lyon.jpg"
   },
   {
     "id": "ig-chorizo-cantimpalos",
     "category": "ingredient",
-    "name": { "fr": "Chorizo de Cantimpalos", "en": "Cantimpalos chorizo" },
+    "name": {
+      "fr": "Chorizo de Cantimpalos",
+      "en": "Cantimpalos chorizo"
+    },
     "region": "Cantimpalos, Ségovie",
-    "country": { "fr": "Espagne", "en": "Spain" },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
     "countryCode": "ES",
-    "coordinates": [41.0778, -4.1583],
+    "coordinates": [
+      41.0778,
+      -4.1583
+    ],
     "description": {
       "fr": "Sur les hauts plateaux froids et secs de Ségovie, le porc haché au pimentón sèche depuis le XIXe siècle. Cette IGP au rouge profond équilibre gras fondant, fumé doux et chaleur du paprika.",
       "en": "On the cold, dry Segovian plateau, pimentón-spiced pork has been cured since the 19th century. This deep-red PGI balances melting fat, gentle smoke and paprika warmth."
     },
-    "tags": ["Meat", "PGI", "Spiced"]
+    "tags": [
+      "Meat",
+      "PGI",
+      "Spiced"
+    ]
   },
   {
     "id": "ig-pastrami-new-york",
     "category": "ingredient",
-    "name": { "fr": "Pastrami de New York", "en": "New York pastrami" },
+    "name": {
+      "fr": "Pastrami de New York",
+      "en": "New York pastrami"
+    },
     "region": "Lower East Side, New York",
-    "country": { "fr": "États-Unis", "en": "United States" },
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
     "countryCode": "US",
-    "coordinates": [40.7183, -73.9878],
+    "coordinates": [
+      40.7183,
+      -73.9878
+    ],
     "description": {
       "fr": "Apporté par les immigrants juifs roumains dans les années 1880, le pastrami est une poitrine de bœuf saumurée, épicée, fumée puis vaporisée. Tranché chaud sur pain de seigle, il est l'âme des delis new-yorkais.",
       "en": "Brought by Romanian Jewish immigrants in the 1880s, pastrami is beef brisket brined, spiced, smoked then steamed. Sliced hot on rye bread, it is the soul of the New York deli."
     },
-    "tags": ["Meat", "Smoked", "Deli"]
+    "tags": [
+      "Meat",
+      "Smoked",
+      "Deli"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ben%27s_Best_Deli_Rego_Park_pastrami_sandwich.jpg/330px-Ben%27s_Best_Deli_Rego_Park_pastrami_sandwich.jpg"
   },
   {
     "id": "ig-biltong-karoo",
     "category": "ingredient",
-    "name": { "fr": "Biltong du Karoo", "en": "Karoo biltong" },
+    "name": {
+      "fr": "Biltong du Karoo",
+      "en": "Karoo biltong"
+    },
     "region": "Graaff-Reinet, Karoo",
-    "country": { "fr": "Afrique du Sud", "en": "South Africa" },
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
     "countryCode": "ZA",
-    "coordinates": [-32.2522, 24.5405],
+    "coordinates": [
+      -32.2522,
+      24.5405
+    ],
     "description": {
       "fr": "Héritage des voortrekkers, le biltong est une viande de bœuf ou de gibier marinée au vinaigre et à la coriandre puis séchée à l'air. L'air sec du Karoo et les herbes arbustives donnent aux meilleures pièces leur goût profond.",
       "en": "A voortrekker legacy, biltong is beef or game marinated in vinegar and coriander then air-dried. The Karoo's dry air and scrubland herbs give the finest pieces their deep flavor."
     },
-    "tags": ["Meat", "Air-dried", "Heritage"]
+    "tags": [
+      "Meat",
+      "Air-dried",
+      "Heritage"
+    ]
   },
   {
     "id": "ig-sardine-setubal",
     "category": "ingredient",
-    "name": { "fr": "Sardine de Setúbal", "en": "Setúbal sardine" },
+    "name": {
+      "fr": "Sardine de Setúbal",
+      "en": "Setúbal sardine"
+    },
     "region": "Setúbal, côte atlantique",
-    "country": { "fr": "Portugal", "en": "Portugal" },
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal"
+    },
     "countryCode": "PT",
-    "coordinates": [38.5244, -8.8882],
+    "coordinates": [
+      38.5244,
+      -8.8882
+    ],
     "description": {
       "fr": "Grasses des eaux froides de l'Atlantique, les sardines de Setúbal ont bâti la grande tradition des conserveries portugaises dès le XIXe siècle. Grillées l'été ou mises en boîte à l'huile d'olive, elles sont un trésor national.",
       "en": "Fattened in cold Atlantic waters, Setúbal sardines built Portugal's great canning tradition from the 19th century. Grilled in summer or tinned in olive oil, they are a national treasure."
     },
-    "tags": ["Seafood", "Canned", "Traditional"]
+    "tags": [
+      "Seafood",
+      "Canned",
+      "Traditional"
+    ]
   },
   {
     "id": "ig-saumon-alaska",
     "category": "ingredient",
-    "name": { "fr": "Saumon sauvage d'Alaska", "en": "Wild Alaska salmon" },
+    "name": {
+      "fr": "Saumon sauvage d'Alaska",
+      "en": "Wild Alaska salmon"
+    },
     "region": "Bristol Bay, Alaska",
-    "country": { "fr": "États-Unis", "en": "United States" },
+    "country": {
+      "fr": "États-Unis",
+      "en": "United States"
+    },
     "countryCode": "US",
-    "coordinates": [59.0397, -158.4575],
+    "coordinates": [
+      59.0397,
+      -158.4575
+    ],
     "description": {
       "fr": "Bristol Bay accueille la plus grande remontée de saumons rouges au monde, des dizaines de millions de poissons chaque été. Chair ferme, rouge intense et riche en oméga-3, issue d'une pêcherie sauvage exemplaire.",
       "en": "Bristol Bay hosts the world's largest sockeye salmon run, tens of millions of fish each summer. Firm, deep-red, omega-3-rich flesh from an exemplary wild fishery."
     },
-    "tags": ["Seafood", "Wild", "Sustainable"]
+    "tags": [
+      "Seafood",
+      "Wild",
+      "Sustainable"
+    ]
   },
   {
     "id": "ig-crevette-grise-oostduinkerke",
     "category": "ingredient",
-    "name": { "fr": "Crevette grise de la mer du Nord", "en": "North Sea grey shrimp" },
+    "name": {
+      "fr": "Crevette grise de la mer du Nord",
+      "en": "North Sea grey shrimp"
+    },
     "region": "Oostduinkerke, Flandre-Occidentale",
-    "country": { "fr": "Belgique", "en": "Belgium" },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium"
+    },
     "countryCode": "BE",
-    "coordinates": [51.1119, 2.6817],
+    "coordinates": [
+      51.1119,
+      2.6817
+    ],
     "description": {
       "fr": "À Oostduinkerke, on pêche encore la crevette grise à cheval dans les vagues, tradition classée à l'UNESCO. Petite, iodée et sucrée, décortiquée à la main, elle garnit croquettes et tomates-crevettes belges.",
       "en": "In Oostduinkerke, grey shrimp are still fished on horseback through the surf, a UNESCO-listed tradition. Small, briny and sweet, hand-peeled, they fill Belgium's croquettes and tomates-crevettes."
     },
-    "tags": ["Seafood", "UNESCO", "Artisanal"]
+    "tags": [
+      "Seafood",
+      "UNESCO",
+      "Artisanal"
+    ]
   },
   {
     "id": "ig-poulpe-galice",
     "category": "ingredient",
-    "name": { "fr": "Poulpe de Galice", "en": "Galician octopus" },
+    "name": {
+      "fr": "Poulpe de Galice",
+      "en": "Galician octopus"
+    },
     "region": "O Grove, Rías Baixas",
-    "country": { "fr": "Espagne", "en": "Spain" },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
     "countryCode": "ES",
-    "coordinates": [42.4936, -8.865],
+    "coordinates": [
+      42.4936,
+      -8.865
+    ],
     "description": {
       "fr": "Les rias galiciennes, riches en nutriments atlantiques, nourrissent un poulpe à la chair épaisse et tendre. Cuit au chaudron de cuivre et servi \"á feira\" avec pimentón et huile d'olive, c'est le plat totem de la Galice.",
       "en": "Galicia's nutrient-rich Atlantic rias feed an octopus of thick, tender flesh. Boiled in copper cauldrons and served \"á feira\" with pimentón and olive oil, it is Galicia's totemic dish."
     },
-    "tags": ["Seafood", "Atlantic", "Traditional"]
+    "tags": [
+      "Seafood",
+      "Atlantic",
+      "Traditional"
+    ]
   },
   {
     "id": "ig-anguille-fumee-volendam",
     "category": "ingredient",
-    "name": { "fr": "Anguille fumée de Hollande", "en": "Dutch smoked eel" },
+    "name": {
+      "fr": "Anguille fumée de Hollande",
+      "en": "Dutch smoked eel"
+    },
     "region": "Volendam, IJsselmeer",
-    "country": { "fr": "Pays-Bas", "en": "Netherlands" },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+    },
     "countryCode": "NL",
-    "coordinates": [52.495, 5.0717],
+    "coordinates": [
+      52.495,
+      5.0717
+    ],
     "description": {
       "fr": "Les villages de pêcheurs de l'IJsselmeer fument l'anguille au bois de hêtre depuis des siècles. Grasse, nacrée et délicatement boisée, la paling fumée se déguste simplement sur un petit pain, face au port.",
       "en": "The fishing villages of the IJsselmeer have beech-smoked eel for centuries. Rich, pearly and delicately woody, gerookte paling is best eaten simply on a soft roll, facing the harbor."
     },
-    "tags": ["Seafood", "Smoked", "Heritage"]
+    "tags": [
+      "Seafood",
+      "Smoked",
+      "Heritage"
+    ]
   },
   {
     "id": "ig-saint-jacques-baie-seine",
     "category": "ingredient",
-    "name": { "fr": "Coquille Saint-Jacques de la baie de Seine", "en": "Bay of Seine scallop" },
+    "name": {
+      "fr": "Coquille Saint-Jacques de la baie de Seine",
+      "en": "Bay of Seine scallop"
+    },
     "region": "Port-en-Bessin, Normandie",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [49.3481, -0.755],
+    "coordinates": [
+      49.3481,
+      -0.755
+    ],
     "description": {
       "fr": "D'octobre à mai, les coquillards normands draguent la Pecten maximus sur les gisements de la baie de Seine. Sa noix ivoire, charnue et naturellement sucrée, bénéficie du Label Rouge et fait la fierté des criées normandes.",
       "en": "From October to May, Norman scallop boats dredge Pecten maximus from the Bay of Seine beds. Its ivory, meaty, naturally sweet nut carries the Label Rouge and is the pride of Normandy's fish auctions."
     },
-    "tags": ["Seafood", "Label Rouge", "Seasonal"]
+    "tags": [
+      "Seafood",
+      "Label Rouge",
+      "Seasonal"
+    ]
   },
   {
     "id": "ig-boutargue-cabras",
     "category": "ingredient",
-    "name": { "fr": "Boutargue de Cabras", "en": "Cabras bottarga" },
+    "name": {
+      "fr": "Boutargue de Cabras",
+      "en": "Cabras bottarga"
+    },
     "region": "Cabras, Sardaigne",
-    "country": { "fr": "Italie", "en": "Italy" },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
     "countryCode": "IT",
-    "coordinates": [39.9283, 8.5322],
+    "coordinates": [
+      39.9283,
+      8.5322
+    ],
     "description": {
       "fr": "Dans la lagune de Cabras, les œufs de mulet sont salés, pressés et séchés selon un savoir-faire hérité des Phéniciens. Ce \"caviar de Sardaigne\" ambré se râpe sur les spaghetti ou se tranche finement à l'huile d'olive.",
       "en": "In the Cabras lagoon, grey mullet roe is salted, pressed and dried following know-how inherited from the Phoenicians. This amber \"Sardinian caviar\" is grated over spaghetti or thinly sliced with olive oil."
     },
-    "tags": ["Seafood", "Cured", "Ancestral"]
+    "tags": [
+      "Seafood",
+      "Cured",
+      "Ancestral"
+    ]
   },
   {
     "id": "ig-katsuobushi-makurazaki",
     "category": "ingredient",
-    "name": { "fr": "Katsuobushi de Makurazaki", "en": "Makurazaki katsuobushi" },
+    "name": {
+      "fr": "Katsuobushi de Makurazaki",
+      "en": "Makurazaki katsuobushi"
+    },
     "region": "Makurazaki, Kagoshima",
-    "country": { "fr": "Japon", "en": "Japan" },
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
     "countryCode": "JP",
-    "coordinates": [31.2728, 130.2969],
+    "coordinates": [
+      31.2728,
+      130.2969
+    ],
     "description": {
       "fr": "À Makurazaki, la bonite est fumée, séchée et affinée par moisissure noble pendant des mois jusqu'à devenir dure comme du bois. Rabotée en copeaux, elle libère l'umami fondateur du dashi japonais.",
       "en": "In Makurazaki, skipjack tuna is smoked, dried and mold-ripened for months until hard as wood. Shaved into flakes, it releases the foundational umami of Japanese dashi."
     },
-    "tags": ["Seafood", "Fermented", "Umami"]
+    "tags": [
+      "Seafood",
+      "Fermented",
+      "Umami"
+    ]
   },
   {
     "id": "ig-pois-chiche-kabylie",
     "category": "ingredient",
-    "name": { "fr": "Pois chiche de Kabylie", "en": "Kabylie chickpea" },
+    "name": {
+      "fr": "Pois chiche de Kabylie",
+      "en": "Kabylie chickpea"
+    },
     "region": "Tizi Ouzou, Kabylie",
-    "country": { "fr": "Algérie", "en": "Algeria" },
+    "country": {
+      "fr": "Algérie",
+      "en": "Algeria"
+    },
     "countryCode": "DZ",
-    "coordinates": [36.7169, 4.0497],
+    "coordinates": [
+      36.7169,
+      4.0497
+    ],
     "description": {
       "fr": "Sur les collines du Djurdjura, le pois chiche est cultivé en sec selon des pratiques paysannes ancestrales. Petit et dense, à la peau fine, il tient la cuisson et parfume couscous, hmiss et soupes berbères.",
       "en": "On the hills of the Djurdjura, chickpeas are dry-farmed following ancestral peasant practices. Small and dense with thin skins, they hold their shape and flavor couscous, hmiss and Berber soups."
     },
-    "tags": ["Legume", "Ancestral", "Mountain"]
+    "tags": [
+      "Legume",
+      "Ancestral",
+      "Mountain"
+    ]
   },
   {
     "id": "ig-haricot-tarbais",
     "category": "ingredient",
-    "name": { "fr": "Haricot tarbais", "en": "Tarbais bean" },
+    "name": {
+      "fr": "Haricot tarbais",
+      "en": "Tarbais bean"
+    },
     "region": "Tarbes, Hautes-Pyrénées",
-    "country": { "fr": "France", "en": "France" },
+    "country": {
+      "fr": "France",
+      "en": "France"
+    },
     "countryCode": "FR",
-    "coordinates": [43.233, 0.0781],
+    "coordinates": [
+      43.233,
+      0.0781
+    ],
     "description": {
       "fr": "Cultivé en grimpant sur les tiges de maïs face aux Pyrénées, ce grand haricot blanc IGP a une peau fine qui n'éclate pas à la cuisson. Fondant et jamais farineux, il est l'âme du véritable cassoulet et de la garbure.",
       "en": "Grown climbing up maize stalks facing the Pyrenees, this large white PGI bean has a thin skin that never bursts in cooking. Melting and never mealy, it is the soul of true cassoulet and garbure."
     },
-    "tags": ["Legume", "PGI", "Traditional"]
+    "tags": [
+      "Legume",
+      "PGI",
+      "Traditional"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Haricot_tarbais.jpg/330px-Haricot_tarbais.jpg"
   },
   {
     "id": "ig-teff-ethiopie",
     "category": "ingredient",
-    "name": { "fr": "Teff d'Éthiopie", "en": "Ethiopian teff" },
+    "name": {
+      "fr": "Teff d'Éthiopie",
+      "en": "Ethiopian teff"
+    },
     "region": "Hauts plateaux, Oromia",
-    "country": { "fr": "Éthiopie", "en": "Ethiopia" },
+    "country": {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+    },
     "countryCode": "ET",
-    "coordinates": [8.9806, 38.7578],
+    "coordinates": [
+      8.9806,
+      38.7578
+    ],
     "description": {
       "fr": "La plus petite céréale du monde est domestiquée sur les hauts plateaux éthiopiens depuis des millénaires. Sans gluten, riche en fer et en calcium, sa farine fermentée donne l'injera, galette-mère de la table éthiopienne.",
       "en": "The world's smallest grain has been domesticated on the Ethiopian highlands for millennia. Gluten-free, rich in iron and calcium, its fermented flour makes injera, the mother flatbread of the Ethiopian table."
     },
-    "tags": ["Grain", "Ancestral", "Gluten-free"]
+    "tags": [
+      "Grain",
+      "Ancestral",
+      "Gluten-free"
+    ]
   },
   {
     "id": "ig-avoine-ecosse",
     "category": "ingredient",
-    "name": { "fr": "Avoine d'Écosse", "en": "Scottish oats" },
+    "name": {
+      "fr": "Avoine d'Écosse",
+      "en": "Scottish oats"
+    },
     "region": "Aberdeenshire, nord-est de l'Écosse",
-    "country": { "fr": "Royaume-Uni", "en": "United Kingdom" },
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
     "countryCode": "GB",
-    "coordinates": [57.2869, -2.3816],
+    "coordinates": [
+      57.2869,
+      -2.3816
+    ],
     "description": {
       "fr": "Le climat frais et humide de l'Écosse donne une avoine dense et savoureuse, moulue à la meule dans des moulins centenaires. Base du porridge, des oatcakes et du haggis, elle est l'aliment fondateur de la nation.",
       "en": "Scotland's cool, damp climate produces dense, flavorful oats, stone-ground in century-old mills. The base of porridge, oatcakes and haggis, they are the nation's founding food."
     },
-    "tags": ["Grain", "Stone-ground", "Heritage"]
+    "tags": [
+      "Grain",
+      "Stone-ground",
+      "Heritage"
+    ]
   },
   {
     "id": "ig-seigle-finlande",
     "category": "ingredient",
-    "name": { "fr": "Seigle de Finlande", "en": "Finnish rye" },
+    "name": {
+      "fr": "Seigle de Finlande",
+      "en": "Finnish rye"
+    },
     "region": "Loimaa, Finlande du Sud-Ouest",
-    "country": { "fr": "Finlande", "en": "Finland" },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland"
+    },
     "countryCode": "FI",
-    "coordinates": [60.85, 23.05],
+    "coordinates": [
+      60.85,
+      23.05
+    ],
     "description": {
       "fr": "Mûri sous le soleil de minuit et les étés courts du Nord, le seigle finlandais est dense et aromatique. Fermenté au levain, il donne le ruisleipä, pain noir national élu aliment emblème de la Finlande.",
       "en": "Ripened under the midnight sun and short northern summers, Finnish rye is dense and aromatic. Sourdough-fermented, it becomes ruisleipä, the dark national bread voted Finland's emblematic food."
     },
-    "tags": ["Grain", "Nordic", "Sourdough"]
+    "tags": [
+      "Grain",
+      "Nordic",
+      "Sourdough"
+    ]
   },
   {
     "id": "ig-mais-bleu-oaxaca",
     "category": "ingredient",
-    "name": { "fr": "Maïs bleu de Oaxaca", "en": "Oaxacan blue corn" },
+    "name": {
+      "fr": "Maïs bleu de Oaxaca",
+      "en": "Oaxacan blue corn"
+    },
     "region": "Vallées centrales, Oaxaca",
-    "country": { "fr": "Mexique", "en": "Mexico" },
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
     "countryCode": "MX",
-    "coordinates": [17.0732, -96.7266],
+    "coordinates": [
+      17.0732,
+      -96.7266
+    ],
     "description": {
       "fr": "Les milpas de Oaxaca conservent des dizaines de variétés natives de maïs, dont le bleu-violet riche en anthocyanes. Nixtamalisé et façonné à la main, il donne tortillas, tlayudas et tétélas d'un goût profond.",
       "en": "Oaxaca's milpas preserve dozens of native corn landraces, including the anthocyanin-rich blue-purple. Nixtamalized and hand-shaped, it yields tortillas, tlayudas and tetelas of deep flavor."
     },
-    "tags": ["Grain", "Native", "Ancestral"]
+    "tags": [
+      "Grain",
+      "Native",
+      "Ancestral"
+    ]
   },
   {
     "id": "ig-fonio-fouta-djallon",
     "category": "ingredient",
-    "name": { "fr": "Fonio du Fouta-Djalon", "en": "Fouta Djallon fonio" },
+    "name": {
+      "fr": "Fonio du Fouta-Djalon",
+      "en": "Fouta Djallon fonio"
+    },
     "region": "Labé, Fouta-Djalon",
-    "country": { "fr": "Guinée", "en": "Guinea" },
+    "country": {
+      "fr": "Guinée",
+      "en": "Guinea"
+    },
     "countryCode": "GN",
-    "coordinates": [11.3182, -12.2865],
+    "coordinates": [
+      11.3182,
+      -12.2865
+    ],
     "description": {
       "fr": "Cultivé depuis 5 000 ans sur les plateaux du Fouta-Djalon, le fonio est la plus ancienne céréale d'Afrique de l'Ouest. Minuscule, sans gluten et prêt en quelques minutes, \"il ne fait jamais honte à la cuisinière\", dit le proverbe.",
       "en": "Grown for 5,000 years on the Fouta Djallon plateaus, fonio is West Africa's oldest cereal. Tiny, gluten-free and cooked in minutes — \"it never embarrasses the cook,\" says the proverb."
     },
-    "tags": ["Grain", "Ancestral", "Gluten-free"]
+    "tags": [
+      "Grain",
+      "Ancestral",
+      "Gluten-free"
+    ]
   },
   {
     "id": "ig-sumac-gaziantep",
     "category": "ingredient",
-    "name": { "fr": "Sumac de Gaziantep", "en": "Gaziantep sumac" },
+    "name": {
+      "fr": "Sumac de Gaziantep",
+      "en": "Gaziantep sumac"
+    },
     "region": "Gaziantep, Anatolie du Sud-Est",
-    "country": { "fr": "Turquie", "en": "Turkey" },
+    "country": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
     "countryCode": "TR",
-    "coordinates": [37.0662, 37.3833],
+    "coordinates": [
+      37.0662,
+      37.3833
+    ],
     "description": {
       "fr": "Les baies rouge sombre du sumac sauvage sont séchées et moulues dans la région de Gaziantep, ville créative UNESCO de la gastronomie. Son acidité fruitée et citronnée relève kebabs, salades et oignons au sumac.",
       "en": "The dark-red berries of wild sumac are dried and ground around Gaziantep, a UNESCO creative city of gastronomy. Its fruity, lemony tang brightens kebabs, salads and sumac onions."
     },
-    "tags": ["Spice", "Tangy", "Anatolian"]
+    "tags": [
+      "Spice",
+      "Tangy",
+      "Anatolian"
+    ]
   },
   {
     "id": "ig-zaatar-liban",
     "category": "ingredient",
-    "name": { "fr": "Za'atar du Levant", "en": "Levantine za'atar" },
+    "name": {
+      "fr": "Za'atar du Levant",
+      "en": "Levantine za'atar"
+    },
     "region": "Mont Liban, Liban",
-    "country": { "fr": "Liban", "en": "Lebanon" },
+    "country": {
+      "fr": "Liban",
+      "en": "Lebanon"
+    },
     "countryCode": "LB",
-    "coordinates": [33.95, 35.75],
+    "coordinates": [
+      33.95,
+      35.75
+    ],
     "description": {
       "fr": "Mélange d'origan sauvage des collines levantines, de sumac, de sésame grillé et de sel, le za'atar parfume le Levant depuis l'Antiquité. Sur la man'ouché du matin ou dans l'huile d'olive, il est mémoire et identité.",
       "en": "A blend of wild oregano from the Levantine hills, sumac, toasted sesame and salt, za'atar has scented the Levant since antiquity. On the morning man'ouché or in olive oil, it is memory and identity."
     },
-    "tags": ["Spice", "Blend", "Levantine"]
+    "tags": [
+      "Spice",
+      "Blend",
+      "Levantine"
+    ]
   },
   {
     "id": "ig-poivre-sichuan-hanyuan",
     "category": "ingredient",
-    "name": { "fr": "Poivre du Sichuan de Hanyuan", "en": "Hanyuan Sichuan pepper" },
+    "name": {
+      "fr": "Poivre du Sichuan de Hanyuan",
+      "en": "Hanyuan Sichuan pepper"
+    },
     "region": "Hanyuan, Sichuan",
-    "country": { "fr": "Chine", "en": "China" },
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
     "countryCode": "CN",
-    "coordinates": [29.345, 102.645],
+    "coordinates": [
+      29.345,
+      102.645
+    ],
     "description": {
       "fr": "Le huajiao de Hanyuan, jadis tribut impérial, pousse sur les pentes arides de la vallée du Dadu. Ses baies rouges provoquent le fameux málà, picotement engourdissant et parfum d'agrumes du feu sichuanais.",
       "en": "Hanyuan huajiao, once imperial tribute, grows on the arid slopes of the Dadu valley. Its red husks deliver the famous málà — the numbing tingle and citrus perfume of Sichuan fire."
     },
-    "tags": ["Spice", "Numbing", "Imperial"]
+    "tags": [
+      "Spice",
+      "Numbing",
+      "Imperial"
+    ]
   },
   {
     "id": "ig-paprika-szeged",
     "category": "ingredient",
-    "name": { "fr": "Paprika de Szeged", "en": "Szeged paprika" },
+    "name": {
+      "fr": "Paprika de Szeged",
+      "en": "Szeged paprika"
+    },
     "region": "Szeged, Grande Plaine du Sud",
-    "country": { "fr": "Hongrie", "en": "Hungary" },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary"
+    },
     "countryCode": "HU",
-    "coordinates": [46.253, 20.1414],
+    "coordinates": [
+      46.253,
+      20.1414
+    ],
     "description": {
       "fr": "Sur les rives ensoleillées de la Tisza, les piments sont séchés en guirlandes écarlates puis moulus depuis le XVIIIe siècle. Le paprika AOP de Szeged, doux ou fort, est l'âme du goulasch et de la cuisine magyare.",
       "en": "On the sunny banks of the Tisza, peppers have been dried in scarlet garlands and ground since the 18th century. PDO Szeged paprika, sweet or hot, is the soul of goulash and Magyar cooking."
     },
-    "tags": ["Spice", "PDO", "Iconic"]
+    "tags": [
+      "Spice",
+      "PDO",
+      "Iconic"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kot%C3%A1nyi_J%C3%A1nos_Paprika_malma.jpg/330px-Kot%C3%A1nyi_J%C3%A1nos_Paprika_malma.jpg"
   },
   {
     "id": "ig-ras-el-hanout-fes",
     "category": "ingredient",
-    "name": { "fr": "Ras el hanout de Fès", "en": "Fez ras el hanout" },
+    "name": {
+      "fr": "Ras el hanout de Fès",
+      "en": "Fez ras el hanout"
+    },
     "region": "Médina de Fès, Fès-Meknès",
-    "country": { "fr": "Maroc", "en": "Morocco" },
+    "country": {
+      "fr": "Maroc",
+      "en": "Morocco"
+    },
     "countryCode": "MA",
-    "coordinates": [34.0331, -5.0003],
+    "coordinates": [
+      34.0331,
+      -5.0003
+    ],
     "description": {
       "fr": "\"La tête de la boutique\" : chaque épicier de la médina de Fès compose son mélange secret, parfois de plus de trente épices, rose et bouton de cassie compris. Il couronne tajines, couscous et mrouzia.",
       "en": "\"The head of the shop\": every spice merchant in the Fez medina blends his own secret mix, sometimes over thirty spices including rose and cassie buds. It crowns tagines, couscous and mrouzia."
     },
-    "tags": ["Spice", "Blend", "Artisanal"]
+    "tags": [
+      "Spice",
+      "Blend",
+      "Artisanal"
+    ]
   },
   {
     "id": "ig-miso-shinshu-nagano",
     "category": "ingredient",
-    "name": { "fr": "Miso shinshu de Nagano", "en": "Nagano shinshu miso" },
+    "name": {
+      "fr": "Miso shinshu de Nagano",
+      "en": "Nagano shinshu miso"
+    },
     "region": "Nagano, Shinshū",
-    "country": { "fr": "Japon", "en": "Japan" },
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
     "countryCode": "JP",
-    "coordinates": [36.6513, 138.181],
+    "coordinates": [
+      36.6513,
+      138.181
+    ],
     "description": {
       "fr": "La préfecture de Nagano produit près de la moitié du miso japonais, grâce à son eau de montagne pure et ses hivers froids. Le miso shinshu, doré et équilibré, fermente en cuves de cèdre pendant des mois.",
       "en": "Nagano prefecture makes nearly half of Japan's miso, thanks to pure mountain water and cold winters. Golden, balanced shinshu miso ferments in cedar vats for months."
     },
-    "tags": ["Condiment", "Fermented", "Umami"]
+    "tags": [
+      "Condiment",
+      "Fermented",
+      "Umami"
+    ]
   },
   {
     "id": "ig-sauce-soja-noda",
     "category": "ingredient",
-    "name": { "fr": "Sauce soja de Noda", "en": "Noda soy sauce" },
+    "name": {
+      "fr": "Sauce soja de Noda",
+      "en": "Noda soy sauce"
+    },
     "region": "Noda, Chiba",
-    "country": { "fr": "Japon", "en": "Japan" },
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
     "countryCode": "JP",
-    "coordinates": [35.955, 139.8747],
+    "coordinates": [
+      35.955,
+      139.8747
+    ],
     "description": {
       "fr": "Au confluent de deux rivières qui portaient soja, blé et sel jusqu'à Edo, Noda brasse le shoyu depuis le XVIIe siècle. Ses brasseries historiques y perpétuent la fermentation lente en fûts de cèdre.",
       "en": "At the confluence of two rivers that carried soybeans, wheat and salt to Edo, Noda has brewed shoyu since the 17th century. Its historic breweries still practice slow fermentation in cedar barrels."
     },
-    "tags": ["Condiment", "Fermented", "Historic"]
+    "tags": [
+      "Condiment",
+      "Fermented",
+      "Historic"
+    ]
   },
   {
     "id": "ig-nuoc-mam-phu-quoc",
     "category": "ingredient",
-    "name": { "fr": "Nuoc-mâm de Phú Quốc", "en": "Phú Quốc fish sauce" },
+    "name": {
+      "fr": "Nuoc-mâm de Phú Quốc",
+      "en": "Phú Quốc fish sauce"
+    },
     "region": "Île de Phú Quốc, Kiên Giang",
-    "country": { "fr": "Viêt Nam", "en": "Vietnam" },
+    "country": {
+      "fr": "Viêt Nam",
+      "en": "Vietnam"
+    },
     "countryCode": "VN",
-    "coordinates": [10.227, 103.9637],
+    "coordinates": [
+      10.227,
+      103.9637
+    ],
     "description": {
       "fr": "Les anchois cá cơm du golfe de Thaïlande fermentent un an dans d'immenses cuves de bois sur l'île de Phú Quốc. Première AOP vietnamienne reconnue par l'Europe, ce nuoc-mâm ambré concentre un umami profond.",
       "en": "Cá cơm anchovies from the Gulf of Thailand ferment for a year in giant wooden vats on Phú Quốc island. The first Vietnamese PDO recognized by Europe, this amber fish sauce concentrates profound umami."
     },
-    "tags": ["Condiment", "PDO", "Fermented"]
+    "tags": [
+      "Condiment",
+      "PDO",
+      "Fermented"
+    ]
   },
   {
     "id": "ig-miel-sidr-yemen",
     "category": "ingredient",
-    "name": { "fr": "Miel de Sidr du Yémen", "en": "Yemeni Sidr honey" },
+    "name": {
+      "fr": "Miel de Sidr du Yémen",
+      "en": "Yemeni Sidr honey"
+    },
     "region": "Wadi Do'an, Hadramaout",
-    "country": { "fr": "Yémen", "en": "Yemen" },
+    "country": {
+      "fr": "Yémen",
+      "en": "Yemen"
+    },
     "countryCode": "YE",
-    "coordinates": [15.15, 48.35],
+    "coordinates": [
+      15.15,
+      48.35
+    ],
     "description": {
       "fr": "Récolté quelques semaines par an sur les jujubiers sauvages des canyons du Hadramaout, le miel de Sidr est l'un des plus chers du monde. Ambre foncé, caramélisé et médicinal, il se transmet comme un trésor.",
       "en": "Harvested just a few weeks a year from wild jujube trees in the Hadramawt canyons, Sidr honey is among the world's most expensive. Dark amber, caramelized and medicinal, it is passed down like treasure."
     },
-    "tags": ["Honey", "Rare", "Medicinal"]
+    "tags": [
+      "Honey",
+      "Rare",
+      "Medicinal"
+    ]
   },
   {
     "id": "ig-the-puerh-yunnan",
     "category": "ingredient",
-    "name": { "fr": "Thé pu-erh du Yunnan", "en": "Yunnan pu-erh tea" },
+    "name": {
+      "fr": "Thé pu-erh du Yunnan",
+      "en": "Yunnan pu-erh tea"
+    },
     "region": "Xishuangbanna, Yunnan",
-    "country": { "fr": "Chine", "en": "China" },
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
     "countryCode": "CN",
-    "coordinates": [21.9575, 100.4478],
+    "coordinates": [
+      21.9575,
+      100.4478
+    ],
     "description": {
       "fr": "Issu de théiers anciens parfois millénaires des montagnes du Yunnan, le pu-erh est compressé en galettes qui se bonifient des décennies. Sa liqueur sombre, terreuse et boisée, s'échange comme un grand cru.",
       "en": "From ancient tea trees, some a thousand years old, in the Yunnan mountains, pu-erh is pressed into cakes that improve for decades. Its dark, earthy, woody liquor is traded like fine wine."
     },
-    "tags": ["Tea", "Fermented", "Aged"]
+    "tags": [
+      "Tea",
+      "Fermented",
+      "Aged"
+    ]
   },
   {
     "id": "ig-mate-misiones",
     "category": "ingredient",
-    "name": { "fr": "Yerba maté de Misiones", "en": "Misiones yerba mate" },
+    "name": {
+      "fr": "Yerba maté de Misiones",
+      "en": "Misiones yerba mate"
+    },
     "region": "Apóstoles, Misiones",
-    "country": { "fr": "Argentine", "en": "Argentina" },
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
     "countryCode": "AR",
-    "coordinates": [-27.9061, -55.755],
+    "coordinates": [
+      -27.9061,
+      -55.755
+    ],
     "description": {
       "fr": "Sur les terres rouges subtropicales de Misiones, la yerba maté est cultivée depuis les missions jésuites du XVIIe siècle. Séchée au feu et vieillie, elle donne l'infusion herbacée et tonique que l'Argentine partage à la calebasse.",
       "en": "On the red subtropical soils of Misiones, yerba mate has been cultivated since the 17th-century Jesuit missions. Fire-dried and aged, it yields the grassy, invigorating brew Argentina shares from the gourd."
     },
-    "tags": ["Infusion", "Traditional", "Social"]
+    "tags": [
+      "Infusion",
+      "Traditional",
+      "Social"
+    ]
   },
   {
     "id": "ig-fleur-oranger-nabeul",
     "category": "ingredient",
-    "name": { "fr": "Eau de fleur d'oranger de Nabeul", "en": "Nabeul orange blossom water" },
+    "name": {
+      "fr": "Eau de fleur d'oranger de Nabeul",
+      "en": "Nabeul orange blossom water"
+    },
     "region": "Nabeul, Cap Bon",
-    "country": { "fr": "Tunisie", "en": "Tunisia" },
+    "country": {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+    },
     "countryCode": "TN",
-    "coordinates": [36.4561, 10.7376],
+    "coordinates": [
+      36.4561,
+      10.7376
+    ],
     "description": {
       "fr": "Chaque printemps, les fleurs du bigaradier du Cap Bon sont cueillies à l'aube puis distillées à l'alambic de cuivre selon la tradition familiale. Ce zhar parfume pâtisseries, café et rituels de mariage tunisiens.",
       "en": "Each spring, bitter-orange blossoms from Cap Bon are picked at dawn and distilled in copper stills by family tradition. This zhar perfumes Tunisian pastries, coffee and wedding rituals."
     },
-    "tags": ["Floral water", "Artisanal", "Spring"]
+    "tags": [
+      "Floral water",
+      "Artisanal",
+      "Spring"
+    ]
   }
 ]

@@ -113,9 +113,17 @@ export default function AtlasMap({ points, locale, onSelect, flyTarget }: AtlasM
         [-85, -180],
         [85, 180],
       ]}
-      maxBoundsViscosity={1}
+      maxBoundsViscosity={0.85}
       className="h-screen w-screen"
       zoomControl={true}
+      scrollWheelZoom
+      doubleClickZoom
+      wheelPxPerZoomLevel={40}
+      wheelDebounceTime={25}
+      zoomAnimation
+      zoomAnimationThreshold={6}
+      inertia
+      keyboard
       preferCanvas
     >
       <MapSizeFix />

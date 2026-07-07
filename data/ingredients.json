@@ -24,7 +24,8 @@
       "Rare",
       "Terroir",
       "Delicacy"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Truffe_noire_du_P%C3%A9rigord.jpg/330px-Truffe_noire_du_P%C3%A9rigord.jpg"
   },
   {
     "id": "ig-vanille-madagascar",
@@ -132,7 +133,8 @@
       "Fruit",
       "GI",
       "Seasonal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mangoes_in_Bangalore_%282025%29_19.jpg/330px-Mangoes_in_Bangalore_%282025%29_19.jpg"
   },
   {
     "id": "ig-wagyu-kobe",
@@ -159,7 +161,8 @@
       "Meat",
       "Premium",
       "Rare"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/4_Kobe_Beef%2C_Kobe_Japan.jpg/330px-4_Kobe_Beef%2C_Kobe_Japan.jpg"
   },
   {
     "id": "ig-jamon-jabugo",
@@ -240,7 +243,8 @@
       "Spice",
       "PGI",
       "Rare"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Poivre_kampot01.jpg/330px-Poivre_kampot01.jpg"
   },
   {
     "id": "ig-cacao-chuao",
@@ -294,7 +298,8 @@
       "Cheese",
       "PDO",
       "Aged"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg/330px-Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg"
   },
   {
     "id": "ig-roquefort-combalou",
@@ -375,7 +380,8 @@
       "Salt",
       "PGI",
       "Artisanal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Marais_salants.jpg/330px-Marais_salants.jpg"
   },
   {
     "id": "ig-huitres-cancale",
@@ -537,7 +543,8 @@
       "Seafood",
       "Wild",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nur01521_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Nur01521_-_Flickr_-_NOAA_Photo_Library.jpg"
   },
   {
     "id": "ig-agneau-pre-sale",
@@ -564,7 +571,8 @@
       "Meat",
       "PDO",
       "Terroir"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mont_Saint-Michel_France.jpg/330px-Mont_Saint-Michel_France.jpg"
   },
   {
     "id": "ig-gruyere-fribourg",
@@ -618,7 +626,8 @@
       "Vegetable",
       "PDO",
       "Volcanic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TomateSanMarzano.jpg/330px-TomateSanMarzano.jpg"
   },
   {
     "id": "ig-moutarde-dijon",
@@ -645,7 +654,8 @@
       "Condiment",
       "PGI",
       "Traditional"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dijon_mustard_on_a_spoon_-_20051218.jpg/330px-Dijon_mustard_on_a_spoon_-_20051218.jpg"
   },
   {
     "id": "ig-sirop-erable-quebec",
@@ -942,7 +952,8 @@
       "Coffee",
       "Altitude",
       "Premium"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jamaica_Blue_Mountain_Coffee_in_a_packet.jpg/330px-Jamaica_Blue_Mountain_Coffee_in_a_packet.jpg"
   },
   {
     "id": "ig-champagne-reims",
@@ -1050,7 +1061,8 @@
       "Spice",
       "Artisanal",
       "Rare"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cinnamomum_verum1.jpg/330px-Cinnamomum_verum1.jpg"
   },
   {
     "id": "ig-muscade-grenade",
@@ -1131,7 +1143,8 @@
       "Fruit",
       "Mediterranean",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Valenciaorange.jpg/330px-Valenciaorange.jpg"
   },
   {
     "id": "ig-noix-grenoble",
@@ -1158,7 +1171,8 @@
       "Nut",
       "PDO",
       "Alpine"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Juglans_regia_Echte_Walnussfrucht_3.jpg/330px-Juglans_regia_Echte_Walnussfrucht_3.jpg"
   },
   {
     "id": "ig-prosciutto-parma",
@@ -1185,7 +1199,8 @@
       "Meat",
       "PDO",
       "Cured"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Prosciutto_di_Parma%2C_ham_producing.jpg/330px-Prosciutto_di_Parma%2C_ham_producing.jpg"
   },
   {
     "id": "ig-lardo-colonnata",
@@ -1239,7 +1254,8 @@
       "Meat",
       "PGI",
       "Smoked"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Saucisse_morteau.jpg/330px-Saucisse_morteau.jpg"
   },
   {
     "id": "ig-poulet-bresse",
@@ -1266,7 +1282,8 @@
       "Meat",
       "PDO",
       "Free-range"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Poulet_de_Bresse_-_Bresse_Chicken.jpg/330px-Poulet_de_Bresse_-_Bresse_Chicken.jpg"
   },
   {
     "id": "ig-cajou-mozambique",
@@ -1320,7 +1337,8 @@
       "Cheese",
       "PDO",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brie_01.jpg/330px-Brie_01.jpg"
   },
   {
     "id": "ig-mozzarella-bufala",
@@ -1347,7 +1365,8 @@
       "Cheese",
       "PDO",
       "Fresh"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mozzarella_di_bufala3.jpg/330px-Mozzarella_di_bufala3.jpg"
   },
   {
     "id": "ig-cheddar-somerset",
@@ -1428,7 +1447,8 @@
       "Cheese",
       "PDO",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Camembert_de_Normandie_%28AOP%29_10.jpg/330px-Camembert_de_Normandie_%28AOP%29_10.jpg"
   },
   {
     "id": "ig-comte-jura",
@@ -1525,7 +1545,7 @@
     },
     "countryCode": "ES",
     "coordinates": [
-      39.0,
+      39,
       -3.1
     ],
     "description": {
@@ -1563,7 +1583,8 @@
       "Tea",
       "GI",
       "Altitude"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Darjeeling%2C_India%2C_Darjeeling_tea_in_variety%2C_Black_tea.jpg/330px-Darjeeling%2C_India%2C_Darjeeling_tea_in_variety%2C_Black_tea.jpg"
   },
   {
     "id": "ig-the-longjing",
@@ -1752,7 +1773,8 @@
       "Fish",
       "PGI",
       "Artisanal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Anchois_de_Collioure_en_pot.jpg/330px-Anchois_de_Collioure_en_pot.jpg"
   },
   {
     "id": "ig-piment-espelette",
@@ -1779,7 +1801,8 @@
       "Spice",
       "PDO",
       "Traditional"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/France-Piment_d%27Espelette-2005-08-05.jpg/330px-France-Piment_d%27Espelette-2005-08-05.jpg"
   },
   {
     "id": "ig-poivre-penja",
@@ -1806,7 +1829,8 @@
       "Spice",
       "PGI",
       "Volcanic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Piper_nigrum_Dried_fruits_with_and_without_pericarp_-_Penja_Cameroun.jpg/330px-Piper_nigrum_Dried_fruits_with_and_without_pericarp_-_Penja_Cameroun.jpg"
   },
   {
     "id": "ig-cardamome-kerala",
@@ -1914,7 +1938,8 @@
       "Vinegar",
       "PDO",
       "Aged"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Balsamico-1.jpg/330px-Balsamico-1.jpg"
   },
   {
     "id": "ig-sake-nada",
@@ -2076,7 +2101,8 @@
       "Vegetable",
       "PDO",
       "Terrace"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Oignon_doux_des_C%C3%A9vennes_1.jpg/330px-Oignon_doux_des_C%C3%A9vennes_1.jpg"
   },
   {
     "id": "ig-lentille-puy",
@@ -2103,7 +2129,8 @@
       "Legume",
       "PDO",
       "Volcanic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Puy_lentils_wooden_bowl.jpg/330px-Puy_lentils_wooden_bowl.jpg"
   },
   {
     "id": "ig-riz-koshihikari-niigata",
@@ -2184,7 +2211,8 @@
       "Coffee",
       "UNESCO",
       "Andean"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Paisaje-Cafetero-Colombiano.png/330px-Paisaje-Cafetero-Colombiano.png"
   },
   {
     "id": "ig-cacao-kilombero",
@@ -2265,7 +2293,8 @@
       "Spirit",
       "Terroir",
       "Peated"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Scotch_regions.svg/330px-Scotch_regions.svg.png"
   },
   {
     "id": "ig-truffe-blanche-alba",
@@ -2319,7 +2348,8 @@
       "Flour",
       "PDO",
       "Traditional"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pulenda-3.jpg/330px-Pulenda-3.jpg"
   },
   {
     "id": "ig-canneberge-quebec",
@@ -2508,7 +2538,8 @@
       "Honey",
       "Endemic",
       "Medicinal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Manuka_honey_in_a_bowl.jpg/330px-Manuka_honey_in_a_bowl.jpg"
   },
   {
     "id": "ig-poivre-timut-nepal",
@@ -2525,7 +2556,7 @@
     "countryCode": "NP",
     "coordinates": [
       29.5,
-      82.0
+      82
     ],
     "description": {
       "fr": "Cueilli à l'état sauvage sur les contreforts himalayens, ce poivre népalais du genre Zanthoxylum surprend par ses notes explosives de pamplemousse et de fruit de la passion.",
@@ -2697,6 +2728,7 @@
       "Salt",
       "Mineral",
       "Fossil"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Himalayan_salt_%28coarse%29.jpg/330px-Himalayan_salt_%28coarse%29.jpg"
   }
 ]

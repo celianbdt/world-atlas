@@ -24,7 +24,8 @@
       "Comfort food",
       "Traditional",
       "Communal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bol_d%27aligot.jpg/330px-Bol_d%27aligot.jpg"
   },
   {
     "id": "ds-quenelle-lyon",
@@ -186,7 +187,8 @@
       "Salad",
       "Refreshing",
       "Traditional"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nizza-Salat_an_der_F_Mittelmeerk%C3%BCste.JPG/330px-Nizza-Salat_an_der_F_Mittelmeerk%C3%BCste.JPG"
   },
   {
     "id": "ds-garbure-bearn",
@@ -402,7 +404,8 @@
       "Fried",
       "Iconic",
       "Traditional"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/330px-Wiener-Schnitzel02.jpg"
   },
   {
     "id": "ds-brezel-munich",
@@ -1077,7 +1080,8 @@
       "Curry",
       "Traditional",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rogan_Josh_Kashmiri.jpg/330px-Rogan_Josh_Kashmiri.jpg"
   },
   {
     "id": "ds-kottu-roti-colombo",
@@ -1428,7 +1432,8 @@
       "Fried",
       "Spicy",
       "Snack"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Buffalo_wings-01.jpg/330px-Buffalo_wings-01.jpg"
   },
   {
     "id": "ds-tourtiere-saguenay",

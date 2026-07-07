@@ -51,7 +51,8 @@
       "Tree",
       "Tallest",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/US_199_Redwood_Highway.jpg/330px-US_199_Redwood_Highway.jpg"
   },
   {
     "id": "pl-bristlecone-pine-white-mountains",
@@ -78,7 +79,8 @@
       "Tree",
       "Oldest",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Big_bristlecone_pine_Pinus_longaeva.jpg/330px-Big_bristlecone_pine_Pinus_longaeva.jpg"
   },
   {
     "id": "pl-baobab-grandidier-madagascar",
@@ -105,7 +107,8 @@
       "Tree",
       "Endemic",
       "Sacred"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adansonia_grandidieri04.jpg/330px-Adansonia_grandidieri04.jpg"
   },
   {
     "id": "pl-african-baobab-kruger",
@@ -132,7 +135,8 @@
       "Tree",
       "Ancient",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Baobab_and_elephant%2C_Tanzania.jpg/330px-Baobab_and_elephant%2C_Tanzania.jpg"
   },
   {
     "id": "pl-dragon-blood-tree-socotra",
@@ -149,7 +153,7 @@
     "countryCode": "YE",
     "coordinates": [
       12.5,
-      54.0
+      54
     ],
     "description": {
       "fr": "Le dragonnier de Socotra, à la silhouette de parapluie renversé et à la sève rouge sang, est endémique de cette île isolée classée à l'UNESCO. Son bois précieux et sa résine sont utilisés depuis l'Antiquité en médecine et pigment.",
@@ -159,7 +163,8 @@
       "Tree",
       "Endemic",
       "Ancient"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dragonblood_tree_in_Socotra_2.jpg/330px-Dragonblood_tree_in_Socotra_2.jpg"
   },
   {
     "id": "pl-monkey-puzzle-patagonia",
@@ -186,7 +191,8 @@
       "Tree",
       "Sacred",
       "Ancient"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Araucaria_en_Parque_Nacional_Conguillio.jpg/330px-Araucaria_en_Parque_Nacional_Conguillio.jpg"
   },
   {
     "id": "pl-kauri-waipoua",
@@ -267,7 +273,8 @@
       "Tree",
       "Sacred",
       "Historic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bodhgaya_3639641913_f4c5f73689_t.jpg/330px-Bodhgaya_3639641913_f4c5f73689_t.jpg"
   },
   {
     "id": "pl-strangler-fig-angkor",
@@ -310,7 +317,7 @@
     },
     "countryCode": "AU",
     "coordinates": [
-      -33.0,
+      -33,
       150.5
     ],
     "description": {
@@ -321,7 +328,8 @@
       "Tree",
       "Living-fossil",
       "Endangered"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wakehurst_Place_woodland_Wollemi_pine.jpg/330px-Wakehurst_Place_woodland_Wollemi_pine.jpg"
   },
   {
     "id": "pl-arashiyama-bamboo-kyoto",
@@ -348,7 +356,8 @@
       "Bamboo",
       "Iconic",
       "Sacred"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bamboo_Grove%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/330px-Bamboo_Grove%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg"
   },
   {
     "id": "pl-sherwood-oak",
@@ -391,7 +400,7 @@
     },
     "countryCode": "DE",
     "coordinates": [
-      48.0,
+      48,
       8.2
     ],
     "description": {
@@ -510,7 +519,8 @@
       "Forest",
       "Ancient",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Daintree_Rainforest%2C_Queensland_%28483855%29_%289440811465%29.jpg/330px-Daintree_Rainforest%2C_Queensland_%28483855%29_%289440811465%29.jpg"
   },
   {
     "id": "pl-taiga-siberia-larch",
@@ -537,7 +547,8 @@
       "Tree",
       "Forest",
       "Boreal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Siberian-larch.jpg/330px-Siberian-larch.jpg"
   },
   {
     "id": "pl-yungas-cloud-forest",
@@ -807,7 +818,8 @@
       "Flower",
       "Seasonal",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D9%85%D8%B1%D8%A7%D8%B3%D9%85_%DA%AF%D9%84%D8%A7%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C_%D8%AF%D8%B1_%D9%82%D9%85%D8%B5%D8%B1_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86_Golabgiri_%28%22making_Rosewater%22%29_-_Ghamsar-_Kashan-_Iran_19.jpg/330px-%D9%85%D8%B1%D8%A7%D8%B3%D9%85_%DA%AF%D9%84%D8%A7%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C_%D8%AF%D8%B1_%D9%82%D9%85%D8%B5%D8%B1_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86_Golabgiri_%28%22making_Rosewater%22%29_-_Ghamsar-_Kashan-_Iran_19.jpg"
   },
   {
     "id": "pl-sikkim-rhododendron",
@@ -942,7 +954,8 @@
       "Flower",
       "Endemic",
       "Seasonal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Himalayan_blue_poppy_in_a_Scottish_garden.jpg/330px-Himalayan_blue_poppy_in_a_Scottish_garden.jpg"
   },
   {
     "id": "pl-edelweiss-alps",
@@ -1023,7 +1036,8 @@
       "Tree",
       "Sacred",
       "Ancient"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/C%C3%A8dre_du_Liban_Barouk_2005.jpg/330px-C%C3%A8dre_du_Liban_Barouk_2005.jpg"
   },
   {
     "id": "pl-olive-tree-vouves",
@@ -1104,7 +1118,8 @@
       "Tree",
       "Ancient",
       "Sacred"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2011_Schotland_venijnboom_Fortingall_ommuurd_6-06-2011_18-43-30.jpg/330px-2011_Schotland_venijnboom_Fortingall_ommuurd_6-06-2011_18-43-30.jpg"
   },
   {
     "id": "pl-guernica-oak",
@@ -1158,7 +1173,8 @@
       "Tree",
       "Historic",
       "Sacred"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Plane_tree_of_Hippocrates.jpg/330px-Plane_tree_of_Hippocrates.jpg"
   },
   {
     "id": "pl-araucaria-villarrica",
@@ -1212,7 +1228,8 @@
       "Cactus",
       "Endemic",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg/330px-Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg"
   },
   {
     "id": "pl-lithops-namibia",
@@ -1228,7 +1245,7 @@
     },
     "countryCode": "NA",
     "coordinates": [
-      -27.0,
+      -27,
       17.5
     ],
     "description": {
@@ -1266,7 +1283,8 @@
       "Endemic",
       "Ancient",
       "Living-fossil"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Welwitschia_mirabilis%282%29.jpg/330px-Welwitschia_mirabilis%282%29.jpg"
   },
   {
     "id": "pl-bosnian-pine-pollino",
@@ -1320,7 +1338,8 @@
       "Tree",
       "Endemic",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/330px-Joshua_Tree_01.jpg"
   },
   {
     "id": "pl-blue-agave-tequila",
@@ -1347,7 +1366,8 @@
       "Succulent",
       "Endemic",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agave_tequilana_1.jpg/330px-Agave_tequilana_1.jpg"
   },
   {
     "id": "pl-coco-de-mer-praslin",
@@ -1509,7 +1529,8 @@
       "Flower",
       "Endemic",
       "Largest"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rafflesia_sumatra.jpg/330px-Rafflesia_sumatra.jpg"
   },
   {
     "id": "pl-amorphophallus-titan-sumatra",
@@ -1536,7 +1557,8 @@
       "Flower",
       "Endemic",
       "Largest"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amorphophallus_titanum_%28corpse_flower%29_-_2.jpg/330px-Amorphophallus_titanum_%28corpse_flower%29_-_2.jpg"
   },
   {
     "id": "pl-purple-pitcher-newfoundland",
@@ -1563,7 +1585,8 @@
       "Carnivorous",
       "Iconic",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sarracenia_purpurosa_france_2007_-_2.jpg/330px-Sarracenia_purpurosa_france_2007_-_2.jpg"
   },
   {
     "id": "pl-tortoiseshell-bamboo-kagoshima",
@@ -1644,7 +1667,8 @@
       "Vine",
       "Sacred",
       "Medicinal"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Banisteriopsis_caapi_vine.JPG/330px-Banisteriopsis_caapi_vine.JPG"
   },
   {
     "id": "pl-coca-andes",
@@ -1752,7 +1776,8 @@
       "Grass",
       "Endemic",
       "Extreme"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Deschampsia_antarctica.jpg/330px-Deschampsia_antarctica.jpg"
   },
   {
     "id": "pl-jacaranda-pretoria",
@@ -1860,7 +1885,8 @@
       "Palm",
       "Historic",
       "Sacred"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Methuselah-Ketura-2018-10.jpg/330px-Methuselah-Ketura-2018-10.jpg"
   },
   {
     "id": "pl-pando-aspen-utah",
@@ -1941,7 +1967,8 @@
       "Flower",
       "Iconic",
       "Horticulture"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rosa_Peace_1945.jpg/330px-Rosa_Peace_1945.jpg"
   },
   {
     "id": "pl-suicide-palm-tahina",
@@ -2022,7 +2049,8 @@
       "Tree",
       "Endemic",
       "Ancient"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cedrus_atlantica.jpg/330px-Cedrus_atlantica.jpg"
   },
   {
     "id": "pl-gobi-saxaul",
@@ -2076,7 +2104,8 @@
       "Vine",
       "Endemic",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lianejade.jpg/330px-Lianejade.jpg"
   },
   {
     "id": "pl-corpse-flower-bogor",
@@ -2130,7 +2159,8 @@
       "Palm",
       "Iconic",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Royal_palm_tree_in_Boca_Raton.jpg/330px-Royal_palm_tree_in_Boca_Raton.jpg"
   },
   {
     "id": "pl-cotton-tree-freetown",
@@ -2265,7 +2295,8 @@
       "Tree",
       "Savanna",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colophospermum_mopane_arbre_MHNT%2C_crop.jpg/330px-Colophospermum_mopane_arbre_MHNT%2C_crop.jpg"
   },
   {
     "id": "pl-tea-camellia-yunnan",
@@ -2346,7 +2377,8 @@
       "Palm",
       "Endemic",
       "Desert"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Washingtonia_filifera.jpg/330px-Washingtonia_filifera.jpg"
   },
   {
     "id": "pl-canary-dragon-tree",
@@ -2373,7 +2405,8 @@
       "Tree",
       "Ancient",
       "Endemic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Dracaena_draco.jpg/330px-Dracaena_draco.jpg"
   },
   {
     "id": "pl-nepal-lali-gurans",
@@ -2481,7 +2514,8 @@
       "Tree",
       "Ancient",
       "Sacred"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sagole_Baobab.jpg/330px-Sagole_Baobab.jpg"
   },
   {
     "id": "pl-broceliande-guillotin-oak",
@@ -2589,7 +2623,8 @@
       "Flower",
       "Endemic",
       "Iconic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Peninsula_Sandstone_Fynbos_-_KingProtea_-_Table_Mountain.JPG/330px-Peninsula_Sandstone_Fynbos_-_KingProtea_-_Table_Mountain.JPG"
   },
   {
     "id": "pl-wisteria-ashikaga",
@@ -2670,7 +2705,8 @@
       "Tree",
       "Endemic",
       "Historic"
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cinnamomum_verum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-182.jpg/330px-Cinnamomum_verum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-182.jpg"
   },
   {
     "id": "pl-vanilla-madagascar-sava",
