@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "mn-huangshan",
+    "category": "monument",
+    "name": { "fr": "Huangshan", "en": "Huangshan" },
+    "region": "Anhui, Est de la Chine",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [30.1333, 118.1667],
+    "description": {
+      "fr": "Les Montagnes Jaunes hérissent leurs pics de granit d'une mer de nuages permanente, ponctuée de pins tordus par le vent. Ce paysage a nourri des siècles de peinture et de poésie chinoises.",
+      "en": "The Yellow Mountains thrust granite pinnacles through a permanent sea of clouds, punctuated by wind-twisted pines. The scene has inspired centuries of Chinese ink painting and poetry."
+    },
+    "tags": ["Mountain", "UNESCO", "Iconic"]
+  },
+  {
+    "id": "mn-danxia-zhangye",
+    "category": "monument",
+    "name": { "fr": "Reliefs Danxia de Zhangye", "en": "Zhangye Danxia landform" },
+    "region": "Gansu, Nord-ouest de la Chine",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [38.9797, 100.0813],
+    "description": {
+      "fr": "Des collines striées de bandes rouges, orange et jaunes ondulent sur des dizaines de kilomètres au pied des monts Qilian. Le grès et les minéraux, déformés puis érodés, dessinent un arc-en-ciel minéral unique.",
+      "en": "Hills banded in red, orange and yellow ripple for tens of kilometres at the foot of the Qilian Mountains. Compressed and eroded sandstone paints an unmatched mineral rainbow."
+    },
+    "tags": ["Geology", "UNESCO", "Colorful"]
+  },
+  {
+    "id": "mn-armee-terracotta",
+    "category": "monument",
+    "name": { "fr": "Armée de terre cuite de Xi'an", "en": "Terracotta Army of Xi'an" },
+    "region": "Xi'an, Shaanxi",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [34.3841, 109.2785],
+    "description": {
+      "fr": "Plus de huit mille guerriers grandeur nature veillent sur le mausolée de l'empereur Qin Shi Huang depuis le IIIᵉ siècle avant J.-C. Chaque visage est unique, sculpté pour l'éternité.",
+      "en": "More than eight thousand life-sized warriors guard the tomb of Emperor Qin Shi Huang from the 3rd century BC. Every face is unique, sculpted for eternity."
+    },
+    "tags": ["Archaeology", "UNESCO", "Historical"]
+  },
+  {
+    "id": "mn-potala",
+    "category": "monument",
+    "name": { "fr": "Palais du Potala", "en": "Potala Palace" },
+    "region": "Lhassa, Tibet",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [29.6575, 91.1176],
+    "description": {
+      "fr": "Perché à 3 700 mètres sur la colline rouge de Lhassa, le Potala aligne ses murs blancs et sa forteresse pourpre depuis le VIIᵉ siècle. Ancienne résidence des dalaï-lamas, il reste le cœur symbolique du bouddhisme tibétain.",
+      "en": "Perched at 3,700 m on Lhasa's Red Hill, the Potala has stacked its white walls and crimson fortress since the 7th century. The former seat of the Dalai Lamas remains the symbolic heart of Tibetan Buddhism."
+    },
+    "tags": ["Palace", "UNESCO", "Buddhist"]
+  },
+  {
+    "id": "mn-prambanan",
+    "category": "monument",
+    "name": { "fr": "Prambanan", "en": "Prambanan" },
+    "region": "Java central, Yogyakarta",
+    "country": { "fr": "Indonésie", "en": "Indonesia" },
+    "countryCode": "ID",
+    "coordinates": [-7.7520, 110.4914],
+    "description": {
+      "fr": "Élevé au IXᵉ siècle, cet ensemble hindouiste dresse ses tours effilées vers le ciel de Java. Ses bas-reliefs racontent le Ramayana au fil de plus de deux cents temples.",
+      "en": "Raised in the 9th century, this Hindu complex spikes its tapered towers into the Javanese sky. Its bas-reliefs narrate the Ramayana across more than two hundred temples."
+    },
+    "tags": ["Temple", "UNESCO", "Hindu"]
+  },
+  {
+    "id": "mn-bromo",
+    "category": "monument",
+    "name": { "fr": "Mont Bromo", "en": "Mount Bromo" },
+    "region": "Java oriental",
+    "country": { "fr": "Indonésie", "en": "Indonesia" },
+    "countryCode": "ID",
+    "coordinates": [-7.9425, 112.9530],
+    "description": {
+      "fr": "Cône fumant posé dans la vaste caldeira du Tengger, le Bromo se laisse admirer à l'aube depuis la mer de sable. Le peuple tengger y jette chaque année des offrandes dans son cratère.",
+      "en": "A smoking cone set inside the vast Tengger caldera, Bromo is best seen at dawn from the surrounding sea of sand. Each year the Tengger people toss offerings into its crater."
+    },
+    "tags": ["Volcano", "Sunrise", "Sacred"]
+  },
+  {
+    "id": "mn-phong-nha",
+    "category": "monument",
+    "name": { "fr": "Grottes de Phong Nha-Ke Bang", "en": "Phong Nha-Ke Bang caves" },
+    "region": "Quang Binh, Centre Vietnam",
+    "country": { "fr": "Vietnam", "en": "Vietnam" },
+    "countryCode": "VN",
+    "coordinates": [17.5988, 106.2831],
+    "description": {
+      "fr": "Cachée dans le karst, Son Doong ouvre la plus vaste galerie souterraine connue, avec sa forêt intérieure et son propre climat. Autour, des dizaines de grottes fluviales trouent la jungle calcaire.",
+      "en": "Hidden in the karst, Son Doong opens the largest known cave passage, complete with an inner jungle and its own weather. Dozens of river caves riddle the surrounding limestone forest."
+    },
+    "tags": ["Cave", "UNESCO", "Adventure"]
+  },
+  {
+    "id": "mn-el-nido",
+    "category": "monument",
+    "name": { "fr": "Lagons d'El Nido", "en": "El Nido lagoons" },
+    "region": "Palawan",
+    "country": { "fr": "Philippines", "en": "Philippines" },
+    "countryCode": "PH",
+    "coordinates": [11.1811, 119.4126],
+    "description": {
+      "fr": "Des falaises karstiques ferment des lagons turquoise où l'on ne pénètre qu'en kayak par d'étroits passages. La baie de Bacuit compte plus de quarante-cinq îlots calcaires nappés de jungle.",
+      "en": "Karst cliffs enclose turquoise lagoons reached only by kayak through narrow passages. Bacuit Bay counts more than forty-five jungle-topped limestone islets."
+    },
+    "tags": ["Coastal", "Karst", "Paradise"]
+  },
+  {
+    "id": "mn-chocolate-hills",
+    "category": "monument",
+    "name": { "fr": "Chocolate Hills", "en": "Chocolate Hills" },
+    "region": "Bohol, Visayas",
+    "country": { "fr": "Philippines", "en": "Philippines" },
+    "countryCode": "PH",
+    "coordinates": [9.9169, 124.1750],
+    "description": {
+      "fr": "Plus de mille collines coniques presque identiques ponctuent le plateau de Bohol. À la saison sèche, l'herbe brunit et donne au paysage cette teinte chocolatée qui a nourri les légendes locales.",
+      "en": "More than a thousand nearly identical conical hills speckle the Bohol plateau. In the dry season the grass turns brown, painting the landscape the chocolate hue that gave rise to local legends."
+    },
+    "tags": ["Geology", "Landscape", "Iconic"]
+  },
+  {
+    "id": "mn-ellora",
+    "category": "monument",
+    "name": { "fr": "Grottes d'Ellora", "en": "Ellora caves" },
+    "region": "Maharashtra",
+    "country": { "fr": "Inde", "en": "India" },
+    "countryCode": "IN",
+    "coordinates": [20.0269, 75.1780],
+    "description": {
+      "fr": "Trente-quatre sanctuaires bouddhiques, hindous et jaïns ont été taillés dans la falaise basaltique du Deccan entre le VIᵉ et le Xᵉ siècle. Le temple monolithique de Kailasa, sculpté depuis le sommet, reste le plus vaste creusé dans un seul rocher au monde.",
+      "en": "Thirty-four Buddhist, Hindu and Jain sanctuaries were carved into the Deccan basalt cliff between the 6th and 10th centuries. The monolithic Kailasa Temple, hewn from the top down, is the largest rock-cut structure on earth."
+    },
+    "tags": ["Temple", "UNESCO", "Rock-cut"]
+  },
+  {
+    "id": "mn-meenakshi",
+    "category": "monument",
+    "name": { "fr": "Temple de Meenakshi", "en": "Meenakshi Temple" },
+    "region": "Madurai, Tamil Nadu",
+    "country": { "fr": "Inde", "en": "India" },
+    "countryCode": "IN",
+    "coordinates": [9.9195, 78.1194],
+    "description": {
+      "fr": "Ses quatorze gopurams multicolores culminent à cinquante mètres, saturés de statues de dieux et de démons. Dédié à la déesse Meenakshi, le temple accueille chaque jour des dizaines de milliers de pèlerins.",
+      "en": "Its fourteen rainbow-coloured gopurams rise fifty metres high, packed with sculpted gods and demons. Devoted to the goddess Meenakshi, the temple welcomes tens of thousands of pilgrims each day."
+    },
+    "tags": ["Temple", "Hindu", "Colorful"]
+  },
+  {
+    "id": "mn-golden-temple-amritsar",
+    "category": "monument",
+    "name": { "fr": "Temple d'Or d'Amritsar", "en": "Golden Temple of Amritsar" },
+    "region": "Punjab",
+    "country": { "fr": "Inde", "en": "India" },
+    "countryCode": "IN",
+    "coordinates": [31.6200, 74.8765],
+    "description": {
+      "fr": "Sanctuaire le plus sacré du sikhisme, le Harmandir Sahib flotte au milieu d'un bassin d'eau, recouvert de sept cents kilos d'or. Sa cuisine communautaire sert gratuitement plus de cent mille repas par jour.",
+      "en": "Sikhism's holiest shrine, Harmandir Sahib floats at the centre of a sacred pool under seven hundred kilos of gold leaf. Its community kitchen serves more than a hundred thousand free meals every day."
+    },
+    "tags": ["Temple", "Sikh", "Sacred"]
+  },
+  {
+    "id": "mn-bukhara",
+    "category": "monument",
+    "name": { "fr": "Vieille ville de Boukhara", "en": "Old town of Bukhara" },
+    "region": "Boukhara, Ouzbékistan",
+    "country": { "fr": "Ouzbékistan", "en": "Uzbekistan" },
+    "countryCode": "UZ",
+    "coordinates": [39.7681, 64.4556],
+    "description": {
+      "fr": "Ville-étape mythique de la route de la Soie, Boukhara aligne madrasas, minarets et coupoles turquoise autour du Poi-Kalon. Ses ruelles couvertes préservent un cœur médiéval quasi intact.",
+      "en": "A legendary Silk Road hub, Bukhara ranks madrasas, minarets and turquoise domes around the Poi-Kalyan square. Its covered bazaars keep a nearly intact medieval heart."
+    },
+    "tags": ["UNESCO", "Silk Road", "Historic"]
+  },
+  {
+    "id": "mn-ziggurat-ur",
+    "category": "monument",
+    "name": { "fr": "Grande Ziggourat d'Ur", "en": "Great Ziggurat of Ur" },
+    "region": "Dhi Qar, Sud de l'Iraq",
+    "country": { "fr": "Iraq", "en": "Iraq" },
+    "countryCode": "IQ",
+    "coordinates": [30.9628, 46.1031],
+    "description": {
+      "fr": "Élevée vers 2100 av. J.-C. par Ur-Nammu, la pyramide à degrés en briques cuites dominait la cité sumérienne d'Ur. Restaurée en partie, elle reste l'un des plus vieux monuments monumentaux du monde.",
+      "en": "Raised around 2100 BC by Ur-Nammu, this baked-brick step pyramid loomed over the Sumerian city of Ur. Partly restored, it remains one of the oldest monumental buildings on earth."
+    },
+    "tags": ["Archaeology", "Ancient", "Mesopotamia"]
+  },
+  {
+    "id": "mn-nasir-al-mulk",
+    "category": "monument",
+    "name": { "fr": "Mosquée Nasir al-Mulk", "en": "Nasir al-Mulk Mosque" },
+    "region": "Chiraz, Fars",
+    "country": { "fr": "Iran", "en": "Iran" },
+    "countryCode": "IR",
+    "coordinates": [29.6086, 52.5486],
+    "description": {
+      "fr": "Chaque matin, le soleil traverse ses vitraux et projette au sol un tapis mouvant de rose, de bleu et d'or. Cette petite mosquée du XIXᵉ siècle est surnommée la mosquée rose de Chiraz.",
+      "en": "Every morning the sun pours through its stained glass and lays a shifting carpet of pink, blue and gold across the floor. This small 19th-century mosque has been nicknamed the Pink Mosque of Shiraz."
+    },
+    "tags": ["Mosque", "Colorful", "Islamic art"]
+  },
+  {
+    "id": "mn-naqsh-e-jahan",
+    "category": "monument",
+    "name": { "fr": "Place Naqsh-e Jahan", "en": "Naqsh-e Jahan Square" },
+    "region": "Ispahan",
+    "country": { "fr": "Iran", "en": "Iran" },
+    "countryCode": "IR",
+    "coordinates": [32.6575, 51.6776],
+    "description": {
+      "fr": "Deuxième plus vaste place du monde, elle a été aménagée par Shah Abbas au début du XVIIᵉ siècle. La mosquée du Shah, celle de Sheikh Lotfollah et le palais Ali Qapou l'entourent d'un décor de faïence bleu turquoise.",
+      "en": "The world's second largest square was laid out by Shah Abbas in the early 17th century. The Shah Mosque, Sheikh Lotfollah Mosque and Ali Qapu Palace frame it with turquoise tilework."
+    },
+    "tags": ["UNESCO", "Islamic art", "Historic"]
+  },
+  {
+    "id": "mn-palmyre",
+    "category": "monument",
+    "name": { "fr": "Palmyre", "en": "Palmyra" },
+    "region": "Oasis de Tadmor, désert syrien",
+    "country": { "fr": "Syrie", "en": "Syria" },
+    "countryCode": "SY",
+    "coordinates": [34.5507, 38.2726],
+    "description": {
+      "fr": "Reine caravanière plantée dans le désert, Palmyre a pris son essor au Iᵉʳ siècle et rivalisé un temps avec Rome. Colonnades, temple de Bêl et tours funéraires racontent un métissage unique.",
+      "en": "A caravan queen rising from the desert, Palmyra flourished in the 1st century AD and briefly rivalled Rome. Colonnades, the Temple of Bel and tower tombs speak of a unique cultural crossroads."
+    },
+    "tags": ["UNESCO", "Ancient", "Ruins"]
+  },
+  {
+    "id": "mn-hatra",
+    "category": "monument",
+    "name": { "fr": "Hatra", "en": "Hatra" },
+    "region": "Ninive, Nord de l'Iraq",
+    "country": { "fr": "Iraq", "en": "Iraq" },
+    "countryCode": "IQ",
+    "coordinates": [35.5883, 42.7186],
+    "description": {
+      "fr": "Cité parthe fortifiée aux enceintes circulaires, Hatra a repoussé deux sièges romains avant d'être abandonnée. Ses temples mêlent l'art hellénistique aux traditions arabes du désert.",
+      "en": "A fortified Parthian city ringed by concentric walls, Hatra repelled two Roman sieges before being abandoned. Its temples blend Hellenistic art with the desert Arab traditions."
+    },
+    "tags": ["UNESCO", "Archaeology", "Fortress"]
+  },
+  {
+    "id": "mn-palenque",
+    "category": "monument",
+    "name": { "fr": "Palenque", "en": "Palenque" },
+    "region": "Chiapas",
+    "country": { "fr": "Mexique", "en": "Mexico" },
+    "countryCode": "MX",
+    "coordinates": [17.4839, -92.0464],
+    "description": {
+      "fr": "Enfouie dans la jungle du Chiapas, la cité maya de Palenque conserve les plus fines sculptures classiques et le tombeau de Pakal. Le temple des Inscriptions garde le récit gravé de sa dynastie.",
+      "en": "Buried in the Chiapas jungle, the Maya city of Palenque preserves the finest classic-era stucco reliefs and the tomb of King Pakal. Its Temple of the Inscriptions holds the carved chronicle of the dynasty."
+    },
+    "tags": ["Maya", "UNESCO", "Jungle"]
+  },
+  {
+    "id": "mn-copan",
+    "category": "monument",
+    "name": { "fr": "Copán", "en": "Copán" },
+    "region": "Occident, vallée du Motagua",
+    "country": { "fr": "Honduras", "en": "Honduras" },
+    "countryCode": "HN",
+    "coordinates": [14.8386, -89.1425],
+    "description": {
+      "fr": "Grande capitale maya du sud-est, Copán se distingue par ses stèles finement ciselées et son escalier hiéroglyphique de 63 marches. Le site a rayonné entre le Vᵉ et le IXᵉ siècle.",
+      "en": "A great Maya capital of the south-east, Copán stands out for its finely carved stelae and its 63-step hieroglyphic staircase. The city thrived from the 5th to the 9th centuries."
+    },
+    "tags": ["Maya", "UNESCO", "Archaeology"]
+  },
+  {
+    "id": "mn-uxmal",
+    "category": "monument",
+    "name": { "fr": "Uxmal", "en": "Uxmal" },
+    "region": "Yucatán",
+    "country": { "fr": "Mexique", "en": "Mexico" },
+    "countryCode": "MX",
+    "coordinates": [20.3597, -89.7712],
+    "description": {
+      "fr": "Chef-d'œuvre du style puuc, Uxmal aligne ses palais ornés de mosaïques de pierre et sa pyramide arrondie du Devin. Le site fut abandonné vers le Xᵉ siècle, plongé dans la jungle sèche.",
+      "en": "A masterpiece of the Puuc style, Uxmal shows off stone-mosaic palaces and its rounded Pyramid of the Magician. The city was abandoned around the 10th century, swallowed by dry jungle."
+    },
+    "tags": ["Maya", "UNESCO", "Archaeology"]
+  },
+  {
+    "id": "mn-cotopaxi",
+    "category": "monument",
+    "name": { "fr": "Volcan Cotopaxi", "en": "Cotopaxi Volcano" },
+    "region": "Andes, Cordillère centrale",
+    "country": { "fr": "Équateur", "en": "Ecuador" },
+    "countryCode": "EC",
+    "coordinates": [-0.6836, -78.4370],
+    "description": {
+      "fr": "Cône presque parfait de 5 897 mètres coiffé d'un glacier, le Cotopaxi est l'un des volcans actifs les plus élevés du monde. Ses pentes andines vibrent de vigognes et de chevaux sauvages.",
+      "en": "An almost perfect 5,897 m cone topped with a glacier, Cotopaxi is one of the highest active volcanoes on earth. Its Andean slopes hum with vicuñas and wild horses."
+    },
+    "tags": ["Volcano", "Glacier", "Andes"]
+  },
+  {
+    "id": "mn-lencois-maranhenses",
+    "category": "monument",
+    "name": { "fr": "Lençóis Maranhenses", "en": "Lençóis Maranhenses" },
+    "region": "Maranhão, Nordeste",
+    "country": { "fr": "Brésil", "en": "Brazil" },
+    "countryCode": "BR",
+    "coordinates": [-2.5000, -43.1333],
+    "description": {
+      "fr": "Un désert de dunes blanches où la pluie tropicale piège des milliers de lagons turquoise entre juin et septembre. Le paysage semble s'inverser à chaque saison, entre eau et sable.",
+      "en": "A white-dune desert where tropical rain traps thousands of turquoise lagoons between June and September. The scene flips with each season, oscillating between water and sand."
+    },
+    "tags": ["Desert", "Lagoon", "Landscape"]
+  },
+  {
+    "id": "mn-chapada-diamantina",
+    "category": "monument",
+    "name": { "fr": "Chapada Diamantina", "en": "Chapada Diamantina" },
+    "region": "Bahia",
+    "country": { "fr": "Brésil", "en": "Brazil" },
+    "countryCode": "BR",
+    "coordinates": [-12.7500, -41.3833],
+    "description": {
+      "fr": "Ancien pays des chercheurs de diamants, la Chapada aligne mesas, canyons et cascades hautes de trois cents mètres. Ses grottes turquoise, comme Poço Azul, s'illuminent quand le soleil pénètre à midi.",
+      "en": "Once diamond-prospector country, Chapada Diamantina lines up mesas, canyons and three-hundred-metre falls. Turquoise caves like Poço Azul glow when the noon sun slips inside."
+    },
+    "tags": ["Waterfall", "Canyon", "Adventure"]
+  },
+  {
+    "id": "mn-marble-caves",
+    "category": "monument",
+    "name": { "fr": "Cathédrale de marbre", "en": "Marble Caves" },
+    "region": "Lac General Carrera, Patagonie",
+    "country": { "fr": "Chili", "en": "Chile" },
+    "countryCode": "CL",
+    "coordinates": [-46.6459, -72.6250],
+    "description": {
+      "fr": "Six mille ans de vagues ont sculpté ces grottes de marbre bleuté au bord du lac General Carrera. Selon la lumière, les voûtes se teintent de turquoise, de menthe ou de crème.",
+      "en": "Six thousand years of waves have carved these bluish marble caves along the shore of General Carrera lake. Depending on the light, the vaults shift between turquoise, mint and cream."
+    },
+    "tags": ["Cave", "Patagonia", "Colorful"]
+  },
+  {
+    "id": "mn-sugarloaf",
+    "category": "monument",
+    "name": { "fr": "Pain de Sucre", "en": "Sugarloaf Mountain" },
+    "region": "Rio de Janeiro",
+    "country": { "fr": "Brésil", "en": "Brazil" },
+    "countryCode": "BR",
+    "coordinates": [-22.9486, -43.1567],
+    "description": {
+      "fr": "Monolithe de granit surgi à la sortie de la baie de Guanabara, le Pão de Açúcar culmine à 396 mètres. Depuis 1912, un téléphérique historique relie ses parois abruptes au reste de la ville.",
+      "en": "A granite monolith rising at the mouth of Guanabara Bay, Pão de Açúcar tops out at 396 m. Since 1912 a historic cable car has climbed its sheer flanks over the bay."
+    },
+    "tags": ["Landmark", "Panorama", "Iconic"]
+  },
+  {
+    "id": "mn-havasu-falls",
+    "category": "monument",
+    "name": { "fr": "Havasu Falls", "en": "Havasu Falls" },
+    "region": "Grand Canyon, Arizona",
+    "country": { "fr": "États-Unis", "en": "United States" },
+    "countryCode": "US",
+    "coordinates": [36.2552, -112.6981],
+    "description": {
+      "fr": "Sur le territoire havasupai, une eau chargée de calcaire dévale des falaises rouges et prend une teinte turquoise irréelle. La cascade principale plonge de 30 mètres au milieu du désert.",
+      "en": "On Havasupai land, calcium-rich water tumbles over red cliffs into unreal turquoise pools. The main fall drops thirty metres into the heart of the desert."
+    },
+    "tags": ["Waterfall", "Desert", "Indigenous"]
+  },
+  {
+    "id": "mn-white-sands",
+    "category": "monument",
+    "name": { "fr": "White Sands", "en": "White Sands" },
+    "region": "Nouveau-Mexique",
+    "country": { "fr": "États-Unis", "en": "United States" },
+    "countryCode": "US",
+    "coordinates": [32.7872, -106.3257],
+    "description": {
+      "fr": "Le plus vaste champ de dunes de gypse au monde s'étend sur 700 km² dans le bassin de Tularosa. Le sable, presque blanc, reste étonnamment frais même sous le soleil du désert.",
+      "en": "The world's largest gypsum dune field spreads across 700 km² in the Tularosa Basin. The near-white sand stays remarkably cool even under the desert sun."
+    },
+    "tags": ["Desert", "National Park", "Landscape"]
+  },
+  {
+    "id": "mn-fasil-ghebbi",
+    "category": "monument",
+    "name": { "fr": "Fasil Ghebbi", "en": "Fasil Ghebbi" },
+    "region": "Gondar, Amhara",
+    "country": { "fr": "Éthiopie", "en": "Ethiopia" },
+    "countryCode": "ET",
+    "coordinates": [12.6081, 37.4691],
+    "description": {
+      "fr": "Camp fortifié des empereurs éthiopiens du XVIIᵉ siècle, Fasil Ghebbi enferme châteaux, bains et églises dans une enceinte de basalte. On y devine l'influence conjointe de l'Éthiopie, de l'Inde et du Portugal.",
+      "en": "The 17th-century fortified compound of the Ethiopian emperors, Fasil Ghebbi encloses castles, bathhouses and churches inside basalt walls. Its architecture blends Ethiopian, Indian and Portuguese influences."
+    },
+    "tags": ["UNESCO", "Fortress", "Historical"]
+  },
+  {
+    "id": "mn-great-zimbabwe",
+    "category": "monument",
+    "name": { "fr": "Grand Zimbabwe", "en": "Great Zimbabwe" },
+    "region": "Province de Masvingo",
+    "country": { "fr": "Zimbabwe", "en": "Zimbabwe" },
+    "countryCode": "ZW",
+    "coordinates": [-20.2758, 30.9339],
+    "description": {
+      "fr": "Capitale médiévale d'un grand royaume shona, le Grand Zimbabwe étale ses murs de pierre sèche assemblés sans mortier entre le XIᵉ et le XVᵉ siècle. Sa Grande Enceinte reste le plus vaste ouvrage précolonial d'Afrique subsaharienne.",
+      "en": "The medieval capital of a great Shona kingdom, Great Zimbabwe raised dry-stone walls without mortar from the 11th to the 15th centuries. Its Great Enclosure remains the largest pre-colonial structure in sub-Saharan Africa."
+    },
+    "tags": ["UNESCO", "Archaeology", "Ruins"]
+  },
+  {
+    "id": "mn-bandiagara",
+    "category": "monument",
+    "name": { "fr": "Falaise de Bandiagara", "en": "Bandiagara Escarpment" },
+    "region": "Pays Dogon",
+    "country": { "fr": "Mali", "en": "Mali" },
+    "countryCode": "ML",
+    "coordinates": [14.3500, -3.6167],
+    "description": {
+      "fr": "Sur 150 kilomètres, la falaise gréseuse abrite les villages dogons et les greniers coniques accrochés à la roche. Les Tellems avaient déjà creusé leurs sépultures dans ses parois avant l'arrivée des Dogons.",
+      "en": "For 150 kilometres, the sandstone escarpment shelters Dogon villages and cone-shaped granaries clinging to the rock. The earlier Tellem had already carved tombs into its walls before the Dogon arrived."
+    },
+    "tags": ["UNESCO", "Cliff", "Indigenous"]
+  },
+  {
+    "id": "mn-meroe",
+    "category": "monument",
+    "name": { "fr": "Pyramides de Méroé", "en": "Pyramids of Meroë" },
+    "region": "État du Nil, désert de Nubie",
+    "country": { "fr": "Soudan", "en": "Sudan" },
+    "countryCode": "SD",
+    "coordinates": [16.9375, 33.7228],
+    "description": {
+      "fr": "Plus étroites et plus pointues que leurs cousines égyptiennes, les pyramides de Méroé abritent les rois et reines du royaume koushite. Près de 200 pyramides émergent des dunes du désert de Nubie.",
+      "en": "Steeper and narrower than their Egyptian cousins, the Meroë pyramids hold the kings and queens of the Kushite kingdom. Nearly two hundred pyramids rise from the Nubian desert dunes."
+    },
+    "tags": ["UNESCO", "Pyramid", "Desert"]
+  },
+  {
+    "id": "mn-karnak",
+    "category": "monument",
+    "name": { "fr": "Temple de Karnak", "en": "Karnak Temple" },
+    "region": "Louxor, Thèbes",
+    "country": { "fr": "Égypte", "en": "Egypt" },
+    "countryCode": "EG",
+    "coordinates": [25.7188, 32.6572],
+    "description": {
+      "fr": "Plus vaste ensemble religieux de l'Antiquité, Karnak a été agrandi durant deux mille ans par les pharaons. Sa salle hypostyle aligne 134 colonnes gigantesques dédiées au dieu Amon.",
+      "en": "The largest religious complex of antiquity, Karnak was expanded for two thousand years by successive pharaohs. Its Hypostyle Hall raises 134 colossal columns dedicated to the god Amun."
+    },
+    "tags": ["UNESCO", "Ancient", "Temple"]
+  },
+  {
+    "id": "mn-elmina",
+    "category": "monument",
+    "name": { "fr": "Château d'Elmina", "en": "Elmina Castle" },
+    "region": "Cape Coast, côte du Ghana",
+    "country": { "fr": "Ghana", "en": "Ghana" },
+    "countryCode": "GH",
+    "coordinates": [5.0839, -1.3489],
+    "description": {
+      "fr": "Bâtie par les Portugais en 1482, cette forteresse blanche est le plus ancien poste européen d'Afrique subsaharienne. Devenue plaque tournante de la traite atlantique, elle témoigne aujourd'hui de cette mémoire douloureuse.",
+      "en": "Built by the Portuguese in 1482, this white fortress is the oldest European post in sub-Saharan Africa. Later a hub of the Atlantic slave trade, it now bears witness to that painful memory."
+    },
+    "tags": ["UNESCO", "Colonial", "Memorial"]
+  },
+  {
+    "id": "mn-namib-desert",
+    "category": "monument",
+    "name": { "fr": "Désert du Namib", "en": "Namib Desert" },
+    "region": "Erongo et Karas",
+    "country": { "fr": "Namibie", "en": "Namibia" },
+    "countryCode": "NA",
+    "coordinates": [-24.7500, 15.2833],
+    "description": {
+      "fr": "Le plus vieux désert au monde borde l'Atlantique sur 2 000 kilomètres. Ses dunes rouges parmi les plus hautes du globe rencontrent une brume marine qui abreuve une faune adaptée à l'aridité extrême.",
+      "en": "The world's oldest desert borders the Atlantic for 2,000 kilometres. Some of the highest dunes on earth meet a coastal fog that sustains a fauna tuned to extreme aridity."
+    },
+    "tags": ["Desert", "UNESCO", "Landscape"]
+  },
+  {
+    "id": "mn-twelve-apostles",
+    "category": "monument",
+    "name": { "fr": "Douze Apôtres", "en": "Twelve Apostles" },
+    "region": "Great Ocean Road, Victoria",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-38.6667, 143.1000],
+    "description": {
+      "fr": "Ces piliers de calcaire jaillissent de l'océan austral, sculptés par un vent et des vagues incessants. Sur les huit qui restent debout, chacun peut s'effondrer à tout moment.",
+      "en": "These limestone stacks jut out of the Southern Ocean, shaped by relentless wind and waves. Of the eight still standing, any one may collapse at any time."
+    },
+    "tags": ["Coastal", "Landscape", "Iconic"]
+  },
+  {
+    "id": "mn-waitomo",
+    "category": "monument",
+    "name": { "fr": "Grottes de Waitomo", "en": "Waitomo Glowworm Caves" },
+    "region": "Île du Nord, Waikato",
+    "country": { "fr": "Nouvelle-Zélande", "en": "New Zealand" },
+    "countryCode": "NZ",
+    "coordinates": [-38.2617, 175.1049],
+    "description": {
+      "fr": "Des millions de vers luisants endémiques constellent les voûtes calcaires d'une lumière bleutée. On descend la rivière souterraine en barque, sous une véritable voie lactée vivante.",
+      "en": "Millions of endemic glowworms speckle the limestone vaults with a bluish glow. Visitors drift down the underground river by boat beneath a living Milky Way."
+    },
+    "tags": ["Cave", "Bioluminescence", "Unique"]
+  },
+  {
+    "id": "mn-champagne-pool",
+    "category": "monument",
+    "name": { "fr": "Champagne Pool", "en": "Champagne Pool" },
+    "region": "Wai-O-Tapu, Rotorua",
+    "country": { "fr": "Nouvelle-Zélande", "en": "New Zealand" },
+    "countryCode": "NZ",
+    "coordinates": [-38.3583, 176.3653],
+    "description": {
+      "fr": "Un cratère hydrothermal de 65 mètres cerclé d'un liseré orange fluo. Le gaz carbonique remonte des profondeurs et pétille comme du champagne à la surface.",
+      "en": "A 65-metre hydrothermal crater rimmed in neon orange. Carbon dioxide bubbles up from deep below, fizzing at the surface like champagne."
+    },
+    "tags": ["Geothermal", "Colorful", "Landscape"]
+  },
+  {
+    "id": "mn-wave-rock",
+    "category": "monument",
+    "name": { "fr": "Wave Rock", "en": "Wave Rock" },
+    "region": "Hyden, Australie-Occidentale",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-32.4437, 118.8931],
+    "description": {
+      "fr": "Une vague de granit figée haute de quinze mètres, striée de bandes ocre et grises par les eaux de ruissellement. Le rocher, vieux de 2,7 milliards d'années, se dresse en plein bush.",
+      "en": "A fifteen-metre wave of granite frozen in time, streaked ochre and grey by runoff. The rock, 2.7 billion years old, rises out of the open bush."
+    },
+    "tags": ["Rock formation", "Landscape", "Iconic"]
+  },
+  {
+    "id": "mn-bungle-bungle",
+    "category": "monument",
+    "name": { "fr": "Bungle Bungle", "en": "Bungle Bungle Range" },
+    "region": "Purnululu, Kimberley",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-17.4667, 128.4000],
+    "description": {
+      "fr": "Des centaines de dômes de grès rayés orange et noir composent l'un des paysages karstiques les plus étranges du monde. Restés méconnus jusque dans les années 1980, ils appartiennent au peuple kija.",
+      "en": "Hundreds of orange and black striped sandstone domes make up one of the world's strangest karst landscapes. Little known until the 1980s, they belong to the Kija people's country."
+    },
+    "tags": ["UNESCO", "Rock formation", "Outback"]
+  },
+  {
+    "id": "an-panda-roux-singalila",
+    "category": "animal",
+    "name": { "fr": "Panda roux du Singalila", "en": "Red panda of Singalila" },
+    "region": "Parc national du Singalila, Bengale-Occidental",
+    "country": { "fr": "Inde", "en": "India" },
+    "countryCode": "IN",
+    "coordinates": [27.1500, 88.0500],
+    "description": {
+      "fr": "Discret et solitaire, le panda roux se glisse dans la canopée de bambous à 3 000 mètres d'altitude, non loin des sommets du Kangchenjunga. Sa fourrure rousse le camoufle sur les troncs couverts de mousse.",
+      "en": "Shy and solitary, the red panda slips through the bamboo canopy at 3,000 m altitude near the Kanchenjunga peaks. Its rusty coat blends in with the moss-covered trunks."
+    },
+    "tags": ["Endangered", "Himalaya", "Iconic"]
+  },
+  {
+    "id": "an-tigre-malais-taman-negara",
+    "category": "animal",
+    "name": { "fr": "Tigre de Malaisie", "en": "Malayan tiger" },
+    "region": "Taman Negara, péninsule malaise",
+    "country": { "fr": "Malaisie", "en": "Malaysia" },
+    "countryCode": "MY",
+    "coordinates": [4.4666, 102.4000],
+    "description": {
+      "fr": "Il ne reste guère plus de 150 tigres de Malaisie dans la forêt primaire de Taman Negara, l'une des plus anciennes du monde. Ce félin plus petit que son cousin bengali chasse cerfs sambar et sangliers.",
+      "en": "Fewer than 150 Malayan tigers still roam Taman Negara, one of the world's oldest primary rainforests. This tiger, smaller than its Bengal cousin, hunts sambar deer and wild boar."
+    },
+    "tags": ["Endangered", "Rainforest", "Big cat"]
+  },
+  {
+    "id": "an-tigre-indochine-chitwan",
+    "category": "animal",
+    "name": { "fr": "Tigre du Bengale du Chitwan", "en": "Bengal tiger of Chitwan" },
+    "region": "Parc national de Chitwan, Terai",
+    "country": { "fr": "Népal", "en": "Nepal" },
+    "countryCode": "NP",
+    "coordinates": [27.5142, 84.4544],
+    "description": {
+      "fr": "Dans les hautes herbes de la plaine du Terai, le tigre partage son territoire avec le rhinocéros unicorne. Chitwan a été l'un des premiers parcs à faire remonter la population de tigres au XXIᵉ siècle.",
+      "en": "In the tall grasses of the Terai lowlands, the tiger shares its range with the one-horned rhino. Chitwan was one of the first parks to grow its tiger population in the 21st century."
+    },
+    "tags": ["Big cat", "Conservation", "Terai"]
+  },
+  {
+    "id": "an-grue-couronne-rouge-zhalong",
+    "category": "animal",
+    "name": { "fr": "Grue à couronne rouge de Zhalong", "en": "Red-crowned crane of Zhalong" },
+    "region": "Réserve de Zhalong, Heilongjiang",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [47.2000, 124.2500],
+    "description": {
+      "fr": "Symbole de longévité en Asie de l'Est, cette grue élégante blanche et noire vient nicher dans les roselières gelées de Zhalong. Ses parades nuptiales, cris fusionnés à un ballet, se déroulent au printemps.",
+      "en": "A symbol of longevity across East Asia, this elegant black-and-white crane nests in the frozen reedbeds of Zhalong. Its spring courtship dances mix trumpeting calls with a graceful ballet."
+    },
+    "tags": ["Endangered", "Bird", "Wetland"]
+  },
+  {
+    "id": "an-elephant-pygmee-kinabatangan",
+    "category": "animal",
+    "name": { "fr": "Éléphant pygmée de Bornéo", "en": "Bornean pygmy elephant" },
+    "region": "Rivière Kinabatangan, Sabah",
+    "country": { "fr": "Malaisie", "en": "Malaysia" },
+    "countryCode": "MY",
+    "coordinates": [5.5000, 118.2000],
+    "description": {
+      "fr": "Plus petit que son cousin d'Asie et d'aspect enfantin, l'éléphant pygmée descend au bord de la Kinabatangan pour boire. Moins de 1 500 individus survivent dans les forêts fragmentées de Bornéo.",
+      "en": "Smaller than its Asian cousin and looking almost cartoonish, the pygmy elephant comes down to the Kinabatangan River to drink. Fewer than 1,500 remain in Borneo's fragmented forests."
+    },
+    "tags": ["Endangered", "Rainforest", "Iconic"]
+  },
+  {
+    "id": "an-rhinoceros-sumatra-way-kambas",
+    "category": "animal",
+    "name": { "fr": "Rhinocéros de Sumatra", "en": "Sumatran rhino" },
+    "region": "Way Kambas, Sumatra",
+    "country": { "fr": "Indonésie", "en": "Indonesia" },
+    "countryCode": "ID",
+    "coordinates": [-4.9500, 105.7500],
+    "description": {
+      "fr": "Dernier rhinocéros à poils au monde, cette espèce préhistorique compte moins de quatre-vingts individus. Le sanctuaire de Way Kambas tente d'en assurer la reproduction en captivité.",
+      "en": "The last hairy rhinoceros on earth, this prehistoric species numbers fewer than eighty. The Way Kambas sanctuary works to breed them in captivity."
+    },
+    "tags": ["Critically endangered", "Rainforest", "Conservation"]
+  },
+  {
+    "id": "an-macaque-lopburi",
+    "category": "animal",
+    "name": { "fr": "Macaques de Lopburi", "en": "Macaques of Lopburi" },
+    "region": "Lopburi, plaine centrale",
+    "country": { "fr": "Thaïlande", "en": "Thailand" },
+    "countryCode": "TH",
+    "coordinates": [14.7995, 100.6500],
+    "description": {
+      "fr": "Des milliers de macaques à longue queue règnent sur le vieux temple khmer de Phra Prang Sam Yod. Un festin annuel de fruits leur est organisé fin novembre par les habitants.",
+      "en": "Thousands of long-tailed macaques rule the old Khmer temple of Phra Prang Sam Yod. Locals stage an annual fruit banquet for them at the end of November."
+    },
+    "tags": ["Primate", "Urban", "Cultural"]
+  },
+  {
+    "id": "an-nasique-bako",
+    "category": "animal",
+    "name": { "fr": "Nasique de Bako", "en": "Proboscis monkey of Bako" },
+    "region": "Parc national de Bako, Sarawak",
+    "country": { "fr": "Malaisie", "en": "Malaysia" },
+    "countryCode": "MY",
+    "coordinates": [1.7167, 110.4667],
+    "description": {
+      "fr": "Reconnaissable à son long nez tombant et à son ventre rebondi, le nasique mâle vit en harems dans la mangrove. Il ne se rencontre que dans les forêts humides de Bornéo.",
+      "en": "Instantly recognisable by his long droopy nose and pot belly, the male proboscis monkey lives in harems in the mangroves. It is found only in Borneo's rainforests."
+    },
+    "tags": ["Endangered", "Rainforest", "Primate"]
+  },
+  {
+    "id": "an-tapir-malais-belum",
+    "category": "animal",
+    "name": { "fr": "Tapir de Malaisie du Belum", "en": "Malayan tapir of Belum" },
+    "region": "Royal Belum, Perak",
+    "country": { "fr": "Malaisie", "en": "Malaysia" },
+    "countryCode": "MY",
+    "coordinates": [5.6500, 101.4667],
+    "description": {
+      "fr": "Noir et blanc comme un pyjama de forêt, le tapir de Malaisie parcourt discrètement la forêt tropicale du Belum. Il est le seul tapir asiatique et sa population a chuté de moitié en quarante ans.",
+      "en": "Two-tone black and white like a forest pyjama, the Malayan tapir quietly roams the Belum rainforest. It is the only Asian tapir and its population has halved in forty years."
+    },
+    "tags": ["Endangered", "Rainforest", "Unique"]
+  },
+  {
+    "id": "an-yak-sauvage-changtang",
+    "category": "animal",
+    "name": { "fr": "Yak sauvage du Changtang", "en": "Wild yak of Changtang" },
+    "region": "Plateau du Changtang, Tibet",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [33.5000, 87.0000],
+    "description": {
+      "fr": "Plus massif que son cousin domestique, le yak sauvage arpente les steppes glaciales du Changtang à plus de 4 800 mètres. Sa toison épaisse lui permet de supporter des températures descendant à -40 °C.",
+      "en": "Bulkier than its domestic cousin, the wild yak roams the icy Changtang steppes above 4,800 m. Its thick coat lets it endure temperatures dropping to -40 °C."
+    },
+    "tags": ["Endangered", "High altitude", "Wildlife"]
+  },
+  {
+    "id": "an-hippotrague-noir-malilangwe",
+    "category": "animal",
+    "name": { "fr": "Hippotrague noir de Malilangwe", "en": "Sable antelope of Malilangwe" },
+    "region": "Réserve de Malilangwe, sud-est",
+    "country": { "fr": "Zimbabwe", "en": "Zimbabwe" },
+    "countryCode": "ZW",
+    "coordinates": [-21.0500, 31.9000],
+    "description": {
+      "fr": "L'un des plus élégants antilopes d'Afrique, le mâle porte une robe noire luisante et des cornes en cimeterre d'un mètre. Malilangwe abrite l'une des dernières populations denses d'hippotragues du sud.",
+      "en": "One of Africa's most elegant antelopes, the bull wears a glossy black coat and scimitar horns nearly a metre long. Malilangwe holds one of the last dense populations of southern sable."
+    },
+    "tags": ["Antelope", "Savanna", "Iconic"]
+  },
+  {
+    "id": "an-orycterope-karoo",
+    "category": "animal",
+    "name": { "fr": "Oryctérope du Karoo", "en": "Aardvark of the Karoo" },
+    "region": "Grand Karoo, Cap-Occidental",
+    "country": { "fr": "Afrique du Sud", "en": "South Africa" },
+    "countryCode": "ZA",
+    "coordinates": [-32.3000, 22.5000],
+    "description": {
+      "fr": "Long museau tubulaire et oreilles d'âne, l'oryctérope creuse la nuit dans les termitières du Karoo semi-désertique. Il est le seul survivant de son ordre, unique parmi les mammifères actuels.",
+      "en": "Long tubular snout and donkey ears, the aardvark digs by night into the termite mounds of the semi-arid Karoo. It is the sole survivor of its order, unique among living mammals."
+    },
+    "tags": ["Nocturnal", "Endemic", "Unique"]
+  },
+  {
+    "id": "an-suricate-makgadikgadi",
+    "category": "animal",
+    "name": { "fr": "Suricate du Makgadikgadi", "en": "Meerkat of Makgadikgadi" },
+    "region": "Salines du Makgadikgadi, Kalahari",
+    "country": { "fr": "Botswana", "en": "Botswana" },
+    "countryCode": "BW",
+    "coordinates": [-20.5000, 25.7000],
+    "description": {
+      "fr": "Des bandes de suricates postés en sentinelle guettent le ciel sur les grandes salines de sel. Habitués à l'homme, ils grimpent parfois sur les visiteurs pour prendre de la hauteur.",
+      "en": "Sentinel meerkats scan the sky above the vast salt pans. Habituated to people, they sometimes climb onto visitors to get a better view."
+    },
+    "tags": ["Mammal", "Desert", "Social"]
+  },
+  {
+    "id": "an-bongo-aberdare",
+    "category": "animal",
+    "name": { "fr": "Bongo des montagnes d'Aberdare", "en": "Mountain bongo of Aberdare" },
+    "region": "Massif d'Aberdare, Kenya central",
+    "country": { "fr": "Kenya", "en": "Kenya" },
+    "countryCode": "KE",
+    "coordinates": [-0.4000, 36.7500],
+    "description": {
+      "fr": "Antilope forestière au pelage châtaigne strié de blanc, le bongo de montagne compte à peine cent individus sauvages dans les forêts brumeuses d'Aberdare. Il est l'une des espèces les plus menacées d'Afrique.",
+      "en": "A chestnut forest antelope striped with white, the mountain bongo counts barely a hundred wild individuals in the misty Aberdare forests. It ranks among the most endangered species in Africa."
+    },
+    "tags": ["Critically endangered", "Forest", "Antelope"]
+  },
+  {
+    "id": "an-sifaka-kirindy",
+    "category": "animal",
+    "name": { "fr": "Sifaka de Verreaux à Kirindy", "en": "Verreaux's sifaka at Kirindy" },
+    "region": "Forêt sèche de Kirindy",
+    "country": { "fr": "Madagascar", "en": "Madagascar" },
+    "countryCode": "MG",
+    "coordinates": [-20.0667, 44.6833],
+    "description": {
+      "fr": "Ce lémurien blanc à masque noir se déplace au sol par bonds latéraux, comme s'il dansait entre les baobabs. La forêt de Kirindy protège l'une des dernières populations viables.",
+      "en": "This white sifaka with a black mask crosses the ground with sideways hops, as if dancing between the baobabs. Kirindy forest safeguards one of its last viable populations."
+    },
+    "tags": ["Endemic", "Lemur", "Endangered"]
+  },
+  {
+    "id": "an-gelada-simien",
+    "category": "animal",
+    "name": { "fr": "Gélada du Simien", "en": "Gelada of Simien" },
+    "region": "Massif du Simien, Amhara",
+    "country": { "fr": "Éthiopie", "en": "Ethiopia" },
+    "countryCode": "ET",
+    "coordinates": [13.2000, 38.2500],
+    "description": {
+      "fr": "Ce singe endémique se reconnaît à la tache rouge en forme de cœur sur son poitrail. Les géladas vivent en bandes de plusieurs centaines d'individus le long des falaises du Simien, uniques primates herbivores.",
+      "en": "This endemic monkey is known for the heart-shaped red patch on its chest. Geladas live in troops of several hundred along the Simien cliffs, the only truly grass-eating primates."
+    },
+    "tags": ["Endemic", "Primate", "Highland"]
+  },
+  {
+    "id": "an-anaconda-llanos",
+    "category": "animal",
+    "name": { "fr": "Anaconda vert des Llanos", "en": "Green anaconda of the Llanos" },
+    "region": "Llanos, bassin de l'Orénoque",
+    "country": { "fr": "Venezuela", "en": "Venezuela" },
+    "countryCode": "VE",
+    "coordinates": [6.5000, -70.0000],
+    "description": {
+      "fr": "Le plus lourd serpent du monde vit dans les marais des Llanos, tapi dans l'eau à guetter caïmans et capybaras. Les femelles, plus massives, peuvent dépasser 6 mètres et 100 kilos.",
+      "en": "The world's heaviest snake lurks in the Llanos wetlands, waiting in the water for caimans and capybaras. Females, bulkier than males, can top 6 metres and 100 kilos."
+    },
+    "tags": ["Reptile", "Wetland", "Apex predator"]
+  },
+  {
+    "id": "an-tapir-bairdii-corcovado",
+    "category": "animal",
+    "name": { "fr": "Tapir de Baird du Corcovado", "en": "Baird's tapir of Corcovado" },
+    "region": "Parc national du Corcovado, Osa",
+    "country": { "fr": "Costa Rica", "en": "Costa Rica" },
+    "countryCode": "CR",
+    "coordinates": [8.5410, -83.5920],
+    "description": {
+      "fr": "Plus gros mammifère terrestre d'Amérique centrale, le tapir de Baird patauge dans les rivières et broute les feuilles du sous-bois. Corcovado en abrite l'une des dernières populations denses.",
+      "en": "Central America's largest land mammal, Baird's tapir wades through rivers and browses forest understorey. Corcovado shelters one of its last dense populations."
+    },
+    "tags": ["Endangered", "Rainforest", "Iconic"]
+  },
+  {
+    "id": "an-paresseux-manuel-antonio",
+    "category": "animal",
+    "name": { "fr": "Paresseux à trois doigts", "en": "Three-toed sloth" },
+    "region": "Manuel Antonio, côte Pacifique",
+    "country": { "fr": "Costa Rica", "en": "Costa Rica" },
+    "countryCode": "CR",
+    "coordinates": [9.3900, -84.1400],
+    "description": {
+      "fr": "Suspendu à la canopée, le paresseux descend d'un arbre une fois par semaine, uniquement pour faire ses besoins. Ses algues symbiotiques lui donnent une teinte verdâtre qui le camoufle.",
+      "en": "Hanging from the canopy, the sloth climbs down only once a week and only to defecate. Symbiotic algae give its fur a greenish tint that helps it blend in."
+    },
+    "tags": ["Rainforest", "Slow", "Iconic"]
+  },
+  {
+    "id": "an-loup-criniere-serra-canastra",
+    "category": "animal",
+    "name": { "fr": "Loup à crinière de la Serra da Canastra", "en": "Maned wolf of Serra da Canastra" },
+    "region": "Parc national de la Serra da Canastra, Minas Gerais",
+    "country": { "fr": "Brésil", "en": "Brazil" },
+    "countryCode": "BR",
+    "coordinates": [-20.3000, -46.5000],
+    "description": {
+      "fr": "Ni loup ni renard, ce canidé à longues pattes est le plus grand du cerrado brésilien. Sa robe fauve et sa crinière noire lui donnent une silhouette de renard sur échasses.",
+      "en": "Neither wolf nor fox, this long-legged canid is the biggest of Brazil's cerrado. Its tawny coat and black mane give it the look of a fox on stilts."
+    },
+    "tags": ["Cerrado", "Endemic", "Nocturnal"]
+  },
+  {
+    "id": "an-loutre-mer-monterey",
+    "category": "animal",
+    "name": { "fr": "Loutre de mer de Monterey", "en": "Sea otter of Monterey" },
+    "region": "Baie de Monterey, Californie",
+    "country": { "fr": "États-Unis", "en": "United States" },
+    "countryCode": "US",
+    "coordinates": [36.6167, -121.9000],
+    "description": {
+      "fr": "Le mammifère à la fourrure la plus dense du monde flotte sur le dos dans les forêts de laminaires. La loutre casse les coquillages sur une pierre posée sur son ventre.",
+      "en": "The mammal with the densest fur on earth drifts belly-up through the kelp forests. The sea otter cracks shellfish on a rock balanced on its stomach."
+    },
+    "tags": ["Marine", "Endangered", "Iconic"]
+  },
+  {
+    "id": "an-morse-round-island",
+    "category": "animal",
+    "name": { "fr": "Morse du Pacifique", "en": "Pacific walrus" },
+    "region": "Round Island, mer de Béring, Alaska",
+    "country": { "fr": "États-Unis", "en": "United States" },
+    "countryCode": "US",
+    "coordinates": [58.6167, -159.9667],
+    "description": {
+      "fr": "Chaque été, des milliers de mâles s'entassent sur les plages de Round Island, défenses en avant. Les grognements se mêlent à l'odeur de la colonie, spectacle brut d'une nature arctique.",
+      "en": "Every summer thousands of male walruses pile onto Round Island's beaches, tusks bared. The bellowing and thick smell of the haul-out make for a raw Arctic wildlife show."
+    },
+    "tags": ["Marine mammal", "Arctic", "Colony"]
+  },
+  {
+    "id": "an-casoar-daintree",
+    "category": "animal",
+    "name": { "fr": "Casoar à casque du Daintree", "en": "Southern cassowary of Daintree" },
+    "region": "Forêt du Daintree, Queensland",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-16.2500, 145.4167],
+    "description": {
+      "fr": "Cet oiseau incapable de voler, cousin de l'émeu, arbore un casque osseux et des griffes en forme de dague. Considéré comme l'oiseau le plus dangereux du monde, il joue un rôle clé dans la dispersion des graines du Daintree.",
+      "en": "This flightless bird, an emu cousin, sports a bony helmet and dagger-like claws. Rated the world's most dangerous bird, it is essential to seed dispersal in the Daintree rainforest."
+    },
+    "tags": ["Bird", "Rainforest", "Iconic"]
+  },
+  {
+    "id": "an-quokka-rottnest",
+    "category": "animal",
+    "name": { "fr": "Quokka de Rottnest", "en": "Quokka of Rottnest" },
+    "region": "Île de Rottnest, Australie-Occidentale",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-32.0000, 115.5000],
+    "description": {
+      "fr": "Petit marsupial au sourire éternel, le quokka déambule sans crainte sur Rottnest. Il compte parmi les animaux les plus photographiés au monde, souvent en selfie.",
+      "en": "A small marsupial with a permanent grin, the quokka wanders Rottnest without fear. It is one of the most photographed animals in the world, often in selfies."
+    },
+    "tags": ["Marsupial", "Endemic", "Iconic"]
+  },
+  {
+    "id": "an-numbat-dryandra",
+    "category": "animal",
+    "name": { "fr": "Numbat de Dryandra", "en": "Numbat of Dryandra" },
+    "region": "Forêt de Dryandra, Wheatbelt",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-32.7833, 116.9167],
+    "description": {
+      "fr": "Petit marsupial rayé à queue en panache, le numbat se nourrit exclusivement de termites. Emblème de l'Australie-Occidentale, il ne survit plus qu'en quelques centaines dans la forêt de Dryandra.",
+      "en": "A small striped marsupial with a bushy tail, the numbat feeds only on termites. The emblem of Western Australia, only a few hundred remain in Dryandra Woodland."
+    },
+    "tags": ["Endangered", "Marsupial", "Endemic"]
+  },
+  {
+    "id": "an-wombat-cradle",
+    "category": "animal",
+    "name": { "fr": "Wombat commun de Cradle Mountain", "en": "Common wombat of Cradle Mountain" },
+    "region": "Cradle Mountain, Tasmanie",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-41.6833, 145.9333],
+    "description": {
+      "fr": "Trapu, poilu et pataud, le wombat broute paisiblement au bord des sentiers de Cradle Mountain à l'aube et au crépuscule. Ses crottes cubiques restent une singularité biologique.",
+      "en": "Stout, furry and lumbering, the wombat grazes calmly along Cradle Mountain paths at dawn and dusk. Its cube-shaped droppings are a lasting biological oddity."
+    },
+    "tags": ["Marsupial", "Alpine", "Iconic"]
+  },
+  {
+    "id": "an-echidna-kangaroo-island",
+    "category": "animal",
+    "name": { "fr": "Échidné de Kangaroo Island", "en": "Kangaroo Island echidna" },
+    "region": "Kangaroo Island, Australie-Méridionale",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-35.8000, 137.2167],
+    "description": {
+      "fr": "Petit mammifère à piquants et long museau, l'échidné pond des œufs comme l'ornithorynque. La sous-espèce de Kangaroo Island, décimée par les incendies de 2020, fait l'objet d'un programme intensif de recherche.",
+      "en": "A small spiky mammal with a long snout, the echidna lays eggs like the platypus. The Kangaroo Island subspecies, hit hard by the 2020 bushfires, is now closely monitored."
+    },
+    "tags": ["Monotreme", "Endemic", "Unique"]
+  },
+  {
+    "id": "an-oryx-arabie-ras-al-jinz",
+    "category": "animal",
+    "name": { "fr": "Oryx d'Arabie", "en": "Arabian oryx" },
+    "region": "Réserve de Ras al Jinz, Sharqiya",
+    "country": { "fr": "Oman", "en": "Oman" },
+    "countryCode": "OM",
+    "coordinates": [22.4167, 59.8000],
+    "description": {
+      "fr": "Antilope blanche aux longues cornes droites, l'oryx d'Arabie a inspiré la légende de la licorne. Éteint dans la nature en 1972, il a été réintroduit avec succès dans le désert omanais.",
+      "en": "A white antelope with long straight horns, the Arabian oryx inspired the unicorn legend. Extinct in the wild by 1972, it has been successfully reintroduced across the Omani desert."
+    },
+    "tags": ["Conservation", "Desert", "Iconic"]
+  },
+  {
+    "id": "an-bouquetin-nubien-ein-gedi",
+    "category": "animal",
+    "name": { "fr": "Bouquetin de Nubie d'Ein Gedi", "en": "Nubian ibex of Ein Gedi" },
+    "region": "Ein Gedi, désert de Judée",
+    "country": { "fr": "Israël", "en": "Israel" },
+    "countryCode": "IL",
+    "coordinates": [31.4667, 35.3833],
+    "description": {
+      "fr": "Adapté aux escarpements arides du désert de Judée, le bouquetin de Nubie escalade les falaises d'Ein Gedi avec une aisance déconcertante. Ses cornes courbées atteignent un mètre chez le mâle adulte.",
+      "en": "Adapted to the harsh cliffs of the Judaean Desert, the Nubian ibex scales the rocks of Ein Gedi with breathtaking ease. Adult males grow curved horns up to a metre long."
+    },
+    "tags": ["Mountain", "Desert", "Wildlife"]
+  },
+  {
+    "id": "an-leopard-perse-alborz",
+    "category": "animal",
+    "name": { "fr": "Léopard de Perse de l'Alborz", "en": "Persian leopard of the Alborz" },
+    "region": "Chaîne de l'Alborz, nord de l'Iran",
+    "country": { "fr": "Iran", "en": "Iran" },
+    "countryCode": "IR",
+    "coordinates": [36.0000, 51.5000],
+    "description": {
+      "fr": "Plus gros sous-espèce de léopard, le léopard de Perse hante les forêts hyrcaniennes et les crêtes rocheuses de l'Alborz. Moins de 1 000 individus subsistent, essentiellement en Iran.",
+      "en": "The largest leopard subspecies, the Persian leopard haunts the Hyrcanian forests and rocky ridges of the Alborz. Fewer than 1,000 remain, mostly in Iran."
+    },
+    "tags": ["Endangered", "Big cat", "Mountain"]
+  },
+  {
+    "id": "pl-yoshino-sakura",
+    "category": "plant",
+    "name": { "fr": "Cerisiers du mont Yoshino", "en": "Cherry blossoms of Mount Yoshino" },
+    "region": "Mont Yoshino, Nara",
+    "country": { "fr": "Japon", "en": "Japan" },
+    "countryCode": "JP",
+    "coordinates": [34.3667, 135.8667],
+    "description": {
+      "fr": "Trente mille cerisiers plantés depuis le VIIᵉ siècle couvrent le mont Yoshino de vagues de floraisons échelonnées du bas au sommet. C'est le lieu de hanami le plus vénéré du Japon.",
+      "en": "Thirty thousand cherry trees planted since the 7th century blanket Mount Yoshino in waves of blossom rolling from bottom to top. It is Japan's most revered hanami spot."
+    },
+    "tags": ["Blossom", "Sacred", "Seasonal"]
+  },
+  {
+    "id": "pl-suzhou-plum-blossom",
+    "category": "plant",
+    "name": { "fr": "Pruniers en fleurs de Suzhou", "en": "Plum blossoms of Suzhou" },
+    "region": "Suzhou, Jiangsu",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [31.3167, 120.6167],
+    "description": {
+      "fr": "Fleur qui brave encore le froid de la fin de l'hiver, le prunier symbolise la résilience dans la culture chinoise. Les jardins classiques de Suzhou lui réservent leurs plus jolies galeries.",
+      "en": "Blooming while winter still bites, plum blossoms symbolise resilience in Chinese culture. The classical gardens of Suzhou reserve their prettiest galleries for them."
+    },
+    "tags": ["Blossom", "Cultural", "Winter"]
+  },
+  {
+    "id": "pl-hangzhou-lotus",
+    "category": "plant",
+    "name": { "fr": "Lotus du lac de l'Ouest", "en": "West Lake lotus" },
+    "region": "Lac de l'Ouest, Hangzhou",
+    "country": { "fr": "Chine", "en": "China" },
+    "countryCode": "CN",
+    "coordinates": [30.2500, 120.1500],
+    "description": {
+      "fr": "En été, les bassins du lac de l'Ouest se couvrent d'un tapis de lotus dont les fleurs roses et blanches embaument les rives. Le paysage a inspiré des générations de peintres et de poètes chinois.",
+      "en": "In summer the West Lake ponds turn into carpets of lotus whose pink and white flowers scent the shores. The scene has inspired generations of Chinese painters and poets."
+    },
+    "tags": ["Flower", "Aquatic", "Cultural"]
+  },
+  {
+    "id": "pl-sandalwood-mysore",
+    "category": "plant",
+    "name": { "fr": "Santal de Mysore", "en": "Mysore sandalwood" },
+    "region": "Karnataka",
+    "country": { "fr": "Inde", "en": "India" },
+    "countryCode": "IN",
+    "coordinates": [12.2958, 76.6394],
+    "description": {
+      "fr": "Le bois de santal du Karnataka produit une huile essentielle dont le parfum profond a alimenté les rituels hindous et le commerce indien depuis l'Antiquité. L'arbre pousse en semi-parasite au flanc d'autres essences.",
+      "en": "The Karnataka sandalwood tree yields an essential oil whose deep aroma has fed Hindu rituals and Indian trade since antiquity. The tree grows as a hemi-parasite on other species."
+    },
+    "tags": ["Tree", "Aromatic", "Sacred"]
+  },
+  {
+    "id": "pl-teak-bago",
+    "category": "plant",
+    "name": { "fr": "Teck de Bago", "en": "Teak of Bago" },
+    "region": "Région de Bago",
+    "country": { "fr": "Myanmar", "en": "Myanmar" },
+    "countryCode": "MM",
+    "coordinates": [17.3369, 96.4831],
+    "description": {
+      "fr": "Les forêts de teck de Bago fournissent depuis des siècles un bois recherché pour les navires et les monastères. Naturellement gorgé d'huiles, il résiste à l'humidité et aux termites.",
+      "en": "The teak forests of Bago have supplied timber for ships and monasteries for centuries. Naturally rich in oils, teak resists both moisture and termites."
+    },
+    "tags": ["Tree", "Timber", "Tropical"]
+  },
+  {
+    "id": "pl-uva-tea-sri-lanka",
+    "category": "plant",
+    "name": { "fr": "Théiers d'Uva", "en": "Uva tea gardens" },
+    "region": "Uva, hauts plateaux",
+    "country": { "fr": "Sri Lanka", "en": "Sri Lanka" },
+    "countryCode": "LK",
+    "coordinates": [6.9333, 81.0500],
+    "description": {
+      "fr": "Les jardins d'Uva étirent leurs terrasses de théiers à plus de 1 500 mètres d'altitude, sous les brumes portées par la mousson. Le climat produit un thé Ceylan à la saveur particulièrement fruitée.",
+      "en": "The Uva estates roll their tea terraces above 1,500 m altitude, wrapped in monsoon mist. The climate yields a Ceylon tea with a distinctly fruity character."
+    },
+    "tags": ["Crop", "Highland", "Cultural"]
+  },
+  {
+    "id": "pl-kapok-angkor",
+    "category": "plant",
+    "name": { "fr": "Fromagers d'Angkor", "en": "Kapok trees of Angkor" },
+    "region": "Ta Prohm, Siem Reap",
+    "country": { "fr": "Cambodge", "en": "Cambodia" },
+    "countryCode": "KH",
+    "coordinates": [13.4413, 103.8600],
+    "description": {
+      "fr": "Sur le temple de Ta Prohm, les fromagers géants enlacent les pierres khmères de racines grises spectaculaires. La forêt reprend ainsi ses droits sur les vestiges d'Angkor.",
+      "en": "At Ta Prohm temple, giant kapok trees embrace the Khmer stones with dramatic grey roots. The forest is quietly reclaiming the ruins of Angkor."
+    },
+    "tags": ["Tree", "Ruins", "Iconic"]
+  },
+  {
+    "id": "pl-sal-bihar",
+    "category": "plant",
+    "name": { "fr": "Sal du Bihar", "en": "Sal tree of Bihar" },
+    "region": "Bihar, plaine du Gange",
+    "country": { "fr": "Inde", "en": "India" },
+    "countryCode": "IN",
+    "coordinates": [25.2500, 85.0000],
+    "description": {
+      "fr": "Arbre sacré du bouddhisme, le sal aurait abrité la mort du Bouddha. Sa résine et ses feuilles servent depuis des siècles aux rituels et à la construction dans les plaines du Gange.",
+      "en": "A sacred tree in Buddhism, the sal is said to have sheltered the Buddha's death. Its resin and leaves have served rituals and construction across the Gangetic plain for centuries."
+    },
+    "tags": ["Tree", "Sacred", "Forest"]
+  },
+  {
+    "id": "pl-fever-tree-kruger",
+    "category": "plant",
+    "name": { "fr": "Acacia fébrile du Kruger", "en": "Fever tree of Kruger" },
+    "region": "Parc national Kruger",
+    "country": { "fr": "Afrique du Sud", "en": "South Africa" },
+    "countryCode": "ZA",
+    "coordinates": [-24.0140, 31.4854],
+    "description": {
+      "fr": "Reconnaissable à son tronc jaune-vert lumineux, l'acacia fébrile pousse au bord des points d'eau. Les colons pensaient qu'il causait la fièvre alors que ce sont les moustiques des marais voisins.",
+      "en": "Recognisable by its luminous yellow-green trunk, the fever tree grows along waterholes. Early settlers blamed it for fever, though the culprits were the mosquitoes of the nearby swamps."
+    },
+    "tags": ["Tree", "Savanna", "Iconic"]
+  },
+  {
+    "id": "pl-fynbos-cape-point",
+    "category": "plant",
+    "name": { "fr": "Fynbos du cap de Bonne-Espérance", "en": "Fynbos of Cape Point" },
+    "region": "Réserve du cap de Bonne-Espérance",
+    "country": { "fr": "Afrique du Sud", "en": "South Africa" },
+    "countryCode": "ZA",
+    "coordinates": [-34.3556, 18.4979],
+    "description": {
+      "fr": "Le fynbos rassemble plus de 9 000 espèces dont deux tiers d'endémiques sur une bande côtière minuscule. Ces buissons compacts fleurissent en toute saison au bord de l'océan.",
+      "en": "The fynbos brings together more than 9,000 species, two-thirds of them endemic, along a tiny coastal strip. These compact bushes bloom in every season by the Atlantic."
+    },
+    "tags": ["Endemic", "Biodiversity", "Shrubland"]
+  },
+  {
+    "id": "pl-yellowwood-knysna",
+    "category": "plant",
+    "name": { "fr": "Bois-jaune de Knysna", "en": "Outeniqua yellowwood of Knysna" },
+    "region": "Forêt de Knysna, Route Jardin",
+    "country": { "fr": "Afrique du Sud", "en": "South Africa" },
+    "countryCode": "ZA",
+    "coordinates": [-34.0356, 22.9375],
+    "description": {
+      "fr": "Arbre national d'Afrique du Sud, le bois-jaune peut atteindre 40 mètres et 800 ans. Le Big Tree de Knysna dresse son tronc massif au cœur de la forêt indigène.",
+      "en": "South Africa's national tree, the Outeniqua yellowwood can reach 40 metres and 800 years old. The Big Tree of Knysna rises with its massive trunk in the heart of the indigenous forest."
+    },
+    "tags": ["Tree", "Forest", "Ancient"]
+  },
+  {
+    "id": "pl-spekboom-karoo",
+    "category": "plant",
+    "name": { "fr": "Spekboom du Karoo", "en": "Spekboom of the Karoo" },
+    "region": "Karoo oriental",
+    "country": { "fr": "Afrique du Sud", "en": "South Africa" },
+    "countryCode": "ZA",
+    "coordinates": [-32.2000, 22.5000],
+    "description": {
+      "fr": "Petit arbuste succulent d'aspect anodin, le spekboom capture le CO₂ à un rythme comparable à celui d'une forêt humide. Il est désormais planté à grande échelle pour restaurer les paysages semi-arides.",
+      "en": "An unassuming succulent shrub, spekboom captures CO₂ at rates rivalling rainforests. It is now planted at scale to restore semi-arid landscapes."
+    },
+    "tags": ["Succulent", "Climate", "Semi-arid"]
+  },
+  {
+    "id": "pl-baobab-senegal",
+    "category": "plant",
+    "name": { "fr": "Baobab africain du Sine Saloum", "en": "African baobab of Sine-Saloum" },
+    "region": "Sine-Saloum, Petite Côte",
+    "country": { "fr": "Sénégal", "en": "Senegal" },
+    "countryCode": "SN",
+    "coordinates": [14.7167, -17.4677],
+    "description": {
+      "fr": "Arbre-fétiche du paysage sénégalais, le baobab africain sert d'abri, de garde-manger et de mémoire villageoise. Son fruit, le pain de singe, est prisé pour ses vertus nutritives.",
+      "en": "An emblem of Senegal's landscape, the African baobab provides shelter, larder and village memory. Its fruit, monkey bread, is prized for its nutritional value."
+    },
+    "tags": ["Tree", "Savanna", "Cultural"]
+  },
+  {
+    "id": "pl-crown-of-thorns-madagascar",
+    "category": "plant",
+    "name": { "fr": "Épine du Christ malgache", "en": "Madagascan crown of thorns" },
+    "region": "Forêt épineuse d'Ifaty",
+    "country": { "fr": "Madagascar", "en": "Madagascar" },
+    "countryCode": "MG",
+    "coordinates": [-23.5333, 44.0000],
+    "description": {
+      "fr": "Endémique du sud-ouest malgache, l'Euphorbia milii forme des buissons couverts d'épines et de petites fleurs rouge vif. Elle domine la forêt épineuse au climat parmi les plus arides de l'île.",
+      "en": "Endemic to south-western Madagascar, Euphorbia milii grows into thorny bushes dotted with bright red flowers. It dominates the spiny forest, one of the driest habitats on the island."
+    },
+    "tags": ["Endemic", "Succulent", "Arid"]
+  },
+  {
+    "id": "pl-ceiba-tikal",
+    "category": "plant",
+    "name": { "fr": "Ceiba de Tikal", "en": "Ceiba of Tikal" },
+    "region": "Parc national de Tikal, Petén",
+    "country": { "fr": "Guatemala", "en": "Guatemala" },
+    "countryCode": "GT",
+    "coordinates": [17.2220, -89.6237],
+    "description": {
+      "fr": "Arbre national du Guatemala, le ceiba est considéré comme sacré par les Mayas, reliant le monde souterrain, terrestre et céleste. Ses géants s'élèvent au-dessus de la canopée de Tikal.",
+      "en": "Guatemala's national tree, the ceiba is sacred to the Maya as a link between underworld, earth and sky. Its giants rise above the Tikal canopy."
+    },
+    "tags": ["Tree", "Sacred", "Rainforest"]
+  },
+  {
+    "id": "pl-quebracho-chaco",
+    "category": "plant",
+    "name": { "fr": "Quebracho du Chaco", "en": "Quebracho of the Chaco" },
+    "region": "Chaco boréal",
+    "country": { "fr": "Paraguay", "en": "Paraguay" },
+    "countryCode": "PY",
+    "coordinates": [-22.8000, -60.5000],
+    "description": {
+      "fr": "Son nom signifie « casse-hache » tant son bois est dur. Le quebracho colorado a longtemps alimenté l'industrie du tanin et pousse dans la forêt sèche du Chaco.",
+      "en": "Its name means axe-breaker, so hard is the wood. The red quebracho long fed the tannin industry and grows in the Chaco dry forest."
+    },
+    "tags": ["Tree", "Dry forest", "Timber"]
+  },
+  {
+    "id": "pl-yerba-mate-misiones",
+    "category": "plant",
+    "name": { "fr": "Yerba mate de Misiones", "en": "Yerba mate of Misiones" },
+    "region": "Misiones, forêt atlantique",
+    "country": { "fr": "Argentine", "en": "Argentina" },
+    "countryCode": "AR",
+    "coordinates": [-27.3667, -55.9000],
+    "description": {
+      "fr": "Sous la canopée subtropicale de Misiones, le yerba mate se cultive en plantations. La boisson qu'il donne, partagée à la bombilla, structure la vie sociale de tout le Cône Sud.",
+      "en": "Beneath the subtropical canopy of Misiones, yerba mate is grown on plantations. The drink it produces, shared through a bombilla, shapes social life across the Southern Cone."
+    },
+    "tags": ["Crop", "Cultural", "Subtropical"]
+  },
+  {
+    "id": "pl-heliconia-corcovado",
+    "category": "plant",
+    "name": { "fr": "Héliconias du Corcovado", "en": "Heliconias of Corcovado" },
+    "region": "Péninsule d'Osa",
+    "country": { "fr": "Costa Rica", "en": "Costa Rica" },
+    "countryCode": "CR",
+    "coordinates": [8.5410, -83.5920],
+    "description": {
+      "fr": "Les héliconias écarlates et jaunes flamboyantes ponctuent le sous-bois de la péninsule d'Osa. Leurs bractées rigides, cousines du bananier, servent d'abreuvoir aux colibris.",
+      "en": "Scarlet and yellow heliconias flame across the Osa Peninsula understorey. Their stiff bracts, cousins of the banana, act as drinking cups for hummingbirds."
+    },
+    "tags": ["Flower", "Rainforest", "Tropical"]
+  },
+  {
+    "id": "pl-balsa-napo",
+    "category": "plant",
+    "name": { "fr": "Balsa de la Napo", "en": "Balsa of the Napo" },
+    "region": "Rivière Napo, Amazonie",
+    "country": { "fr": "Équateur", "en": "Ecuador" },
+    "countryCode": "EC",
+    "coordinates": [-0.9500, -77.8167],
+    "description": {
+      "fr": "L'un des bois les plus légers au monde, le balsa croît en forêt tropicale humide et attire les koatis et perroquets par ses fleurs. Il fournit maquettes, planches et pales d'éoliennes.",
+      "en": "One of the world's lightest woods, balsa grows in tropical rainforest and draws coatis and parrots to its flowers. It supplies models, boards and wind turbine blades."
+    },
+    "tags": ["Tree", "Rainforest", "Fast-growing"]
+  },
+  {
+    "id": "pl-rubber-acre",
+    "category": "plant",
+    "name": { "fr": "Hévéa de l'Acre", "en": "Rubber tree of Acre" },
+    "region": "État d'Acre, Amazonie occidentale",
+    "country": { "fr": "Brésil", "en": "Brazil" },
+    "countryCode": "BR",
+    "coordinates": [-9.9750, -67.8100],
+    "description": {
+      "fr": "L'hévéa amazonien libère un latex blanc qui a nourri le boom du caoutchouc autour de Manaus. Les seringueiros de l'Acre, dont Chico Mendes, l'ont défendu contre la déforestation.",
+      "en": "The Amazonian rubber tree yields a white latex that fuelled the rubber boom around Manaus. Acre's seringueiros, including Chico Mendes, defended it against deforestation."
+    },
+    "tags": ["Tree", "Rainforest", "Cultural"]
+  },
+  {
+    "id": "pl-cardon-baja",
+    "category": "plant",
+    "name": { "fr": "Cactus cardón de Basse-Californie", "en": "Cardón cactus of Baja California" },
+    "region": "Basse-Californie du Sud",
+    "country": { "fr": "Mexique", "en": "Mexico" },
+    "countryCode": "MX",
+    "coordinates": [27.5000, -113.0000],
+    "description": {
+      "fr": "Plus haut cactus au monde, le cardón peut culminer à 20 mètres et vivre plus de deux siècles. Ses forêts géantes s'étirent le long des déserts de Basse-Californie.",
+      "en": "The world's tallest cactus, the cardón can reach 20 metres and live over two centuries. Its giant forests stretch across the Baja California deserts."
+    },
+    "tags": ["Cactus", "Desert", "Iconic"]
+  },
+  {
+    "id": "pl-boojum-vizcaino",
+    "category": "plant",
+    "name": { "fr": "Cirio de Vizcaíno", "en": "Boojum tree of Vizcaíno" },
+    "region": "Désert de Vizcaíno, Basse-Californie",
+    "country": { "fr": "Mexique", "en": "Mexico" },
+    "countryCode": "MX",
+    "coordinates": [28.5000, -114.0000],
+    "description": {
+      "fr": "Silhouette effilée comme une carotte inversée, le cirio, ou boojum, ne pousse qu'en Basse-Californie. Sa forme surréaliste a inspiré le nom du poème de Lewis Carroll.",
+      "en": "Slim like an upside-down carrot, the boojum grows only in Baja California. Its surreal silhouette inspired the name from Lewis Carroll's poem."
+    },
+    "tags": ["Endemic", "Desert", "Unique"]
+  },
+  {
+    "id": "pl-pohutukawa-auckland",
+    "category": "plant",
+    "name": { "fr": "Pohutukawa d'Auckland", "en": "Pohutukawa of Auckland" },
+    "region": "Auckland, Île du Nord",
+    "country": { "fr": "Nouvelle-Zélande", "en": "New Zealand" },
+    "countryCode": "NZ",
+    "coordinates": [-36.8485, 174.7633],
+    "description": {
+      "fr": "Surnommé arbre de Noël néo-zélandais, le pohutukawa flamboie de fleurs écarlates en décembre. Il s'accroche aux falaises volcaniques du littoral et joue un rôle central dans la mythologie maorie.",
+      "en": "Nicknamed the New Zealand Christmas tree, the pohutukawa bursts into scarlet flowers each December. It clings to volcanic coastal cliffs and holds a central place in Maori mythology."
+    },
+    "tags": ["Tree", "Coastal", "Cultural"]
+  },
+  {
+    "id": "pl-silver-fern-whakarewarewa",
+    "category": "plant",
+    "name": { "fr": "Fougère argentée de Whakarewarewa", "en": "Silver fern of Whakarewarewa" },
+    "region": "Forêt de Whakarewarewa, Rotorua",
+    "country": { "fr": "Nouvelle-Zélande", "en": "New Zealand" },
+    "countryCode": "NZ",
+    "coordinates": [-38.1667, 176.2667],
+    "description": {
+      "fr": "Emblème national de la Nouvelle-Zélande, la fougère argentée montre le dessous nacré de ses frondes sous la lune. Les Maoris s'en servaient pour marquer leurs sentiers dans la nuit.",
+      "en": "New Zealand's national emblem, the silver fern flashes the pearly underside of its fronds by moonlight. Maori used it to mark their trails after dark."
+    },
+    "tags": ["Fern", "Forest", "Iconic"]
+  },
+  {
+    "id": "pl-red-flowering-gum",
+    "category": "plant",
+    "name": { "fr": "Eucalyptus à fleurs rouges", "en": "Red-flowering gum" },
+    "region": "Côte sud de l'Australie-Occidentale",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-34.5000, 118.0000],
+    "description": {
+      "fr": "Endémique d'une bande côtière de 100 kilomètres seulement, cet eucalyptus explose en bouquets écarlates et attire nectarivores et perroquets. Il est massivement planté dans les jardins du monde entier.",
+      "en": "Endemic to a strip of coast just 100 kilometres long, this eucalyptus bursts into scarlet clusters that draw honeyeaters and parrots. It is now planted in gardens worldwide."
+    },
+    "tags": ["Endemic", "Flower", "Tree"]
+  },
+  {
+    "id": "pl-banksia-fitzgerald",
+    "category": "plant",
+    "name": { "fr": "Banksias de Fitzgerald River", "en": "Banksias of Fitzgerald River" },
+    "region": "Parc national Fitzgerald River",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-34.0500, 119.6000],
+    "description": {
+      "fr": "Cette réserve de biosphère abrite près de vingt pour cent de la flore d'Australie-Occidentale, dont des banksias aux épis floraux spectaculaires. Beaucoup d'espèces n'existent qu'ici.",
+      "en": "This biosphere reserve holds nearly twenty percent of Western Australia's flora, including banksias with spectacular flower spikes. Many species exist here and nowhere else."
+    },
+    "tags": ["Biodiversity", "Endemic", "Shrubland"]
+  },
+  {
+    "id": "pl-jarrah-perth",
+    "category": "plant",
+    "name": { "fr": "Forêt de jarrah", "en": "Jarrah forest" },
+    "region": "Perth Hills, Australie-Occidentale",
+    "country": { "fr": "Australie", "en": "Australia" },
+    "countryCode": "AU",
+    "coordinates": [-32.3833, 116.0500],
+    "description": {
+      "fr": "Le jarrah, un eucalyptus au bois rouge sombre, forme une forêt sclérophylle qui ne pousse que dans le sud-ouest australien. Ses arbres centenaires abritent des cacatoès et des phalangers.",
+      "en": "The jarrah, a eucalyptus with dark red wood, forms a sclerophyll forest found only in south-western Australia. Its century-old trees shelter cockatoos and possums."
+    },
+    "tags": ["Endemic", "Forest", "Tree"]
+  },
+  {
+    "id": "pl-frankincense-dhofar",
+    "category": "plant",
+    "name": { "fr": "Encensier du Dhofar", "en": "Frankincense of Dhofar" },
+    "region": "Dhofar, sud de l'Oman",
+    "country": { "fr": "Oman", "en": "Oman" },
+    "countryCode": "OM",
+    "coordinates": [17.1000, 54.1000],
+    "description": {
+      "fr": "L'arbre à encens Boswellia sacra pousse dans les collines arides du Dhofar. Sa résine, récoltée par incisions, a nourri les routes caravanières de l'Arabie et du monde antique.",
+      "en": "The frankincense tree Boswellia sacra grows in the arid hills of Dhofar. Tapped for its resin, it fuelled the caravan routes of Arabia and the ancient world."
+    },
+    "tags": ["Tree", "Aromatic", "Historical"]
+  },
+  {
+    "id": "pl-al-ahsa-date-palm",
+    "category": "plant",
+    "name": { "fr": "Palmier-dattier d'Al Ahsa", "en": "Date palm of Al Ahsa" },
+    "region": "Oasis d'Al Ahsa, province Orientale",
+    "country": { "fr": "Arabie Saoudite", "en": "Saudi Arabia" },
+    "countryCode": "SA",
+    "coordinates": [25.4333, 49.6167],
+    "description": {
+      "fr": "Plus grande oasis du monde, Al Ahsa aligne plus de deux millions de dattiers alimentés par des sources artésiennes. Les dattes khalasah y sont récoltées depuis plus de quatre mille ans.",
+      "en": "The world's largest oasis, Al Ahsa lines up more than two million date palms fed by artesian springs. Khalasah dates have been harvested here for over four thousand years."
+    },
+    "tags": ["Palm", "Oasis", "UNESCO"]
+  },
+  {
+    "id": "pl-saffron-torbat-iran",
+    "category": "plant",
+    "name": { "fr": "Safran de Torbat", "en": "Saffron of Torbat" },
+    "region": "Torbat Heydarieh, Khorasan Razavi",
+    "country": { "fr": "Iran", "en": "Iran" },
+    "countryCode": "IR",
+    "coordinates": [35.2500, 59.2167],
+    "description": {
+      "fr": "Les plateaux du Khorasan produisent plus de 90 % du safran mondial. Chaque automne, la floraison violette du Crocus sativus se cueille à l'aube pour en extraire les précieux stigmates rouges.",
+      "en": "The Khorasan plateaus produce over 90 percent of the world's saffron. Each autumn the purple blooms of Crocus sativus are picked at dawn to gather the precious red stigmas."
+    },
+    "tags": ["Crop", "Spice", "Cultural"]
+  }
+]

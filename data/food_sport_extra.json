@@ -1,0 +1,2705 @@
+[
+  {
+    "id": "ds-gong-bao-chengdu",
+    "category": "dish",
+    "name": {
+      "fr": "Gong bao ji ding",
+      "en": "Kung Pao chicken"
+    },
+    "region": "Chengdu, Sichuan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      30.5728,
+      104.0668
+    ],
+    "description": {
+      "fr": "Poulet saute avec cacahuetes, piments seches et poivre de Sichuan, plat embleme de la cuisine chuan qui equilibre feu et engourdissement.",
+      "en": "Stir-fried chicken with peanuts, dried chilies and Sichuan peppercorns, a hallmark of Chuan cuisine balancing heat and tingling numbness."
+    },
+    "tags": [
+      "sichuan",
+      "wok",
+      "epice"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kung-pao-shanghai.jpg/330px-Kung-pao-shanghai.jpg"
+  },
+  {
+    "id": "ds-dan-dan-mian-chengdu",
+    "category": "dish",
+    "name": {
+      "fr": "Dan dan mian",
+      "en": "Dan dan noodles"
+    },
+    "region": "Chengdu, Sichuan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      30.6598,
+      104.0633
+    ],
+    "description": {
+      "fr": "Nouilles pimentees a la sauce de sesame, ya cai fermente et porc hache, portees jadis a la palanche par les vendeurs de Chengdu.",
+      "en": "Chili-slicked noodles with sesame paste, fermented ya cai and pork mince, once carried on shoulder poles by Chengdu vendors."
+    },
+    "tags": [
+      "nouilles",
+      "sichuan",
+      "street-food"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dan-dan_noodles%2C_Shanghai.jpg/330px-Dan-dan_noodles%2C_Shanghai.jpg"
+  },
+  {
+    "id": "ds-zhajiangmian-beijing",
+    "category": "dish",
+    "name": {
+      "fr": "Zhajiangmian",
+      "en": "Zhajiangmian"
+    },
+    "region": "Beijing",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      39.9042,
+      116.4074
+    ],
+    "description": {
+      "fr": "Nouilles de ble epaisses nappees d'une sauce de soja fermente au porc, garnies de concombre, radis et soja frais.",
+      "en": "Thick wheat noodles topped with fermented soybean-pork sauce and served with cucumber, radish and fresh soybeans."
+    },
+    "tags": [
+      "nouilles",
+      "pekin",
+      "confort"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Billyzhajiang1.jpg/330px-Billyzhajiang1.jpg"
+  },
+  {
+    "id": "ds-wenchang-chicken-hainan",
+    "category": "dish",
+    "name": {
+      "fr": "Poulet de Wenchang",
+      "en": "Wenchang chicken"
+    },
+    "region": "Wenchang, Hainan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      19.5432,
+      110.7538
+    ],
+    "description": {
+      "fr": "Poulet fermier eleve sous les cocotiers de Hainan, poche a l'eau frissonnante et servi avec riz au bouillon, ancetre du poulet hainanais.",
+      "en": "Free-range chicken raised under Hainan coconut palms, gently poached and served with fragrant broth-cooked rice, the ancestor of Hainanese chicken rice."
+    },
+    "tags": [
+      "hainan",
+      "volaille",
+      "tradition"
+    ]
+  },
+  {
+    "id": "ds-crossing-bridge-noodles-mengzi",
+    "category": "dish",
+    "name": {
+      "fr": "Nouilles du pont qui traverse",
+      "en": "Crossing-the-bridge noodles"
+    },
+    "region": "Mengzi, Yunnan",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      23.3903,
+      103.3865
+    ],
+    "description": {
+      "fr": "Bouillon brulant apporte sous une couche d'huile de poulet, dans lequel on plonge nouilles de riz, viandes et legumes minute a table.",
+      "en": "A scalding broth capped with chicken oil, in which rice noodles, thin-sliced meats and vegetables cook at the table in seconds."
+    },
+    "tags": [
+      "yunnan",
+      "soupe",
+      "nouilles"
+    ]
+  },
+  {
+    "id": "ds-buddha-jumps-quanzhou",
+    "category": "dish",
+    "name": {
+      "fr": "Le Bouddha saute par-dessus le mur",
+      "en": "Buddha jumps over the wall"
+    },
+    "region": "Quanzhou, Fujian",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      24.8741,
+      118.6759
+    ],
+    "description": {
+      "fr": "Ragout de luxe fujianais mijote dans une jarre de shaoxing avec ormeau, holothurie, ailerons et jambon, dont l arome ferait sauter un moine par-dessus le mur.",
+      "en": "Lavish Fujianese stew simmered in a Shaoxing jar with abalone, sea cucumber, ham and delicacies whose aroma would tempt a monk to leap the temple wall."
+    },
+    "tags": [
+      "fujian",
+      "banquet",
+      "luxe"
+    ]
+  },
+  {
+    "id": "ds-chettinad-chicken-karaikudi",
+    "category": "dish",
+    "name": {
+      "fr": "Poulet Chettinad",
+      "en": "Chettinad chicken"
+    },
+    "region": "Karaikudi, Tamil Nadu",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      10.0679,
+      78.7748
+    ],
+    "description": {
+      "fr": "Curry noir tres epice des marchands Chettiars, aux graines de fenouil, kalpasi et piments seches, servi avec dosa ou riz.",
+      "en": "Deeply spiced black curry of the Chettiar merchants, layered with fennel seed, stone-flower lichen and dried chilies, served with dosa or rice."
+    },
+    "tags": [
+      "tamil-nadu",
+      "curry",
+      "epice"
+    ]
+  },
+  {
+    "id": "ds-amritsari-fish-amritsar",
+    "category": "dish",
+    "name": {
+      "fr": "Amritsari fish",
+      "en": "Amritsari fish"
+    },
+    "region": "Amritsar, Punjab",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      31.634,
+      74.8723
+    ],
+    "description": {
+      "fr": "Filets de sole d eau douce marines au ajwain et gingembre, enrobes de pate de pois chiche et frits, specialite des dhabas d Amritsar.",
+      "en": "Freshwater sole fillets marinated with ajwain and ginger, cloaked in chickpea batter and deep-fried, a staple of Amritsar dhabas."
+    },
+    "tags": [
+      "punjab",
+      "friture",
+      "poisson"
+    ]
+  },
+  {
+    "id": "ds-macher-jhol-kolkata",
+    "category": "dish",
+    "name": {
+      "fr": "Macher jhol",
+      "en": "Macher jhol"
+    },
+    "region": "Kolkata, Bengale-Occidental",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      22.5726,
+      88.3639
+    ],
+    "description": {
+      "fr": "Curry bengali leger de poisson au panch phoron, moutarde et pomme de terre, servi avec du riz basmati par les familles de Kolkata.",
+      "en": "Light Bengali fish curry with panch phoron spice mix, mustard and potato, served over basmati rice in Kolkata households."
+    },
+    "tags": [
+      "bengale",
+      "poisson",
+      "curry"
+    ]
+  },
+  {
+    "id": "ds-hyderabadi-haleem-hyderabad",
+    "category": "dish",
+    "name": {
+      "fr": "Haleem d'Hyderabad",
+      "en": "Hyderabadi haleem"
+    },
+    "region": "Hyderabad, Telangana",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      17.385,
+      78.4867
+    ],
+    "description": {
+      "fr": "Bouillie epaisse de ble concasse, agneau et lentilles battue pendant huit heures, plat emblematique du Ramadan a Hyderabad, herite des cuisines mogholes.",
+      "en": "Slow-pounded porridge of cracked wheat, lamb and lentils cooked for eight hours, an iconic Ramadan dish of Hyderabad inherited from Mughal kitchens."
+    },
+    "tags": [
+      "hyderabad",
+      "ramadan",
+      "moghol"
+    ]
+  },
+  {
+    "id": "ds-appam-alleppey",
+    "category": "dish",
+    "name": {
+      "fr": "Appam et stew",
+      "en": "Appam and stew"
+    },
+    "region": "Alleppey, Kerala",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      9.4981,
+      76.3388
+    ],
+    "description": {
+      "fr": "Crepes bombees de riz et lait de coco cuites au tawa creux, servies avec un stew doux de legumes ou d agneau au lait de coco.",
+      "en": "Bowl-shaped rice and coconut milk pancakes cooked in a deep tawa, paired with a mild coconut-milk stew of vegetables or lamb."
+    },
+    "tags": [
+      "kerala",
+      "petit-dejeuner",
+      "coco"
+    ]
+  },
+  {
+    "id": "ds-dal-baati-jodhpur",
+    "category": "dish",
+    "name": {
+      "fr": "Dal baati churma",
+      "en": "Dal baati churma"
+    },
+    "region": "Jodhpur, Rajasthan",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      26.2389,
+      73.0243
+    ],
+    "description": {
+      "fr": "Boules de ble cuites dans les braises, servies avec un dal aux cinq lentilles et un churma sucre au ghee, cuisine du desert marwari.",
+      "en": "Wheat balls baked in embers, served with a five-lentil dal and a sweet ghee churma, the desert cuisine of the Marwari of Rajasthan."
+    },
+    "tags": [
+      "rajasthan",
+      "desert",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "ds-pav-bhaji-mumbai",
+    "category": "dish",
+    "name": {
+      "fr": "Pav bhaji",
+      "en": "Pav bhaji"
+    },
+    "region": "Mumbai, Maharashtra",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      19.076,
+      72.8777
+    ],
+    "description": {
+      "fr": "Puree epicee de legumes ecrasee sur une plaque brulante avec beurre et masala, servie avec des petits pains grilles au ghee sur les trottoirs de Mumbai.",
+      "en": "Spiced vegetable mash cooked on a hot griddle with butter and masala, served with buttery griddled buns from Mumbai street carts."
+    },
+    "tags": [
+      "mumbai",
+      "street-food",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "ds-sisig-pampanga",
+    "category": "dish",
+    "name": {
+      "fr": "Sisig",
+      "en": "Sisig"
+    },
+    "region": "Pampanga, Luzon",
+    "country": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "countryCode": "PH",
+    "coordinates": [
+      15.0794,
+      120.62
+    ],
+    "description": {
+      "fr": "Plateau grille de porc emince, foie, oignon, calamansi et piment, sifflant a table sur plaque de fonte, invention de la province de Pampanga.",
+      "en": "Sizzling platter of chopped grilled pork, liver, onion, calamansi and chili served on a cast-iron plate, invented in Pampanga province."
+    },
+    "tags": [
+      "philippines",
+      "porc",
+      "grille"
+    ]
+  },
+  {
+    "id": "ds-sinigang-manila",
+    "category": "dish",
+    "name": {
+      "fr": "Sinigang",
+      "en": "Sinigang"
+    },
+    "region": "Manila, Luzon",
+    "country": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "countryCode": "PH",
+    "coordinates": [
+      14.5995,
+      120.9842
+    ],
+    "description": {
+      "fr": "Soupe acidulee au tamarin ou aux fruits verts, avec porc, crevettes ou poisson et legumes-feuilles, plat reconfort national des Philippines.",
+      "en": "Sour soup soured with tamarind or unripe fruits, with pork, shrimp or fish and leafy greens, the national comfort dish of the Philippines."
+    },
+    "tags": [
+      "philippines",
+      "soupe",
+      "aigre"
+    ]
+  },
+  {
+    "id": "ds-gado-gado-jakarta",
+    "category": "dish",
+    "name": {
+      "fr": "Gado-gado",
+      "en": "Gado-gado"
+    },
+    "region": "Jakarta, Java",
+    "country": {
+      "fr": "Indonesie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -6.2088,
+      106.8456
+    ],
+    "description": {
+      "fr": "Salade indonesienne de legumes blanchis, tofu, tempeh et oeuf dur, nappee d une sauce cacahuete au sucre de palme et tamarin.",
+      "en": "Indonesian salad of blanched vegetables, tofu, tempeh and hard-boiled egg dressed with a peanut sauce sweetened with palm sugar and tamarind."
+    },
+    "tags": [
+      "indonesie",
+      "salade",
+      "cacahuete"
+    ]
+  },
+  {
+    "id": "ds-sate-padang-padang",
+    "category": "dish",
+    "name": {
+      "fr": "Sate Padang",
+      "en": "Sate Padang"
+    },
+    "region": "Padang, Sumatra Ouest",
+    "country": {
+      "fr": "Indonesie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      -0.9471,
+      100.4172
+    ],
+    "description": {
+      "fr": "Brochettes de boeuf ou langue de la cuisine minangkabau, nappees d une sauce jaune epaisse a la farine de riz, curcuma et piment.",
+      "en": "Beef or tongue skewers of Minangkabau cuisine, drenched in a thick yellow sauce of rice flour, turmeric and chili."
+    },
+    "tags": [
+      "sumatra",
+      "brochette",
+      "minangkabau"
+    ]
+  },
+  {
+    "id": "ds-char-kway-teow-penang",
+    "category": "dish",
+    "name": {
+      "fr": "Char kway teow",
+      "en": "Char kway teow"
+    },
+    "region": "George Town, Penang",
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
+    "countryCode": "MY",
+    "coordinates": [
+      5.4145,
+      100.3292
+    ],
+    "description": {
+      "fr": "Nouilles plates au wok au feu de charbon, saisies avec crevettes, coques, saucisse chinoise, oeuf et pousses de soja, signature de Penang.",
+      "en": "Charcoal-fired wok flat noodles seared with prawns, cockles, Chinese sausage, egg and beansprouts, a Penang signature."
+    },
+    "tags": [
+      "penang",
+      "wok",
+      "nouilles"
+    ]
+  },
+  {
+    "id": "ds-hoppers-colombo",
+    "category": "dish",
+    "name": {
+      "fr": "Appa (hoppers)",
+      "en": "Hoppers"
+    },
+    "region": "Colombo",
+    "country": {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+    },
+    "countryCode": "LK",
+    "coordinates": [
+      6.9271,
+      79.8612
+    ],
+    "description": {
+      "fr": "Crepes en bol de farine de riz fermente et lait de coco, servies au petit-dejeuner avec sambol de coco, curry et oeuf coule au centre.",
+      "en": "Bowl-shaped pancakes of fermented rice flour and coconut milk, served at breakfast with coconut sambol, curry and an egg cracked into the middle."
+    },
+    "tags": [
+      "sri-lanka",
+      "petit-dejeuner",
+      "coco"
+    ]
+  },
+  {
+    "id": "ds-lok-lak-phnom-penh",
+    "category": "dish",
+    "name": {
+      "fr": "Lok lak",
+      "en": "Lok lak"
+    },
+    "region": "Phnom Penh",
+    "country": {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+    },
+    "countryCode": "KH",
+    "coordinates": [
+      11.5564,
+      104.9282
+    ],
+    "description": {
+      "fr": "Cubes de boeuf saisis a la sauce huitre servis sur laitue et tomate, avec sauce Kampot au poivre vert, citron et sel.",
+      "en": "Wok-seared beef cubes in oyster sauce over lettuce and tomato, dipped in a Kampot green-pepper, lime and salt sauce."
+    },
+    "tags": [
+      "cambodge",
+      "boeuf",
+      "poivre"
+    ]
+  },
+  {
+    "id": "ds-lahmacun-gaziantep",
+    "category": "dish",
+    "name": {
+      "fr": "Lahmacun",
+      "en": "Lahmacun"
+    },
+    "region": "Gaziantep, Anatolie du Sud-Est",
+    "country": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    "countryCode": "TR",
+    "coordinates": [
+      37.0662,
+      37.3833
+    ],
+    "description": {
+      "fr": "Fine galette cuite au four a bois, tartinee d agneau hache aux poivrons rouges, oignons et piment d Alep, roulee avec persil et citron.",
+      "en": "Paper-thin wood-fired flatbread topped with minced lamb, red pepper, onion and Aleppo chili, rolled up with parsley and lemon."
+    },
+    "tags": [
+      "anatolie",
+      "four-a-bois",
+      "agneau"
+    ]
+  },
+  {
+    "id": "ds-manti-tashkent",
+    "category": "dish",
+    "name": {
+      "fr": "Manti ouzbek",
+      "en": "Uzbek manti"
+    },
+    "region": "Tashkent",
+    "country": {
+      "fr": "Ouzbekistan",
+      "en": "Uzbekistan"
+    },
+    "countryCode": "UZ",
+    "coordinates": [
+      41.2995,
+      69.2401
+    ],
+    "description": {
+      "fr": "Gros raviolis vapeur farcis d agneau, queue grasse et oignon, servis avec smetana et suzma, plat central des tables ouzbeques.",
+      "en": "Large steamed dumplings stuffed with lamb, fat-tail and onion, served with smetana and suzma, a staple of the Uzbek table."
+    },
+    "tags": [
+      "asie-centrale",
+      "vapeur",
+      "agneau"
+    ]
+  },
+  {
+    "id": "ds-lagman-osh",
+    "category": "dish",
+    "name": {
+      "fr": "Lagman",
+      "en": "Lagman"
+    },
+    "region": "Osh, Vallee de Ferghana",
+    "country": {
+      "fr": "Kirghizistan",
+      "en": "Kyrgyzstan"
+    },
+    "countryCode": "KG",
+    "coordinates": [
+      40.5283,
+      72.7985
+    ],
+    "description": {
+      "fr": "Nouilles etirees a la main baignant dans un bouillon d agneau aux poivrons, tomate et cumin, hommage a la route de la soie ouigoure.",
+      "en": "Hand-pulled noodles in a lamb broth loaded with peppers, tomato and cumin, a Silk Road classic of Uyghur origin."
+    },
+    "tags": [
+      "asie-centrale",
+      "route-de-la-soie",
+      "nouilles"
+    ]
+  },
+  {
+    "id": "ds-aji-de-gallina-lima",
+    "category": "dish",
+    "name": {
+      "fr": "Aji de gallina",
+      "en": "Aji de gallina"
+    },
+    "region": "Lima",
+    "country": {
+      "fr": "Perou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -12.0464,
+      -77.0428
+    ],
+    "description": {
+      "fr": "Poule effilee dans une creme d aji amarillo, noix et pain, servie avec riz blanc, olives noires et pomme de terre, plat familial limenien.",
+      "en": "Shredded hen in a creamy sauce of aji amarillo, walnuts and bread, plated with white rice, black olives and potato, a Lima Sunday staple."
+    },
+    "tags": [
+      "perou",
+      "aji-amarillo",
+      "confort"
+    ]
+  },
+  {
+    "id": "ds-sancocho-cartagena",
+    "category": "dish",
+    "name": {
+      "fr": "Sancocho",
+      "en": "Sancocho"
+    },
+    "region": "Cartagena, Bolivar",
+    "country": {
+      "fr": "Colombie",
+      "en": "Colombia"
+    },
+    "countryCode": "CO",
+    "coordinates": [
+      10.391,
+      -75.4794
+    ],
+    "description": {
+      "fr": "Pot-au-feu caribeen a la poule, plantain vert, manioc et mais tendre, mijote au feu de bois et parfume de coriandre.",
+      "en": "Caribbean stew of hen, green plantain, cassava and tender corn, simmered over wood fire and finished with cilantro."
+    },
+    "tags": [
+      "caraibes",
+      "mijote",
+      "colombie"
+    ]
+  },
+  {
+    "id": "ds-pabellon-caracas",
+    "category": "dish",
+    "name": {
+      "fr": "Pabellon criollo",
+      "en": "Pabellon criollo"
+    },
+    "region": "Caracas",
+    "country": {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+    },
+    "countryCode": "VE",
+    "coordinates": [
+      10.4806,
+      -66.9036
+    ],
+    "description": {
+      "fr": "Plat national venezuelien: boeuf effiloche, haricots noirs, riz blanc et bananes plantains frites, quatre couleurs comme le drapeau.",
+      "en": "Venezuela's national plate: shredded beef, black beans, white rice and fried plantains, four colors said to echo the flag."
+    },
+    "tags": [
+      "venezuela",
+      "boeuf",
+      "plantain"
+    ]
+  },
+  {
+    "id": "ds-milanesa-buenos-aires",
+    "category": "dish",
+    "name": {
+      "fr": "Milanesa a la napolitana",
+      "en": "Milanesa a la napolitana"
+    },
+    "region": "Buenos Aires",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -34.6037,
+      -58.3816
+    ],
+    "description": {
+      "fr": "Escalope panee des immigres italiens de Buenos Aires, coiffee de tomate, jambon et mozzarella gratines, servie avec des frites.",
+      "en": "Breaded veal cutlet born in Italian-immigrant Buenos Aires, topped with tomato, ham and melted mozzarella and served with fries."
+    },
+    "tags": [
+      "argentine",
+      "italo-argentin",
+      "panure"
+    ]
+  },
+  {
+    "id": "ds-encebollado-guayaquil",
+    "category": "dish",
+    "name": {
+      "fr": "Encebollado",
+      "en": "Encebollado"
+    },
+    "region": "Guayaquil",
+    "country": {
+      "fr": "Equateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      -2.1709,
+      -79.9224
+    ],
+    "description": {
+      "fr": "Soupe de thon albacore et manioc au bouillon epice, coiffee d oignon rouge et coriandre, remede national contre la gueule de bois.",
+      "en": "Yellowfin tuna and cassava soup in a spiced broth topped with pickled red onion and cilantro, Ecuador's national hangover cure."
+    },
+    "tags": [
+      "equateur",
+      "soupe",
+      "thon"
+    ]
+  },
+  {
+    "id": "ds-baleadas-tegucigalpa",
+    "category": "dish",
+    "name": {
+      "fr": "Baleadas",
+      "en": "Baleadas"
+    },
+    "region": "Tegucigalpa",
+    "country": {
+      "fr": "Honduras",
+      "en": "Honduras"
+    },
+    "countryCode": "HN",
+    "coordinates": [
+      14.0723,
+      -87.1921
+    ],
+    "description": {
+      "fr": "Tortilla de ble epaisse pliee sur haricots frits, fromage frais et creme, snack de rue emblematique du Honduras.",
+      "en": "Thick wheat tortilla folded over refried beans, fresh cheese and cream, the iconic street snack of Honduras."
+    },
+    "tags": [
+      "honduras",
+      "street-food",
+      "tortilla"
+    ]
+  },
+  {
+    "id": "ds-tamales-veracruz",
+    "category": "dish",
+    "name": {
+      "fr": "Tamales veracruzanos",
+      "en": "Veracruz tamales"
+    },
+    "region": "Veracruz",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      19.1738,
+      -96.1342
+    ],
+    "description": {
+      "fr": "Papillottes de masa cuites dans une feuille de bananier, farcies au porc en sauce verte ou noire, tradition prehispanique du Golfe.",
+      "en": "Corn-masa parcels steamed in banana leaves and stuffed with pork in green or black sauce, a prehispanic tradition of the Gulf coast."
+    },
+    "tags": [
+      "mexique",
+      "prehispanique",
+      "vapeur"
+    ]
+  },
+  {
+    "id": "ds-humita-salta",
+    "category": "dish",
+    "name": {
+      "fr": "Humita en chala",
+      "en": "Humita en chala"
+    },
+    "region": "Salta, Andes",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -24.7859,
+      -65.4117
+    ],
+    "description": {
+      "fr": "Pate de mais tendre rape, oignon et fromage de chevre serree dans une feuille de mais et cuite vapeur, heritage andin quechua.",
+      "en": "Grated tender corn, onion and goat cheese steamed inside a husk, a Quechua Andean heritage of the northwestern Argentine highlands."
+    },
+    "tags": [
+      "andes",
+      "mais",
+      "vapeur"
+    ]
+  },
+  {
+    "id": "ds-waakye-accra",
+    "category": "dish",
+    "name": {
+      "fr": "Waakye",
+      "en": "Waakye"
+    },
+    "region": "Accra",
+    "country": {
+      "fr": "Ghana",
+      "en": "Ghana"
+    },
+    "countryCode": "GH",
+    "coordinates": [
+      5.6037,
+      -0.187
+    ],
+    "description": {
+      "fr": "Riz et haricots niebe cuits avec des feuilles de sorgho qui les colorent en rouge, servis avec sauce shito, gari, spaghetti et oeuf.",
+      "en": "Rice and cowpeas cooked with sorghum leaves that stain them red, served with shito pepper sauce, gari, spaghetti and boiled egg."
+    },
+    "tags": [
+      "ghana",
+      "riz",
+      "petit-dejeuner"
+    ]
+  },
+  {
+    "id": "ds-urojo-zanzibar",
+    "category": "dish",
+    "name": {
+      "fr": "Urojo (Zanzibar mix)",
+      "en": "Urojo (Zanzibar mix)"
+    },
+    "region": "Zanzibar Ville",
+    "country": {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+    },
+    "countryCode": "TZ",
+    "coordinates": [
+      -6.1659,
+      39.2026
+    ],
+    "description": {
+      "fr": "Soupe safranee acidulee de Zanzibar, garnie de beignets bhajia, pomme de terre, mangue verte et sauce coco au piment, heritage swahili-indien.",
+      "en": "Tangy saffron soup of Zanzibar, loaded with bhajia fritters, potato, green mango and coconut chili sauce, a Swahili-Indian legacy."
+    },
+    "tags": [
+      "swahili",
+      "epice",
+      "soupe"
+    ]
+  },
+  {
+    "id": "ds-tibs-lalibela",
+    "category": "dish",
+    "name": {
+      "fr": "Tibs",
+      "en": "Tibs"
+    },
+    "region": "Lalibela, Amhara",
+    "country": {
+      "fr": "Ethiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      12.0333,
+      39.0333
+    ],
+    "description": {
+      "fr": "Cubes de boeuf ou d agneau saisis avec oignon, ail, romarin et piment mitmita, servis gresillants sur injera pour les grandes occasions.",
+      "en": "Cubes of beef or lamb seared with onion, garlic, rosemary and mitmita chili, served sizzling atop injera for celebratory meals."
+    },
+    "tags": [
+      "ethiopie",
+      "grillade",
+      "fete"
+    ]
+  },
+  {
+    "id": "ds-poulet-moambe-kinshasa",
+    "category": "dish",
+    "name": {
+      "fr": "Poulet a la moambe",
+      "en": "Moambe chicken"
+    },
+    "region": "Kinshasa",
+    "country": {
+      "fr": "Republique democratique du Congo",
+      "en": "Democratic Republic of the Congo"
+    },
+    "countryCode": "CD",
+    "coordinates": [
+      -4.4419,
+      15.2663
+    ],
+    "description": {
+      "fr": "Poulet mijote dans une puree de noix de palme, plat national congolais servi avec riz, chikwangue et epinards de brede.",
+      "en": "Chicken simmered in a rich palm-nut puree, the Congolese national dish served with rice, chikwangue and greens."
+    },
+    "tags": [
+      "congo",
+      "noix-de-palme",
+      "national"
+    ]
+  },
+  {
+    "id": "ds-egusi-benin-city",
+    "category": "dish",
+    "name": {
+      "fr": "Soupe egusi",
+      "en": "Egusi soup"
+    },
+    "region": "Benin City, Edo",
+    "country": {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+    },
+    "countryCode": "NG",
+    "coordinates": [
+      6.335,
+      5.6037
+    ],
+    "description": {
+      "fr": "Soupe epaisse de graines de melon egusi moulues, huile de palme, viande fumee et legumes-feuilles, servie avec fufu ou pounded yam.",
+      "en": "Thick soup of ground melon egusi seeds, palm oil, smoked meat and leafy greens, eaten with fufu or pounded yam."
+    },
+    "tags": [
+      "nigeria",
+      "huile-de-palme",
+      "soupe"
+    ]
+  },
+  {
+    "id": "ds-loco-moco-hilo",
+    "category": "dish",
+    "name": {
+      "fr": "Loco moco",
+      "en": "Loco moco"
+    },
+    "region": "Hilo, Big Island, Hawaii",
+    "country": {
+      "fr": "Etats-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      19.7297,
+      -155.09
+    ],
+    "description": {
+      "fr": "Assiette de riz surmontee d un steak hache, d un oeuf au plat et de sauce brune, invente par des surfeurs adolescents a Hilo en 1949.",
+      "en": "Plate of rice topped with a beef patty, sunny-side-up egg and brown gravy, invented in 1949 by teenage surfers in Hilo."
+    },
+    "tags": [
+      "hawaii",
+      "confort",
+      "brunch"
+    ]
+  },
+  {
+    "id": "ds-palusami-apia",
+    "category": "dish",
+    "name": {
+      "fr": "Palusami",
+      "en": "Palusami"
+    },
+    "region": "Apia, Upolu",
+    "country": {
+      "fr": "Samoa",
+      "en": "Samoa"
+    },
+    "countryCode": "WS",
+    "coordinates": [
+      -13.8506,
+      -171.7513
+    ],
+    "description": {
+      "fr": "Paquets de feuilles de taro farcis de creme de coco et d oignon, cuits dans l umu polynesien jusqu a fondre comme un veloute.",
+      "en": "Parcels of young taro leaves filled with coconut cream and onion, baked in an umu earth oven until they melt into a velvety cream."
+    },
+    "tags": [
+      "samoa",
+      "polynesie",
+      "coco"
+    ]
+  },
+  {
+    "id": "ds-boil-up-auckland",
+    "category": "dish",
+    "name": {
+      "fr": "Boil-up maori",
+      "en": "Maori boil-up"
+    },
+    "region": "Auckland",
+    "country": {
+      "fr": "Nouvelle-Zelande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -36.8485,
+      174.7633
+    ],
+    "description": {
+      "fr": "Marmite maorie de porc sale, os, patate douce kumara, cresson et doughboys de pate, plat de partage des whanau.",
+      "en": "Maori pot of salted pork, bones, kumara sweet potato, watercress and dough doughboys, a shared whanau meal."
+    },
+    "tags": [
+      "maori",
+      "aotearoa",
+      "partage"
+    ]
+  },
+  {
+    "id": "ds-mumu-goroka",
+    "category": "dish",
+    "name": {
+      "fr": "Mumu",
+      "en": "Mumu"
+    },
+    "region": "Goroka, Hautes Terres orientales",
+    "country": {
+      "fr": "Papouasie-Nouvelle-Guinee",
+      "en": "Papua New Guinea"
+    },
+    "countryCode": "PG",
+    "coordinates": [
+      -6.0857,
+      145.386
+    ],
+    "description": {
+      "fr": "Festin de fete des Hautes Terres: porc, patate douce, banane et legumes cuits ensemble sous des pierres brulantes recouvertes de feuilles.",
+      "en": "Highland feast where pork, sweet potato, banana and greens are baked together under hot stones covered with leaves."
+    },
+    "tags": [
+      "png",
+      "four-de-terre",
+      "fete"
+    ]
+  },
+  {
+    "id": "ig-goji-ningxia",
+    "category": "ingredient",
+    "name": {
+      "fr": "Baies de goji du Ningxia",
+      "en": "Ningxia goji berries"
+    },
+    "region": "Zhongning, Ningxia",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      37.4855,
+      105.685
+    ],
+    "description": {
+      "fr": "Petites baies rouges du Fleuve Jaune sous indication geographique, sechees au soleil pour infusions, soupes et pharmacopee traditionnelle chinoise.",
+      "en": "Small red berries with Yellow River geographical indication, sun-dried for teas, tonics and traditional Chinese pharmacopoeia."
+    },
+    "tags": [
+      "chine",
+      "superfruit",
+      "pharmacopee"
+    ]
+  },
+  {
+    "id": "ig-oolong-anxi",
+    "category": "ingredient",
+    "name": {
+      "fr": "The oolong d'Anxi (Tie Guan Yin)",
+      "en": "Anxi Tie Guan Yin oolong"
+    },
+    "region": "Anxi, Fujian",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      25.056,
+      118.186
+    ],
+    "description": {
+      "fr": "Thes semi-oxydes roules en perles vertes dans les montagnes d Anxi, aux notes orchidee et beurre, un des grands crus du Fujian.",
+      "en": "Semi-oxidized teas rolled into green pearls in the Anxi hills, layered with orchid and buttered notes, a Fujian grand cru."
+    },
+    "tags": [
+      "the",
+      "fujian",
+      "oxydation"
+    ]
+  },
+  {
+    "id": "ig-star-anise-guangxi",
+    "category": "ingredient",
+    "name": {
+      "fr": "Badiane du Guangxi",
+      "en": "Guangxi star anise"
+    },
+    "region": "Yulin, Guangxi",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      22.6544,
+      110.1749
+    ],
+    "description": {
+      "fr": "Etoiles brunes recoltees dans les monts du Guangxi, base du cinq-parfums et du pho, source aussi de l acide shikimique du Tamiflu.",
+      "en": "Woody stars harvested in the Guangxi hills, backbone of five-spice and pho and the industrial source of Tamiflu shikimic acid."
+    },
+    "tags": [
+      "epice",
+      "guangxi",
+      "anethol"
+    ]
+  },
+  {
+    "id": "ig-shiso-aichi",
+    "category": "ingredient",
+    "name": {
+      "fr": "Shiso d'Aichi",
+      "en": "Aichi shiso"
+    },
+    "region": "Toyohashi, Aichi",
+    "country": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "countryCode": "JP",
+    "coordinates": [
+      34.7692,
+      137.3914
+    ],
+    "description": {
+      "fr": "Feuilles de perilla vertes ou pourpres cultivees toute l annee a Toyohashi, aromate essentiel des sashimis et des umeboshi.",
+      "en": "Green or purple perilla leaves grown year-round in Toyohashi greenhouses, an essential accent for sashimi and umeboshi."
+    },
+    "tags": [
+      "japon",
+      "herbe",
+      "perilla"
+    ]
+  },
+  {
+    "id": "ig-poivre-noir-malabar",
+    "category": "ingredient",
+    "name": {
+      "fr": "Poivre noir du Malabar",
+      "en": "Malabar black pepper"
+    },
+    "region": "Cote de Malabar, Kerala",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      11,
+      76
+    ],
+    "description": {
+      "fr": "Le poivre historique qui a attire les navigateurs europeens, cultive dans les Ghats occidentaux, aux notes de bois humide et de citron.",
+      "en": "The historic pepper that pulled European sailors to India, grown in the Western Ghats with damp-wood and citrus notes."
+    },
+    "tags": [
+      "kerala",
+      "epice",
+      "route-des-epices"
+    ]
+  },
+  {
+    "id": "ig-tamarin-guntur",
+    "category": "ingredient",
+    "name": {
+      "fr": "Tamarin d'Andhra",
+      "en": "Andhra tamarind"
+    },
+    "region": "Guntur, Andhra Pradesh",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      16.3067,
+      80.4365
+    ],
+    "description": {
+      "fr": "Gousses brun-marron du delta Krishna, base acidulee des rasams, sambars et chutneys d Andhra, moins sucrees que le tamarin thai.",
+      "en": "Brown-mahogany pods from the Krishna delta, the sour foundation of Andhra rasams, sambars and chutneys, less sweet than Thai tamarind."
+    },
+    "tags": [
+      "andhra",
+      "acide",
+      "curry"
+    ]
+  },
+  {
+    "id": "ig-jaggery-kolhapur",
+    "category": "ingredient",
+    "name": {
+      "fr": "Gur de Kolhapur",
+      "en": "Kolhapur jaggery"
+    },
+    "region": "Kolhapur, Maharashtra",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      16.705,
+      74.2433
+    ],
+    "description": {
+      "fr": "Sucre de canne non raffine dore, chauffe en chaudrons ouverts, GI indien reconnu pour ses notes de caramel et minerales.",
+      "en": "Golden unrefined cane sugar boiled in open pans, an Indian GI prized for caramel and mineral depth."
+    },
+    "tags": [
+      "maharashtra",
+      "sucre",
+      "gi"
+    ]
+  },
+  {
+    "id": "ig-curry-leaves-tamil-nadu",
+    "category": "ingredient",
+    "name": {
+      "fr": "Feuilles de kari",
+      "en": "Curry leaves"
+    },
+    "region": "Coimbatore, Tamil Nadu",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      11.0168,
+      76.9558
+    ],
+    "description": {
+      "fr": "Petites feuilles brillantes de Murraya koenigii, jetees dans l huile chaude pour signer les currys du Sud et le podi tamoul.",
+      "en": "Small glossy leaves of Murraya koenigii, tempered in hot oil to signal South Indian curries and Tamil podi."
+    },
+    "tags": [
+      "tamil-nadu",
+      "aromate",
+      "sud-inde"
+    ]
+  },
+  {
+    "id": "ig-the-assam-jorhat",
+    "category": "ingredient",
+    "name": {
+      "fr": "The d'Assam de Jorhat",
+      "en": "Jorhat Assam tea"
+    },
+    "region": "Jorhat, Assam",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      26.7509,
+      94.2037
+    ],
+    "description": {
+      "fr": "Thes noirs corses de la vallee du Brahmapoutre, tanniques et maltes, colonne vertebrale des blends anglais et du chai indien.",
+      "en": "Bold black teas from the Brahmaputra valley, malty and tannic, the backbone of English blends and Indian chai."
+    },
+    "tags": [
+      "assam",
+      "the-noir",
+      "malte"
+    ]
+  },
+  {
+    "id": "ig-rambutan-sumatra",
+    "category": "ingredient",
+    "name": {
+      "fr": "Ramboutan de Sumatra",
+      "en": "Sumatra rambutan"
+    },
+    "region": "Medan, Sumatra Nord",
+    "country": {
+      "fr": "Indonesie",
+      "en": "Indonesia"
+    },
+    "countryCode": "ID",
+    "coordinates": [
+      3.5952,
+      98.6722
+    ],
+    "description": {
+      "fr": "Fruit poilu rouge des vergers de Sumatra, chair blanche translucide au parfum de rose, cousin du litchi et du longane.",
+      "en": "Hairy red fruit from Sumatra orchards, with translucent white flesh scented of rose, a cousin of lychee and longan."
+    },
+    "tags": [
+      "sumatra",
+      "fruit-tropical",
+      "sapindacee"
+    ]
+  },
+  {
+    "id": "ig-mangoustan-nakhon",
+    "category": "ingredient",
+    "name": {
+      "fr": "Mangoustan de Nakhon",
+      "en": "Nakhon mangosteen"
+    },
+    "region": "Nakhon Si Thammarat",
+    "country": {
+      "fr": "Thailande",
+      "en": "Thailand"
+    },
+    "countryCode": "TH",
+    "coordinates": [
+      8.4304,
+      99.9631
+    ],
+    "description": {
+      "fr": "Reine des fruits du Sud thailandais, ecorce pourpre epaisse cachant des quartiers blancs sucres et acidules, saison de mai a septembre.",
+      "en": "Queen of Thai fruits, its thick purple rind hides sweet-tart snow-white segments during the May-to-September season."
+    },
+    "tags": [
+      "thailande",
+      "fruit-tropical",
+      "gi"
+    ]
+  },
+  {
+    "id": "ig-pandan-selangor",
+    "category": "ingredient",
+    "name": {
+      "fr": "Feuilles de pandan de Selangor",
+      "en": "Selangor pandan leaves"
+    },
+    "region": "Selangor",
+    "country": {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+    },
+    "countryCode": "MY",
+    "coordinates": [
+      3.0738,
+      101.5183
+    ],
+    "description": {
+      "fr": "Longues feuilles vertes vanillees, surnommees la vanille d Asie du Sud-Est, indispensables au nasi lemak, au kaya et aux desserts kuih.",
+      "en": "Long green leaves nicknamed the vanilla of Southeast Asia, essential in nasi lemak, kaya and kuih desserts."
+    },
+    "tags": [
+      "malaisie",
+      "aromate",
+      "vanille-asiatique"
+    ]
+  },
+  {
+    "id": "ig-melasse-grenade-nabatieh",
+    "category": "ingredient",
+    "name": {
+      "fr": "Melasse de grenade de Nabatieh",
+      "en": "Nabatieh pomegranate molasses"
+    },
+    "region": "Nabatieh",
+    "country": {
+      "fr": "Liban",
+      "en": "Lebanon"
+    },
+    "countryCode": "LB",
+    "coordinates": [
+      33.3789,
+      35.4839
+    ],
+    "description": {
+      "fr": "Jus de grenades douces reduit en sirop sombre et acidule, note aigre-douce des muhammara, fattouch et marinades du Levant.",
+      "en": "Sweet pomegranate juice slowly reduced into a dark tangy syrup, the sweet-sour note of muhammara, fattoush and Levantine marinades."
+    },
+    "tags": [
+      "liban",
+      "acidule",
+      "levant"
+    ]
+  },
+  {
+    "id": "ig-pistaches-rafsanjan",
+    "category": "ingredient",
+    "name": {
+      "fr": "Pistaches de Rafsanjan",
+      "en": "Rafsanjan pistachios"
+    },
+    "region": "Rafsanjan, Kerman",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      30.4067,
+      55.9939
+    ],
+    "description": {
+      "fr": "Pistaches iraniennes cultivees en zone desertique, plus longues et intensement grasses, base des baklavas persans et des glaces au safran.",
+      "en": "Iranian pistachios grown in a desert basin, longer and richly oily, the base of Persian baklava and saffron ice cream."
+    },
+    "tags": [
+      "iran",
+      "noix",
+      "desert"
+    ]
+  },
+  {
+    "id": "ig-safran-khorasan",
+    "category": "ingredient",
+    "name": {
+      "fr": "Safran du Khorassan",
+      "en": "Khorasan saffron"
+    },
+    "region": "Torbat Heydarieh, Khorassan-e-Razavi",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      35.2742,
+      59.219
+    ],
+    "description": {
+      "fr": "Plus de 90 pourcent de la production mondiale de safran, stigmates rouge sang au parfum de miel et foin, pilier des chelo et halva.",
+      "en": "Over 90 percent of world saffron output, blood-red stigmas with honeyed hay aroma, backbone of Persian chelo and halva."
+    },
+    "tags": [
+      "iran",
+      "safran",
+      "epice"
+    ]
+  },
+  {
+    "id": "ig-amarante-puebla",
+    "category": "ingredient",
+    "name": {
+      "fr": "Amarante de Puebla",
+      "en": "Puebla amaranth"
+    },
+    "region": "Tulcingo, Puebla",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      18.0489,
+      -98.4553
+    ],
+    "description": {
+      "fr": "Graine sacree des Azteques cultivee sur les pentes de la Sierra Mixteca, soufflee pour les alegrias au miel et sirop de canne.",
+      "en": "Sacred Aztec grain grown on the Sierra Mixteca, puffed into honey-and-cane alegria bars sold at Mexican fairs."
+    },
+    "tags": [
+      "mexique",
+      "grain",
+      "prehispanique"
+    ]
+  },
+  {
+    "id": "ig-habanero-yucatan",
+    "category": "ingredient",
+    "name": {
+      "fr": "Piment habanero du Yucatan",
+      "en": "Yucatan habanero"
+    },
+    "region": "Merida, Yucatan",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      20.9674,
+      -89.5926
+    ],
+    "description": {
+      "fr": "Habanero jaune-orange en DO du Yucatan, fruite et floral autant que brulant, ame du xnipec et de la cochinita pibil.",
+      "en": "Yellow-orange habanero with Yucatan DO, floral and fruity as much as scorching, the soul of xnipec and cochinita pibil."
+    },
+    "tags": [
+      "yucatan",
+      "piment",
+      "do"
+    ]
+  },
+  {
+    "id": "ig-noix-bresil-acre",
+    "category": "ingredient",
+    "name": {
+      "fr": "Noix du Bresil d'Acre",
+      "en": "Acre Brazil nuts"
+    },
+    "region": "Xapuri, Acre",
+    "country": {
+      "fr": "Bresil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -10.6519,
+      -68.5031
+    ],
+    "description": {
+      "fr": "Castanha-do-para recoltee a la main dans la foret d Acre par les seringueiros heritiers de Chico Mendes, fer de lance de l extractivisme durable.",
+      "en": "Castanha-do-para hand-gathered in the Acre rainforest by seringueiro heirs of Chico Mendes, a flagship of sustainable extractivism."
+    },
+    "tags": [
+      "amazonie",
+      "extractivisme",
+      "noix"
+    ]
+  },
+  {
+    "id": "ig-cacao-esmeraldas",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cacao nacional d'Esmeraldas",
+      "en": "Esmeraldas nacional cacao"
+    },
+    "region": "Esmeraldas",
+    "country": {
+      "fr": "Equateur",
+      "en": "Ecuador"
+    },
+    "countryCode": "EC",
+    "coordinates": [
+      0.9682,
+      -79.6517
+    ],
+    "description": {
+      "fr": "Cacao arriba nacional d Equateur, unique variete fine d aroma reconnue au monde, notes florales et epicees des chocolats grand cru.",
+      "en": "Ecuador's arriba nacional cacao, the only variety classified worldwide as fine-flavor, delivering floral and spicy notes for grand cru chocolate."
+    },
+    "tags": [
+      "equateur",
+      "cacao",
+      "fine-flavor"
+    ]
+  },
+  {
+    "id": "ig-mais-morado-cusco",
+    "category": "ingredient",
+    "name": {
+      "fr": "Mais pourpre de Cusco",
+      "en": "Cusco purple corn"
+    },
+    "region": "Vallee sacree, Cusco",
+    "country": {
+      "fr": "Perou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -13.5183,
+      -71.9781
+    ],
+    "description": {
+      "fr": "Kculli, mais violet fonce des Andes riche en anthocyanes, base de la chicha morada et du dessert mazamorra depuis l epoque inca.",
+      "en": "Kculli, deep-violet Andean corn packed with anthocyanins, base of chicha morada and mazamorra dessert since Inca times."
+    },
+    "tags": [
+      "perou",
+      "andes",
+      "antioxydant"
+    ]
+  },
+  {
+    "id": "ig-vanille-papantla",
+    "category": "ingredient",
+    "name": {
+      "fr": "Vanille de Papantla",
+      "en": "Papantla vanilla"
+    },
+    "region": "Papantla, Veracruz",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      20.4488,
+      -97.3211
+    ],
+    "description": {
+      "fr": "Berceau totonaque de la vanille, orchidee Vanilla planifolia cultivee sur tuteurs vivants, IG du Mexique aux notes boisees et cacaotees.",
+      "en": "Totonac cradle of vanilla, Vanilla planifolia orchid grown on living stakes, a Mexican GI with woody and cocoa notes."
+    },
+    "tags": [
+      "mexique",
+      "vanille",
+      "totonaque"
+    ]
+  },
+  {
+    "id": "ig-berbere-addis",
+    "category": "ingredient",
+    "name": {
+      "fr": "Melange berbere",
+      "en": "Berbere spice blend"
+    },
+    "region": "Addis-Abeba",
+    "country": {
+      "fr": "Ethiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      9.03,
+      38.74
+    ],
+    "description": {
+      "fr": "Melange rouge fondamental de la cuisine ethiopienne: piment fermente, ail, gingembre, cardamome et fenugrec seches puis moulus a la meule.",
+      "en": "The scarlet cornerstone blend of Ethiopian cooking: fermented chili, garlic, ginger, cardamom and fenugreek sun-dried and stone-ground."
+    },
+    "tags": [
+      "ethiopie",
+      "melange",
+      "piment"
+    ]
+  },
+  {
+    "id": "ig-hibiscus-diourbel",
+    "category": "ingredient",
+    "name": {
+      "fr": "Bissap de Diourbel",
+      "en": "Diourbel bissap hibiscus"
+    },
+    "region": "Diourbel",
+    "country": {
+      "fr": "Senegal",
+      "en": "Senegal"
+    },
+    "countryCode": "SN",
+    "coordinates": [
+      14.6553,
+      -16.2325
+    ],
+    "description": {
+      "fr": "Calices d hibiscus seches au soleil dans le bassin arachidier, infuses en boisson pourpre glacee sucre-menthe emblematique du Senegal.",
+      "en": "Sun-dried hibiscus calyces from the groundnut basin, steeped into the iced ruby mint-sugar drink that stands for Senegal."
+    },
+    "tags": [
+      "senegal",
+      "infusion",
+      "bissap"
+    ]
+  },
+  {
+    "id": "ig-cafe-sidamo",
+    "category": "ingredient",
+    "name": {
+      "fr": "Cafe Sidamo",
+      "en": "Sidamo coffee"
+    },
+    "region": "Sidama",
+    "country": {
+      "fr": "Ethiopie",
+      "en": "Ethiopia"
+    },
+    "countryCode": "ET",
+    "coordinates": [
+      6.75,
+      38.5
+    ],
+    "description": {
+      "fr": "Cafes arabica cultives entre 1500 et 2200 metres dans les jardins de foret du Sidama, aux notes myrtille, citron et bergamote.",
+      "en": "Arabica coffees grown between 1500 and 2200 metres in Sidama forest gardens, layered with blueberry, lemon and bergamot notes."
+    },
+    "tags": [
+      "ethiopie",
+      "cafe",
+      "altitude"
+    ]
+  },
+  {
+    "id": "ig-moringa-tamale",
+    "category": "ingredient",
+    "name": {
+      "fr": "Moringa de Tamale",
+      "en": "Tamale moringa"
+    },
+    "region": "Tamale, region Nord",
+    "country": {
+      "fr": "Ghana",
+      "en": "Ghana"
+    },
+    "countryCode": "GH",
+    "coordinates": [
+      9.4008,
+      -0.8393
+    ],
+    "description": {
+      "fr": "Arbre miracle du Sahel, feuilles sechees et pulverisees en poudre verte hyper-nutritive, base de soupes et complements dans la savane ghaneenne.",
+      "en": "Sahelian miracle tree whose leaves are dried and milled into a hyper-nutritive green powder, used in soups and supplements across northern Ghana."
+    },
+    "tags": [
+      "ghana",
+      "sahel",
+      "superaliment"
+    ]
+  },
+  {
+    "id": "ig-poivre-voatsiperifery",
+    "category": "ingredient",
+    "name": {
+      "fr": "Poivre voatsiperifery",
+      "en": "Voatsiperifery pepper"
+    },
+    "region": "Foret de l est, Toamasina",
+    "country": {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+    },
+    "countryCode": "MG",
+    "coordinates": [
+      -18.1499,
+      49.4023
+    ],
+    "description": {
+      "fr": "Grains sauvages recoltes en canopee de la foret humide malgache, notes agrumes, resine et fleur, poivre rare et fragile.",
+      "en": "Wild peppercorns hand-picked in the Madagascan rainforest canopy, layered with citrus, resin and floral notes, rare and fragile."
+    },
+    "tags": [
+      "madagascar",
+      "poivre",
+      "sauvage"
+    ]
+  },
+  {
+    "id": "ig-kava-port-vila",
+    "category": "ingredient",
+    "name": {
+      "fr": "Kava de Port-Vila",
+      "en": "Port Vila kava"
+    },
+    "region": "Port-Vila, Efate",
+    "country": {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+    },
+    "countryCode": "VU",
+    "coordinates": [
+      -17.7334,
+      168.3273
+    ],
+    "description": {
+      "fr": "Racine de Piper methysticum pilee et filtree, boisson ceremonielle du nakamal melanesien aux effets relaxants et anesthesiants.",
+      "en": "Piper methysticum root pounded and strained, the ceremonial Melanesian nakamal drink with soothing and numbing effects."
+    },
+    "tags": [
+      "vanuatu",
+      "ceremonie",
+      "melanesie"
+    ]
+  },
+  {
+    "id": "ig-taro-upolu",
+    "category": "ingredient",
+    "name": {
+      "fr": "Taro d'Upolu",
+      "en": "Upolu taro"
+    },
+    "region": "Upolu",
+    "country": {
+      "fr": "Samoa",
+      "en": "Samoa"
+    },
+    "countryCode": "WS",
+    "coordinates": [
+      -13.9333,
+      -171.85
+    ],
+    "description": {
+      "fr": "Tubercule sacre polynesien, cuit dans l umu ou pile en fa apapa, nourrit la vie samoane depuis 3000 ans.",
+      "en": "Sacred Polynesian tuber cooked in the umu or pounded into fa'apapa, sustaining Samoan life for 3000 years."
+    },
+    "tags": [
+      "samoa",
+      "polynesie",
+      "tubercule"
+    ]
+  },
+  {
+    "id": "ig-macadamia-gympie",
+    "category": "ingredient",
+    "name": {
+      "fr": "Macadamia du Queensland",
+      "en": "Queensland macadamia"
+    },
+    "region": "Gympie, Queensland",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -26.1897,
+      152.6656
+    ],
+    "description": {
+      "fr": "Seule culture alimentaire australienne domestiquee a partir d un arbre indigene, noix beurree recoltee dans les vergers subtropicaux du Queensland.",
+      "en": "The only food crop domesticated from an Australian native tree, buttery nuts harvested from Queensland subtropical orchards."
+    },
+    "tags": [
+      "australie",
+      "noix",
+      "indigene"
+    ]
+  },
+  {
+    "id": "ig-igname-tanna",
+    "category": "ingredient",
+    "name": {
+      "fr": "Igname de Tanna",
+      "en": "Tanna yam"
+    },
+    "region": "Tanna",
+    "country": {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+    },
+    "countryCode": "VU",
+    "coordinates": [
+      -19.5333,
+      169.3333
+    ],
+    "description": {
+      "fr": "Igname geante celebree lors des ceremonies Nekowiar, cultivee sur les cendres volcaniques du Yasur et cuite dans le four de pierre laplap.",
+      "en": "Giant yam celebrated at Nekowiar ceremonies, grown on Yasur volcanic ash and baked in the stone laplap oven."
+    },
+    "tags": [
+      "vanuatu",
+      "ceremonie",
+      "volcan"
+    ]
+  },
+  {
+    "id": "sp-kali-cebu",
+    "category": "sport",
+    "name": {
+      "fr": "Arnis kali",
+      "en": "Arnis kali"
+    },
+    "region": "Cebu, Visayas",
+    "country": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "countryCode": "PH",
+    "coordinates": [
+      10.3157,
+      123.8854
+    ],
+    "description": {
+      "fr": "Art martial national des Philippines base sur le combat aux batons de rotin, couteaux et mains vides, structure en systemes Doce Pares a Cebu.",
+      "en": "The national martial art of the Philippines, built around rattan sticks, blades and empty hands and organized into Doce Pares systems in Cebu."
+    },
+    "tags": [
+      "philippines",
+      "baton",
+      "art-martial"
+    ]
+  },
+  {
+    "id": "sp-vovinam-hanoi",
+    "category": "sport",
+    "name": {
+      "fr": "Vovinam Viet Vo Dao",
+      "en": "Vovinam Viet Vo Dao"
+    },
+    "region": "Hanoi",
+    "country": {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+    },
+    "countryCode": "VN",
+    "coordinates": [
+      21.0285,
+      105.8542
+    ],
+    "description": {
+      "fr": "Art martial vietnamien fonde en 1938, celebre pour ses ciseaux volants aux jambes et sa synthese de techniques nationales, pratique dans plus de 60 pays.",
+      "en": "Vietnamese martial art founded in 1938, famous for its flying scissor leg takedowns and its synthesis of national techniques, practiced in over 60 countries."
+    },
+    "tags": [
+      "vietnam",
+      "art-martial",
+      "ciseaux"
+    ]
+  },
+  {
+    "id": "sp-lethwei-yangon",
+    "category": "sport",
+    "name": {
+      "fr": "Lethwei",
+      "en": "Lethwei"
+    },
+    "region": "Yangon",
+    "country": {
+      "fr": "Myanmar",
+      "en": "Myanmar"
+    },
+    "countryCode": "MM",
+    "coordinates": [
+      16.8409,
+      96.1735
+    ],
+    "description": {
+      "fr": "Boxe birmane sans gants autorisant les coups de tete, seul art martial pieds-poings de ce type, tournois traditionnels dans les stades de Yangon.",
+      "en": "Bareknuckle Burmese boxing that permits headbutts, the only such striking art in the world, contested in Yangon stadium tournaments."
+    },
+    "tags": [
+      "myanmar",
+      "boxe",
+      "sans-gants"
+    ]
+  },
+  {
+    "id": "sp-bokh-ulaanbaatar",
+    "category": "sport",
+    "name": {
+      "fr": "Bokh (lutte mongole)",
+      "en": "Bokh Mongolian wrestling"
+    },
+    "region": "Oulan-Bator",
+    "country": {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+    },
+    "countryCode": "MN",
+    "coordinates": [
+      47.8864,
+      106.9057
+    ],
+    "description": {
+      "fr": "Lutte des trois jeux virils du Naadam, en costume zodog et danse d aigle, tournois de milliers de lutteurs chaque juillet dans la steppe.",
+      "en": "Wrestling of the Three Manly Games of Naadam, fought in zodog vests with an eagle dance, thousands of wrestlers competing each July on the steppe."
+    },
+    "tags": [
+      "mongolie",
+      "naadam",
+      "lutte"
+    ]
+  },
+  {
+    "id": "sp-polo-manipur",
+    "category": "sport",
+    "name": {
+      "fr": "Sagol Kangjei (polo manipuri)",
+      "en": "Sagol Kangjei Manipur polo"
+    },
+    "region": "Imphal, Manipur",
+    "country": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "countryCode": "IN",
+    "coordinates": [
+      24.817,
+      93.9368
+    ],
+    "description": {
+      "fr": "Berceau du polo moderne, jeu equestre du royaume Meitei ou sept cavaliers montent des poneys Manipuri, adopte par les Britanniques en 1859.",
+      "en": "Cradle of modern polo, the Meitei kingdom's equestrian game where seven riders mount Manipuri ponies, adopted by the British in 1859."
+    },
+    "tags": [
+      "inde",
+      "polo",
+      "manipur"
+    ]
+  },
+  {
+    "id": "sp-shuai-jiao-beijing",
+    "category": "sport",
+    "name": {
+      "fr": "Shuai jiao",
+      "en": "Shuai jiao"
+    },
+    "region": "Beijing",
+    "country": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "countryCode": "CN",
+    "coordinates": [
+      39.9042,
+      116.4074
+    ],
+    "description": {
+      "fr": "Lutte chinoise en veste renforcee, heritee des guerriers mongols et des cavaliers mandchous, aux techniques de projection eclair.",
+      "en": "Chinese jacket wrestling inherited from Mongol warriors and Manchu horsemen, built on lightning throws using grips and hooks."
+    },
+    "tags": [
+      "chine",
+      "lutte",
+      "veste"
+    ]
+  },
+  {
+    "id": "sp-yak-racing-bumthang",
+    "category": "sport",
+    "name": {
+      "fr": "Course de yaks",
+      "en": "Yak racing"
+    },
+    "region": "Bumthang",
+    "country": {
+      "fr": "Bhoutan",
+      "en": "Bhutan"
+    },
+    "countryCode": "BT",
+    "coordinates": [
+      27.5416,
+      90.7326
+    ],
+    "description": {
+      "fr": "Festival himalayen ou eleveurs et yaks se disputent la vitesse dans les alpages, epreuve de force et prestige des communautes yakpas.",
+      "en": "Himalayan festival where herders race their yaks across high pastures, a display of speed and prestige for yakpa communities."
+    },
+    "tags": [
+      "bhoutan",
+      "himalaya",
+      "elevage"
+    ]
+  },
+  {
+    "id": "sp-elephant-polo-chitwan",
+    "category": "sport",
+    "name": {
+      "fr": "Polo a dos d'elephant",
+      "en": "Elephant polo"
+    },
+    "region": "Chitwan",
+    "country": {
+      "fr": "Nepal",
+      "en": "Nepal"
+    },
+    "countryCode": "NP",
+    "coordinates": [
+      27.5291,
+      84.354
+    ],
+    "description": {
+      "fr": "Variante du polo pratiquee sur pachyderme au Terai nepalais, deux joueurs par elephant avec mailloches de trois metres, championnat annuel de Meghauli.",
+      "en": "Polo variant played atop elephants in the Nepali Terai, two riders per mount wielding three-metre mallets at the Meghauli championship."
+    },
+    "tags": [
+      "nepal",
+      "elephant",
+      "terai"
+    ]
+  },
+  {
+    "id": "sp-zurkhaneh-tehran",
+    "category": "sport",
+    "name": {
+      "fr": "Varzesh-e Bastani (zurkhaneh)",
+      "en": "Varzesh-e Bastani zurkhaneh"
+    },
+    "region": "Teheran",
+    "country": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "countryCode": "IR",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "description": {
+      "fr": "Rituel iranien millenaire mele lutte pahlevani, massues, chaines et chants sur le zarb, pratique dans la fosse octogonale du zurkhaneh.",
+      "en": "Ancient Iranian ritual mixing pahlevani wrestling, wooden clubs, chains and zarb drum chants, staged in the octagonal pit of the zurkhaneh."
+    },
+    "tags": [
+      "iran",
+      "rituel",
+      "unesco"
+    ]
+  },
+  {
+    "id": "sp-kirkpinar-edirne",
+    "category": "sport",
+    "name": {
+      "fr": "Lutte a l'huile de Kirkpinar",
+      "en": "Kirkpinar oil wrestling"
+    },
+    "region": "Edirne, Thrace",
+    "country": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    "countryCode": "TR",
+    "coordinates": [
+      41.6771,
+      26.5557
+    ],
+    "description": {
+      "fr": "Plus ancien tournoi sportif encore organise, depuis 1362, ou les pehlivans luttent enduits d huile d olive en pantalon de cuir kispet.",
+      "en": "The world's oldest continuously held sports tournament since 1362, pehlivans grapple slick with olive oil in leather kispet trousers."
+    },
+    "tags": [
+      "turquie",
+      "unesco",
+      "lutte"
+    ]
+  },
+  {
+    "id": "sp-camel-racing-al-ain",
+    "category": "sport",
+    "name": {
+      "fr": "Course de chameaux",
+      "en": "Camel racing"
+    },
+    "region": "Al Ain, Abu Dhabi",
+    "country": {
+      "fr": "Emirats arabes unis",
+      "en": "United Arab Emirates"
+    },
+    "countryCode": "AE",
+    "coordinates": [
+      24.2075,
+      55.7447
+    ],
+    "description": {
+      "fr": "Sport bedouin modernise, dromadaires courant sur 10 kilometres suivis par les proprietaires en 4x4, jockeys robots controles a distance.",
+      "en": "Modernized Bedouin sport where dromedaries race 10 kilometres shadowed by owners in 4x4s, with lightweight robot jockeys remotely controlled."
+    },
+    "tags": [
+      "golfe",
+      "dromadaire",
+      "tradition"
+    ]
+  },
+  {
+    "id": "sp-falconry-abu-dhabi",
+    "category": "sport",
+    "name": {
+      "fr": "Fauconnerie arabe",
+      "en": "Arab falconry"
+    },
+    "region": "Abu Dhabi",
+    "country": {
+      "fr": "Emirats arabes unis",
+      "en": "United Arab Emirates"
+    },
+    "countryCode": "AE",
+    "coordinates": [
+      24.4539,
+      54.3773
+    ],
+    "description": {
+      "fr": "Chasse au faucon pelerin et saker heritee des Bedouins, inscrite a l Unesco, avec festivals et concours de vitesse au coeur du desert de Liwa.",
+      "en": "Falcon and saker hunting inherited from the Bedouins, inscribed by UNESCO, with speed contests and festivals hosted in the Liwa desert."
+    },
+    "tags": [
+      "golfe",
+      "unesco",
+      "chasse"
+    ]
+  },
+  {
+    "id": "sp-longboard-malibu",
+    "category": "sport",
+    "name": {
+      "fr": "Longboard surf a Malibu",
+      "en": "Malibu longboard surfing"
+    },
+    "region": "Malibu, Californie",
+    "country": {
+      "fr": "Etats-Unis",
+      "en": "United States"
+    },
+    "countryCode": "US",
+    "coordinates": [
+      34.0381,
+      -118.677
+    ],
+    "description": {
+      "fr": "Vague droitiere legendaire de Surfrider Beach, temple du longboard classique et de la culture cross-step depuis les annees 1950.",
+      "en": "Legendary right-hand point of Surfrider Beach, temple of classic longboarding and the cross-step style since the 1950s."
+    },
+    "tags": [
+      "californie",
+      "longboard",
+      "point-break"
+    ]
+  },
+  {
+    "id": "sp-cliff-diving-acapulco",
+    "category": "sport",
+    "name": {
+      "fr": "Plongeons de La Quebrada",
+      "en": "La Quebrada cliff diving"
+    },
+    "region": "Acapulco, Guerrero",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      16.8511,
+      -99.9101
+    ],
+    "description": {
+      "fr": "Depuis 1934 les clavadistas plongent de 35 metres dans une crique etroite d Acapulco, calant leur saut sur la vague pour ne pas s ecraser.",
+      "en": "Since 1934 clavadistas leap from a 35-metre cliff into a narrow Acapulco cove, timing the incoming wave to avoid the rocks below."
+    },
+    "tags": [
+      "mexique",
+      "plongeon",
+      "falaise"
+    ]
+  },
+  {
+    "id": "sp-rodeo-calgary",
+    "category": "sport",
+    "name": {
+      "fr": "Rodeo du Stampede de Calgary",
+      "en": "Calgary Stampede rodeo"
+    },
+    "region": "Calgary, Alberta",
+    "country": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "countryCode": "CA",
+    "coordinates": [
+      51.0447,
+      -114.0719
+    ],
+    "description": {
+      "fr": "Le plus grand rodeo du monde, chuckwagon, bareback et bull riding dix jours durant en juillet, heritage des cow-boys des Prairies canadiennes.",
+      "en": "The world's largest rodeo, ten days of chuckwagon, bareback and bull riding each July, a legacy of Canadian Prairie cowboys."
+    },
+    "tags": [
+      "canada",
+      "rodeo",
+      "cowboy"
+    ]
+  },
+  {
+    "id": "sp-rodeo-criollo-pampas",
+    "category": "sport",
+    "name": {
+      "fr": "Jineteada criolla",
+      "en": "Jineteada criolla"
+    },
+    "region": "San Antonio de Areco, Pampas",
+    "country": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "countryCode": "AR",
+    "coordinates": [
+      -34.2472,
+      -59.4728
+    ],
+    "description": {
+      "fr": "Epreuves gauchos ou les cavaliers dompteurs tiennent quinze secondes sur poulain sauvage, festival de la Tradition d Areco chaque novembre.",
+      "en": "Gaucho contest where breakers must last fifteen seconds atop a wild colt, spotlighted at the Areco Day of Tradition each November."
+    },
+    "tags": [
+      "argentine",
+      "gaucho",
+      "pampas"
+    ]
+  },
+  {
+    "id": "sp-cholita-wrestling-la-paz",
+    "category": "sport",
+    "name": {
+      "fr": "Catch des cholitas",
+      "en": "Cholita wrestling"
+    },
+    "region": "El Alto, La Paz",
+    "country": {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+    },
+    "countryCode": "BO",
+    "coordinates": [
+      -16.5,
+      -68.15
+    ],
+    "description": {
+      "fr": "Catch aymara des femmes indigenes de La Paz en jupe pollera et chapeau melon, mele lucha libre et emancipation feminine.",
+      "en": "Aymara wrestling by Indigenous women of La Paz in pollera skirts and bowler hats, blending lucha libre with feminist empowerment."
+    },
+    "tags": [
+      "bolivie",
+      "aymara",
+      "catch"
+    ]
+  },
+  {
+    "id": "sp-raramuri-copper-canyon",
+    "category": "sport",
+    "name": {
+      "fr": "Rarajipari raramuri",
+      "en": "Raramuri rarajipari running"
+    },
+    "region": "Canyons du cuivre, Chihuahua",
+    "country": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "countryCode": "MX",
+    "coordinates": [
+      27.3,
+      -107.7
+    ],
+    "description": {
+      "fr": "Course d ultra-fond des Tarahumara du Chihuahua, jusqu a 200 km en huaraches en poussant une balle de bois a travers les canyons.",
+      "en": "Ultra-distance run by the Tarahumara of Chihuahua, up to 200 km in huarache sandals while kicking a wooden ball across the canyons."
+    },
+    "tags": [
+      "mexique",
+      "ultra",
+      "tarahumara"
+    ]
+  },
+  {
+    "id": "sp-sandboarding-huacachina",
+    "category": "sport",
+    "name": {
+      "fr": "Sandboard de Huacachina",
+      "en": "Huacachina sandboarding"
+    },
+    "region": "Huacachina, Ica",
+    "country": {
+      "fr": "Perou",
+      "en": "Peru"
+    },
+    "countryCode": "PE",
+    "coordinates": [
+      -14.0873,
+      -75.7627
+    ],
+    "description": {
+      "fr": "Descentes sur planche des dunes geantes du desert d Ica autour de l oasis de Huacachina, souvent enchainees en buggy 4x4.",
+      "en": "Board descents down the giant dunes of the Ica desert around Huacachina oasis, often paired with buggy dune-bashing runs."
+    },
+    "tags": [
+      "perou",
+      "desert",
+      "glisse"
+    ]
+  },
+  {
+    "id": "sp-volcano-boarding-cerro-negro",
+    "category": "sport",
+    "name": {
+      "fr": "Volcano boarding du Cerro Negro",
+      "en": "Cerro Negro volcano boarding"
+    },
+    "region": "Leon, Cerro Negro",
+    "country": {
+      "fr": "Nicaragua",
+      "en": "Nicaragua"
+    },
+    "countryCode": "NI",
+    "coordinates": [
+      12.5061,
+      -86.7022
+    ],
+    "description": {
+      "fr": "Glisse sur planche de contreplaque le long des pentes de cendres du volcan actif Cerro Negro, jusqu a 90 km/h, tenue de bagnard obligatoire.",
+      "en": "Plywood-board rides down the ash flanks of active Cerro Negro volcano, reaching 90 km/h in mandatory convict-style jumpsuits."
+    },
+    "tags": [
+      "nicaragua",
+      "volcan",
+      "adrenaline"
+    ]
+  },
+  {
+    "id": "sp-baseball-havana",
+    "category": "sport",
+    "name": {
+      "fr": "Baseball a La Havane",
+      "en": "Havana baseball"
+    },
+    "region": "La Havane",
+    "country": {
+      "fr": "Cuba",
+      "en": "Cuba"
+    },
+    "countryCode": "CU",
+    "coordinates": [
+      23.1136,
+      -82.3666
+    ],
+    "description": {
+      "fr": "Passion nationale cubaine depuis 1874, matchs improvises rue du Prado et debats de pelote sur l Esquina Caliente du parc Central.",
+      "en": "Cuba's national passion since 1874, sandlot games line the Prado and heated pelota debates rage on the Esquina Caliente in Havana's Central Park."
+    },
+    "tags": [
+      "cuba",
+      "baseball",
+      "national"
+    ]
+  },
+  {
+    "id": "sp-skateboarding-copacabana",
+    "category": "sport",
+    "name": {
+      "fr": "Skateboard a Copacabana",
+      "en": "Copacabana skateboarding"
+    },
+    "region": "Rio de Janeiro",
+    "country": {
+      "fr": "Bresil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -22.9711,
+      -43.1822
+    ],
+    "description": {
+      "fr": "Le bowl de Copacabana et le parc Madureira font de Rio l un des berceaux du street skate, avec des championnes olympiques comme Rayssa Leal.",
+      "en": "Copacabana bowl and Madureira park make Rio a global street-skate cradle, producing Olympic champions like Rayssa Leal."
+    },
+    "tags": [
+      "bresil",
+      "skate",
+      "olympique"
+    ]
+  },
+  {
+    "id": "sp-jiu-jitsu-rio",
+    "category": "sport",
+    "name": {
+      "fr": "Jiu-jitsu bresilien",
+      "en": "Brazilian jiu-jitsu"
+    },
+    "region": "Rio de Janeiro",
+    "country": {
+      "fr": "Bresil",
+      "en": "Brazil"
+    },
+    "countryCode": "BR",
+    "coordinates": [
+      -22.9068,
+      -43.1729
+    ],
+    "description": {
+      "fr": "Grappling en kimono developpe par la famille Gracie dans les annees 1920 a Rio, arme secrete du MMA moderne apres UFC 1.",
+      "en": "Kimono-clad grappling developed by the Gracie family in 1920s Rio, the secret weapon of modern MMA since UFC 1."
+    },
+    "tags": [
+      "bresil",
+      "grappling",
+      "gracie"
+    ]
+  },
+  {
+    "id": "sp-laamb-dakar",
+    "category": "sport",
+    "name": {
+      "fr": "Lutte senegalaise (laamb)",
+      "en": "Senegalese wrestling laamb"
+    },
+    "region": "Dakar",
+    "country": {
+      "fr": "Senegal",
+      "en": "Senegal"
+    },
+    "countryCode": "SN",
+    "coordinates": [
+      14.7167,
+      -17.4677
+    ],
+    "description": {
+      "fr": "Sport-roi du Senegal, lutte avec frappe torse nu ou l objectif est de faire chuter l adversaire, precede des rituels bakk et danses de sabar.",
+      "en": "Senegal's king sport, bare-chested wrestling with strikes where the goal is to floor the opponent, preceded by bakk rituals and sabar dances."
+    },
+    "tags": [
+      "senegal",
+      "lutte",
+      "sabar"
+    ]
+  },
+  {
+    "id": "sp-nuba-wrestling-kordofan",
+    "category": "sport",
+    "name": {
+      "fr": "Lutte nuba",
+      "en": "Nuba wrestling"
+    },
+    "region": "Monts Nuba, Kordofan Sud",
+    "country": {
+      "fr": "Soudan",
+      "en": "Sudan"
+    },
+    "countryCode": "SD",
+    "coordinates": [
+      11.5,
+      30.75
+    ],
+    "description": {
+      "fr": "Lutte traditionnelle des peuples Nuba, corps enduits de cendre et amulettes, immortalisee par les cliches de Leni Riefenstahl.",
+      "en": "Traditional wrestling of the Nuba peoples, bodies coated in ash and amulets, immortalized by Leni Riefenstahl's photographs."
+    },
+    "tags": [
+      "soudan",
+      "lutte",
+      "rituel"
+    ]
+  },
+  {
+    "id": "sp-dambe-kano",
+    "category": "sport",
+    "name": {
+      "fr": "Dambe (boxe haoussa)",
+      "en": "Dambe Hausa boxing"
+    },
+    "region": "Kano",
+    "country": {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+    },
+    "countryCode": "NG",
+    "coordinates": [
+      12.0022,
+      8.592
+    ],
+    "description": {
+      "fr": "Boxe traditionnelle des jeunes bouchers haoussa, un seul poing bande de corde, pieds nus, trois rounds jusqu au KO dans la poussiere.",
+      "en": "Traditional boxing of young Hausa butchers, one rope-bound fist, bare feet and three rounds until knock-down in the dust ring."
+    },
+    "tags": [
+      "nigeria",
+      "boxe",
+      "haoussa"
+    ]
+  },
+  {
+    "id": "sp-nguni-stick-fighting-zululand",
+    "category": "sport",
+    "name": {
+      "fr": "Combat au baton nguni",
+      "en": "Nguni stick fighting"
+    },
+    "region": "Ulundi, KwaZulu-Natal",
+    "country": {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+    },
+    "countryCode": "ZA",
+    "coordinates": [
+      -28.3327,
+      31.4183
+    ],
+    "description": {
+      "fr": "Duels des jeunes hommes zoulous armes de deux batons, l un offensif, l autre defensif, rite de passage que Nelson Mandela a pratique.",
+      "en": "Duels among young Zulu men wielding two sticks, one offensive and one defensive, a rite of passage practiced by the young Nelson Mandela."
+    },
+    "tags": [
+      "zoulou",
+      "baton",
+      "rite"
+    ]
+  },
+  {
+    "id": "sp-lewa-marathon-kenya",
+    "category": "sport",
+    "name": {
+      "fr": "Marathon de Lewa",
+      "en": "Lewa Marathon"
+    },
+    "region": "Reserve de Lewa, Meru",
+    "country": {
+      "fr": "Kenya",
+      "en": "Kenya"
+    },
+    "countryCode": "KE",
+    "coordinates": [
+      0.2004,
+      37.4127
+    ],
+    "description": {
+      "fr": "Marathon annuel au coeur d une reserve peuplee de rhinos et lions du plateau Laikipia, escorte par des rangers pour la conservation.",
+      "en": "Yearly marathon staged inside a rhino and lion reserve on the Laikipia plateau, escorted by rangers to fund conservation."
+    },
+    "tags": [
+      "kenya",
+      "marathon",
+      "safari"
+    ]
+  },
+  {
+    "id": "sp-aussie-rules-melbourne",
+    "category": "sport",
+    "name": {
+      "fr": "Football australien",
+      "en": "Australian rules football"
+    },
+    "region": "Melbourne, Victoria",
+    "country": {
+      "fr": "Australie",
+      "en": "Australia"
+    },
+    "countryCode": "AU",
+    "coordinates": [
+      -37.82,
+      144.9834
+    ],
+    "description": {
+      "fr": "Le footy, sport national australien codifie en 1859 a Melbourne, ballon ovale sur terrain ovale au Melbourne Cricket Ground pour 100 000 fans.",
+      "en": "The footy, Australia's national sport codified in Melbourne in 1859, an oval ball on an oval field with 100000 fans packing the MCG."
+    },
+    "tags": [
+      "australie",
+      "afl",
+      "mcg"
+    ]
+  },
+  {
+    "id": "sp-netball-auckland",
+    "category": "sport",
+    "name": {
+      "fr": "Netball",
+      "en": "Netball"
+    },
+    "region": "Auckland",
+    "country": {
+      "fr": "Nouvelle-Zelande",
+      "en": "New Zealand"
+    },
+    "countryCode": "NZ",
+    "coordinates": [
+      -36.8485,
+      174.7633
+    ],
+    "description": {
+      "fr": "Sport-roi feminin en Nouvelle-Zelande, les Silver Ferns tiennent le podium mondial depuis les annees 1960, arenes combles a Auckland.",
+      "en": "Women's flagship sport in New Zealand, the Silver Ferns have topped the world rankings since the 1960s, filling Auckland arenas."
+    },
+    "tags": [
+      "nouvelle-zelande",
+      "silver-ferns",
+      "feminin"
+    ]
+  }
+]

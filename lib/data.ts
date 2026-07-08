@@ -7,6 +7,8 @@ import dishes2 from "@/data/dishes2.json";
 import sports from "@/data/sports.json";
 import animals from "@/data/animals.json";
 import plants from "@/data/plants.json";
+import foodSportExtra from "@/data/food_sport_extra.json";
+import natureExtra from "@/data/nature_extra.json";
 
 export const ALL_POINTS: AtlasPoint[] = [
   ...(monuments as AtlasPoint[]),
@@ -17,6 +19,8 @@ export const ALL_POINTS: AtlasPoint[] = [
   ...(sports as AtlasPoint[]),
   ...(animals as AtlasPoint[]),
   ...(plants as AtlasPoint[]),
+  ...(foodSportExtra as AtlasPoint[]),
+  ...(natureExtra as AtlasPoint[]),
 ];
 
 export function countByCategory(points: AtlasPoint[]) {
